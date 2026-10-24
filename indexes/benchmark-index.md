@@ -4,1196 +4,1196 @@ Operational benchmarks, target ratios, percentages, and metrics extracted from v
 
 ## Customers
 
-- **[Should Restaurants Get Their Own App?](../knowledge/customers/branded-mobile-apps-retention.md)** (Serial 005)
+- **[Should Restaurants Get Their Own App?](../knowledge/owner-short-form/customers/branded-mobile-apps-retention.md)** (Serial 005)
   - Over 85% of consumers report preferring to order from mobile apps rather than websites or phone calls.
-- **[How This Restaurant Increased Sales By $7,000 (With Their Own App)](../knowledge/customers/branded-app-regular-frequency.md)** (Serial 006)
+- **[How This Restaurant Increased Sales By $7,000 (With Their Own App)](../knowledge/owner-short-form/customers/branded-app-regular-frequency.md)** (Serial 006)
   - Over $7,000 per month in additional sales generated in less than 2 months.
   - Order frequency of regulars more than doubled (>100% increase).
   - Repeat order rate of first-time guests ordering through the app increased by over 50%.
-- **[How restaurant owners are fighting back against bad Yelp reviews](../knowledge/customers/post-order-feedback-loop.md)** (Serial 023)
+- **[How restaurant owners are fighting back against bad Yelp reviews](../knowledge/owner-short-form/customers/post-order-feedback-loop.md)** (Serial 023)
   - 70% of potential guests check online customer reviews before deciding to try a restaurant (data from GrowthHub).
-- **[How this marketing strategy can get you to do something without even realizing it](../knowledge/customers/reciprocity-in-restaurant-gifting.md)** (Serial 037)
+- **[How this marketing strategy can get you to do something without even realizing it](../knowledge/owner-short-form/customers/reciprocity-in-restaurant-gifting.md)** (Serial 037)
   - Unsolicited gift increased subsequent compliance/purchase rate by more than double (>100% increase).
-- **[The Secret Formula Behind Restaurant Loyalty](../knowledge/customers/repeat-visit-loyalty-curve.md)** (Serial 047)
+- **[The Secret Formula Behind Restaurant Loyalty](../knowledge/owner-short-form/customers/repeat-visit-loyalty-curve.md)** (Serial 047)
   - Likelihood to return after 1st flawless experience: 40%.
   - Likelihood to return after 2nd flawless experience: 42%.
   - Likelihood to return after 3rd flawless experience: 70% (customer-for-life inflection point).
-- **[How To Make Your Restaurant Stand Out](../knowledge/customers/how-to-make-your-restaurant-stand-out.md)** (Serial 055)
+- **[How To Make Your Restaurant Stand Out](../knowledge/owner-short-form/customers/how-to-make-your-restaurant-stand-out.md)** (Serial 055)
   - According to studies 70% of people placing online orders reference online reviews to make their buying decisions so it's important to put those on your website otherwise what happens is people go to Yelp and they use that for their review reference and we all know how unfair and ridiculous people can be on Yelp do you really want that being how people make buying decisions for your restaurant the crazy Kens riffing off on Yelp what I've seen work best is featuring a lot of the reviews on your homepage using a slider and putting dish specific reviews through throughout your experience so that people never have to leave the website to go check Yelp after they find your restaurant.
-- **[How To Increase Online Restaurant Orders](../knowledge/customers/how-to-increase-online-restaurant-orders.md)** (Serial 060)
+- **[How To Increase Online Restaurant Orders](../knowledge/owner-short-form/customers/how-to-increase-online-restaurant-orders.md)** (Serial 060)
   - According to a study by HubSpot, 70% of people surveyed said that page speed could make or break whether they order online.
   - Not only that, but for every 1 second that a website takes to load, the study found that it produces 5% fewer people converting into customers.
   - That means if your website takes even just 3 seconds to load, you're losing 15% of new customers.
-- **[The Psychology Behind Restaurant Reviews](../knowledge/customers/the-psychology-behind-restaurant-reviews.md)** (Serial 066)
+- **[The Psychology Behind Restaurant Reviews](../knowledge/owner-short-form/customers/the-psychology-behind-restaurant-reviews.md)** (Serial 066)
   - Because when you've designed the website around the buyer psychology it ends up leading to higher conversions and more people actually ordering food from you first people ask themselves is this restaurant's food good and reliable and can I actually trust this restaurant is it popular that's where online reviews come in according to studies 70% of people placing online orders reference online reviews to make their buying decisions so it's important to put those on your website.
-- **[Avoid This Mistake Restaurant Owners Make](../knowledge/customers/avoid-this-mistake-restaurant-owners-make.md)** (Serial 073)
+- **[Avoid This Mistake Restaurant Owners Make](../knowledge/owner-short-form/customers/avoid-this-mistake-restaurant-owners-make.md)** (Serial 073)
   - 100w review on Yell could destroy thousands of dollars in value for your business it's no longer about what customers say about your business it's also about how you respond many different times that I've seen yel restaurant pages that have gotten negative reviews and sometimes unfair negative reviews and as a restaurant owner that can be frustrating but responding and giving them SAS back is a mistake anecdotally I've seen that when restaurant owners respond with very kind apologetic notes even in cases where totally the customer's fault over 50% of those customers are then willing to remove the review or increase the star rating because they appreciate that the restaurant owner cares about their feedback.
-- **[How To Make Social Media ROI Positive For Restaurants](../knowledge/customers/how-to-make-social-media-roi-positive-for-res.md)** (Serial 083)
+- **[How To Make Social Media ROI Positive For Restaurants](../knowledge/owner-short-form/customers/how-to-make-social-media-roi-positive-for-res.md)** (Serial 083)
   - There is one way to make social media Roi positive it's something that all of the big restaurant corporations do but only the most Savvy independent operators do which is retargeting based on the customer Journey even if you're converting 20% what happens to the other 80% of people that were in your area and visited your website and maybe went through the online ordering experience but for whatever reason didn't place the order people get distracted what's so powerful about retargeting is it enables you on Facebook and Instagram using the Facebook ad platform to Target people that have already visited your web site and more than that you can Target people that have built up a cart of items but didn't complete the checkout cart abandonment retargeting the reason it's cheap to do is the way the Facebook ad pricing model Works they bill you per thousand Impressions it might just be 50 of them a month but 50 extra orders a month ends up adding up when you consider the average online order for example $50 it's $2,500 in extra revenue for that audience which will cost less than $100.
-- **[Why Your First-Time Customers Aren't Coming Back](../knowledge/customers/why-your-first-time-customers-arent-coming-ba.md)** (Serial 104)
+- **[Why Your First-Time Customers Aren't Coming Back](../knowledge/owner-short-form/customers/why-your-first-time-customers-arent-coming-ba.md)** (Serial 104)
   - Own your restaurant's customers for life if somebody comes to your restaurant for the first time and has a Flawless experience the likelihood that they join for a second time is only 40% if they come for the second time and have a Flawless experience the odds only go up to 42% but that third time if you can deliver a Flawless experience their likelihood to return and become a customer for Life jumps up to 70% and it only increases from there so how you action this is you ensure that you flag when customers are brand new to your restaurant go Above and Beyond in rolling out the red carpet to ensure that new customers have an amazing experience and so that you can graduate them into being regulars and then customers for life.
-- **[Are Robot Servers the Future of Dining?](../knowledge/customers/are-robot-servers-the-future-of-dining.md)** (Serial 105)
+- **[Are Robot Servers the Future of Dining?](../knowledge/owner-short-form/customers/are-robot-servers-the-future-of-dining.md)** (Serial 105)
   - Millions of people thought this was a real robot serving food in a restaurant but in reality it's a real human performing robot-like moves to entertain customers while serving their meals however robots in restaurants are more common than you think with many people thinking robot waiters are the solution to the industry's labor shortages with the National Restaurant Association showing that 62% of restaurants don't have enough staff these robot workers cost around $25,000 each and have an average labor cost Savings of $60,000 over 3 years providing an Roi of 80% and robots like servy by Bare robotics have already been deployed in over 5,000 restaurants across the US so should restaurants hire more robots than humans.
-- **[Mastering SEO for Restaurants for FREE](../knowledge/customers/mastering-seo-for-restaurants-for-free.md)** (Serial 131)
+- **[Mastering SEO for Restaurants for FREE](../knowledge/owner-short-form/customers/mastering-seo-for-restaurants-for-free.md)** (Serial 131)
   - Owner.com it automatically finds your top menu keywords analyes your competitors and guides you on mastering SEO then you can use owner.com AI page builder to create landing pages for every single menu item so you can show up at the top of Google every time and beat 99% of your competitors.
-- **[The Surprising Truth About Restaurant Pricing Nobody Tells You](../knowledge/customers/the-surprising-truth-about-restaurant-pricing.md)** (Serial 134)
+- **[The Surprising Truth About Restaurant Pricing Nobody Tells You](../knowledge/owner-short-form/customers/the-surprising-truth-about-restaurant-pricing.md)** (Serial 134)
   - Ghost Kitchen Concepts have a lower perceived value in the minds of guests it's why they're willing to pay more for independent locally run restaurants it involves eating with their eyes the dining room they see and the staff they get to know all of these different parts of the experience end up developing that guest's perceived value of a given brand there was a very interesting study that was done on how consumers rate different wine tastes they switched the wine from the $100 Bottle Into the $1 bottle and the $1 Bottle Into the $100 bottle so that the guests were getting a totally different wine experience than what was actually in the bottle all of the customers that got the $100 bottle of wine with the $1 wine inside of it rate of that wine is significantly better higher quality and the same logic applies to developing your guest's perception in your dining room when you are a ghost kitchen you lose that branding benefit to developing your customer's perception of your brand.
-- **[The Hidden Psychology Behind Menu Prices](../knowledge/customers/the-hidden-psychology-behind-menu-prices.md)** (Serial 135)
+- **[The Hidden Psychology Behind Menu Prices](../knowledge/owner-short-form/customers/the-hidden-psychology-behind-menu-prices.md)** (Serial 135)
   - One effective strategy that you'll notice a lot of the most premium restaurants are using these days is they dro the dollar sign and just put the number at the end of the description instead of listing $12 Paloma cocktail you could write our signature Paloma cocktail crafted with eradura Blanco tequila compari fresh squeeze grapefruit and lime juices balanced with the splash of sparkling water and housemade agave nectar 12 notice how the price is just a number at the end 12 this technique helps customers focus on the quality of the experience rather than just fixating on its cost research shows that a strange as this sounds having just 12 rather than dollar sign 12 increases customers willingness to spend.
-- **[ONE Simple Trick to Increase Restaurant Sales by 30%](../knowledge/customers/one-simple-trick-to-increase-restaurant-sales.md)** (Serial 140)
+- **[ONE Simple Trick to Increase Restaurant Sales by 30%](../knowledge/owner-short-form/customers/one-simple-trick-to-increase-restaurant-sales.md)** (Serial 140)
   - Research shows that people read menus in a z-shape they start at the top left then move to the top right then diagonally down to the bottom left and finally across to the bottom right knowing this we can identify the prime real estate on our menu those are the spots where customers eyes naturally go they're ideal for placing your high-profit menu items but it's not just about where you place items on the menu visual cues play a crucial role as well boxes bold text and photos greatly impact customer choice in fact the key is that you just feature one item per page to increase the sales by as much as 30%.
-- **[Chick Fil A's Shocking Sunday Strategy Pays Off BIG TIME](../knowledge/customers/chick-fil-as-shocking-sunday-strategy-pays-of.md)** (Serial 144)
+- **[Chick Fil A's Shocking Sunday Strategy Pays Off BIG TIME](../knowledge/owner-short-form/customers/chick-fil-as-shocking-sunday-strategy-pays-of.md)** (Serial 144)
   - Chick-fil-A doubled their sales by closing on Sundays the third most popular day of the week for fast food restaurants doesn't that cost them 15% or more of their sales because Chick-fil-A's founder was a devout Christian like 67% of Americans are he knew that the Loyalty that he'd get from the Christian Community would more than compensate for any loss in sales or profits from that day the results prove that that decision was one of the wisest he could have made because not only does Chick-fil-A not lose out on sales they actually make more in sales than Starbucks sub way and McDonald's combined per location.
-- **[Why Are Ghost Kitchens DOOMED to Fail?](../knowledge/customers/why-are-ghost-kitchens-doomed-to-fail.md)** (Serial 147)
+- **[Why Are Ghost Kitchens DOOMED to Fail?](../knowledge/owner-short-form/customers/why-are-ghost-kitchens-doomed-to-fail.md)** (Serial 147)
   - And what that leads to a massive over-reliance on those delivery apps that are taking a 30% fee on every transaction, wiping out any efficiency gain that comes from not having a front of house.
-- **[Boost Restaurant Sales 50% with This One Simple Trick](../knowledge/customers/boost-restaurant-sales-50-with-this-one-simpl.md)** (Serial 155)
+- **[Boost Restaurant Sales 50% with This One Simple Trick](../knowledge/owner-short-form/customers/boost-restaurant-sales-50-with-this-one-simpl.md)** (Serial 155)
   - Here's the shocking reason why every restaurant needs their own mobile app it's not about the restaurant's benefits it's about the guests benefits because it makes the ordering experience that much better for regulars in two ways first it makes it much easier and faster to reorder from that restaurant because rather than taking multiple minutes to order from the restaurant's website it takes just a few seconds to open that restaurant's app populate your cart with the items that you typically order and Breeze through the checkout process with your saved details not only is it faster and more convenient to order from the restaurant once you've got their app installed but it's actually better value because guests on average are paying 21% more to order from a restaurant on door barits versus when they order directly from them which is why we've seen in our data that having a branded mobile app increases the restaurant ordering frequency among regulars by more than 50% and produces a multiple thousand increase in sales.
-- **[OWN Your Customers for LIFE with This Proven Formula!](../knowledge/customers/own-your-customers-for-life-with-this-proven.md)** (Serial 169)
+- **[OWN Your Customers for LIFE with This Proven Formula!](../knowledge/owner-short-form/customers/own-your-customers-for-life-with-this-proven.md)** (Serial 169)
   - Own your restaurant's customers for life if somebody comes to your restaurant for the first time and has a Flawless experience the likelihood that they join for a second time is only 40% if they come for the second time and have a Flawless experience the odds only go up to 42% but that third time if you can deliver a Flawless experience their likelihood to return and become a customer for Life jumps up to 70% and it only increases from there so how you action this is you ensure that you flag when customers are brand new to your restaurant go Above and Beyond in rolling out the red carpet to ensure that new customers have an amazing experience and so that you can graduate them into being regulars and then customers for life.
-- **[MIND-BLOWING Restaurant Hack That Will Increase Sales](../knowledge/customers/mind-blowing-restaurant-hack-that-will-increa.md)** (Serial 182)
+- **[MIND-BLOWING Restaurant Hack That Will Increase Sales](../knowledge/owner-short-form/customers/mind-blowing-restaurant-hack-that-will-increa.md)** (Serial 182)
   - Panera Bread offered customers unlimited coffee and unlimited soft drinks for $10 a month and it absolutely took off now you might be thinking can't that make them lose huge amounts of money if they just started giving away something that they sell for $3.50 a cup that's literally taking a customer that could be worth $100 a month if they were buying those coffees separately the fascinating thing here is that their numbers show that instead of driving down their average revenue per customer this drives it way up the numbers prove that customers on Panera's subscription visit 10 times more frequently and bring customers one in five times who aren't subscribers and spend 40% more on high ticket items like Entre than non-subscribers this is invoking a really powerful thing in Psychology called reciprocity bias where when somebody feels like they're getting lots of great free stuff and amazing value they end up wanting to reciprocate in this case by spending more money on other things and that ends up driving massive additional revenue for Panera.
-- **[Make Restaurant Ordering RIDICULOUSLY Easy With Mobile Apps](../knowledge/customers/make-restaurant-ordering-ridiculously-easy-wi.md)** (Serial 192)
+- **[Make Restaurant Ordering RIDICULOUSLY Easy With Mobile Apps](../knowledge/owner-short-form/customers/make-restaurant-ordering-ridiculously-easy-wi.md)** (Serial 192)
   - This restaurant owner grew her sales by $25,000 a month by stealing from Starbucks's marketing strategy one of the major reasons Anette was struggling before with no young customers was that her previous online ordering system didn't appeal to them the old way required finding her website then signing in every time then spending 5 minutes building your order and another 3 minutes typing in your card and delivery address or God forbid resetting your password so she built her own branded otavio app using the owner.com platform and when that's app took just 15 seconds to download that app and then kept people signed in with all of their order preferences saved automatically it also featured one-click ordering Apple pay and Google pay live driver tracking and integrated rewards points within 30 days people who downloaded her app ordered more than twice as frequently and had 10% higher check sizes because the app was a constant reminder to anybody anytime they saw it on their home screen.
-- **[Simple Website Changes That Made This Restaurant 5X More Money!](../knowledge/customers/simple-website-changes-that-made-this-restaur.md)** (Serial 196)
+- **[Simple Website Changes That Made This Restaurant 5X More Money!](../knowledge/owner-short-form/customers/simple-website-changes-that-made-this-restaur.md)** (Serial 196)
   - Anette used The Proven website formula that took her website from previously just converting 2% of website visitors into new customers to converting 10% what Anette did is turning the first section into the ultimate sales pitch for her business you want to see quick visuals of the food and the Ambiance Anette made the next section of her website that interactive menu preview showing off her most popular dishes with pictures of them beneath that inet added the explainer section most restaurant websites aren't explaining why customers should order directly from that website instead of the delivery Ops by highlighting advantages like lower fees faster service and rewards points towards free food she's able to save on those 35% in fees and get her customer data for remarketing from that point she ends up showcasing customer reviews if you want a deep understanding of where your website can improve then I recommend just plugging in your restaurant name to greater.
-- **[The Surprising Truth About Restaurant Loyalty Programs Nobody Tells You](../knowledge/customers/surprising-truth-about-restaurant-loyalty.md)** (Serial 202)
+- **[The Surprising Truth About Restaurant Loyalty Programs Nobody Tells You](../knowledge/owner-short-form/customers/surprising-truth-about-restaurant-loyalty.md)** (Serial 202)
   - Here is a little known secret from the restaurant industry that chocolate cake that is listed on the Olive Garden menu for $9 only cost them4 to make.
-- **[How Smart Restaurants Keep Customers Coming Back For More?](../knowledge/customers/smart-restaurants-keep-customers-coming.md)** (Serial 230)
+- **[How Smart Restaurants Keep Customers Coming Back For More?](../knowledge/owner-short-form/customers/smart-restaurants-keep-customers-coming.md)** (Serial 230)
   - 70% of restaurant buying decisions are now made online one of the best ways to increase the value you earn from each customer is by marketing to them after they've placed that first order with you I don't mean spamming your customers every day that looks desperate maybe one of them says hey Adam if you Lov our chicken parm you're also going to love our famous Caesar salad here's the story behind how it was inspired by my mom's recipe you can make personalized recommendations with storytelling.
-- **[The REAL Reason Chick-fil-A Makes $8M Per Location?](../knowledge/customers/real-reason-chick-fil-a-8m-per.md)** (Serial 243)
+- **[The REAL Reason Chick-fil-A Makes $8M Per Location?](../knowledge/owner-short-form/customers/real-reason-chick-fil-a-8m-per.md)** (Serial 243)
   - Chick-fil-A? More like Chick Mule. Chick-fil-A makes $8 million in sales per location, which is double McDonald's. The craziest part is that they're closed on Sundays. How? Their genius loyalty program. Number one, they've built it like a game where they constantly show you visual progress as you reach the next level.
-- **[Why Restaurants Lose 60% of First Time Customers?](../knowledge/customers/restaurants-lose-60-first-time.md)** (Serial 259)
+- **[Why Restaurants Lose 60% of First Time Customers?](../knowledge/owner-short-form/customers/restaurants-lose-60-first-time.md)** (Serial 259)
   - Has a flawless experience, the likelihood that they join for a second time is only 40%. If they come for the second time.
   - Have a flawless experience, the odds only go up to 42%. But that third time, if you can deliver a flawless experience there, their likelihood to return.
   - Become a customer for life jumps up to 70% and it only increases from there. So, how you action this is you ensure that you flag when customers are brand new to your restaurant to ensure that new customers have an amazing experience.
-- **[Why The MOST Profitable Restaurant Loyalty Programs Use Points!](../knowledge/customers/most-profitable-restaurant-loyalty-programs.md)** (Serial 268)
+- **[Why The MOST Profitable Restaurant Loyalty Programs Use Points!](../knowledge/owner-short-form/customers/most-profitable-restaurant-loyalty-programs.md)** (Serial 268)
   - CEO at owner.com. With the system we've built over the past 7 years, you get the proven pointsbased online loyalty system that uses points instead of giving people $10 off of every $100 they spend. You also get the mobile app where guests can track rewards.
-- **[How Restaurants Can Get More Customers for $15!](../knowledge/customers/restaurants-get-customers-15.md)** (Serial 287)
+- **[How Restaurants Can Get More Customers for $15!](../knowledge/owner-short-form/customers/restaurants-get-customers-15.md)** (Serial 287)
   - It turns out a,000 website visitors to stay in front of on Facebook is going to cost less than $15. If you want a real pro tip, the thing I've seen work best is filtering people for two things. The first is average session duration. If you only retarget people that were on your website for more than 30 seconds, you avoid all the people that accidentally clicked through.
-- **[How One Bad Review Can Cost Your Restaurant $700!](../knowledge/customers/one-bad-review-cost-restaurant.md)** (Serial 319)
+- **[How One Bad Review Can Cost Your Restaurant $700!](../knowledge/owner-short-form/customers/one-bad-review-cost-restaurant.md)** (Serial 319)
   - A single negative review on Google or Yelp will cost you $700 in sales from lost customers. But many restaurant owners don't have systems to address problems before they become public complaints. We actually built a whole system to do this at owner.com. After each order, owner.com automatically sends an email to each guest saying, "How was your experience?" If they tap thumbs up, it sends them straight to a Google review form to share their experience. In just one week, the owners of Chicago's Pizza got 25 five-star reviews on Google. But what happens if the customer taps thumbs down? Then it sends them to a private feedback form.
-- **[How This Pizza Shop Gets 20 New Customers Every Month!](../knowledge/customers/pizza-shop-gets-20-new.md)** (Serial 326)
+- **[How This Pizza Shop Gets 20 New Customers Every Month!](../knowledge/owner-short-form/customers/pizza-shop-gets-20-new.md)** (Serial 326)
   - They cost him under $2 each. His redemption rate is over 80%. There's typically 30 new movers into his town each month. So that means that he usually gets around 24 of them redeeming that offer like clockwork. Now, he does have a high food cost to factor in here as well. So let's say it has an average 30% food cost. That's now $13.33 to acquire customers that are worth thousands.
-- **[The Secret Trick Restaurants Use With Desserts](../knowledge/customers/restaurants-use-desserts.md)** (Serial 341)
+- **[The Secret Trick Restaurants Use With Desserts](../knowledge/owner-short-form/customers/restaurants-use-desserts.md)** (Serial 341)
   - Be here is a little known secret from the restaurant industry. That chocolate cake that is listed on the Olive Garden menu for $9 only cost them4 to make. So that's why they've selected it to be eligible as part of the rewards program. And this is what all the smartest restaurants do. They select items that have a low food cost.
-- **[How 20% of Customers Make Restaurants Rich](../knowledge/customers/20-customers-restaurants-rich.md)** (Serial 374)
+- **[How 20% of Customers Make Restaurants Rich](../knowledge/owner-short-form/customers/20-customers-restaurants-rich.md)** (Serial 374)
   - 20% of a restaurant's customers are going to drive more than 80% of that restaurant's profits. Think about how much easier it is to operate Chipotle versus operating something like the Cheesecake Factory. And how many more multinational restaurant brands you see with the Chipotle QSR model versus the Cheesecake Factory model. Because in the Cheesecake Factory model, it is.
-- **[How We Made $70,000 More On Halloween!](../knowledge/customers/we-made-70000-on-halloween.md)** (Serial 380)
+- **[How We Made $70,000 More On Halloween!](../knowledge/owner-short-form/customers/we-made-70000-on-halloween.md)** (Serial 380)
   - Here's how we made $70,000 more last Halloween with these two simple changes. We analyzed past year's numbers.
   - Doubled our kitchen efficiency. Now, you're  leaving thousands on the table if you're not turning those customers that came on Halloween, many of them are new customers, into repeat customers. Every box had a bounceback offer with something like, "Come back in the next week to get free garlic knots with your order." Now, guess what? 10% of all those customers came back  and ordered again. And if you want the same technology that helped us make $70,000 more, comment the word demo  and see if it will work for your.
-- **[This Restaurant Trick Gets 30% More Customers](../knowledge/customers/restaurant-gets-30-customers.md)** (Serial 432)
+- **[This Restaurant Trick Gets 30% More Customers](../knowledge/owner-short-form/customers/restaurant-gets-30-customers.md)** (Serial 432)
   - Window visibility alone can boost your foot traffic by 23%.
-- **[Rich Owner vs Broke Owner: Why Customers Arent Always Right](../knowledge/customers/rich-owner-vs-broke-owner.md)** (Serial 666)
+- **[Rich Owner vs Broke Owner: Why Customers Arent Always Right](../knowledge/owner-short-form/customers/rich-owner-vs-broke-owner.md)** (Serial 666)
   - The difference between a $1M restaurant and a $10M restaurant?
   - I can t afford to lose a $100 guest. If conduct continues, end service safely, record the incident, and decline future service consistently.
-- **[How to upsell without annoying your customers](../knowledge/customers/upsell-without-annoying-customers.md)** (Serial 689)
+- **[How to upsell without annoying your customers](../knowledge/owner-short-form/customers/upsell-without-annoying-customers.md)** (Serial 689)
   - They go great with the pepperoni, $5." Before reading the total, offer one missing category, such as a drink or a side.
   - Tip: ignore pairs that appear in fewer than 1% of orders, and ignore pairings created by combos you already sell.
-- **[Why Are You Paying to Acquire Customers Who Never Come Back?](../knowledge/customers/paying-acquire-customers-who-never.md)** (Serial 709)
+- **[Why Are You Paying to Acquire Customers Who Never Come Back?](../knowledge/owner-short-form/customers/paying-acquire-customers-who-never.md)** (Serial 709)
   - Imagine spending $20 on ads to acquire a customer who spends $50 once.
   - $50/month × 5 years = $3,000 in revenue.
   - At a 20% profit margin, that visit generates $10 in profit.
-- **[How to Calculate What Each Guest Must Spend (Average Minimum Check)? [Explained]](../knowledge/customers/calculate-each-guest-must-spend.md)** (Serial 716)
+- **[How to Calculate What Each Guest Must Spend (Average Minimum Check)? [Explained]](../knowledge/owner-short-form/customers/calculate-each-guest-must-spend.md)** (Serial 716)
   - Add fixed costs + owner-pay goal $120K annual fixed costs + $60K owner pay = $180K.
   - Divide by your contribution margin If 25¢ of every sales dollar remains after variable food, labor, and card costs: $180K ÷ 25% = $720K annual sales needed.
   - Find your target average check 50 seats × 2 turns × 300 days = 30,000 annual guests $720K ÷ 30,000 = $24 per guest.
 
 ## Delivery
 
-- **[Owner.com Review: Jim from Yolked San Jose](../knowledge/delivery/third-party-commission-savings.md)** (Serial 001)
+- **[Owner.com Review: Jim from Yolked San Jose](../knowledge/owner-short-form/delivery/third-party-commission-savings.md)** (Serial 001)
   - Over $20,000 in direct online ordering sales generated in less than 2 months.
   - Approximately $5,000 saved in third-party delivery marketplace commissions over the same under-2-month period (representing roughly ~25% in commission fee savings).
-- **[Are Robots Taking Over Restaurants?](../knowledge/delivery/are-robots-taking-over-restaurants.md)** (Serial 101)
+- **[Are Robots Taking Over Restaurants?](../knowledge/owner-short-form/delivery/are-robots-taking-over-restaurants.md)** (Serial 101)
   - Would you trust a robot to make your food in California Chipotle has introduced ocado a new robot that can cut skin and core avocados in just 26 seconds this could save workers a lot of time freeing them from the usual 50-minute process of hand preparing guacamole meanwhile Chipotle's augmented make line is putting together burrito bowls and salads handling about 65% of Orange County's online orders and chipotle isn't the only one in New York Colonel is already using a robot arm to flip plant-based burger patties plus Shake Shack and Uber Eats are trying out autonomous delivery robots on sidewalks in Los Angeles with plans to expand to 2,000 robots by 2025.
-- **[The Surprising Truth About Ghost Kitchens Nobody Tells You](../knowledge/delivery/the-surprising-truth-about-ghost-kitchens-nob.md)** (Serial 137)
+- **[The Surprising Truth About Ghost Kitchens Nobody Tells You](../knowledge/owner-short-form/delivery/the-surprising-truth-about-ghost-kitchens-nob.md)** (Serial 137)
   - Just a few years ago ghost kitchens were seen as the next big thing in the food service industry but if you fast forward just a few years you'll see that most ghost kitchens failed and cost the investors collectively hundreds of millions of dollars so why exactly did they fail the huge aspect that drove up ghost kitchen costs was the third-party delivery app fees which range from 30% all the way up to more than 40% when you stack on top the promotions that those apps require you to run the front of house labor costs and dining room utilities are going to be less than 30% so when you're trading a less than 30% cost for taking on more than 30% in thirdparty delivery app fees it ends up breaking the efficiency that you gain and reducing the margin profile.
-- **[Why Poke Bowls Are Taking Over Food Delivery in 2025?](../knowledge/delivery/poke-bowls-taking-over-food.md)** (Serial 245)
+- **[Why Poke Bowls Are Taking Over Food Delivery in 2025?](../knowledge/owner-short-form/delivery/poke-bowls-taking-over-food.md)** (Serial 245)
   - , high average order value, usually between $30 to $50. Pokeballs tap into modern demand for healthy premiumpriced meals. And customers are willing to pay extra for customizable options. With these impressive margins and high order values, you can't afford to lose 30% of each sale to the delivery apps. That's where owner.com comes in. Our online ordering system lets you capture those profits directly, giving you the same tech as major chains without the large commission fees.
   - , low cost of goods sold, allowing for high profit margins. Most restaurants spend 28 to 32% of the price of a meal on ingredients. But with Pokéballs, that cost can lower to 20%, meaning more money in your pocket.
 
 ## Finance
 
-- **[Why This Fishy Restaurant Concept Is Booming In 2024](../knowledge/finance/poke-restaurant-unit-economics.md)** (Serial 039)
+- **[Why This Fishy Restaurant Concept Is Booming In 2024](../knowledge/owner-short-form/finance/poke-restaurant-unit-economics.md)** (Serial 039)
   - Average check size: consistently over $40.
   - Operating profit margins: over 20%.
   - Initial opening capital expenditure: under $200,000.
-- **[Copy This Restaurant With INSANE Profit Margins](../knowledge/finance/artisan-ice-cream-unit-economics.md)** (Serial 043)
+- **[Copy This Restaurant With INSANE Profit Margins](../knowledge/owner-short-form/finance/artisan-ice-cream-unit-economics.md)** (Serial 043)
   - Average American consumes roughly 20 lbs of ice cream per year.
   - Over 80% of Americans eat ice cream multiple times per month.
   - Revenue benchmark: over $1,000,000 per year per store (based on Salt & Straw model).
-- **[$1,000,000+ Restaurant Idea With A Small Footprint](../knowledge/finance/health-cafe-unit-economics.md)** (Serial 046)
+- **[$1,000,000+ Restaurant Idea With A Small Footprint](../knowledge/owner-short-form/finance/health-cafe-unit-economics.md)** (Serial 046)
   - Annual revenue: over $1,000,000.
   - Net annual profit: over $300,000 (net margin of ~30%).
   - Average check size range: $27 on the low end to over $50 in affluent areas.
-- **[Why Is Texas Roadhouse So Profitable?](../knowledge/finance/why-is-texas-roadhouse-so-profitable.md)** (Serial 074)
+- **[Why Is Texas Roadhouse So Profitable?](../knowledge/owner-short-form/finance/why-is-texas-roadhouse-so-profitable.md)** (Serial 074)
   - Texas Roadhouse makes almost three times as much money per location than the average Applebees here's why knowing that most steakhouses had avoided small towns they thought to themselves that small towns don't have people that can afford Steakhouse prices so we're going to focus on the cities Kent chose this strategy of focusing on small towns and his Insight was if we just create a steakhouse concept that is at a slightly lower price point that people can get a stake dinner of between $18 and $30 for that this would be the ultimate hit because it would save them the commute into the City and it would give them a price point that they could afford.
-- **[How Losing 10% Profit Made Texas Roadhouse #1](../knowledge/finance/how-losing-10-profit-made-texas-roadhouse-1.md)** (Serial 081)
+- **[How Losing 10% Profit Made Texas Roadhouse #1](../knowledge/owner-short-form/finance/how-losing-10-profit-made-texas-roadhouse-1.md)** (Serial 081)
   - Why giving away 10% of their restaurant's profit actually made this restaurant the most successful restaurant service organization of all time when you look at the numbers for Texas Roadhouse you can see that the stores that succeeded the most were the ones that had the manager that was the most engaged and that ultimately cared the most if you wanted to be a managing partner of a specific location do you have to put down a deposit of $25,000 in order to take over the store and then the way you're compensated is you're given 10% of the restaurant's net profit in addition to a strong base salary when the managing Partners became managing Partners employees saw that they could eventually grow into being owners of their own location if they worked hard enough which then made them care that much more and because their boss's boss cared that much more there was more leadership by example when you look at all of the industry analysts of Texas Road House's success they've determined that this is the single biggest driving Factor.
-- **[Is This The SMARTEST Restaurant Business Model Ever?](../knowledge/finance/is-this-the-smartest-restaurant-business-mode.md)** (Serial 109)
+- **[Is This The SMARTEST Restaurant Business Model Ever?](../knowledge/owner-short-form/finance/is-this-the-smartest-restaurant-business-mode.md)** (Serial 109)
   - The first secret behind Kent's multi-billion dollar success with Texas Roadhouse is giving away 10% of their restaurant's profit he said that if you wanted to be a managing partner of a specific location you have to put down a deposit of $25,000 in order to take over the store and then the way you're compensated is you're given 10% of the restaurant's net profit in addition to a strong base salary Daniel Barton one of their earliest managing Partners said that you treat that money in Texas Roadhouse like it's your own because you're respons for everything whether it's cutting the grass or calling Pest Control to the right type of leader that is the most empowering feeling of all because it feels like they're running their own business within your proven system.
-- **[What's Really Causing Starbucks to Struggle?](../knowledge/finance/whats-really-causing-starbucks-to-struggle.md)** (Serial 122)
+- **[What's Really Causing Starbucks to Struggle?](../knowledge/owner-short-form/finance/whats-really-causing-starbucks-to-struggle.md)** (Serial 122)
   - Tik Tok boycotts are not the reason why Starbucks is struggling in the third quarter it missed Revenue Expectations by $130 million here are the three things gone wrong at Starbucks first stop buying coffee for $5.50 budget conscious consumers are rethinking their choices realizing that spending $9 on a th000 calorie drink isn't the best idea amid today's inflation driven cost of living crisis second Starbucks has transitioned from a cozy sitdown atmosphere to a drive-thru and mobile ordering model while over 70% of sales now come from these channels many consumers prefer visiting fast food Rivals like McDonald's for more affordable coffee options third Starbucks faces stiff competition from other coffee chains which are delivering better value and quicker service.
-- **[Getting into HARVARD is Easier than Becoming a Chick Fil A Franchisee](../knowledge/finance/getting-into-harvard-is-easier-than-becoming.md)** (Serial 152)
+- **[Getting into HARVARD is Easier than Becoming a Chick Fil A Franchisee](../knowledge/owner-short-form/finance/getting-into-harvard-is-easier-than-becoming.md)** (Serial 152)
   - It's harder to get accepted as a Chick-fil-A franchisee than it is to get accepted into Harvard Chick-fil-A has 60,000 franchise applicants a year where only 1% of those end up getting a store at all instead of having the franchisee put up hundreds of thousands of dollars to open the restaurant Chick-fil-A says we'll actually fund it for you you just put up a $10,000 franchise fee and then we'll take care of the real estate construction equipment and everything else that you need to get started and succeed if you want to continue learning how to grow a restaurant profitably you can hit the Subscribe button to be notified every week when I post the latest video on what is working today to grow a restaurant profitably we cover stories like this one in Chick-fil-A's growth but we also talk about how independent restaurants are using unique strategies to maximize their profitability and growth.
-- **[McDonalds REAL ESTATE Empire Rakes in $7.9B Annually!](../knowledge/finance/mcdonalds-real-estate-empire-rakes-in-79b-ann.md)** (Serial 177)
+- **[McDonalds REAL ESTATE Empire Rakes in $7.9B Annually!](../knowledge/owner-short-form/finance/mcdonalds-real-estate-empire-rakes-in-79b-ann.md)** (Serial 177)
   - McDonald's corporation is actually more of a real estate Corporation than it is a Food Corporation today it makes $7.9 billion annually from being a landlord and it makes them significantly more profit because it's a higher margin business they own 70% of the buildings and 45% of the land underneath them making them one of the largest real estate owners in the entire world Ray Croc's famous quote summarizes it all where he said that we are not in the hamburger business we are in the real estate business.
-- **[America's RICHEST Restaurant Owner's SECRET to Success!](../knowledge/finance/americas-richest-restaurant-owners-secret-to.md)** (Serial 185)
+- **[America's RICHEST Restaurant Owner's SECRET to Success!](../knowledge/owner-short-form/finance/americas-richest-restaurant-owners-secret-to.md)** (Serial 185)
   - Tillman's known as the richest restaurant owner in the United States today Tilman bought his first restaurant when he was 23 it was called Bill Seafood Tilman turned that restaurant that he bought at 23 into a massive success some other examples of restaurants that he did this with were landries that he bought for just $30 million and is worth over a billion today or Rainforest Cafe that he acquired for15 million in the 2000 crash and is now worth over 500 million today ultimate Financial move that tman consistently makes is he looks for time that are going to create a depressed asset price for any given restaurant and then buys up these struggling restaurants with potential and implements methodology of operational excellence and turn them around to make them more successful.
-- **[McDonald's Secret Business Model That Made Them RICH!](../knowledge/finance/mcdonalds-secret-business-model-that-made-the.md)** (Serial 194)
+- **[McDonald's Secret Business Model That Made Them RICH!](../knowledge/owner-short-form/finance/mcdonalds-secret-business-model-that-made-the.md)** (Serial 194)
   - McDonald's is actually more of a real estate Corporation than it is a Food Corporation today you're not in the burger business you're in the real estate business it makes $7.9 billion annually from being a landlord which is even more than franchise views and it makes them significantly more profit because it's a higher margin business they own 70% of the buildings that McDonald's are in and 45% of the land underneath them making them one of the largest real estate owners in the entire world Duncan and Chick-fil-A have also copied this model they're not yet at the scale of McDonald's real estate Empire but they are each making billions of dollars from becoming landlords and real estate Moguls in addition to becoming restaurant owners.
-- **[The SHOCKING Truth About Becoming a Chick-fil-A Owner](../knowledge/finance/the-shocking-truth-about-becoming-a-chick-fil.md)** (Serial 197)
+- **[The SHOCKING Truth About Becoming a Chick-fil-A Owner](../knowledge/owner-short-form/finance/the-shocking-truth-about-becoming-a-chick-fil.md)** (Serial 197)
   - It's harder to get accepted as a Chick-fil-A franchisee than it is to get accepted into Harvard Chick-fil-A has 60,000 franchise applicants a year where only 1% of those end up getting a store at all instead of having the franchisee put up hundreds of thousands of dollars to open the restaurant Chick-fil-A says we'll actually fund it for you you just put up a $10,000 franchise fee and then we'll take care of the real estate construction equipment and everything else that you need to get started and succeed if you want to continue learning how to grow a restaurant profitably you can hit the Subscribe button to be notified every week when I post the latest video on what is working today to grow a restaurant profitably we cover stories like this one in Chick-fil-A's growth but we also talk about how independent restaurants are using unique strategies to maximize their profitability and growth.
-- **[The MILLION Dollar Strategy That Made Texas Roadhouse THRIVE](../knowledge/finance/the-million-dollar-strategy-that-made-texas-r.md)** (Serial 198)
+- **[The MILLION Dollar Strategy That Made Texas Roadhouse THRIVE](../knowledge/owner-short-form/finance/the-million-dollar-strategy-that-made-texas-r.md)** (Serial 198)
   - Why giving away 10% of their restaurant's profit actually made this restaurant the most successful restaurant service organization of all time when you look at the numbers for Texas Roadhouse you can see that the stores that succeeded the most were the ones that had the manager that was the most engaged and that ultimately cared the most if you wanted to be a managing partner of a specific location do you have to put down a deposit of $25,000 in order to take over the store and then the way you're compensated is you're given 10% of the restaurant's net profit in addition to a strong base salary when the managing Partners became managing Partners employees saw that they could eventually grow into being owners of their own location if they worked hard enough which then made them care that much more and because their boss's boss cared that much more there was more leadership by example when you look at all of the industry analysts of Texas Road House's success they've determined that this is the single biggest driving Factor.
-- **[The Hidden Money Secret Behind Expensive Steakhouses?](../knowledge/finance/hidden-money-behind-expensive-steakhouses.md)** (Serial 215)
+- **[The Hidden Money Secret Behind Expensive Steakhouses?](../knowledge/owner-short-form/finance/hidden-money-behind-expensive-steakhouses.md)** (Serial 215)
   - Think back to the most successful fancy steak restaurant you've been to the average steak at one of those places is $40 that's going to have a 50% food cost way too high to be very profitable that's why their real money is made almost always on the Y menu it starts from when you sit down at the table you'll notice that they have empty wine glasses for you to begin the association.
   - Order wine when restaurants sell wine by the glass they're typically selling it for five times how much it cost them to buy that $15 average glass of wine cost them $3 to buy wholesale.
-- **[Calculate Your Restaurant Profits Like a PRO in 1 Minute!](../knowledge/finance/calculate-restaurant-profits-like-pro.md)** (Serial 216)
+- **[Calculate Your Restaurant Profits Like a PRO in 1 Minute!](../knowledge/owner-short-form/finance/calculate-restaurant-profits-like-pro.md)** (Serial 216)
   - Calculate a restaurant's profit margin in just 60 seconds first we start with monthly Revenue let's say our poke restaurant gets 1,500 orders a month with an average order value of $20 this brings in $30,000 second we'll calculate monthly cost of good sold most restaurants have a food cost of around 28 to 32% and poke hits the Mark at around 30% so our monthly cogs would be $99,000 to find our profit we subtract our cogs from revenue.
   - $30,000 minus $99,000 giving us $21,000.
   - Usually add up to 40% of Revenue that's $122,000 leaving a net profit of $99,000 finally calculate profit margin with this formula using our numbers $99,000 divided by $30,000 time 100 gives a 30% profit margin to boost profitability.
-- **[Why Poke Bowls Are The Most Profitable Restaurant in 2025?](../knowledge/finance/poke-bowls-most-profitable-restaurant.md)** (Serial 221)
+- **[Why Poke Bowls Are The Most Profitable Restaurant in 2025?](../knowledge/owner-short-form/finance/poke-bowls-most-profitable-restaurant.md)** (Serial 221)
   - You're done. And you can be operating a poke concept in the same footprint as a Subway. One to two employees at the counter preparing the food in a line is all it takes. They get super high average check sizes over $40. The reason is that pokey shops are selling fresh fish, which people have a high willingness to pay for. Even though they're almost always counter concepts, people are often.
-- **[Cava's SECRET to 20% Profit Margins](../knowledge/finance/cavas-20-profit-margins.md)** (Serial 223)
+- **[Cava's SECRET to 20% Profit Margins](../knowledge/owner-short-form/finance/cavas-20-profit-margins.md)** (Serial 223)
   - Cava has been running at over 20% profit margins from the very beginning BR didn't start the usual Way by adding the most popular Mediterranean dishes kebabs.
   - Is about the cheapest ingredient can find the typical restaurant is running at 30% to 40% of every order going to food costs.
   - Cabba gets by just spending 15% of their sales going to food cost this is one of the reasons why.
-- **[McDonalds Makes More Money From FRIES Than Burgers!](../knowledge/finance/mcdonalds-money-fries-than-burgers.md)** (Serial 224)
+- **[McDonalds Makes More Money From FRIES Than Burgers!](../knowledge/owner-short-form/finance/mcdonalds-money-fries-than-burgers.md)** (Serial 224)
   - Their numbers, most of their profit actually comes from fries, soft drinks, and macaffy coffee. They use their burgers to lure people in with great value. Just $5 for a Big Mac. Beef, American cheese, sesame seed bun, it's $2, which is 40% food cost on that dish. It means they just make $3 in gross profit for that Big Mac. When they add fries to the order, it might just be an extra $2.50 in sales. But those fries, they're literally potatoes, vegetable oil, and salt. That means they carry a food cost of just 25 or 10%. That leaves $2.25 in gross profit for the fries they sell with that burger. Which means that their profit just doubled just by adding the fries.
-- **[Why Closing on Sundays Made Chick-fil-A More Money Than Ever?](../knowledge/finance/closing-on-sundays-made-chick-fil-a.md)** (Serial 258)
+- **[Why Closing on Sundays Made Chick-fil-A More Money Than Ever?](../knowledge/owner-short-form/finance/closing-on-sundays-made-chick-fil-a.md)** (Serial 258)
   - Chick-fil-A doubled their sales by closing on Sundays, the second most popular day for fast food restaurants. Doesn't that cost them 15% or more of their sales? Chick-fil-A's founder was a devout Christian, like 67% of Americans are. And he realized that if he could demonstrate through his actions that he cared deeply about observing Sundays.
-- **[The Secret Behind America’s Richest Restaurant Boss!](../knowledge/finance/behind-americas-richest-restaurant-boss.md)** (Serial 262)
+- **[The Secret Behind America’s Richest Restaurant Boss!](../knowledge/owner-short-form/finance/behind-americas-richest-restaurant-boss.md)** (Serial 262)
   - Tilman's known as the richest restaurant owner in the United States today. Tilman bought his first restaurant when he was 23. It was called Bill Seafood. Tilman turned that restaurant that he bought at 23 into a massive success. Some other examples of restaurants that he did this with were Landre's that he bought for just $30 million.
   - Is worth over a billion today or Rainforest Cafe that he acquired for $125 million in the 2000 crash.
-- **[The SHOCKING Reason Texas Roadhouse Loses 10% Profit](../knowledge/finance/shocking-reason-texas-roadhouse-loses.md)** (Serial 269)
+- **[The SHOCKING Reason Texas Roadhouse Loses 10% Profit](../knowledge/owner-short-form/finance/shocking-reason-texas-roadhouse-loses.md)** (Serial 269)
   - He said that if you wanted to be a managing partner of a specific location, you have to put down a deposit of $25,000 in order to take over the store. And then the way you're compensated is you're given 10% of the restaurant's net profit in addition to a strong base salary. They gave them complete ownership.
   - Why giving away 10% of their restaurant's profit actually made Texas Roadhouse the most successful restaurant service organization of all time. Kent banned this idea of manager.
-- **[The Secret Behind The RICHEST Restaurant Owner](../knowledge/finance/behind-richest-restaurant-owner.md)** (Serial 276)
+- **[The Secret Behind The RICHEST Restaurant Owner](../knowledge/owner-short-form/finance/behind-richest-restaurant-owner.md)** (Serial 276)
   - Turn them around to make the Moric successful. Some other examples of restaurants that he did this with were Landre, that he bought for just $30 million.
   - Is worth over a billion today, or Rainforest Cafe that he acquired for $125 million in the 2000 crash.
-- **[The Math Behind INCREASING Restaurant Profits](../knowledge/finance/math-behind-increasing-restaurant-profits.md)** (Serial 277)
+- **[The Math Behind INCREASING Restaurant Profits](../knowledge/owner-short-form/finance/math-behind-increasing-restaurant-profits.md)** (Serial 277)
   - , your prime cost. Your food cost plus your labor cost. If your prime cost is over 60%, it doesn't matter what your sales at, you are not running profitably.
-- **[Why Your Restaurant Isn’t Making Money Even With More Sales!](../knowledge/finance/restaurant-isnt-money-even-sales.md)** (Serial 283)
+- **[Why Your Restaurant Isn’t Making Money Even With More Sales!](../knowledge/owner-short-form/finance/restaurant-isnt-money-even-sales.md)** (Serial 283)
   - 10 restaurants later, I wish I knew this before signing that lease. One of our restaurants has had 20% sales growth month after month for 2 years, but it still is not generating over $1,000 a month in profits. You know why? High rent. Your rent is a fixed cost. You can't control it. And in order to have a 10% profit margin, you need your rent to be between 8 to 10% of your sales. So, that means if your rent is $10,000, your sales for the month need to be a minimum of $125,000 a month. So, hopefully you'll have 8 to 10% profits. Hard work does not fix bad math.
-- **[What Restaurants Can Learn from McDonald's Secret Profit Makers](../knowledge/finance/restaurants-learn-mcdonalds-profit-makers.md)** (Serial 286)
+- **[What Restaurants Can Learn from McDonald's Secret Profit Makers](../knowledge/owner-short-form/finance/restaurants-learn-mcdonalds-profit-makers.md)** (Serial 286)
   - Their numbers, most of their profit actually comes from fries, soft drinks, and McFlurry ice cream on a per unit level. Their Big Mac might sell for $5, but with a food cost of about $2, they're only making $3 in gross profit from that Big Mac. But when they sell $2.50 worth of fries with a food cost of just 25, that's $2.25 25 cents an in additional profit on their fries.
-- **[The Secret Trick Restaurants Use To Boost Profits!](../knowledge/finance/restaurants-use-boost-profits.md)** (Serial 291)
+- **[The Secret Trick Restaurants Use To Boost Profits!](../knowledge/owner-short-form/finance/restaurants-use-boost-profits.md)** (Serial 291)
   - A well-designed menu can increase sales of specific items up to 30%. The key there is you spotlight the stars that have the highest popularity.
   - If you sell more of the plow horses, you'll actually sell your way into less profits. And that brings us to the last category, the duds, the lowprofit unpopular items. Those in 95% of cases should just be removed entirely.
-- **[Why McDonald's Makes Billions Without Selling Food!](../knowledge/finance/mcdonalds-billions-without-selling-food.md)** (Serial 300)
+- **[Why McDonald's Makes Billions Without Selling Food!](../knowledge/owner-short-form/finance/mcdonalds-billions-without-selling-food.md)** (Serial 300)
   - McDonald's is actually more of a real estate corporation than it is a food corporation today. You're not in the burger business. You're in the real estate business. It makes $7.9 billion annually from being a landlord, which is even more than the 8.7 billion they make in franchise fees. And it makes them significantly more profit.
   - It's a higher margin business. They own 70% of the buildings that McDonald's are.
   - 45% of the land underneath them, making them one of the largest real estate owners in the entire world. Duncan.
-- **[How Did This Greek Restaurant Make Billions?](../knowledge/finance/greek-restaurant-billions.md)** (Serial 305)
+- **[How Did This Greek Restaurant Make Billions?](../knowledge/owner-short-form/finance/greek-restaurant-billions.md)** (Serial 305)
   - [Applause] This Greek restaurant IPOed at $4 billion. How did Brett fund the growth to 297 locations? Brett followed a genius two-step process where he first focused on mastering that first location. He got it to running at more than 25% net profit margins, which is three times as profitable as the typical single location restaurant. Then he went to investors.
   - He said, "We're making $400,000 in profit for this restaurant that cost us less than $1.6 $6 million to open, meaning we get a 25% annual rate of return on our investment after we get paid back on the opening costs. And that is twice as efficient as the stock market. And then of course he said eventually we'll IPO.
-- **[How Chick-fil-A Makes More Money By Closing On Sundays!](../knowledge/finance/chick-fil-a-money-by-closing-on.md)** (Serial 307)
+- **[How Chick-fil-A Makes More Money By Closing On Sundays!](../knowledge/owner-short-form/finance/chick-fil-a-money-by-closing-on.md)** (Serial 307)
   - Chick-fil-A doubled their sales by closing on Sundays. The third most popular day of the week for fast food restaurants. Doesn't that cost them 15% or more of their sales? The key here is that it not only doesn't cost them sales, it more than doubles their sales with the long-term game they're playing. Because Chick-fil-A's founder was a devout Christian, like 67% of Americans are. And he realized that if he could demonstrate through his actions that he cared deeply about observing Sundays.
-- **[Boost Restaurant Sales on Slow Days With This Easy Trick!](../knowledge/finance/boost-restaurant-sales-on-slow.md)** (Serial 321)
+- **[Boost Restaurant Sales on Slow Days With This Easy Trick!](../knowledge/owner-short-form/finance/boost-restaurant-sales-on-slow.md)** (Serial 321)
   - 65% of all catering orders are corporate.
-- **[What Every Restaurant Owner Can Learn from Costco!](../knowledge/finance/restaurant-owner-learn-costco.md)** (Serial 328)
+- **[What Every Restaurant Owner Can Learn from Costco!](../knowledge/owner-short-form/finance/restaurant-owner-learn-costco.md)** (Serial 328)
   - It's the same exact price. The moral of what he was trying to say is before you pass that cost on to your customer, better fight like hell to make sure that you're fighting the people who are taking money from you as opposed to the ones that are giving you money. 100% agree. And I see restaurant owners screw this up all the time.
-- **[The Secret Trick McDonald's Uses to Make Billions!](../knowledge/finance/mcdonalds-uses-billions.md)** (Serial 330)
+- **[The Secret Trick McDonald's Uses to Make Billions!](../knowledge/owner-short-form/finance/mcdonalds-uses-billions.md)** (Serial 330)
   - Would you like fries with that? >> That is upselling. One study estimated that that one strategy in McDonald's alone drives a revenue increase of $25 billion in sales. But you can't just tell your staff to upsell.
   - Aren't on board with what they think will just make the owner richer. Which is why what Steven, the owner of Planta did, was brilliant, where he offered a $500 Amazon gift card to the server that made the most money in upselling his high margin dishes every month. And if you want to take it a step further, systems like owner.com have now built in upselling with AI. The technology learns over time.
-- **[What Makes Top Restaurants So Profitable?](../knowledge/finance/top-restaurants-so-profitable.md)** (Serial 336)
+- **[What Makes Top Restaurants So Profitable?](../knowledge/owner-short-form/finance/top-restaurants-so-profitable.md)** (Serial 336)
   - The average restaurant owner makes around $45,000 in profits per year. Yet, the top 10% are bringing over $260,000 in. Why is there such a massive difference? Starting with secret.
-- **[Want to Grow Your Restaurant Empire? Here's the Secret to Organic Expansion](../knowledge/finance/want-grow-restaurant-empire-heres.md)** (Serial 350)
+- **[Want to Grow Your Restaurant Empire? Here's the Secret to Organic Expansion](../knowledge/owner-short-form/finance/want-grow-restaurant-empire-heres.md)** (Serial 350)
   - Manga, the owner of Matanga's Pizzeria in San Antonio, who's grown from just four locations to eight locations in the 3 years that I've known her. Let's say her average, 1500T unit is doing about $2 million a year in topline.
   - Averaging about 15%  net margins. That would mean that she's making $300,000 per year in profits for each of those four locations when I met her, or about $1.2 million a year in profits. If her units at 1500 ft cost  about $600,000 to open, that means that with those profits of 1.2 2 million a year that she can open two new locations just reinvesting the profits into more locations every single year. which explains how she's been able to add four more in 3.
-- **[Why Prime Cost Can Save Your Restaurant!](../knowledge/finance/prime-cost-save-restaurant.md)** (Serial 354)
+- **[Why Prime Cost Can Save Your Restaurant!](../knowledge/owner-short-form/finance/prime-cost-save-restaurant.md)** (Serial 354)
   - The best number to watch to keep your costs under control in the restaurant world is called prime cost. Prime cost is a restaurant's food costs plus their labor costs. When you add those together as a percentage of sales, you get the prime cost percentage. In all of the most successful restaurants, prime costs need to stay under 60% and ideally lower than that of total sales to make sure there's at least 40% of gross profit on every order. We need at least 40% of gross profit on every order in order to make the math work.
   - Leave a healthy net profit margin of 10% to 20%. As a general rule, they should charge at least three times more on the menu for the food cost of the dish.
-- **[The Secret Trick to Restaurant Profits!](../knowledge/finance/restaurant-profits.md)** (Serial 355)
+- **[The Secret Trick to Restaurant Profits!](../knowledge/owner-short-form/finance/restaurant-profits.md)** (Serial 355)
   - Restaurants are significantly more likely to fail when they don't have this math working in their favor. For example, the chicken parm is going to cost us around $9 to make. It's going to have a relatively high food cost. So, what do we do? What I've seen work best is making your complimentary dishes to the chicken parm designed to be upsold with it. Because when you can add a super low food cost item like iced tea or calamari or bread sticks to an order, there's no additional labor cost on it. So, it's almost pure profit for the restaurant.
-- **[How Restaurants Make More Money During Holidays](../knowledge/finance/restaurants-money-during-holidays.md)** (Serial 359)
+- **[How Restaurants Make More Money During Holidays](../knowledge/owner-short-form/finance/restaurants-money-during-holidays.md)** (Serial 359)
   - , 75% of all restaurants traffic during holiday season comes from off- premise dining such as catering orders and takeouts. So, start dropping off free samples at every local business. Be the first one they think of for their office parties.
-- **[The Easiest Way To Boost Restaurant Sales Fast](../knowledge/finance/easiest-way-boost-restaurant-sales.md)** (Serial 360)
+- **[The Easiest Way To Boost Restaurant Sales Fast](../knowledge/owner-short-form/finance/easiest-way-boost-restaurant-sales.md)** (Serial 360)
   - My restaurants made an extra $187,000 a year from one simple change. Breadsticks are $6.
   - On average three out of 10 customers say yes to a bread sticks upsell. That's $3,600 more in sales every single week with the same number of customers. Now, the problem is most restaurant owners never train their team to upsell. And here's how exactly you can do it. Pick an item that's cheap, that's fast, it's a no-brainer, profitable. We're going to create a simple script that the team can ask every single customer. It could be for a dining in over the phone for deliveries. Keep track of all the upselles on a whiteboard.
-- **[The #1 Dessert Mistake You're Making That Costs You Sales](../knowledge/finance/1-dessert-mistake-youre-costs.md)** (Serial 369)
+- **[The #1 Dessert Mistake You're Making That Costs You Sales](../knowledge/owner-short-form/finance/1-dessert-mistake-youre-costs.md)** (Serial 369)
   - You're lying awake at 2:00 a.m. staring at the ceiling thinking about that genius menu item that was supposed to save your restaurant. That Korean barbecue pizza or that truffle burger or that Instagram worthy rainbow bagel that you know you thought, you know what, influencers going to line up, they're going to be viral Tik Toks about my restaurant. Then you launched it, your servers keep suggesting it to customers, but customers are like, you know what, I'm going to stick with my usual order today. And you're wondering what happened. Do I even know my customers anymore? I learned this the hard way. Once we wanted to add dessert, so I thought, you know what, let's go with this fancy tiramisu. We can have artisan gelatos that we add to our menu. And instead I was like, you know what, let me ask our customers on social media. Guess what? Many of them, majority, like 85% asked for cheesecake. Cheesecake? That's not sexy. That's just like same old cheesecake. That's right, that same non-trendy New York cheesecake. But guess what, that became our best seller, our best dessert. Why? Because some customers want comfort over creativity. Our customers' wallet votes louder than our ego. Now, ask first, cook second.
-- **[Want to Boost Restaurant Profits? Watch This Now](../knowledge/finance/want-boost-restaurant-profits-watch.md)** (Serial 372)
+- **[Want to Boost Restaurant Profits? Watch This Now](../knowledge/owner-short-form/finance/want-boost-restaurant-profits-watch.md)** (Serial 372)
   - Is that we apply our  current growth rate. So if we're trending say 12% up monthto date in sales, that  means we're expecting an additional $3,061. Now adding those numbers together, this number is the foundation of how we control cost and protect our margins every single.
   - 99% of restaurant owners guess what next week's sales will look like. We own seven restaurants in San Antonio and here's how we forecast our restaurant sales to control our costs. Step.
-- **[The Surprising Truth About McDonald's Profits](../knowledge/finance/surprising-truth-about-mcdonalds-profits.md)** (Serial 373)
+- **[The Surprising Truth About McDonald's Profits](../knowledge/owner-short-form/finance/surprising-truth-about-mcdonalds-profits.md)** (Serial 373)
   - Their numbers, most of their profit actually comes from fries, soft drinks, and macaffy coffee. They use their burgers to lure people in. It's just $5 for a Big Mac. When you calculate the food costs on the Big Mac, though, beef, American cheese, sesame seed bun, it ends up having a high food cost. It's $2, which is 40% food cost on that dish. It means they just make $3 in gross profit for that Big Mac. When they add fries to that order, it might just seem like $2.50 in sales, but those fries are made of the cheapest possible ingredients. That means they carry a food cost of just 25 or 10%. That leaves $2.25 25 cents in gross profit for the fries they sell with that burger.
-- **[How McDonald's Makes Billions With One Simple Trick](../knowledge/finance/mcdonalds-billions-one-simple.md)** (Serial 379)
+- **[How McDonald's Makes Billions With One Simple Trick](../knowledge/owner-short-form/finance/mcdonalds-billions-one-simple.md)** (Serial 379)
   - Would you like fries with that? That is upselling. One study estimated that that one strategy in McDonald's alone drives a revenue increase of $25 billion in sales, but you can't just tell your staff to upsell.
   - Aren't on board with what they think will just make the owner richer, which is why what Steven, the owner of Planta did, was brilliant. Where he offered a $500 Amazon gift card to the server that made the most money in upselling his high margin dishes every month. And if you want to take it a step further, systems like owner.com have now built in upselling with AI. The technology learns over time.
-- **[How Much Do Restaurants REALLY Make?](../knowledge/finance/much-do-restaurants-really.md)** (Serial 381)
+- **[How Much Do Restaurants REALLY Make?](../knowledge/owner-short-form/finance/much-do-restaurants-really.md)** (Serial 381)
   - Here's how much revenue each restaurant concept needs to make to generate $100,000 annually in profits.
   - , fine  dining. You think that fancy steak houses are the most profitable, right? But in reality, they run on laser thin margins, only 3 to 6%. Now, a fine dining restaurant needs to make $2.5 million in annual sales to make $100,000 in profits at a 4% margin.
   - , fast casual dining. Chains like Panera or Shake Shack usually run on 6 to 9% profit margin. They need roughly $1.4 million in sales.
-- **[How I Turned My Failing Pizza Shop Into a Money Maker](../knowledge/finance/i-turned-my-failing-pizza.md)** (Serial 385)
+- **[How I Turned My Failing Pizza Shop Into a Money Maker](../knowledge/owner-short-form/finance/i-turned-my-failing-pizza.md)** (Serial 385)
   - My restaurant was losing $80,000 a year until I figured out this one thing. Turns out 6,600 people googled best pizza in San Antonio every single month. The one that is ranked first will get 27% of all the clicks.
   - Came to your website places an order with you an average of $30 per order. The difference is $6,500 a month. So we got laser focused.
   - The one that is ranked third will get 11%. Now imagine 20% of those who clicked.
-- **[How Much Do Restaurant Owners Really Earn?](../knowledge/finance/much-do-restaurant-owners-really.md)** (Serial 386)
+- **[How Much Do Restaurant Owners Really Earn?](../knowledge/owner-short-form/finance/much-do-restaurant-owners-really.md)** (Serial 386)
   - Most restaurant owners make less money than their servers. Here's the math. You work 9:00 a.m. till 8:00 p.m. every day, around 6 days a week, that's 54 hours a week. Now, if you pay yourself around $6,000 a month, your real hourly rate, considering overtime, is around $22 an hour. And a server at a full service restaurant can make up to $30 an hour on busy nights. So, what's the fix? Step one is to train.
-- **[How To Make More Money At Your Restaurant!](../knowledge/finance/money-at-restaurant.md)** (Serial 389)
+- **[How To Make More Money At Your Restaurant!](../knowledge/owner-short-form/finance/money-at-restaurant.md)** (Serial 389)
   - There are three things you need to know about your prime costs. The first thing is that the ideal food cost is less than 30% of your sales. The ideal labor cost is also less than 30% of your sales. Three, the ideal total prime costs, which is labor plus food, is less than 60% of your sales if you want to make a six-figure income from your restaurant. That's.
   - The other fixed costs are usually 25% to 40% of overall sales. That means that if your prime cost is eating up 80% of your sales, that if you add 25% to 40% on top of that in your fixed expenses between rent.
-- **[No.1 Reason CAVA Is So Profitable](../knowledge/finance/no1-reason-cava-so-profitable.md)** (Serial 390)
+- **[No.1 Reason CAVA Is So Profitable](../knowledge/owner-short-form/finance/no1-reason-cava-so-profitable.md)** (Serial 390)
   - Cava has been running at over 20% profit margins from the very beginning. Brett Schulman made Cava's menu strategically very small. Instead of having dozens of menu items like most new restaurants do, he chose to just focus on a few dishes.
   - It let him unlock bulk buying discounts from his food suppliers faster. The typical restaurant is running at 30% to 40% of every order going to food costs, while Cabba gets by to spending 15% of their sales going to food costs. And believe it or not, guests actually prefer smaller menus. It's.
-- **[The Real Reason Your Restaurant Is Losing Money](../knowledge/finance/real-reason-restaurant-losing-money.md)** (Serial 391)
+- **[The Real Reason Your Restaurant Is Losing Money](../knowledge/owner-short-form/finance/real-reason-restaurant-losing-money.md)** (Serial 391)
   - Customers understand. And if you want to actually increase your profits without hiking prices, check out owner.com. It helps  restaurants keep 100% of their online orders.
-- **[How Restaurants Make Big Money During Holidays](../knowledge/finance/restaurants-big-money-during-holidays.md)** (Serial 396)
+- **[How Restaurants Make Big Money During Holidays](../knowledge/owner-short-form/finance/restaurants-big-money-during-holidays.md)** (Serial 396)
   - , 75% of all restaurants traffic during holiday season comes from off-premise dining, such as catering orders and take outs. So, start dropping off free samples at every local business. Be the first one they think of for their office parties.
-- **[How One Simple Question Boosted My Catering Sales](../knowledge/finance/one-simple-question-boosted-my.md)** (Serial 398)
+- **[How One Simple Question Boosted My Catering Sales](../knowledge/owner-short-form/finance/one-simple-question-boosted-my.md)** (Serial 398)
   - My restaurant made $25,000 a year more in catering orders.
   - My total budget is $100." Sounds fine until you to run the math. What? $2 per person is your budget. You can't even buy a ranch bottle for that. That's the  trap. Everyone asks for the total budget when you should be asking for the per person budget. So instead, guide them.
   - Say, you know, most of our caterings comes around $8 per person. That includes pizza, salad,  and bread sticks, which sounds really reasonable. Now, once they agree to that, 50 people, $8 per person, that's $400. That's $300 more than their total budget initially that they told you. Now, do that 100 times over the year. That's $25,000 or more in sales that you can add to your catering.
-- **[Contribution Margin vs Gross Margin Explained](../knowledge/finance/contribution-margin-vs-gross-margin.md)** (Serial 401)
+- **[Contribution Margin vs Gross Margin Explained](../knowledge/owner-short-form/finance/contribution-margin-vs-gross-margin.md)** (Serial 401)
   - If you sell a $10 pizza with $2 food cost, the contribution margin of this dish is $8.
   - Now, every time you sell a $10 dish, $2 goes for the food cost, $4 for overhead, and you're left with $4.
   - As in each time you sell this $10 pizza, it contributes $8  to the business to cover the rest of the expenses of the business.
-- **[This is how restaurants calculate if they're going broke!](../knowledge/finance/restaurants-calculate-if-theyre-going.md)** (Serial 418)
+- **[This is how restaurants calculate if they're going broke!](../knowledge/owner-short-form/finance/restaurants-calculate-if-theyre-going.md)** (Serial 418)
   - Let's compare two items both priced at $10.
   - Pizza food cost is $3, so the contribution margins is $7.
   - If, for instance, your fixed cost for the week is $10,000, at $7 contribution margin for your pizzas, you're going to need $1,428 pizzas to be sold to cover that fixed cost.
-- **[How To Calculate Contribution Margin](../knowledge/finance/calculate-contribution-margin.md)** (Serial 425)
+- **[How To Calculate Contribution Margin](../knowledge/owner-short-form/finance/calculate-contribution-margin.md)** (Serial 425)
   - Let's compare two items both priced at $10.
   - Pizza food cost is $3, so the contribution margins is $7.
   - If, for instance, your fixed cost for the week is $10,000, at $7 contribution margin for your pizzas, you're going to need $1,428 pizzas to be sold to cover that fixed cost.
-- **[How To Stop Losing Thousands In Restaurant Sales Every MONTH!](../knowledge/finance/losing-thousands-restaurant-sales-month.md)** (Serial 426)
+- **[How To Stop Losing Thousands In Restaurant Sales Every MONTH!](../knowledge/owner-short-form/finance/losing-thousands-restaurant-sales-month.md)** (Serial 426)
   - Here's how to find $2,000 of hidden waste in your kitchen.
   - Now, if you say you prepped 30 lbs of chicken and you only sold $18 worth of chicken, that 12 lb isn't like leftovers or extra.
   - That's $42 a day or it's $1,176 a month in waste.
-- **[Every Restaurant MUST Follow These Prime Cost Rules](../knowledge/finance/restaurant-must-follow-these-prime.md)** (Serial 449)
+- **[Every Restaurant MUST Follow These Prime Cost Rules](../knowledge/owner-short-form/finance/restaurant-must-follow-these-prime.md)** (Serial 449)
   - Rule number one, prime cost must be 60% or less of your sales if you want actual profits.
   - At 60%, you have a shot at a 10% profit margin.
   - Now, at 65%, you're stressed.
-- **[Contribution vs Gross Margin: Know the Difference [Math Example]](../knowledge/finance/contribution-vs-gross-margin-know.md)** (Serial 453)
+- **[Contribution vs Gross Margin: Know the Difference [Math Example]](../knowledge/owner-short-form/finance/contribution-vs-gross-margin-know.md)** (Serial 453)
   - If you sell a $10 pizza with $2 food cost, the contribution margin of this dish is $8.
   - Now, every time you sell a $10 dish, $2 goes for the food cost, $4 for overhead, and you're left with $4.
   - As  in, each time you sell this $10 pizza, it contributes $8 to the business to cover the  rest of the expenses of the business.
-- **[Most restaurants FAIL because they ignore Prime Cost!](../knowledge/finance/most-restaurants-fail-because-they.md)** (Serial 478)
+- **[Most restaurants FAIL because they ignore Prime Cost!](../knowledge/owner-short-form/finance/most-restaurants-fail-because-they.md)** (Serial 478)
   - If your restaurant does $1 million in sales, you're asking your managers to manage a $600,000 a year budget to control food and labor costs.
   - Rule number one is that prime cost must be less than 60% of your total sales if you want real profits.
   - At 60% you have a shot at 10% profit margin.
-- **[How To Boost Restaurant Sales By 30%](../knowledge/finance/boost-restaurant-sales-by-30.md)** (Serial 482)
+- **[How To Boost Restaurant Sales By 30%](../knowledge/owner-short-form/finance/boost-restaurant-sales-by-30.md)** (Serial 482)
   - A well-designed menu can increase sales of specific items up to 30%.
   - Those in 95% of cases should just be removed entirely.
-- **[How To Calculate Revenue Per Available Seat Hour For Your Restaurant](../knowledge/finance/calculate-revenue-per-available-seat.md)** (Serial 485)
+- **[How To Calculate Revenue Per Available Seat Hour For Your Restaurant](../knowledge/owner-short-form/finance/calculate-revenue-per-available-seat.md)** (Serial 485)
   - Your restaurant makes $4,000 during a 5h hour dinner service.
   - Now that means each seat is generating $10 per hour.
   - Now, your ref pash for casual dining should sit somewhere around $8 to $12.
-- **[How To Reverse Engineer Restaurant Profits](../knowledge/finance/reverse-engineer-restaurant-profits.md)** (Serial 490)
+- **[How To Reverse Engineer Restaurant Profits](../knowledge/owner-short-form/finance/reverse-engineer-restaurant-profits.md)** (Serial 490)
   - Let's say that's $22,000 a month.
   - Now, $22,000 divided by 0.25, that's equals $88,000 per month in sales.
   - It's actually $2,930 per day.
-- **[3 Tips for Profitable Restaurant Catering](../knowledge/finance/3-tips-profitable-restaurant-catering.md)** (Serial 493)
+- **[3 Tips for Profitable Restaurant Catering](../knowledge/owner-short-form/finance/3-tips-profitable-restaurant-catering.md)** (Serial 493)
   - These three catering tweaks can add $40,000 per year without getting a single new customer.
   - If you ask, "Hey, what's your total budget?" They're going to tell you $100 for 15 people.
   - Now, if you ask, "What's their per person budget?" clients may usually say, "Oh, it's $12 per person." Now, for 15 people, this one change alone can bring in $16,640 more per year.
-- **[The No.1 Mistake That Can Destroy Your Restaurant’s Profits](../knowledge/finance/no1-mistake-destroy-restaurants-profits.md)** (Serial 537)
+- **[The No.1 Mistake That Can Destroy Your Restaurant’s Profits](../knowledge/owner-short-form/finance/no1-mistake-destroy-restaurants-profits.md)** (Serial 537)
   - Restaurants with oversized menus typically see food costs rise into the 30–35% range, compared to the 28–30% benchmark for well-optimized operators, because more SKUs equal more inventory, more waste, and more complexity in execution.
   - Industry analysis shows restaurants can lose 2–4% of revenue directly to food waste alone, much of it driven by overextended menus and poor forecasting.
   - Research on menu engineering consistently shows that simplifying menus and optimizing item mix can increase profitability by 10–20% without adding a single new dish.
-- **[The Contribution Margin Problem Most Owners Miss](../knowledge/finance/contribution-margin-problem-most-owners.md)** (Serial 542)
+- **[The Contribution Margin Problem Most Owners Miss](../knowledge/owner-short-form/finance/contribution-margin-problem-most-owners.md)** (Serial 542)
   - Let's compare two items both priced at $10.
   - Pizza food cost is $3, so the contribution margin is $7.
   - If, for instance, your fixed cost for the week is $10,000, at $7 contribution margin for your pizzas, you're going to need 1,428 pizzas to be sold to cover that fixed cost.
-- **[What’s in our $45,000/month miscellaneous cost for running a pizzeria? 🍕](../knowledge/finance/whats-our-45000month-miscellaneous-cost.md)** (Serial 557)
+- **[What’s in our $45,000/month miscellaneous cost for running a pizzeria? 🍕](../knowledge/owner-short-form/finance/whats-our-45000month-miscellaneous-cost.md)** (Serial 557)
   - All the packaging and disposables including our pizza boxes, $10,000 a month.
   - $1,000 a month in lease equipment like the dishwasher and the ice machine.
   - Credit card processing fees, $5,000 a month.
-- **[The Brutal Truth About Restaurant Profit Margins $$$](../knowledge/finance/brutal-truth-about-restaurant-profit.md)** (Serial 571)
+- **[The Brutal Truth About Restaurant Profit Margins $$$](../knowledge/owner-short-form/finance/brutal-truth-about-restaurant-profit.md)** (Serial 571)
   - You think restaurants keep most of your $100 order?
   - Here s the brutal reality: after food, labor, rent, taxes, utilities, repairs, and payroll most restaurants are left with just $3 to $5 in profit.
   - Around $30 goes straight to ingredients ️ Another $30+ goes to staff wages and payroll taxes Another chunk disappears into rent, electricity, insurance, software, repairs, and equipment.
-- **[The $15 Billion Problem Restaurants Wont Talk About](../knowledge/finance/15-billion-problem-restaurants-wont.md)** (Serial 583)
+- **[The $15 Billion Problem Restaurants Wont Talk About](../knowledge/owner-short-form/finance/15-billion-problem-restaurants-wont.md)** (Serial 583)
   - Any dish below $5 contribution margin gets repriced or removed today.
   - A $2 price increase on a dish you sell 40 times a night is $2,400 a month in recovered margin.
   - Step 2: Engineer your upsells A $4 add-on can flip an entire table from unprofitable to profitable.
-- **[3 Restaurant Concepts With the Highest Margins in 2026](../knowledge/finance/3-restaurant-concepts-highest-margins.md)** (Serial 585)
+- **[3 Restaurant Concepts With the Highest Margins in 2026](../knowledge/owner-short-form/finance/3-restaurant-concepts-highest-margins.md)** (Serial 585)
   - A strawberry matcha or signature iced tea costs under $1 to make and sells for $7 to $9.
-- **[The simple 2-step trick to double restaurant sales](../knowledge/finance/simple-2-step-double-restaurant-sales.md)** (Serial 599)
+- **[The simple 2-step trick to double restaurant sales](../knowledge/owner-short-form/finance/simple-2-step-double-restaurant-sales.md)** (Serial 599)
   - A list of 7,000 subscribers with a 30% open rate and a 2% redemption rate can generate over $1,400 from a single email.
   - Send two emails a week and suddenly you re looking at more than $10,000 per month in repeat business.
-- **[This one formula saved us from losing $12K on catering last year](../knowledge/finance/one-formula-saved-us-losing.md)** (Serial 625)
+- **[This one formula saved us from losing $12K on catering last year](../knowledge/owner-short-form/finance/one-formula-saved-us-losing.md)** (Serial 625)
   - You calculate $360 in food cost, add 15% margin, and quote around $414.
   - Do the math: wrong way gets you $414.
   - You just lost $424 in profit.
-- **[How to Price Catering So You Actually Make Money (Exact Formula)](../knowledge/finance/price-catering-so-actually-money.md)** (Serial 634)
+- **[How to Price Catering So You Actually Make Money (Exact Formula)](../knowledge/owner-short-form/finance/price-catering-so-actually-money.md)** (Serial 634)
   - The average catering order is ~10x a takeout order, so getting this right is worth thousands per month.
-- **[3 Least Profitable Restaurant Concepts 2026](../knowledge/finance/3-least-profitable-restaurant-concepts.md)** (Serial 646)
+- **[3 Least Profitable Restaurant Concepts 2026](../knowledge/owner-short-form/finance/3-least-profitable-restaurant-concepts.md)** (Serial 646)
   - Premium ingredients, chefs you cannot cut, and net margins under 3% leave almost no room for a bad month.
-- **[The $20 Fro-Yo Cup: Why Cutting Back Doesnt Mean Cutting Out](../knowledge/finance/20-fro-yo-cup-cutting-back.md)** (Serial 649)
+- **[The $20 Fro-Yo Cup: Why Cutting Back Doesnt Mean Cutting Out](../knowledge/owner-short-form/finance/20-fro-yo-cup-cutting-back.md)** (Serial 649)
   - A 2026 report found 62% of Americans still indulge in small, affordable treats at least once a month, with 52% capping the spend at $25 or less.
   - Price it $3-5 above your normal ticket 3.
   - Back in 2001, Estée Lauder's chairman noticed lipstick sales rose 11% right as the economy slid into recession.
-- **[The Restaurant Profitability Formula: 30-30-30-10 Rule](../knowledge/finance/restaurant-profitability-formula-30-30-30-10-rule.md)** (Serial 654)
+- **[The Restaurant Profitability Formula: 30-30-30-10 Rule](../knowledge/owner-short-form/finance/restaurant-profitability-formula-30-30-30-10-rule.md)** (Serial 654)
   - A restaurant can lose $23,400 a year from being just 3% off budget.
   - Take a restaurant doing $15,000 a week.
   - A 3% variance is just $450.
-- **[How to Calculate Contribution Margin and Break-Even Point](../knowledge/finance/calculate-contribution-margin-break-even-point.md)** (Serial 664)
+- **[How to Calculate Contribution Margin and Break-Even Point](../knowledge/owner-short-form/finance/calculate-contribution-margin-break-even-point.md)** (Serial 664)
   - This guide walks you through the math required to determine if you need to sell 1,428 pizzas or 2,500 orders of wings to pay your monthly rent of $10,000.
-- **[The difference between Year 0 and Year 12 of owning a restaurant?](../knowledge/finance/difference-between-year-0-year.md)** (Serial 672)
+- **[The difference between Year 0 and Year 12 of owning a restaurant?](../knowledge/owner-short-form/finance/difference-between-year-0-year.md)** (Serial 672)
   - "We sell a $28 pasta dish that only costs $4.
   - The margins are insane!" After rent, payroll tax, insurance, processing fees, and the walk-in cooler that just died you keep maybe 8 cents of that $28.
-- **[The Hidden Trap in 30-Day Credit for Restaurants](../knowledge/finance/hidden-trap-30-day-credit-restaurants.md)** (Serial 691)
+- **[The Hidden Trap in 30-Day Credit for Restaurants](../knowledge/owner-short-form/finance/hidden-trap-30-day-credit-restaurants.md)** (Serial 691)
   - $2,400 in 30 days vs.
   - You're effectively paying $168 for 30 days of financing.
   - S a 7.5% cost in just one month.
-- **[Whats the Difference Between Margin and Markup? [Explained]](../knowledge/finance/whats-difference-between-margin-markup.md)** (Serial 693)
+- **[Whats the Difference Between Margin and Markup? [Explained]](../knowledge/owner-short-form/finance/whats-difference-between-margin-markup.md)** (Serial 693)
   - If a pizza costs $4 to make and sells for $16:.
   - Margin: $12 ÷ $16 = 75% Markup: $12 ÷ $4 = 300%.
-- **[3 Restaurant Rules That Quietly Kill Your Profits](../knowledge/finance/3-restaurant-rules-quietly-kill.md)** (Serial 696)
+- **[3 Restaurant Rules That Quietly Kill Your Profits](../knowledge/owner-short-form/finance/3-restaurant-rules-quietly-kill.md)** (Serial 696)
   - Cut prices 10% and you need about 17% more orders just to make the same profit.
-- **[Whats the Difference Between Cash Flow and Income? [Explained]](../knowledge/finance/whats-difference-between-cash-flow.md)** (Serial 702)
+- **[Whats the Difference Between Cash Flow and Income? [Explained]](../knowledge/owner-short-form/finance/whats-difference-between-cash-flow.md)** (Serial 702)
   - A $5,000 catering order can look great on your P&L but if the client pays on Net-30 terms, you may have $0 in the bank today.
-- **[Gross Margin vs Net Margin: The Difference Every Owner Needs to Know](../knowledge/finance/gross-margin-vs-net-margin.md)** (Serial 704)
+- **[Gross Margin vs Net Margin: The Difference Every Owner Needs to Know](../knowledge/owner-short-form/finance/gross-margin-vs-net-margin.md)** (Serial 704)
   - Using a simple $12 calzone example, you'll see how an apparently healthy gross margin can turn into a very small net profit.
   - A restaurant can have a 67% gross margin and still make almost no money.
-- **[Whats the Difference Between Depreciation and Amortization? [Explained]](../knowledge/finance/whats-difference-between-depreciation-amortization.md)** (Serial 717)
+- **[Whats the Difference Between Depreciation and Amortization? [Explained]](../knowledge/owner-short-form/finance/whats-difference-between-depreciation-amortization.md)** (Serial 717)
   - I spent $30,000, so I deduct $30,000 this year. Sometimes.
 
 ## Food-cost
 
-- **[How one successful restaurant figured out how to give away free food profitably](../knowledge/food-cost/loss-leader-high-margin-cross-selling.md)** (Serial 036)
+- **[How one successful restaurant figured out how to give away free food profitably](../knowledge/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md)** (Serial 036)
   - Free medium pizza with unlimited toppings menu price: $17.
   - Food cost percentage on pizza: 30% (actual cost to restaurant: $5.10).
   - Total customer acquisition cost including direct mail: $13.33.
-- **[Why You Should Open THIS Trending Restaurant Concept](../knowledge/food-cost/gourmet-ramen-economics.md)** (Serial 045)
+- **[Why You Should Open THIS Trending Restaurant Concept](../knowledge/owner-short-form/food-cost/gourmet-ramen-economics.md)** (Serial 045)
   - Blended food cost percentage: often under 10% across the board.
-- **[The #1 Most Profitable Restaurant In 2024](../knowledge/food-cost/bubble-tea-cogs-and-margins.md)** (Serial 048)
+- **[The #1 Most Profitable Restaurant In 2024](../knowledge/owner-short-form/food-cost/bubble-tea-cogs-and-margins.md)** (Serial 048)
   - Average Cost of Goods Sold (COGS): just 10% (compared to 30%+ in traditional restaurants).
   - Gross margin per order: roughly 3x higher than standard restaurants on an equivalent sales dollar.
-- **[Chipotle's #1 Restaurant Growth Secret](../knowledge/food-cost/chipotles-1-restaurant-growth-secret.md)** (Serial 057)
+- **[Chipotle's #1 Restaurant Growth Secret](../knowledge/owner-short-form/food-cost/chipotles-1-restaurant-growth-secret.md)** (Serial 057)
   - Scale up by scaling down most restaurants start with over 20 menu items but Chipotle started with just four they knew it would reduce costs and speed up orders the average fast food chain serves around 60 customers an hour but Chipotle blasts past the competition with an internal goal of serving 100 customers per hour think about your menu what less popular dishes could you remove from your menu to cut down on food waste what top selling dishes Define your restaurant and how could you focus even more on NOS.
-- **[This Is The Most Profitable Restaurant Concept](../knowledge/food-cost/this-is-the-most-profitable-restaurant-concep.md)** (Serial 084)
+- **[This Is The Most Profitable Restaurant Concept](../knowledge/owner-short-form/food-cost/this-is-the-most-profitable-restaurant-concep.md)** (Serial 084)
   - The number one most profitable food concept is a rahen noodles concept the benefits start with number one a super low food cost food costs in ramen places will often be under 10% across the board even factoring in the meat that they purchase because it's mostly noodles and seasoning and water that they're selling while they have low food costs they actually have a high average transaction size I typically see average check sizes of $40 or more benefit number three people think of going to ramen places kind of like going to a Japanese restaurant so they have the highest tips the average I see is 15% on takeout orders and like 20% in house.
-- **[Steal This Profit Margin Strategy For Restaurants](../knowledge/food-cost/steal-this-profit-margin-strategy-for-restaur.md)** (Serial 090)
+- **[Steal This Profit Margin Strategy For Restaurants](../knowledge/owner-short-form/food-cost/steal-this-profit-margin-strategy-for-restaur.md)** (Serial 090)
   - Sushi restaurants use this hack to increase their sales by $6 per menu item that other restaurant owners can use too you can either order the sammon roll on the sushi menu for $9 or you can order the fancier named Philadelphia roll for $15 and the only difference between the salmon roll and the Philadelphia roll is cream cheese the name of the dish takes the guest away from thinking about the dish in terms of its ingredients and actually makes it more of an experience that has this fancy branding around the city of Philadelphia by naming your dishes creatively based on the city that they're from or a unique word you're able to increase the perceived value and people don't mind paying more for that which thereby increases your profit margin.
-- **[The Math Behind The Most Successful Restaurants](../knowledge/food-cost/the-math-behind-the-most-successful-restauran.md)** (Serial 097)
+- **[The Math Behind The Most Successful Restaurants](../knowledge/owner-short-form/food-cost/the-math-behind-the-most-successful-restauran.md)** (Serial 097)
   - The one thing the fastest growth restaurants have in common they have really strong math behind their business through having very low food costs and that math enables them to grow much faster and make more on every order than all of their competitors do Cava is the perfect example was that their owner and CEO Brett scholman had a finance background what he did is he started by asking himself what are the most popular Mediterranean dishes that with a food cost of under 10% in most cases that's will led him to a menu of Mediterranean bowls and pea sandwiches by keeping his food across his menu so low he had way higher profitability on every order which then led him to be able to expand at a much faster Pace than usual because he's taking home 20% rather than 3 to 5%.
-- **[Master Food Cost Calculation in 60 Seconds!](../knowledge/food-cost/master-food-cost-calculation-in-60-seconds.md)** (Serial 108)
+- **[Master Food Cost Calculation in 60 Seconds!](../knowledge/owner-short-form/food-cost/master-food-cost-calculation-in-60-seconds.md)** (Serial 108)
   - Let's get into how to calculate food cost so here's the formula purchases divided by sales equals food cost then you multiply that food cost by 100 to get a percentage let's say you purchased $2500 in food this week and sold $10,000 worth of food you would take the $2500 divided by 10,000 which gives you .25 and then you multiply that by 100 to get 25% food cost percentage you might be wondering Adam is there a more accurate way to calculate food costs should I keep an inventory system running and working with thousands of restaurant owners over the years I can say that the answer is no unless you're doing more than $5 million in Revenue per location because that is the point at which it might be worth it to have such a precise inventory system.
-- **[The Shocking Truth About McDonald's Profit](../knowledge/food-cost/the-shocking-truth-about-mcdonalds-profit.md)** (Serial 110)
+- **[The Shocking Truth About McDonald's Profit](../knowledge/owner-short-form/food-cost/the-shocking-truth-about-mcdonalds-profit.md)** (Serial 110)
   - McDonald's seems like a burger restaurant but if you look at their numbers most of their profit actually comes from fries soft drinks and maffy coffee not from Burgers their whole guest experience is secretly designed to get guests to buy those other items while they're buying the burger when you calculate the food costs on the Big Mac though it's $2 which is 40% food cost on that dish it means they just make $3 in gross profit for that Big Mac because they know that even though they won't have much profit on the Big Mac that when people order fries and a soft drink and maybe a dessert those items have crazy profit margins because they have such a low food cost.
-- **[The Pricing Lie That's Killing Independent Restaurants](../knowledge/food-cost/the-pricing-lie-thats-killing-independent-res.md)** (Serial 115)
+- **[The Pricing Lie That's Killing Independent Restaurants](../knowledge/owner-short-form/food-cost/the-pricing-lie-thats-killing-independent-res.md)** (Serial 115)
   - Don't ever try to compete with McDonald or Chipotle or sweet green on their pricing because there's no way to win that contest as an independent restaurant they spend billions of dollars a year in food which means they get the lowest possible price and it would be a race to the bottom to try and match their prices so what I recommend having a 3X pricing strategy on Entre and a few 10x pricing dishes that you can push hard as part of your experience those 10x dishes that have a price 10 times their food cost become crazy ads to your profitability and drop your food cost on average pretty massively.
-- **[The Genius Behind Chick-fil-A's Loyalty Program](../knowledge/food-cost/the-genius-behind-chick-fil-as-loyalty-progra.md)** (Serial 117)
+- **[The Genius Behind Chick-fil-A's Loyalty Program](../knowledge/owner-short-form/food-cost/the-genius-behind-chick-fil-as-loyalty-progra.md)** (Serial 117)
   - Chick-fil-A more like Chick moule Chick-fil-A makes $8 million in sales per location which is Double McDonald's the craziest part is that they're closed on Sundays how their genius loyalty program number one they've built it like a game where they constantly show you visual progress as you reach the next level two they've hacked the math behind the Loyalty program because their rewards only let you redeem low food cost items so it never cost them much money at all to give away free dishes to their guests three they've set up tear go from being silver to gold that make you feel like you're a valued customer the more money you're spending with them.
-- **[Make $200,000 Per Restaurant With This Menu Hack](../knowledge/food-cost/make-200000-per-restaurant-with-this-menu-hac.md)** (Serial 118)
+- **[Make $200,000 Per Restaurant With This Menu Hack](../knowledge/owner-short-form/food-cost/make-200000-per-restaurant-with-this-menu-hac.md)** (Serial 118)
   - What's the secret to making over $200,000 per restaurant unit is spotting the Stars on your menu they're both popular and profitable to spot the Stars you've got to do a financial x-ray in your menu using this tool that I built that you can use for free you just type in your menu item name the food cost of that item the price of that item and how many of them you've sold over the last 30 days with those numbers it can categorize your menu items into four categories the stars are your Superstars these are the dishes you want to keep consistent and promote heavily plow horses are popular but not as profitable you kind of want to think about tweaking the recipe or adjusting portion sizes to hopefully boost profitability puzzles are the opposite they're profitable but not very popular the challenge here is to increase their popularity finally the Duds are the items that are neither profitable nor popular it's best to remove the Duds from your menu altogether.
-- **[The Olive Garden Loyalty Program Hack You Need to Know](../knowledge/food-cost/the-olive-garden-loyalty-program-hack-you-nee.md)** (Serial 119)
+- **[The Olive Garden Loyalty Program Hack You Need to Know](../knowledge/owner-short-form/food-cost/the-olive-garden-loyalty-program-hack-you-nee.md)** (Serial 119)
   - Here is a little known secret from the restaurant industry that chocolate cake that is listed on the Olive Garden menu for $9 only cost them4 to make so that's why they' selected it to be eligible as part of the rewards program and this is what all the smartest restaurants do they select items that have a low food cost so that when they're giving them away to customers they feel like they're getting amazing rewards but it's not completely destroying the profitability of that restaurant all of the studies show that when you give people free rewards as part of a loyalty program they spend more money with the restaurant more likely to refer their friends they're more likely to give a positive review on that restaurant experience and you've made that customer's day because who doesn't love free lava cake.
-- **[Restaurant Owners Are Making THIS Mistake With Pricing!](../knowledge/food-cost/restaurant-owners-are-making-this-mistake-wit.md)** (Serial 120)
+- **[Restaurant Owners Are Making THIS Mistake With Pricing!](../knowledge/owner-short-form/food-cost/restaurant-owners-are-making-this-mistake-wit.md)** (Serial 120)
   - How premium pricing changes how guests think about products and the research was actually done in the wine industry where to determine to see how people reacted to higher prices the researchers bought a $100 bottle of wine and a $2 bottle of wine what happened is when people tasted the $2 wine in the $100 bottle they rated it higher across the board as the $100 wine in the $2 bottle they couldn't actually tell the difference and so they were using the association they had with the higher price as being higher quality in the same way if they're comparing your burger which costs $14 to the $5 Big Mac even if you're using the exact same ingredients most people are going to rate your $14 Burger higher so that's why it's so important to create premium pricing for a premium perception.
-- **[MAXIMIZE Profit Calculating Restaurant Food Costs the Smart Way](../knowledge/food-cost/maximize-profit-calculating-restaurant-food-c.md)** (Serial 124)
+- **[MAXIMIZE Profit Calculating Restaurant Food Costs the Smart Way](../knowledge/owner-short-form/food-cost/maximize-profit-calculating-restaurant-food-c.md)** (Serial 124)
   - For an ice cream example, we need a cone, soft serve mix, and toppings, each costing 50 cents and adding up to $1.50.
   - Suppose it takes an hour to prepare the mix and the staff earns $20 an hour.
   - Since this mix yields 40 servings, the labor cost per serving is $20 divided by 40, which equals 50 cents.
-- **[What's Behind Chipotle's #1 Growth Secret?](../knowledge/food-cost/whats-behind-chipotles-1-growth-secret.md)** (Serial 125)
+- **[What's Behind Chipotle's #1 Growth Secret?](../knowledge/owner-short-form/food-cost/whats-behind-chipotles-1-growth-secret.md)** (Serial 125)
   - Scale up by scaling down most restaurants start with over 20 menu items but Chipotle started with just four they knew it would reduce costs and speed up orders the average fast food chain serves around 60 customers an hour but Chipotle blasts past the competition with an internal goal of serving 100 customers per hour think about your menu what less popular dishes could you remove from your menu to cut down on food waste what top selling dishes Define your restaurant and how could you focus even more on NOS.
-- **[What's the REAL Reason You're Paying More for That Sushi?](../knowledge/food-cost/whats-the-real-reason-youre-paying-more-for-t.md)** (Serial 133)
+- **[What's the REAL Reason You're Paying More for That Sushi?](../knowledge/owner-short-form/food-cost/whats-the-real-reason-youre-paying-more-for-t.md)** (Serial 133)
   - Sushi restaurants use this hack to increase their sales by $6 per menu item that other restaurant owners can use too you can either order the sammon roll on the sushi menu for $9 or you can order the fancier named Philadelphia roll for $15 and the only difference between the salmon roll and the Philadelphia roll is cream cheese the name of the dish takes the guest away from thinking about the dish in terms of its ingredients and actually makes it more of an experience that has this fancy branding around the city of Philadelphia by naming your dishes creatively based on the city that they're from or a unique word you're able to increase the perceived value and people don't mind paying more for that which thereby increases your profit margin.
-- **[Why 75% of Health Cafes Fail in the First Year](../knowledge/food-cost/why-75-of-health-cafes-fail-in-the-first-year.md)** (Serial 139)
+- **[Why 75% of Health Cafes Fail in the First Year](../knowledge/owner-short-form/food-cost/why-75-of-health-cafes-fail-in-the-first-year.md)** (Serial 139)
   - 75% of Health cafes fail in the first year here are the top three reasons first High food cost percentage calculated by the formula cost of goods sold divided by sales price times 100 to stay profitable you need to keep food costs between 15 and 30% second failing the volume game Health cafes thrive on foot traffic so choosing a location in a highdensity area with great public transit and plenty of residential or Office Buildings nearby can bring in the steady volume you need finally focusing on the wrong Market tactic Health Cafe owners often pour energy into their aesthetic Instagram feeds but the real gold mine is search engine visibility 77% of hungry customers search online before visiting so you need strong SEO and a high converting website get a free assessment of your SEO and website at greater.
-- **[Calculate Your Restaurant's Profit Margin FAST and Avoid Costly Mistakes](../knowledge/food-cost/calculate-your-restaurants-profit-margin-fast.md)** (Serial 141)
+- **[Calculate Your Restaurant's Profit Margin FAST and Avoid Costly Mistakes](../knowledge/owner-short-form/food-cost/calculate-your-restaurants-profit-margin-fast.md)** (Serial 141)
   - Let's say our poke restaurant gets 1,500 orders a month with an average order value of $20.
   - This brings in $30,000.
   - Most restaurants have a food cost of around 28 to 32% and poke hits the mark at around 30%.
-- **[What Makes McDonald's So Profitable?](../knowledge/food-cost/what-makes-mcdonalds-so-profitable.md)** (Serial 173)
+- **[What Makes McDonald's So Profitable?](../knowledge/owner-short-form/food-cost/what-makes-mcdonalds-so-profitable.md)** (Serial 173)
   - McDonald's seems like a burger restaurant but if you look at their numbers most of their profit actually comes from fries soft drinks and maffy coffee not from Burgers their whole guest experience is secretly designed to get guests to buy those other items while they're buying the burger when you calculate the food costs on the Big Mac though it's $2 which is 40% food cost on that dish it means they just make $3 in gross profit for that Big Mac because they know that even though they won't have much profit on the Big Mac that when people order fries and a soft drink and maybe a dessert those items have crazy profit margins because they have such a low food cost.
-- **[Calculate Your Restaurant's FOOD COST in Just 60 Seconds!](../knowledge/food-cost/calculate-your-restaurants-food-cost-in-just.md)** (Serial 181)
+- **[Calculate Your Restaurant's FOOD COST in Just 60 Seconds!](../knowledge/owner-short-form/food-cost/calculate-your-restaurants-food-cost-in-just.md)** (Serial 181)
   - Calculate a restaurant's food cost in just 60 seconds first we start with inventory costs which include all the ingredients for an ice cream example we need a cone soft serve mix and toppings each costing 50 and adding up to $1.50 second labor costs suppose it takes an hour to prepare the mix and the staff earns $20 an hour since this mix yields 40 servings the labor cost per serving is $20 divided 40 which equals 50 next let's calculate the cogs adding the inventory and labor cost gives us a $2 per serving if we sell each ice cream for $7 we can determine the food cost percentage by using the formula cogs divided by sales price time 100 in this case it's $2 divided $7 * 100 which comes out to approximately 28.57% remember you need to keep your food cost percentage between 15% and 30% for a healthy profit margin and by knowing your food costs you can confidently promote high-profit items on your website or use owner.com Smart upselling feature to put them in front of hungry paying customers.
-- **[Chick-fil-A's SECRET to Making $8M Per Location](../knowledge/food-cost/chick-fil-as-secret-to-making-8m-per-location.md)** (Serial 187)
+- **[Chick-fil-A's SECRET to Making $8M Per Location](../knowledge/owner-short-form/food-cost/chick-fil-as-secret-to-making-8m-per-location.md)** (Serial 187)
   - Chick-fil-A more like Chick moule Chick-fil-A makes $8 million in sales per location which is Double McDonald's the craziest part is that they're closed on Sundays how their genius loyalty program number one they've built it like a game where they constantly show you visual progress as you reach the next level two they've hacked the math behind the Loyalty program because their rewards only let you redeem low food cost items so it never cost them much money at all to give away free dishes to their guests three they've set up tear go from being silver to gold that make you feel like you're a valued customer the more money you're spending with them.
-- **[Menu Engineering Secrets of Top Earning Restaurants Revealed](../knowledge/food-cost/menu-engineering-secrets-of-top-earning-resta.md)** (Serial 189)
+- **[Menu Engineering Secrets of Top Earning Restaurants Revealed](../knowledge/owner-short-form/food-cost/menu-engineering-secrets-of-top-earning-resta.md)** (Serial 189)
   - What's the secret to making over $200,000 per restaurant unit is spotting the Stars on your menu they're both popular and profitable to spot the Stars you've got to do a financial x-ray in your menu using this tool that I built that you can use for free you just type in your menu item name the food cost of that item the price of that item and how many of them you've sold over the last 30 days with those numbers it can categorize your menu items into four categories the stars are your Superstars these are the dishes you want to keep consistent and promote heavily plow horses are popular but not as profitable you kind of want to think about tweaking the recipe or adjusting portion sizes to hopefully boost profitability puzzles are the opposite they're profitable but not very popular the challenge here is to increase their popularity finally the Duds are the items that are neither profitable nor popular it's best to remove the Duds from your menu altogether.
-- **[The 30-Second Restaurant Food Cost Formula That Actually Works](../knowledge/food-cost/the-30-second-restaurant-food-cost-formula-th.md)** (Serial 191)
+- **[The 30-Second Restaurant Food Cost Formula That Actually Works](../knowledge/owner-short-form/food-cost/the-30-second-restaurant-food-cost-formula-th.md)** (Serial 191)
   - How to calculate food cost here's the formula purchases divided by sales equals food costs then you multiply that food cost by 100 to get a percentage as an example let's say you purchased $2,500 in food this week and sold $10,000 worth of food you would take the 2500 divide it by 10,000 which gives you .25 and then you multiply that by 100 to get 25% food cost percentage you might be wondering Adam is there a more accurate way to calculate food costs should I keep an inventory system running and in working with thousands of restaurant owners over the years I can say that the answer is no unless you're doing more than $5 million in Revenue per location until you have that big operating team and that type of scale the juice is not worth the squeeze.
-- **[Master These Food Cost Rules To Save Your Restaurant Money](../knowledge/food-cost/master-these-food-cost-rules.md)** (Serial 217)
+- **[Master These Food Cost Rules To Save Your Restaurant Money](../knowledge/owner-short-form/food-cost/master-these-food-cost-rules.md)** (Serial 217)
   - Never exceed these food cost rules on appetizers you try to average 10% in food costs.
   - Never have a food cost over 20% on Entre you try to average 25% and never have a food cost above 40% occasionally you might need an entree that has a 40% to 50% food cost like that fancy steak.
   - It should be the exception of your Entre not the rule then on beverages you try to average a 15% food cost you can use beverages you make in-house to keep this super low to achieve those rules as an independent restaurant it almost always requires charging premium prices I recommend having a 3x pricing strategy on Entre.
-- **[Easy Food Cost Trick Every Restaurant Needs!](../knowledge/food-cost/easy-food-cost-restaurant-needs.md)** (Serial 263)
+- **[Easy Food Cost Trick Every Restaurant Needs!](../knowledge/owner-short-form/food-cost/easy-food-cost-restaurant-needs.md)** (Serial 263)
   - How to calculate food cost? Here's the formula. Purchases divided by sales equals food costs. Then you multiply that food cost by 100 to get a percentage. As an example, let's say you purchased $2,500 in food this week.
   - Sold $10,000 worth of food. You would take the 2500 divided by 10,000, which gives you 0.25, and then you multiply that by 100 to get 25% food cost percentage. You might be wondering, is there a more accurate way to calculate food costs? Should I keep an inventory system running? And in working with thousands of restaurant owners over the years, I can say that the answer is no. Unless you're doing more than $5 million in revenue per location. Until you have that big operating team, the juice is not worth the squeeze.
-- **[Restaurant Food Cost Rules You Should Never Break!](../knowledge/food-cost/restaurant-food-cost-rules-should.md)** (Serial 290)
+- **[Restaurant Food Cost Rules You Should Never Break!](../knowledge/owner-short-form/food-cost/restaurant-food-cost-rules-should.md)** (Serial 290)
   - Never exceed these food cost rules. On appetizers, you try to average 10% in food costs.
   - Never have a food cost over 20%. On entre, you try to average 25% and never have a food cost above 40%. Occasionally, you might need an entree that has a 40% to 50% food cost, like that fancy steak, but it should be the exception of your entre, not the rule. Then on beverages, you try to average a 15% food cost. You can use beverages you make inhouse to keep this super low. To achieve those rules as an independent restaurant, it almost always requires charging premium prices. I recommend having a 3x pricing strategy on entre.
-- **[The 60% Rule Every Restaurant Needs!](../knowledge/food-cost/60-rule-restaurant-needs.md)** (Serial 298)
+- **[The 60% Rule Every Restaurant Needs!](../knowledge/owner-short-form/food-cost/60-rule-restaurant-needs.md)** (Serial 298)
   - 60% is the magic number for prime costs for a six-f figureure earning restaurant. They make sure that no more than 60 cents of every dollar goes towards food costs.
   - The other fixed costs are usually 25% to 40% of overall sales. That means that if your prime cost is eating up 80% of your sales, that if you add 25% to 40% on top of that in your fixed expenses between rent.
-- **[The Secret to Restaurant Success Isn’t What You Think!](../knowledge/food-cost/restaurant-success-isnt-think.md)** (Serial 302)
+- **[The Secret to Restaurant Success Isn’t What You Think!](../knowledge/owner-short-form/food-cost/restaurant-success-isnt-think.md)** (Serial 302)
   - A top performing restaurant manager can drive up to $300,000 extra annually in bottom line profits. How? By controlling labor costs, by controlling food costs, driving those upsells every single shift. But some restaurant owners spend more time trying to meet with an influencer.
   - We're quick to throw a $500, $700 at them for 30 secondond video, which there is a time.
-- **[How To Find Food Costs In Just 60 Seconds!](../knowledge/food-cost/find-food-costs-60-seconds.md)** (Serial 304)
+- **[How To Find Food Costs In Just 60 Seconds!](../knowledge/owner-short-form/food-cost/find-food-costs-60-seconds.md)** (Serial 304)
   - Adding up to $1.50. Second, labor costs. Suppose it takes an hour to prepare the mix.
   - The staff earns $20 an hour. Since this mix yields 40 servings, the labor cost per serving is $20 divided by 40, which equals 50. Next, let's calculate the COGS. Adding the inventory.
   - Labor cost gives us a $2 per serving. If we sell each ice cream for $7, we can determine the food cost percentage by using the formula COGS divided by sales price time 100. In this case, it's $2 divided by $7* 100, which comes out to approximately 28.57%. Remember, you need to keep your food cost percentage between 15% and 30% for a healthy profit margin. And by.
-- **[The #1 Food Cost Mistake You're Making Right Now](../knowledge/food-cost/1-food-cost-mistake-youre.md)** (Serial 309)
+- **[The #1 Food Cost Mistake You're Making Right Now](../knowledge/owner-short-form/food-cost/1-food-cost-mistake-youre.md)** (Serial 309)
   - How to calculate food cost? Here's the formula. Purchases divided by sales equals food costs. Then you multiply that food cost by 100 to get a percentage. As an example, let's say you purchased $2,500 in food this week.
   - Sold $10,000 worth of food. You would take the 2500 divided by 10,000, which gives you 0.25, and then you multiply that by 100 to get 25% food cost percentage. You might be wondering, is there a more accurate way to calculate food costs? Should I keep an inventory system running? And in working with thousands of restaurant owners over the years, I can say that the answer is no. Unless you're doing more than $5 million in revenue per location. Until you have that big operating team, the juice is not worth the squeeze.
-- **[How To Find Your Food Cost In Seconds!](../knowledge/food-cost/find-food-cost-seconds.md)** (Serial 340)
+- **[How To Find Your Food Cost In Seconds!](../knowledge/owner-short-form/food-cost/find-food-cost-seconds.md)** (Serial 340)
   - How to calculate food cost? Here's the easy formula. Purchases divided by sales equals food costs. Then you multiply that food cost by 100 to get a percentage. As an example, let's say you purchased $2,500 in food this week.
   - Sold $10,000 worth of food. You would take the 2500 divided by 10,000.
   - You multiply that by 100 to get 25% food cost percentage. Either way, if you would find it helpful to have me take a look at your menu.
-- **[Why Onion Rings Are a Secret Goldmine For Restaurants](../knowledge/food-cost/onion-rings-goldmine-restaurants.md)** (Serial 343)
+- **[Why Onion Rings Are a Secret Goldmine For Restaurants](../knowledge/owner-short-form/food-cost/onion-rings-goldmine-restaurants.md)** (Serial 343)
   - Oil. So, while they're listed on the menu for an average of $8, they cost less than 40 cents to make, which means a 5% food cost or they have more than a 10x profile of profitability from what they cost you to what you can sell them for. So, when you're able to add those onion rings to an order for $8.
   - They cost you 40 to make, you've just pocketed $7.60 60 in pure profitability with no additional labor cost or overhead cost.
   - A great example of a 10x food cost item would be onion rings. Because if you think about the food cost behind onion rings, it's literally onions.
-- **[The #1 Food Cost Rule Every Restaurant Owner Must Know](../knowledge/food-cost/1-food-cost-rule-restaurant.md)** (Serial 344)
+- **[The #1 Food Cost Rule Every Restaurant Owner Must Know](../knowledge/owner-short-form/food-cost/1-food-cost-rule-restaurant.md)** (Serial 344)
   - Never exceed these food cost rules per category type. On appetizers, you try to average 10% in food costs.
   - Never have a food cost over 20%. On entre, you try to average 25% and never have a food cost above 40%. Occasionally, you might need an entree that has a 40% to 50% food cost like that fancy steak, but it should be the exception of your entre, not the rule. Then on beverages, you try to average a 15% food cost. You can use beverages you make inhouse to keep this super low. I recommend having a 3x pricing strategy on entre.
-- **[Why Most Pizzerias Lose $40,625 Every Year](../knowledge/food-cost/most-pizzerias-lose-40625-year.md)** (Serial 357)
+- **[Why Most Pizzerias Lose $40,625 Every Year](../knowledge/owner-short-form/food-cost/most-pizzerias-lose-40625-year.md)** (Serial 357)
   - They throw away $781 in the trash every single week. Let me show you what I mean. Cheese costs average $2.50 per pound. If we over top every single pizza by one extra ounce.
   - We have $5,000 pizzas in a week, that is $781 straight in the trash. Now, do this for a year, that's $40,625 gone straight out of your pocket. And the fix is simple. You get a scale. They sell like $50 scales. Enforce portion control every single shift, every single station.
   - 30% of pizzeras fail in the first year in business.
-- **[Is Your Food Cost EATING into Your Profits?](../knowledge/food-cost/food-cost-eating-profits.md)** (Serial 364)
+- **[Is Your Food Cost EATING into Your Profits?](../knowledge/owner-short-form/food-cost/food-cost-eating-profits.md)** (Serial 364)
   - How to calculate food cost? Here's the formula. Purchases divided by sales equals food costs. Then you multiply that food cost by 100 to get a percentage. As an example, let's say you purchased $2,500 in food this week.
   - Sold $10,000 worth of food. You would take the 2,500 divided by 10,000, which gives you 0.25, and then you multiply that by 100 to get 25% food cost percentage. You might be wondering, is there a more accurate way to calculate food costs? Should I keep an inventory system running? And in working with thousands of restaurant owners over the years, I can say that the answer is no, unless you're doing more than $5 million in revenue per location. Until you have that big operating team, the juice is not worth the squeeze.
-- **[Why Your Food Costs Are Skyrocketing Even When Sales Drop](../knowledge/food-cost/food-costs-skyrocketing-even-when.md)** (Serial 368)
+- **[Why Your Food Costs Are Skyrocketing Even When Sales Drop](../knowledge/owner-short-form/food-cost/food-costs-skyrocketing-even-when.md)** (Serial 368)
   - Stop blaming bad sales for your high food cost. Food cost percentage equals usage divided by sales times 100. The problem is at many restaurants when sales goes down, usage actually does not come down. This is the usage formula. Beginning inventory plus purchases minus ending inventory. So for example, in week one, you made $10,000 in sales.
   - You used or your usage was worth $3,000 that week. That gives you a food cost of 30% which is right on target. Now, week two, sales drops to $8,000 a week, but your team still uses $3,000 in products. That means your food cost now jumped from 30% to 37 1.5%. That is a huge hit to your margin. Now, your inventory levels is heavily affected by accurate count, consistent portion control, and controlling waste.
-- **[Are You Making This Food Cost Mistake?](../knowledge/food-cost/food-cost-mistake.md)** (Serial 370)
+- **[Are You Making This Food Cost Mistake?](../knowledge/owner-short-form/food-cost/food-cost-mistake.md)** (Serial 370)
   - The number one mistake restaurant owners make when calculating their food cost. Food cost percentage equals usage divided by sales times 100. Now, here's where most people mess this up. Usage is actually what you started with. Your beginning inventory plus what you bought all the week minus what you have left over, which is your ending inventory. Your beginning inventory was $2,000 plus purchases of $3,000 minus ending inventory of $1,500.
   - You're left with $3,500. Now, your real food cost is going to be $3,500 divided by $10,000 in sales times 100 or 35% in food cost. We run pizzeras, so this is 6% too high. We own seven profitable restaurants in San Antonio, and we help operators optimize their food cost every single day. Comment below the name of your restaurant.
-- **[How to Calculate Food Cost (Easy Formula)](../knowledge/food-cost/calculate-food-cost-easy-formula.md)** (Serial 382)
+- **[How to Calculate Food Cost (Easy Formula)](../knowledge/owner-short-form/food-cost/calculate-food-cost-easy-formula.md)** (Serial 382)
   - How to calculate food cost? Here's the easy formula. Purchases divided by sales equals food costs. Then you multiply that food cost by 100 to get a percentage. As an example, let's say you purchased $2,500 in food this week.
   - Sold $10,000 worth of food. You would take the 2500 divided by 10,000.
   - You multiply that by 100 to get 25% food cost percentage. Either way, if you would find it helpful to have me take a look at your menu.
-- **[👇The $40,000 Mistake Hiding in Your Kitchen](../knowledge/food-cost/40000-mistake-hiding-kitchen.md)** (Serial 383)
+- **[👇The $40,000 Mistake Hiding in Your Kitchen](../knowledge/owner-short-form/food-cost/40000-mistake-hiding-kitchen.md)** (Serial 383)
   - They throw away $781 in the trash every single week. Let me show you what I mean. Cheese costs average $2.50 per pound. If we over top every single pizza by one extra ounce.
   - We have $5,000 pizzas in a week, that is $781 straight in the trash. Now, do this for a year, that's $40,625 gone straight out of your pocket. And the fix is simple. You get a scale. They sell like $50 scales. Enforce portion control every single shift, every  single station.
   - 30% of pizzeras fail in the first year in business.
-- **[Why $8 Onion Rings Are a Money Machine!](../knowledge/food-cost/8-onion-rings-money-machine.md)** (Serial 397)
+- **[Why $8 Onion Rings Are a Money Machine!](../knowledge/owner-short-form/food-cost/8-onion-rings-money-machine.md)** (Serial 397)
   - Oil. So, while they're listed on the menu for an average of $8, they cost less than 40 cents to make, which means a 5% food  cost or they have more than a 10x profile of profitability from what they cost you to what you  can sell them for. So, when you're able to add those onion rings to an order for $8.
   - They cost you 40 to make, you've just pocketed $7.60 60 in pure profitability with no additional labor cost or overhead cost.
   - A great example of a 10x food cost item would be onion rings. Because if you think about the food cost behind onion rings, it's literally onions.
-- **[Where Restaurants Accidentally Lose $37,700](../knowledge/food-cost/where-restaurants-accidentally-lose-37700.md)** (Serial 406)
+- **[Where Restaurants Accidentally Lose $37,700](../knowledge/owner-short-form/food-cost/where-restaurants-accidentally-lose-37700.md)** (Serial 406)
   - Fix these three leaks and you'll save $37,700 a year.
   - Now, if you purchase $10,000 a week, and 1% is wrong, that's 100 bucks a week or $5,200 a year.
   - At 20 cents per ounce, we're talking about $400 a week or over $20,000 a year gone.
-- **[Stop Losing Money on Wasted Food](../knowledge/food-cost/losing-money-on-wasted-food.md)** (Serial 407)
+- **[Stop Losing Money on Wasted Food](../knowledge/owner-short-form/food-cost/losing-money-on-wasted-food.md)** (Serial 407)
   - How to achieve 28 to 30% food cost.
-- **[How to Calculate Food Cost In 60 Seconds!](../knowledge/food-cost/calculate-food-cost-60-seconds.md)** (Serial 410)
+- **[How to Calculate Food Cost In 60 Seconds!](../knowledge/owner-short-form/food-cost/calculate-food-cost-60-seconds.md)** (Serial 410)
   - Your beginning inventory was $2,000 plus purchases of $3,000 minus ending inventory of $1,500 and you're left with $3,500.
   - Now, your real food cost is going to be $3,500 divided by $10,000 in sales times 100 or 35% in food cost.
   - We run pizzeras, so this is 6% too high.
-- **[The No.1 Reason Why Restaurants Fail](../knowledge/food-cost/no1-reason-restaurants-fail.md)** (Serial 417)
+- **[The No.1 Reason Why Restaurants Fail](../knowledge/owner-short-form/food-cost/no1-reason-restaurants-fail.md)** (Serial 417)
   - For example, the chicken parm is going to cost us around $9 to make.
-- **[Calculate Restaurant Food Costs In 60 Seconds](../knowledge/food-cost/calculate-restaurant-food-costs-60.md)** (Serial 457)
+- **[Calculate Restaurant Food Costs In 60 Seconds](../knowledge/owner-short-form/food-cost/calculate-restaurant-food-costs-60.md)** (Serial 457)
   - For an ice cream example, we need a cone, soft serve mix, and toppings, each costing 50 and adding up to $1.50.
   - Suppose it takes an hour to prepare the mix and the staff earns $20 an hour.
   - Adding the inventory and labor cost gives us a $2 per serving.
-- **[How to Achieve 28-30% Food Cost 🤫](../knowledge/food-cost/achieve-28-30-food-cost.md)** (Serial 459)
+- **[How to Achieve 28-30% Food Cost 🤫](../knowledge/owner-short-form/food-cost/achieve-28-30-food-cost.md)** (Serial 459)
   - How to achieve 28 to 30% food cost.
-- **[The hidden $40,000 problem in every restaurant](../knowledge/food-cost/hidden-40000-problem-restaurant.md)** (Serial 462)
+- **[The hidden $40,000 problem in every restaurant](../knowledge/owner-short-form/food-cost/hidden-40000-problem-restaurant.md)** (Serial 462)
   - 30% of pizzerias fail in the first year in business because they throw away $781 in the trash every single week.
   - Cheese costs average $2.50 per pound.
   - Now, do this for a year, that's $40,625 gone straight out of your pocket.
-- **[Calculate Food Cost In 30 Seconds 🍔🍕](../knowledge/food-cost/calculate-food-cost-30-seconds.md)** (Serial 466)
+- **[Calculate Food Cost In 30 Seconds 🍔🍕](../knowledge/owner-short-form/food-cost/calculate-food-cost-30-seconds.md)** (Serial 466)
   - As an example, let's say you purchased $2,500 in food this week and sold $10,000 worth of food.
   - In working with thousands of restaurant owners over the years, I can say that the answer is no, unless you're doing more than $5 million in revenue per location.
   - You would take the 2,500 divided by 10,000, which gives you 0.25, and then you multiply that by 100 to get 25% food cost percentage.
-- **[Never Exceed These Food Cost Rules 🤯](../knowledge/food-cost/never-exceed-these-food-cost.md)** (Serial 467)
+- **[Never Exceed These Food Cost Rules 🤯](../knowledge/owner-short-form/food-cost/never-exceed-these-food-cost.md)** (Serial 467)
   - On appetizers, you try to average 10% in food costs and never have a food cost over 20%.
   - On entre, you try to average 25% and never have a food cost above 40%.
   - Occasionally, you might need an entree that has a 40% to 50% food cost like that fancy steak, but it should be the exception of your entre, not the rule.
-- **[Should Your Restaurant RAISE Prices?](../knowledge/food-cost/should-restaurant-raise-prices.md)** (Serial 497)
+- **[Should Your Restaurant RAISE Prices?](../knowledge/owner-short-form/food-cost/should-restaurant-raise-prices.md)** (Serial 497)
   - Now, if your food purchases stays above 30% after all of these strong controls that we discussed, it may very well be time for you to increase your prices.
-- **[The Hidden Costs of Running a Restaurant](../knowledge/food-cost/hidden-costs-running-restaurant.md)** (Serial 535)
+- **[The Hidden Costs of Running a Restaurant](../knowledge/owner-short-form/food-cost/hidden-costs-running-restaurant.md)** (Serial 535)
   - Around like $350 a month.
   - >> We always  try to be under 30%.
-- **[How to Calculate Food Cost? (Real Math Example)](../knowledge/food-cost/calculate-food-cost-real-math.md)** (Serial 556)
+- **[How to Calculate Food Cost? (Real Math Example)](../knowledge/owner-short-form/food-cost/calculate-food-cost-real-math.md)** (Serial 556)
   - Your beginning inventory was $2,000 plus purchases of $3,000 minus ending inventory of $1,500, and you're left with $3,500.
   - Now, your real food cost is going to be $3,500 divided by $10,000 in sales times 100 35% in food cost.
   - We run pizzerias, so this is 6% too high.
-- **[Olive Garden's Genius Move During Inflation](../knowledge/food-cost/olive-gardens-genius-move-during.md)** (Serial 559)
+- **[Olive Garden's Genius Move During Inflation](../knowledge/owner-short-form/food-cost/olive-gardens-genius-move-during.md)** (Serial 559)
   - Now, Olive Garden, on the other hand, raised theirs well below, deliberately staying around 20% under what inflation would have justified.
-- **[McDonalds doesnt make money on burgers. They make it on fries.](../knowledge/food-cost/mcdonalds-doesnt-money-on-burgers.md)** (Serial 574)
+- **[McDonalds doesnt make money on burgers. They make it on fries.](../knowledge/owner-short-form/food-cost/mcdonalds-doesnt-money-on-burgers.md)** (Serial 574)
   - A burger runs at roughly 40% food cost.
   - Fries come in at around 10%.
-- **[The Easy Formula to Calculate Pour Cost](../knowledge/food-cost/easy-formula-calculate-pour-cost.md)** (Serial 577)
+- **[The Easy Formula to Calculate Pour Cost](../knowledge/owner-short-form/food-cost/easy-formula-calculate-pour-cost.md)** (Serial 577)
   - Your bartender might be accidentally costing you $20,000 a year.
   - * Liquor: ~14 20% * Beer: ~20 25% * Wine: ~22 28%.
-- **[How Restaurants Calculate Food Cost (Easy Formula)](../knowledge/food-cost/restaurants-calculate-food-cost-easy.md)** (Serial 648)
+- **[How Restaurants Calculate Food Cost (Easy Formula)](../knowledge/owner-short-form/food-cost/restaurants-calculate-food-cost-easy.md)** (Serial 648)
   - For example, if you start with $2,000 in inventory, purchase $3,000, and end with $1,500, your actual usage is $3,500.
   - If you did $10,000 in sales, your food cost is 35%.
-- **[Stop Blaming Bad Sales for Your High Food Cost](../knowledge/food-cost/blaming-bad-sales-high-food.md)** (Serial 653)
+- **[Stop Blaming Bad Sales for Your High Food Cost](../knowledge/owner-short-form/food-cost/blaming-bad-sales-high-food.md)** (Serial 653)
   - $3,000 in usage on $10,000 in sales lands at 30%.
   - Same $3,000 in usage on an $8,000 week lands at 37.5%.
-- **[3 Strategies to Help You Hit 30% Food Cost](../knowledge/food-cost/3-strategies-help-hit-30.md)** (Serial 676)
+- **[3 Strategies to Help You Hit 30% Food Cost](../knowledge/owner-short-form/food-cost/3-strategies-help-hit-30.md)** (Serial 676)
   - How to Get Your Food Cost Down to 25 30%.
-- **[How Much Do We Lose To Waste Per Year?](../knowledge/food-cost/much-do-we-lose-waste.md)** (Serial 682)
+- **[How Much Do We Lose To Waste Per Year?](../knowledge/owner-short-form/food-cost/much-do-we-lose-waste.md)** (Serial 682)
   - Here is how one business lost $52,000 in a single year.
 
 ## Forecasting
 
-- **[How to Forecast Restaurant Sales](../knowledge/forecasting/forecast-restaurant-sales.md)** (Serial 481)
+- **[How to Forecast Restaurant Sales](../knowledge/owner-short-form/forecasting/forecast-restaurant-sales.md)** (Serial 481)
   - If we're trending say 12% up monthto date in sales, that  means we're expecting an additional $3,061.
   - 99% of restaurant owners guess what next week's sales will look like.
 
 ## Kitchen
 
-- **[Your kitchen could make 20% more annually (here's how)](../knowledge/kitchen/kitchen-could-20-annually-heres.md)** (Serial 554)
+- **[Your kitchen could make 20% more annually (here's how)](../knowledge/owner-short-form/kitchen/kitchen-could-20-annually-heres.md)** (Serial 554)
   - Olive Garden's average location does around $5.6 million a year in sales.
   - If even 5% of that is in catering, we're talking about $280,000 a year per location, same kitchen, same rent they're already paying.
   - Number two, they required a minimum of a $100 catering order with 24-hour minimum lead time.
 
 ## Labour
 
-- **[This Fast Food Chain Pays Workers TRIPLE The Minimum Wage!](../knowledge/labour/fast-food-chain-pays-workers.md)** (Serial 218)
+- **[This Fast Food Chain Pays Workers TRIPLE The Minimum Wage!](../knowledge/owner-short-form/labour/fast-food-chain-pays-workers.md)** (Serial 218)
   - The In-N-Out owners pay their employees way more than industry standards with manager salaries starting at $160,000.
   - Moving up Beyond $200,000 when you include all of the performance-based bonuses their starting wages $20 per hour compared to the federal minimum wage of $7.25.
   - McDonald's minimum wage starting at $13 per hour the reason they do this is they've calculated that if they can become the ultimate Talent magnet for restaurant industry Talent they'll have both lower turnover as well as be known for higher quality service the fast food industry for context has annual turnover rates of 150% per year.
-- **[Why Paying 70% Above Minimum Wage Made This Restaurant THRIVE?](../knowledge/labour/paying-70-above-minimum-wage.md)** (Serial 225)
+- **[Why Paying 70% Above Minimum Wage Made This Restaurant THRIVE?](../knowledge/owner-short-form/labour/paying-70-above-minimum-wage.md)** (Serial 225)
   - Minimum wage. It's not a liveable wage. Until most restaurant owners understand that paying more today will yield you much more tomorrow, we don't pay minimum wage. So, we pay on average between 50 to 70% more than minimum wage. This has led to us having an average employee retention of almost a year.
   - 10 months. Our average labor costs for our restaurants is sub 23%. Our employees are appreciated. They are making good money for the position that they are doing. So, if you want to really nail down labor costs.
-- **[Why Does In-N-Out Pay Workers So Much?](../knowledge/labour/does-in-n-out-pay-workers-so.md)** (Serial 278)
+- **[Why Does In-N-Out Pay Workers So Much?](../knowledge/owner-short-form/labour/does-in-n-out-pay-workers-so.md)** (Serial 278)
   - Out doubled their labor cost on purpose. With managers salaries starting at $160,000.
   - Moving up beyond $200,000 when you include all of the performance-based bonuses, their starting wages start at $20 per hour compared to the federal minimum wage of $7.25. So, you may be wondering, how does the math actually play out here if they have double the labor cost of similar restaurants per employee? The fast food industry, for context, has annual turnover rates of 150% per year. But In-N-Out has turnover rates that are much lower at just 20% per year, so that they don't have to replace all of their staff every year. Because ultimately when they take care of their employees, their employees take care of their guests.
-- **[The #1 Reason Restaurant Are LOSING Top Employees](../knowledge/labour/1-reason-restaurant-losing-top.md)** (Serial 293)
+- **[The #1 Reason Restaurant Are LOSING Top Employees](../knowledge/owner-short-form/labour/1-reason-restaurant-losing-top.md)** (Serial 293)
   - If you're losing your best people, you need to hear this. Every quarter, we sit down for a pulse meeting with our top team members. We ask them to rate on a scale of 0 to 10, how happy are they with their schedule, the number of hours they're getting, with their compensation. Yes, we got to go there. Most people don't know how to go from $12 an hour to $14 an hour to 16.
-- **[The Secret Formula To Make Six Figures In Your Restaurant!](../knowledge/labour/formula-six-figures-restaurant.md)** (Serial 306)
+- **[The Secret Formula To Make Six Figures In Your Restaurant!](../knowledge/owner-short-form/labour/formula-six-figures-restaurant.md)** (Serial 306)
   - There are three things you need to know about your prime costs. The first thing is that the ideal food cost is less than 30% of your sales. The ideal labor cost is also less than 30% of your sales. Three, the ideal total prime costs, which is labor plus food, is less than 60% of your sales if you want to make a six-figure income from your restaurant. That's.
   - The other fixed costs are usually 25% to 40% of overall sales. That means that if your prime cost is eating up 80% of your sales, that if you add 25% to 40% on top of that in your fixed expenses between rent.
-- **[How Higher Wages Made This Restaurant a Success!](../knowledge/labour/higher-wages-made-restaurant-success.md)** (Serial 318)
+- **[How Higher Wages Made This Restaurant a Success!](../knowledge/owner-short-form/labour/higher-wages-made-restaurant-success.md)** (Serial 318)
   - Minimum wage. It's not a liveable wage. Until most restaurant owners understand that paying more today will yield you much more tomorrow, we don't pay minimum wage. So, we pay on average between 50 to 70% more than minimum wage. This has led to us having an average employee retention of almost a year.
   - 10 months. Our average labor costs for our restaurants is sub 23%. Our employees are appreciated. They are making good money for the position that they are doing. So, if you want to really nail down labor costs.
-- **[Why Do Employees Pay $25,000 To Run This Restaurant?](../knowledge/labour/do-employees-pay-25000-run.md)** (Serial 394)
+- **[Why Do Employees Pay $25,000 To Run This Restaurant?](../knowledge/owner-short-form/labour/do-employees-pay-25000-run.md)** (Serial 394)
   - The single biggest driving factor of Texas Warehouse's success. You have to put down a deposit of $25,000 in order to take over the store as the managing partner. And then the way you're compensated is you're given 10% of the restaurant's net profit in addition to a strong base salary. That incentive structure ends up having each of his store operators operating as an owner rather than as an employee that doesn't care as much. The first impact was reducing employee turnover not just at the managing partner level.
-- **[Why Making Staff Pay For Food Is Hurting Your Restaurant](../knowledge/labour/staff-pay-food-hurting-restaurant.md)** (Serial 402)
+- **[Why Making Staff Pay For Food Is Hurting Your Restaurant](../knowledge/owner-short-form/labour/staff-pay-food-hurting-restaurant.md)** (Serial 402)
   - If you had 10 people on the shift, each meal costs about $2 in product, that's $20 for a day in staff meals.
-- **[How To Calculate Your Labor Costs (Easy Math)](../knowledge/labour/calculate-labor-costs-easy-math.md)** (Serial 415)
+- **[How To Calculate Your Labor Costs (Easy Math)](../knowledge/owner-short-form/labour/calculate-labor-costs-easy-math.md)** (Serial 415)
   - Imagine you pay your cook $15 an hour.
   - In other words, you're paying $3.75 in labor cost for that one salad.
-- **[This Fast Food Chain Pays Workers DOUBLE the Industry Average](../knowledge/labour/fast-food-chain-pays-workers-416.md)** (Serial 416)
+- **[This Fast Food Chain Pays Workers DOUBLE the Industry Average](../knowledge/owner-short-form/labour/fast-food-chain-pays-workers-416.md)** (Serial 416)
   - With managers salaries starting at $160,000 and moving up beyond $200,000 when you include all of the performance-based bonuses, their starting wages start at $20 per hour compared to the federal minimum wage of $7.25.
   - The fast food industry, for context, has annual turnover rates of 150% per year.
   - In-N-Out has turnover rates that are much lower at just 20% per year, so that they don't have to replace all of their staff every year.
-- **[The 3 Numbers That Actually Matter in Restaurants](../knowledge/labour/3-numbers-actually-matter-restaurants.md)** (Serial 433)
+- **[The 3 Numbers That Actually Matter in Restaurants](../knowledge/owner-short-form/labour/3-numbers-actually-matter-restaurants.md)** (Serial 433)
   - A restaurant may make $5 million a year in gross sales and still be in the red and not profitable.
   - If your prime cost is above 60%, it does not matter what your top line is, the bottom line will be red.
   - Your rent should be around 6 to 10% of your sales max.
-- **[The 60% Rule Most Restaurants Don't Know](../knowledge/labour/60-rule-most-restaurants-know.md)** (Serial 438)
+- **[The 60% Rule Most Restaurants Don't Know](../knowledge/owner-short-form/labour/60-rule-most-restaurants-know.md)** (Serial 438)
   - Food cost plus labor cost should be less than 60%.
   - Food should land somewhere between 25 to 30%.
-- **[Why Most Restaurants Guess Labor Costs](../knowledge/labour/most-restaurants-guess-labor-costs.md)** (Serial 445)
+- **[Why Most Restaurants Guess Labor Costs](../knowledge/owner-short-form/labour/most-restaurants-guess-labor-costs.md)** (Serial 445)
   - Let's say your dinner shift did $1,000 in sales and your labor cost for that shift was $200.
   - Means you produced $5 in sales for every $1 in labor.
   - Is 20% in labor cost, which is healthy for counter service and fast casual.
-- **[The Dangerous Metric Most Restaurants Ignore](../knowledge/labour/dangerous-metric-most-restaurants-ignore.md)** (Serial 498)
+- **[The Dangerous Metric Most Restaurants Ignore](../knowledge/owner-short-form/labour/dangerous-metric-most-restaurants-ignore.md)** (Serial 498)
   - For casual concepts, you want that number to be between $25 to $35 or higher.
   - If your goal is $28 average check and your actual is $25, you just lost 10% of your potential revenue without a single customer complaint or a bad review.
   - Most profitable restaurants stay under 60%.
-- **[How Chipotle Makes SO MUCH Money](../knowledge/labour/chipotle-so-much-money-500.md)** (Serial 500)
+- **[How Chipotle Makes SO MUCH Money](../knowledge/owner-short-form/labour/chipotle-so-much-money-500.md)** (Serial 500)
   - Chipotle employees were bragging to each other about how he was able to achieve 380 burritos made per hour. The typical fast food restaurant was only able to serve less than 50 orders per hour. Those four dishes that Steve designed Chipotle around weren't just any random four dishes. He intentionally made them dishes that had shared ingredients across all of them where he was simultaneously able to have a low food cost, low food wastage, and they simplify operations increasing his efficiency on the labor cost.
-- **[Stop Asking Your Staff to Pay for Food!](../knowledge/labour/asking-staff-pay-food.md)** (Serial 515)
+- **[Stop Asking Your Staff to Pay for Food!](../knowledge/owner-short-form/labour/asking-staff-pay-food.md)** (Serial 515)
   - If you had 10 people on the shift, each meal costs about $2 in product, that's $20 for a day in staff meals.
-- **[Real restaurant owner’s secret to 0% turnover in 2025](../knowledge/labour/real-restaurant-owners-0-turnover.md)** (Serial 517)
+- **[Real restaurant owner’s secret to 0% turnover in 2025](../knowledge/owner-short-form/labour/real-restaurant-owners-0-turnover.md)** (Serial 517)
   - You've basically had 0% turnover for your employees.
-- **[Why Fast Food Giants Can't Match In-N-Out's Pay](../knowledge/labour/fast-food-giants-cant-match.md)** (Serial 522)
+- **[Why Fast Food Giants Can't Match In-N-Out's Pay](../knowledge/owner-short-form/labour/fast-food-giants-cant-match.md)** (Serial 522)
   - In-N-Out doubled their labor cost on purpose with managers' salaries starting at $160,000 and moving up beyond $200,000 when you include all of the performance-based bonuses.
   - Their starting wages start at $20 per hour compared to the federal minimum wage of $7.25.
   - The fast-food industry, for context, has annual turnover rates of 150% per year, but In-N-Out has turnover rates that are much lower at just 20% per year.
-- **[You can do $5M a year and still be LOSING money](../knowledge/labour/do-5m-year-still-be.md)** (Serial 524)
+- **[You can do $5M a year and still be LOSING money](../knowledge/owner-short-form/labour/do-5m-year-still-be.md)** (Serial 524)
   - A restaurant may make $5 million a year in gross sales and still be in the red and not profitable.
   - If your prime cost is above 60%, it does not matter what your top line is, the bottom line will be red.
   - Your rent should be around 6 to 10% of your sales max.
-- **[Restaurants Fail for One Reason — And It Has Nothing to Do With Cooking](../knowledge/labour/restaurants-fail-one-reason-it.md)** (Serial 578)
+- **[Restaurants Fail for One Reason — And It Has Nothing to Do With Cooking](../knowledge/owner-short-form/labour/restaurants-fail-one-reason-it.md)** (Serial 578)
   - A $500K startup needs to bring in $600K to $750K a year before you even start talking about profit.
   - You also need 20% of your revenue sitting in savings at all times.
-- **[Stop Micromanaging Your Staff. Heres Why.](../knowledge/labour/micromanaging-staff-heres.md)** (Serial 611)
+- **[Stop Micromanaging Your Staff. Heres Why.](../knowledge/owner-short-form/labour/micromanaging-staff-heres.md)** (Serial 611)
   - Restaurant turnover is already nearly 80% industry-wide and it costs up to $5,864 to hire and train a single new staff member.
-- **[Rookie vs Smart Restaurant Managers (3 Tips)](../knowledge/labour/rookie-vs-smart-restaurant-managers.md)** (Serial 613)
+- **[Rookie vs Smart Restaurant Managers (3 Tips)](../knowledge/owner-short-form/labour/rookie-vs-smart-restaurant-managers.md)** (Serial 613)
   - Restaurant turnover exceeds 75% annually and costs over $2,300 per employee to replace.
-- **[Are You a Rich Owner or a Broke Owner?](../knowledge/labour/rich-owner-or-broke-owner.md)** (Serial 663)
+- **[Are You a Rich Owner or a Broke Owner?](../knowledge/owner-short-form/labour/rich-owner-or-broke-owner.md)** (Serial 663)
   - The difference between a $1M restaurant and a $10M restaurant?
   - 77% of restaurant operators say retention is a significant challenge.
-- **[Why Moms Build Better Businesses (2 Reasons)](../knowledge/labour/moms-build-better-businesses-2.md)** (Serial 673)
+- **[Why Moms Build Better Businesses (2 Reasons)](../knowledge/owner-short-form/labour/moms-build-better-businesses-2.md)** (Serial 673)
   - Matters more than ever when restaurant turnover runs above 75% a year and replacing one hourly employee costs $2,300 to $7,000.
-- **[How Much Food Should You Keep in Your Restaurant? Stock Turnover & Par Levels Explained](../knowledge/labour/much-food-should-keep-restaurant.md)** (Serial 695)
+- **[How Much Food Should You Keep in Your Restaurant? Stock Turnover & Par Levels Explained](../knowledge/owner-short-form/labour/much-food-should-keep-restaurant.md)** (Serial 695)
   - How to calculate your restaurant's stock turnover Why 4 8 inventory turns per month is a useful benchmark How to calculate average inventory How to set a par level for ingredients How much cheese to keep when you use 20 lbs per day How to calculate exactly how much to order after each delivery Why fresh ingredients should move faster than dry goods.
-- **[Whats the Difference Between Labor Cost and Labor Efficiency Ratio? [Explained]](../knowledge/labour/whats-difference-between-labor-cost.md)** (Serial 713)
+- **[Whats the Difference Between Labor Cost and Labor Efficiency Ratio? [Explained]](../knowledge/owner-short-form/labour/whats-difference-between-labor-cost.md)** (Serial 713)
   - Here's the difference using a pizzeria doing $10,000 in sales:.
   - Labor Cost %: $2,000 labor ÷ $10,000 sales = 20% This tells you how much of your revenue goes towards payroll.
   - Labor Efficiency Ratio (LER): $7,000 gross margin ÷ $2,000 labor = 3.5 For every $1 you spend on labor, you generate $3.50 in gross margin.
 
 ## Marketing
 
-- **[How to use restaurant reviews to increase sales](../knowledge/marketing/homepage-customer-reviews-seo.md)** (Serial 010)
+- **[How to use restaurant reviews to increase sales](../knowledge/owner-short-form/marketing/homepage-customer-reviews-seo.md)** (Serial 010)
   - 70% of potential guests check online customer reviews when deciding on a restaurant.
-- **[How to use your restaurant website to build your email list](../knowledge/marketing/website-vip-club-lead-capture.md)** (Serial 011)
+- **[How to use your restaurant website to build your email list](../knowledge/owner-short-form/marketing/website-vip-club-lead-capture.md)** (Serial 011)
   - 80% of restaurant website visitors do not place an order on their first visit.
-- **[5 things restaurants need to automate their marketing](../knowledge/marketing/automated-marketing-data-collection.md)** (Serial 017)
+- **[5 things restaurants need to automate their marketing](../knowledge/owner-short-form/marketing/automated-marketing-data-collection.md)** (Serial 017)
   - 80% of website visitors bounce without ordering.
-- **[3 things every successful restaurant has on their website](../knowledge/marketing/above-the-fold-homepage-elements.md)** (Serial 020)
+- **[3 things every successful restaurant has on their website](../knowledge/owner-short-form/marketing/above-the-fold-homepage-elements.md)** (Serial 020)
   - 80% of a website visitor's viewing time is spent above the fold before scrolling.
-- **[How one restaurant successfully used this email to drive an extra $2,000 a month](../knowledge/marketing/weekly-specials-email-broadcast.md)** (Serial 024)
+- **[How one restaurant successfully used this email to drive an extra $2,000 a month](../knowledge/owner-short-form/marketing/weekly-specials-email-broadcast.md)** (Serial 024)
   - Minimum of $500 in additional sales generated every week (over $2,000/month in incremental revenue).
-- **[How this restaurant is getting a 1250% return with this marketing strategy](../knowledge/marketing/new-mover-direct-mail-roi.md)** (Serial 028)
+- **[How this restaurant is getting a 1250% return with this marketing strategy](../knowledge/owner-short-form/marketing/new-mover-direct-mail-roi.md)** (Serial 028)
   - $2,700+ per month in additional revenue generated from less than $200 in monthly marketing spend (1,250% marketing ROI).
-- **[This is the perfect time to send direct mail as a restaurant if you want more regular customers](../knowledge/marketing/new-resident-direct-mail-timing.md)** (Serial 033)
+- **[This is the perfect time to send direct mail as a restaurant if you want more regular customers](../knowledge/owner-short-form/marketing/new-resident-direct-mail-timing.md)** (Serial 033)
   - $2,700+ monthly revenue generated on under $200 in monthly spend.
-- **[The 3 things every successful direct mail strategy for restaurants should have](../knowledge/marketing/direct-mail-core-components.md)** (Serial 038)
+- **[The 3 things every successful direct mail strategy for restaurants should have](../knowledge/owner-short-form/marketing/direct-mail-core-components.md)** (Serial 038)
   - $2,700+ monthly revenue generated from under $200 in monthly spend.
-- **[How This Person Opened A Restaurant For Less Than $10,000](../knowledge/marketing/how-this-person-opened-a-restaurant-for-less.md)** (Serial 072)
+- **[How This Person Opened A Restaurant For Less Than $10,000](../knowledge/owner-short-form/marketing/how-this-person-opened-a-restaurant-for-less.md)** (Serial 072)
   - My friend timy shibl who opened her restaurant the dudah diner in Witchita Kansas for less than $10,000 so you're probably wondering how on Earth did she start with less than $10,000 and then go on to do over $10 million she did what's called a distressed asset buy which is taking over a restaurant that had failed in her case it was a Chinese restaurant the owner was desperate to get out because he had personally guaranteed the lease and the restaurant was losing money each month when timmery offered to take it over for $77,500 it seemed like a good way for him to move on and then she converted that failed Chinese restaurant to being the most popular Diner in town.
-- **[How The 80/20 Rule Applies To Restaurant Marketing](../knowledge/marketing/how-the-8020-rule-applies-to-restaurant-marke.md)** (Serial 086)
+- **[How The 80/20 Rule Applies To Restaurant Marketing](../knowledge/owner-short-form/marketing/how-the-8020-rule-applies-to-restaurant-marke.md)** (Serial 086)
   - Conversion on these people is bananas we often see 10 to1 Roi for those Facebook ads a retargeting campaign allows you to Target people that have already visited your existing website and that have already started building an online order but for whatever reason didn't actually complete that online order it's super cheap to do on the Facebook ads platform it ends up being like less than $100 a month to drive dozens of orders from people that would have ordered from the website but didn't get a chance to complete it's the 8020 rule like you know that 20% cuz they're coming to you so you just hit them with all of your ads back exactly.
-- **[The Cheapest Way To Open A Restaurant](../knowledge/marketing/the-cheapest-way-to-open-a-restaurant.md)** (Serial 087)
+- **[The Cheapest Way To Open A Restaurant](../knowledge/owner-short-form/marketing/the-cheapest-way-to-open-a-restaurant.md)** (Serial 087)
   - You can open a restaurant location for less than $10,000 my friend timary shibl opened her restaurant for less than $10,000 she did what's called a distressed asset buy which is taking over a restaurant that had failed and she's since gone on to become one of the most successful restaurant owners in her State doing over $10 million in sales the hardest and most important part of this whole process is finding that perfect asset buy the top website to search for businesses for sale in your city is called Biz buy sell and you go to buy a business top left then you select asset sales under buy a business you type in your city you select restaurant as the industry and that pulls up all of the restaurant assets on the market.
-- **[Why Taco Bell's Breakfast GAMBLE Was a Game Changer](../knowledge/marketing/why-taco-bells-breakfast-gamble-was-a-game-ch.md)** (Serial 113)
+- **[Why Taco Bell's Breakfast GAMBLE Was a Game Changer](../knowledge/owner-short-form/marketing/why-taco-bells-breakfast-gamble-was-a-game-ch.md)** (Serial 113)
   - Taco Bell copied McDonald's and Burger King to enter the breakfast category and it ended up being a game changer for their business model here's why Taco Bell weren't getting as much sales during other times of the day so nickel wanted to break into a new market breakfast he studied McDonald's or Burger King to understand what was working for them and it led him to realize that he could take a lot of those Concepts where you could have quesa Diaz the waffle TCO the am crunch trap breakfast burrito it really worked within the first few months of its launch breakfast sales made up around 7% of Taco Bell's total sales.
-- **[Texas Roadhouse Crushes Applebee's with THIS Simple Strategy!](../knowledge/marketing/texas-roadhouse-crushes-applebees-with-this-s.md)** (Serial 159)
+- **[Texas Roadhouse Crushes Applebee's with THIS Simple Strategy!](../knowledge/owner-short-form/marketing/texas-roadhouse-crushes-applebees-with-this-s.md)** (Serial 159)
   - Texas Roadhouse makes almost three times as much money per location than the average Applebees here's why knowing that most steakhouses had avoided small towns they thought to themselves that small towns don't have people that can afford Steakhouse prices so we're going to focus on the cities Kent chose this strategy of focusing on small towns and his Insight was if we just create a steakhouse concept that is at a slightly lower price point that people can get a stake dinner of between $18 and $30 for that this would be the ultimate hit because it would save them the commute into the City and it would give them a price point that they could afford.
-- **[BILLIONAIRE Restaurant Owner Secrets REVEALED](../knowledge/marketing/billionaire-restaurant-owner-secrets-revealed.md)** (Serial 175)
+- **[BILLIONAIRE Restaurant Owner Secrets REVEALED](../knowledge/owner-short-form/marketing/billionaire-restaurant-owner-secrets-revealed.md)** (Serial 175)
   - I studied the six richest restaurant owners in the world to figure out how they each became self-made billionaires starting with restaurant owner number one 17-year-old Fred Duca opened Pete's super submarines in Bridgeport Connecticut in 1965 and today he's worth $3.7 billion how could that be possible if you haven't heard of Pat's submarines here's the history behind it when they started advertising with the name the radio ads made it sound like pizza Marines leading to people think it was a pizza restaurant when in fact all Fred served was Subway sandwiches that's what led to them shortening their name to just Subway as the brand took off and Fred was wise he was constantly scanning each of his competitors for what he could learn from them and he saw Quiznos was starting to grow super fast with toasted sandwiches so Subway was the brand that actually standardized that and began advertising with it.
-- **[Meet the FISHERMAN Who Built a 7 Billion Dollar Chicken Finger Empire](../knowledge/marketing/meet-the-fisherman-who-built-a-7-billion-doll.md)** (Serial 188)
+- **[Meet the FISHERMAN Who Built a 7 Billion Dollar Chicken Finger Empire](../knowledge/owner-short-form/marketing/meet-the-fisherman-who-built-a-7-billion-doll.md)** (Serial 188)
   - There's another multi-billion dollar restaurant that became known for one unusual dish and it made this founder $7 billion that's the story of Todd Graves who got the idea for raising canes in a college class here's the shocking part he actually submitted his business proposal to start Raising Canes his whole vision for his business and got an F on it it wasn't just his college professor that rejected him it was every place that he went for loan and so what he had to do to start Raising Canes was starting to sell salmon in a Alaska actually fishing for fish to be able to fund his original raising can's location where every location of Todds just focuses on one thing nailing fresh chicken fingers so the lesson from Todd's story is to absolutely obsess over one dish that you become known for and build the entire concept and business around becoming the best in the world at that dish that's what made him $7 billion.
-- **[Free Restaurant SEO Guide That Actually Works in 2025](../knowledge/marketing/free-restaurant-seo-guide-actually.md)** (Serial 207)
+- **[Free Restaurant SEO Guide That Actually Works in 2025](../knowledge/owner-short-form/marketing/free-restaurant-seo-guide-actually.md)** (Serial 207)
   - Beat 99% of your competitors.
-- **[The MARKETING Genius Behind Domino's Trump Ad](../knowledge/marketing/marketing-genius-behind-dominos-trump.md)** (Serial 222)
+- **[The MARKETING Genius Behind Domino's Trump Ad](../knowledge/owner-short-form/marketing/marketing-genius-behind-dominos-trump.md)** (Serial 222)
   - The driver tells Trump about his 555 deal three medum pizzas $5 each Trump pauses he looks at the driver.
-- **[How Small Restaurants Beat Big Brands on Google Search?](../knowledge/marketing/small-restaurants-beat-big-brands.md)** (Serial 228)
+- **[How Small Restaurants Beat Big Brands on Google Search?](../knowledge/owner-short-form/marketing/small-restaurants-beat-big-brands.md)** (Serial 228)
   - Certain strategic uses of keywords in certain areas that's all done by them what return are you seeing from It 2 months ago we were doing around 6 let's call it 700,000 today we are doing roughly around $900,000 a month entirely through the website.
-- **[Small Restaurant Makes MILLIONS With Simple Marketing Trick](../knowledge/marketing/small-restaurant-millions-simple-marketing.md)** (Serial 241)
+- **[Small Restaurant Makes MILLIONS With Simple Marketing Trick](../knowledge/owner-short-form/marketing/small-restaurant-millions-simple-marketing.md)** (Serial 241)
   - This unique strategy made this brand new restaurant $1.4 million in their first year in business. It's called micro influencer partnerships. What Karen from Sushimi Roland did was she gave influencers free merch.
   - Her husband Philip did over $1.4.
   - She designed. One of them says, "I like it raw with a sushi on it. Quite a wild t-shirt, but it got a lot of attention from local influencers." She also gave them a code to use to tell their friends, family, and followers about to use when they were in the restaurant. They gave them 15% off their first order. So, the combination of each of these things ended up creating an effect where Karen.
-- **[Why Your Free Restaurant Dessert Is A GENIUS Marketing Trick?](../knowledge/marketing/free-restaurant-dessert-genius-marketing.md)** (Serial 246)
+- **[Why Your Free Restaurant Dessert Is A GENIUS Marketing Trick?](../knowledge/owner-short-form/marketing/free-restaurant-dessert-genius-marketing.md)** (Serial 246)
   - Here is a little known secret from the restaurant industry. That chocolate cake that is listed on the Olive Garden menu for $9 only cost them $45 to make. So that's why they've selected it to be eligible as part of the rewards program. And this is what all the smartest restaurants do. They select items that have a low food cost.
-- **[Why This Ice Cream Shop Makes $200,000 a Year!](../knowledge/marketing/ice-cream-shop-200000-year.md)** (Serial 264)
+- **[Why This Ice Cream Shop Makes $200,000 a Year!](../knowledge/owner-short-form/marketing/ice-cream-shop-200000-year.md)** (Serial 264)
   - Unique. I would guess that they're averaging 200,000 a year in profit on locations that cost less than $500,000 to open allin. If I were opening an ice cream shop today, I would basically copy Salt.
-- **[The Secret Google Tool That Boosts Restaurant Profits!](../knowledge/marketing/google-tool-boosts-restaurant-profits.md)** (Serial 282)
+- **[The Secret Google Tool That Boosts Restaurant Profits!](../knowledge/owner-short-form/marketing/google-tool-boosts-restaurant-profits.md)** (Serial 282)
   - The average restaurant owner makes around $45,000 in profits per year. Yet, the top 10% are bringing over $260,000 in. Why is there such a massive difference? Starting with secret.
-- **[Can Your Restaurant Survive Without Social Media](../knowledge/marketing/restaurant-survive-without-social-media.md)** (Serial 314)
+- **[Can Your Restaurant Survive Without Social Media](../knowledge/owner-short-form/marketing/restaurant-survive-without-social-media.md)** (Serial 314)
   - We rely heavily on third party delivery apps. That's why I wanted to recommend you grab this book, Restaurant Growth Secrets by Adam Guild. Lots of graphics, easy to follow ways that you can drive sales. It is a very quick read. In fact, it's a $1.99 on Kindle right.
-- **[This $200 Restaurant Trick Beats Expensive Ads!](../knowledge/marketing/200-restaurant-beats-expensive-ads.md)** (Serial 378)
+- **[This $200 Restaurant Trick Beats Expensive Ads!](../knowledge/owner-short-form/marketing/200-restaurant-beats-expensive-ads.md)** (Serial 378)
   - What if I told you a $200 trick could outperform your next $2,000 ad campaign?  I read this story about a small Mexican restaurant in this viral Reddit post. They did not run promos or pay some influencers. They painted their wall a deep turquoise color with some bold.
-- **[Free Churros Made This Restaurant Rich](../knowledge/marketing/free-churros-made-restaurant-rich.md)** (Serial 411)
+- **[Free Churros Made This Restaurant Rich](../knowledge/owner-short-form/marketing/free-churros-made-restaurant-rich.md)** (Serial 411)
   - Churros are listed on the menu for $7.99, but the ingredients are just flour, sugar, and flavored syrup, so they cost less than 50 cents to make.
   - To the guest is $8 worth of value.
   - Within 30 days of launching this offer, they sold three times as many churros, totaling not only $4,000 in extra sales, but $2,000 in extra profit from less than 30 minutes of setup work.
-- **[The breadstick trick that made me six figures more!](../knowledge/marketing/breadstick-made-me-six-figures.md)** (Serial 414)
+- **[The breadstick trick that made me six figures more!](../knowledge/owner-short-form/marketing/breadstick-made-me-six-figures.md)** (Serial 414)
   - My restaurants made  an extra $187,000 a year from one simple change.
   - Breadsticks are $6 and  on average three out of 10 customers say yes to a bread sticks upsell.
   - That's $3,600 more in sales every single week with the same number of customers.
-- **[Every Restaurant Owner MUST Read This Book!](../knowledge/marketing/restaurant-owner-must-read-book.md)** (Serial 434)
+- **[Every Restaurant Owner MUST Read This Book!](../knowledge/owner-short-form/marketing/restaurant-owner-must-read-book.md)** (Serial 434)
   - If a guest had a bad experience, the team fixed it before the guest even complained and that is how Union Square Cafe built a 70% plus repeat business.
-- **[🤯 The $100,000 Restaurant Marketing Email](../knowledge/marketing/100000-restaurant-marketing-email.md)** (Serial 447)
+- **[🤯 The $100,000 Restaurant Marketing Email](../knowledge/owner-short-form/marketing/100000-restaurant-marketing-email.md)** (Serial 447)
   - Use this specific email to drive more than $100,000 in sales.
   - Each of those regulars is spending about $50, then that would be 12,000 in sales just from that group on their first order back.
   - Here's 10% off on us for your next order.
-- **[Smart Restaurants Give THESE Away](../knowledge/marketing/smart-restaurants-give-these-away.md)** (Serial 455)
+- **[Smart Restaurants Give THESE Away](../knowledge/owner-short-form/marketing/smart-restaurants-give-these-away.md)** (Serial 455)
   - You can print 8,000 of them for around $150.
-- **[Don't Let Your Restaurant Miss Out On The Super Bowl](../knowledge/marketing/let-restaurant-miss-out-on.md)** (Serial 469)
+- **[Don't Let Your Restaurant Miss Out On The Super Bowl](../knowledge/owner-short-form/marketing/let-restaurant-miss-out-on.md)** (Serial 469)
   - My restaurants made 27% more in sales last year on Super Bowl.
-- **[Why Good Food Isnt Enough For Restaurants](../knowledge/marketing/good-food-isnt-enough-restaurants.md)** (Serial 472)
+- **[Why Good Food Isnt Enough For Restaurants](../knowledge/owner-short-form/marketing/good-food-isnt-enough-restaurants.md)** (Serial 472)
   - What if I told you a $200 trick could outperform your next $2,000 ad campaign?
-- **[How Breadsticks Made My Restaurant Over $100,000](../knowledge/marketing/breadsticks-made-my-restaurant-over.md)** (Serial 494)
+- **[How Breadsticks Made My Restaurant Over $100,000](../knowledge/owner-short-form/marketing/breadsticks-made-my-restaurant-over.md)** (Serial 494)
   - My restaurants made  an extra $187,000 a year from one simple change.
   - Breadsticks are $6, and on  average, three out of 10 customers say yes to a breadsticks upsell.
   - That's $3,600 more in sales every single week with the same number of customers.
-- **[Papa Johns' Fatal Marketing Mistake](../knowledge/marketing/papa-johns-fatal-marketing-mistake.md)** (Serial 499)
+- **[Papa Johns' Fatal Marketing Mistake](../knowledge/owner-short-form/marketing/papa-johns-fatal-marketing-mistake.md)** (Serial 499)
   - These locations did on average less than $600,000 annually in sales with negative EBITDA.
   - For years they required franchises to put 3% of the revenue into local co-ops.
   - Every co-op collapsed overnight and sales dropped 6% within two quarters.
-- **[Why Homemade Means Nothing in (most) Restaurants](../knowledge/marketing/homemade-means-nothing-most-restaurants.md)** (Serial 502)
+- **[Why Homemade Means Nothing in (most) Restaurants](../knowledge/owner-short-form/marketing/homemade-means-nothing-most-restaurants.md)** (Serial 502)
   - To make a pot of homemade soup at the restaurant, we're talking about two hours of labor and $40 in ingredients, and it may yield 20 soup bowls.
   - Means $3.80 cost per bowl.
   - Now, for comparison, a commercial base may cost $8 for that same 20 bowls.
-- **[Here's How to Rank Your Restaurant On ChatGPT](../knowledge/marketing/heres-rank-restaurant-on-chatgpt.md)** (Serial 529)
+- **[Here's How to Rank Your Restaurant On ChatGPT](../knowledge/owner-short-form/marketing/heres-rank-restaurant-on-chatgpt.md)** (Serial 529)
   - Looks to be about 55 or 60% of the equation.
-- **[Most restaurant owners are leaving $15K on the table (here's what to do)](../knowledge/marketing/most-restaurant-owners-leaving-15k.md)** (Serial 551)
+- **[Most restaurant owners are leaving $15K on the table (here's what to do)](../knowledge/owner-short-form/marketing/most-restaurant-owners-leaving-15k.md)** (Serial 551)
   - Level one, the $10,000 a week owner.
   - Level two, $15,000 a week owner.
-- **[STOP trading hours for dollars if you want to scale!](../knowledge/marketing/trading-hours-dollars-if-want.md)** (Serial 558)
+- **[STOP trading hours for dollars if you want to scale!](../knowledge/owner-short-form/marketing/trading-hours-dollars-if-want.md)** (Serial 558)
   - I realized working a $12 an hour job doesn't actually help my team.
-- **[“We rely on word of mouth” is why your sales are flat 🚩](../knowledge/marketing/we-rely-on-word-mouth.md)** (Serial 561)
+- **[“We rely on word of mouth” is why your sales are flat 🚩](../knowledge/owner-short-form/marketing/we-rely-on-word-mouth.md)** (Serial 561)
   - Actually, Jess ran the numbers looking at our sales last month, and we had a 10% sales growth.
-- **[One question added $25,000 a year to our catering sales](../knowledge/marketing/one-question-added-25000-year.md)** (Serial 568)
+- **[One question added $25,000 a year to our catering sales](../knowledge/owner-short-form/marketing/one-question-added-25000-year.md)** (Serial 568)
   - My restaurant made $25,000 a year more in catering orders because of this one simple question.
   - The customer calls and they say, "Hey, I got 50 people to feed and my total budget is $100." Sounds fine until you run the math.
   - $2 per person is your budget?
-- **[Which Marketing Channel Makes Restaurants The Most Money?](../knowledge/marketing/which-marketing-channel-restaurants-most.md)** (Serial 572)
+- **[Which Marketing Channel Makes Restaurants The Most Money?](../knowledge/owner-short-form/marketing/which-marketing-channel-restaurants-most.md)** (Serial 572)
   - If the band drives $5K in sales and your margin is 10%, you only made $500 before paying the band and extra labor.
-- **[Olive Garden’s Genius Free Breadstick Strategy](../knowledge/marketing/olive-gardens-genius-free-breadstick.md)** (Serial 588)
+- **[Olive Garden’s Genius Free Breadstick Strategy](../knowledge/owner-short-form/marketing/olive-gardens-genius-free-breadstick.md)** (Serial 588)
   - Olive Garden sells a $23 bowl of pasta.
-- **[You can buy a restaurant for less than $50,000 in 2026](../knowledge/marketing/buy-restaurant-less-than-50000.md)** (Serial 596)
+- **[You can buy a restaurant for less than $50,000 in 2026](../knowledge/owner-short-form/marketing/buy-restaurant-less-than-50000.md)** (Serial 596)
   - One AC replacement runs $25,000 enough to erase every dollar you saved on the deal.
-- **[The Truth About Running a Restaurant Right Now](../knowledge/marketing/truth-about-running-restaurant-right.md)** (Serial 601)
+- **[The Truth About Running a Restaurant Right Now](../knowledge/owner-short-form/marketing/truth-about-running-restaurant-right.md)** (Serial 601)
   - In an industry where a 2% improvement in margins can be life-changing, every advantage matters.
-- **[How does a struggling pizzeria grow to $7M/year?](../knowledge/marketing/does-struggling-pizzeria-grow-7myear.md)** (Serial 630)
+- **[How does a struggling pizzeria grow to $7M/year?](../knowledge/owner-short-form/marketing/does-struggling-pizzeria-grow-7myear.md)** (Serial 630)
   - How did Enga grow to $7M/year in revenue?
   - They couldn t compete with $5.99 deals and million-dollar marketing budgets.
-- **[How My Restaurant Made An Extra $187.000](../knowledge/marketing/my-restaurant-made-extra-187000.md)** (Serial 640)
+- **[How My Restaurant Made An Extra $187.000](../knowledge/owner-short-form/marketing/my-restaurant-made-extra-187000.md)** (Serial 640)
   - We found $187,000 sitting in our own dining room.
   - That's $3,600 extra a week with the same number of customers walking through the door.
-- **[This Pizza Place Went From Broke to Booming, Heres How](../knowledge/marketing/pizza-place-went-broke-booming.md)** (Serial 642)
+- **[This Pizza Place Went From Broke to Booming, Heres How](../knowledge/owner-short-form/marketing/pizza-place-went-broke-booming.md)** (Serial 642)
   - Metro Pizza was losing $10,000+ every month and the problem wasn t their pizza.
   - $112,000+ in direct online sales per month, up more than 54%.
   - Their average ticket grew from $60 to $68, and their new app generated 11,000+ downloads in its first 90 days.
-- **[Why Texas Roadhouse Banned General Managers](../knowledge/marketing/texas-roadhouse-banned-general-managers.md)** (Serial 658)
+- **[Why Texas Roadhouse Banned General Managers](../knowledge/owner-short-form/marketing/texas-roadhouse-banned-general-managers.md)** (Serial 658)
   - Every location is run by a "Managing Partner" who puts down a $25,000 deposit and earns 10% of that store's profit.
-- **[The Most Expensive Lesson for Restaurant Owners (2026)](../knowledge/marketing/most-expensive-lesson-restaurant-owners.md)** (Serial 665)
+- **[The Most Expensive Lesson for Restaurant Owners (2026)](../knowledge/owner-short-form/marketing/most-expensive-lesson-restaurant-owners.md)** (Serial 665)
   - Traffic reportedly dropped more than 10% before the company reversed course.
-- **[How to scale from $800k to $1.4 million a year?](../knowledge/marketing/scale-800k-14-million-year.md)** (Serial 677)
+- **[How to scale from $800k to $1.4 million a year?](../knowledge/owner-short-form/marketing/scale-800k-14-million-year.md)** (Serial 677)
   - Half Time Pizza broke down how they scaled from $800k to $1.4 million a year.
-- **[How to Spot a Failing Restaurant in 30 Seconds](../knowledge/marketing/spot-failing-restaurant-30-seconds.md)** (Serial 678)
+- **[How to Spot a Failing Restaurant in 30 Seconds](../knowledge/owner-short-form/marketing/spot-failing-restaurant-30-seconds.md)** (Serial 678)
   - Research shows 91% of guests check a restaurant website before ordering takeout or delivery.
-- **[The Biggest Mistake Restaurant Owners Make & What To Do Instead](../knowledge/marketing/biggest-mistake-restaurant-owners-do.md)** (Serial 701)
+- **[The Biggest Mistake Restaurant Owners Make & What To Do Instead](../knowledge/owner-short-form/marketing/biggest-mistake-restaurant-owners-do.md)** (Serial 701)
   - Buy the $25K oven because it connects to Wi-Fi Buy equipment your team can reliably operate and repair.
   - One recent survey put average replacement costs at $1,491 for a BOH employee and $2,611 for a manager.
 
 ## Menu
 
-- **[The Alarming Reason Why Restaurants FAIL (Menu Market Fit)](../knowledge/menu/menu-market-fit-search-volume.md)** (Serial 014)
+- **[The Alarming Reason Why Restaurants FAIL (Menu Market Fit)](../knowledge/owner-short-form/menu/menu-market-fit-search-volume.md)** (Serial 014)
   - Benchmark: Over 500 searches per month in a specific city for a cuisine type indicates healthy, unmet consumer demand.
-- **[The Simple Restaurant Hack To Increase The Average Check Size](../knowledge/menu/free-item-average-check-threshold.md)** (Serial 044)
+- **[The Simple Restaurant Hack To Increase The Average Check Size](../knowledge/owner-short-form/menu/free-item-average-check-threshold.md)** (Serial 044)
   - Target threshold increase: set spend goal $5 to $10 above baseline average check size.
   - Food cost requirement on reward item: under 10% of menu price.
-- **[Sushi Restaurants Use THIS Hack To Make More Profit](../knowledge/menu/menu-naming-perceived-value.md)** (Serial 050)
+- **[Sushi Restaurants Use THIS Hack To Make More Profit](../knowledge/owner-short-form/menu/menu-naming-perceived-value.md)** (Serial 050)
   - Salmon roll price: $9.
   - Philadelphia roll price: $15 (an incremental $6 price premium per item with negligible ingredient cost difference).
-- **[How Restaurants Should Use Influencers](../knowledge/menu/how-restaurants-should-use-influencers.md)** (Serial 088)
+- **[How Restaurants Should Use Influencers](../knowledge/owner-short-form/menu/how-restaurants-should-use-influencers.md)** (Serial 088)
   - This unique strategy made this brand new restaurant $1.4 million in their first year in business.
   - They gave them 15% off their first order.
   - So, the combination of each of these things ended up creating an effect where Karen and her husband Phillip did over $1.4 million in their first year of business.
-- **[Is Your Restaurant Missing Out on $1.4 Million Because of THIS?](../knowledge/menu/is-your-restaurant-missing-out-on-14-million.md)** (Serial 129)
+- **[Is Your Restaurant Missing Out on $1.4 Million Because of THIS?](../knowledge/owner-short-form/menu/is-your-restaurant-missing-out-on-14-million.md)** (Serial 129)
   - This unique strategy made this brand new restaurant $1.4 million in their first year in business it's called micro influencer Partnerships what Karen from sushii Roland did was she gave influencers status for being in her restaurant and posting about it in two ways the first way was she gave them free merch which she designed one of them says I Like It Raw with a sushi on it quite a wild t-shirt but it got a lot of attention from local influencers she also gave them a code to use to tell their friends family and followers about to use when they were in the restaurant that gave them 15% off their first order so the combination of each of these things ended up creating an effect where Karen and her husband Philip did over $14 million in their first year of business.
-- **[Chick Fil A CRUSHES McDonalds and Starbucks in Sales](../knowledge/menu/chick-fil-a-crushes-mcdonalds-and-starbucks-i.md)** (Serial 149)
+- **[Chick Fil A CRUSHES McDonalds and Starbucks in Sales](../knowledge/owner-short-form/menu/chick-fil-a-crushes-mcdonalds-and-starbucks-i.md)** (Serial 149)
   - Chick-fil-A does more sales and double the profits than the average Starbucks Subway and McDonald's combined here's why Chick-fil-A used a strategy called paros principle having one Focus to construct their entire menu and what's so interesting about it is they based it by copying what was working for other fast food restaurants and putting a Twist on it meaning that other fast food restaurants at the time like McDonald's had built their entire menu around beef patty burgers so estr Cathy thought to himself if you could make a better product out of chicken but copy the majority of what worked for McDonald's in having that burger format for their concept that he'd have a hit on his hands and more importantly create a category that he could own with the chicken burger and that's what started Chick-fil-A to massive success their first day they did only $50 in sales but within just a year they were starting to do millions of dollars.
-- **[What's Behind Chick fil A's $6.2B Empire Success](../knowledge/menu/whats-behind-chick-fil-as-62b-empire-success.md)** (Serial 180)
+- **[What's Behind Chick fil A's $6.2B Empire Success](../knowledge/owner-short-form/menu/whats-behind-chick-fil-as-62b-empire-success.md)** (Serial 180)
   - The self-made billionaire s Cathy made $6.2 billion after starting Chick-fil-A he realized that he was more than just in the food business he was partially in the entertainment business so he obsessed over how he could create his own language he actually banned a common restaurant terms like wouldn't let employees say combo meal in the restaurant and instead made them say entree he wouldn't let people say seating area and said no no it's a dining room he wouldn't let people say you're welcome in response to thank you and instead said my pleasure is the standard way we respond to guests through making all of these language tweaks he didn't just create a distinctive culture but he made guests feel coziness when they were in his restaurants which led to the cult-like following that Chick-fil-A was able to achieve.
-- **[The #1 Restaurant Hack NO ONE Tells You](../knowledge/menu/the-1-restaurant-hack-no-one-tells-you.md)** (Serial 184)
+- **[The #1 Restaurant Hack NO ONE Tells You](../knowledge/owner-short-form/menu/the-1-restaurant-hack-no-one-tells-you.md)** (Serial 184)
   - The top 1% of restaurants Master menu Market fit the match between what's on your menu and what your Market already wants you may be thinking without a crystal ball there's no way I could possibly know what people in my city want the good news is that crystal ball actually does exist it's called Google Keyword search and it lets you check how many people in your area are searching for specific dishes for example you might have noticed that there's a huge Trend in the restaurant industry right now around beia tacos hundreds of people in every city want them and the typical go-to Mexican places like Chipotle and Taco Bell don't offer them on their menu which meant that the first Mexican place in every city who added those bua tacos to their menu would get to capture that menu demand and get that menu Market fit.
-- **[The REAL Story Behind Chick-fil-A's Massive Success!](../knowledge/menu/the-real-story-behind-chick-fil-as-massive-su.md)** (Serial 193)
+- **[The REAL Story Behind Chick-fil-A's Massive Success!](../knowledge/owner-short-form/menu/the-real-story-behind-chick-fil-as-massive-su.md)** (Serial 193)
   - The self-made billionaire EST Kathy who's made $6.2 billion after starting Chick-fil-A but Chick-fil-A wasn't initially called Chick-fil-A or his first restaurant concept EST Cathy started with the Dwarf House in 1946 that's what he called his original restaurant and it took him 19 years to open the first Chick-fil-A after inventing the chicken sandwich as TR Cathy was focused on the quality rather than speed he built Chick-fil-A through careful growth and obsessive attention to every little detail he realized early on that he was more than just in the food business he was partially in the entertainment business meaning that part of the reason people went to Chick-fil-A was to feel certain emotions when they were in his restaurant he actually banned common restaurant terms like wouldn't let employees say combo meal in the restaurant and instead made them say entree he wouldn't let people say seating area and said no no it's a dining room he wouldn't let people say you're welcome in response to thank you and instead said my pleasure is the standard way we respond to guests.
-- **[In-N-Out's SECRET To Making DOUBLE The Money With LESS Menu Items](../knowledge/menu/in-n-outs-secret-to-making-double-the-money-w.md)** (Serial 195)
+- **[In-N-Out's SECRET To Making DOUBLE The Money With LESS Menu Items](../knowledge/owner-short-form/menu/in-n-outs-secret-to-making-double-the-money-w.md)** (Serial 195)
   - When you go to in andout something immediately jumps out to you they've just got three Entre on their entire menu if you compare that to McDonald's they've got over 150 menu items and the typical McDonald's location brings in between $2 and $3 million a year but if you look at In-N-Outs Revenue per location they're literally doing over $6 million per year with only a tiny fraction of their total menu item it creates an advantage for these reasons the first being consistency fewer items means that the product can be absolutely perfected and quality control becomes easy service becomes quicker and more efficient the other massive thing is that they've been able to build their own supply chain and become their own distributor which led to massive cost efficiency and is how they undercut everybody else in the market as a result of pricing.
-- **[The Secret Z-Pattern That Makes Restaurants Rich](../knowledge/menu/z-pattern-restaurants-rich.md)** (Serial 205)
+- **[The Secret Z-Pattern That Makes Restaurants Rich](../knowledge/owner-short-form/menu/z-pattern-restaurants-rich.md)** (Serial 205)
   - You just feature one item per page to increase the sales by as much as 30%.
-- **[How Chick-fil-A Grew Their Menu Without Hurting Their Brand?](../knowledge/menu/chick-fil-a-grew-menu-without-hurting.md)** (Serial 214)
+- **[How Chick-fil-A Grew Their Menu Without Hurting Their Brand?](../knowledge/owner-short-form/menu/chick-fil-a-grew-menu-without-hurting.md)** (Serial 214)
   - Dinner if you're considering expanding your menu to grow your sales I actually built a tool just type in your restaurant name at greater. owner.com it's 100% free.
-- **[How This Restaurant Hit $60M Sales Without Raising Menu Prices?](../knowledge/menu/restaurant-hit-60m-sales-without.md)** (Serial 231)
+- **[How This Restaurant Hit $60M Sales Without Raising Menu Prices?](../knowledge/owner-short-form/menu/restaurant-hit-60m-sales-without.md)** (Serial 231)
   - We surpass $60 million in annual sales without raising the prices of our menu items many restaurants have had to raise their prices they came yesterday the menu item was $15 they come tomorrow.
   - It's $1,750 the restaurant's perspective is normally oh it's not that significant to the customer.
   - Appeal to those customers you won't succeed before you pass that cost onto your customer better fight like hell to make sure that you're fighting the people who are taking money from you as opposed to the ones that are giving you money 100% agree.
-- **[The Secret Psychology Behind Profitable Restaurant Menus](../knowledge/menu/psychology-behind-profitable-restaurant-menus.md)** (Serial 234)
+- **[The Secret Psychology Behind Profitable Restaurant Menus](../knowledge/owner-short-form/menu/psychology-behind-profitable-restaurant-menus.md)** (Serial 234)
   - A well-designed menu can increase sales of specific items up to 30%. The key there is you spotlight the stars that have the highest popularity.
   - If you sell more of the plow horses, you'll actually sell your way into less profits. And that brings us to the last category, the duds, the lowprofit unpopular items. Those in 95% of cases should just be removed entirely.
-- **[The Shocking Truth About RESTAURANT Pricing Strategies](../knowledge/menu/shocking-truth-about-restaurant-pricing.md)** (Serial 237)
+- **[The Shocking Truth About RESTAURANT Pricing Strategies](../knowledge/owner-short-form/menu/shocking-truth-about-restaurant-pricing.md)** (Serial 237)
   - Premium pricing changes how guests think about products. And the research was actually done in the wine industry. The researchers bought a $100 bottle of wine.
   - A $2 bottle of wine. They put the $100 wine in the $2 bottle.
   - They were using the association they had with the higher price as being higher quality. In the same way, if they're comparing your burger, which costs $14, to the $5 Big Mac, even if you're using the exact same ingredients, most people are going to rate your $14 burger higher in terms of quality.
-- **[Why Pizza Hut Added Xbox Gaming to Their Menu?](../knowledge/menu/pizza-hut-added-xbox-gaming.md)** (Serial 248)
+- **[Why Pizza Hut Added Xbox Gaming to Their Menu?](../knowledge/owner-short-form/menu/pizza-hut-added-xbox-gaming.md)** (Serial 248)
   - Any pizza, any size, any crust, any toppings for $10 in order to bring those people.
-- **[This Simple Sushi Menu Trick Makes Restaurants an Extra $6 Per Roll!](../knowledge/menu/simple-sushi-menu-restaurants-extra.md)** (Serial 251)
+- **[This Simple Sushi Menu Trick Makes Restaurants an Extra $6 Per Roll!](../knowledge/owner-short-form/menu/simple-sushi-menu-restaurants-extra.md)** (Serial 251)
   - Sushi restaurants use this hack to increase their sales by $6 per menu item. Here's how it works. You can either order the salmon roll on the sushi menu for $9, or you can order the fancier named Philadelphia roll for $15. And the only difference between the salmon roll.
-- **[The MASSIVE Menu Mistake That Destroyed Boston Market](../knowledge/menu/massive-menu-mistake-destroyed-boston.md)** (Serial 252)
+- **[The MASSIVE Menu Mistake That Destroyed Boston Market](../knowledge/owner-short-form/menu/massive-menu-mistake-destroyed-boston.md)** (Serial 252)
   - Boston Chicken was killing it. They invented the rotisserie chicken category in the 1980s, doing over $1 billion a year in sales. But around 1997, their CEO, Scott, made a mistake. Scott believed they needed to expand their menu, adding turkey, meatloaf, ham that are actually substitutes for rotisserie chicken, which in the moment probably seems smart. More menu choices should mean more customers, right? Wrong. This type of menu change is called menu multiplication.
-- **[The SECRET Behind Cava's Small Menu](../knowledge/menu/behind-cavas-small-menu.md)** (Serial 271)
+- **[The SECRET Behind Cava's Small Menu](../knowledge/owner-short-form/menu/behind-cavas-small-menu.md)** (Serial 271)
   - Cava has been running at over 20% profit margins from the very beginning. Brett Schulman made Cava's menu strategically very small. Instead of having dozens of menu items like most new restaurants do, he chose to just focus on a few dishes.
   - It let him unlock bulk buying discounts from his food suppliers faster. The typical restaurant is running at 30% to 40% of every order going to food costs, while Cabba gets by to spending 15% of their sales going to food costs. And believe it or not, guests actually prefer smaller menus. It's.
-- **[Why Fewer Menu Choices Make Your Restaurant More Money!](../knowledge/menu/fewer-menu-choices-restaurant-money.md)** (Serial 284)
+- **[Why Fewer Menu Choices Make Your Restaurant More Money!](../knowledge/owner-short-form/menu/fewer-menu-choices-restaurant-money.md)** (Serial 284)
   - The paradox of choice. Because when you give people fewer choices, they're more likely to choose the higher margin items on your menu. Here's how to implement that strategy. You start by calculating the food costs for every dish on your menu. A good target is keeping food costs under 30%. The second piece here is identifying your stars, the items with both high popularity.
-- **[Are Complex Menus SECRETLY SABOTAGING Your Restaurant's Success?](../knowledge/menu/complex-menus-secretly-sabotaging-restaurants.md)** (Serial 285)
+- **[Are Complex Menus SECRETLY SABOTAGING Your Restaurant's Success?](../knowledge/owner-short-form/menu/complex-menus-secretly-sabotaging-restaurants.md)** (Serial 285)
   - 20% of a restaurant's customers are going to drive more than 80% of that restaurant's profits. Think about how much easier it is to operate Chipotle versus operating something like the Cheesecake Factory. And how many more multinational restaurant brands you see with the Chipotle QSR model versus the Cheesecake Factory model. Because in the Cheesecake Factory model, it is.
-- **[Why Does In-N-Out Beat McDonald's With a Tiny Menu?](../knowledge/menu/does-in-n-out-beat-mcdonalds-tiny.md)** (Serial 296)
+- **[Why Does In-N-Out Beat McDonald's With a Tiny Menu?](../knowledge/owner-short-form/menu/does-in-n-out-beat-mcdonalds-tiny.md)** (Serial 296)
   - The typical McDonald's location brings in between $2.
   - $3 million a year. But if you look at In-N-Outs revenue per location, they're literally doing over $6 million per year with only a tiny fraction of their total menu items. You can order a hamburger, a cheeseburger, or a double double. That seems surprising that their minimalist menu is actually a massive advantage in the fast food industry. The first being consistency. Fewer items means that the product can be absolutely perfected. The other massive thing is that they've been able to build their own supply chain.
-- **[The Hidden Trick Behind Popular Restaurant Menus](../knowledge/menu/hidden-behind-popular-restaurant-menus.md)** (Serial 342)
+- **[The Hidden Trick Behind Popular Restaurant Menus](../knowledge/owner-short-form/menu/hidden-behind-popular-restaurant-menus.md)** (Serial 342)
   - A well-designed menu can increase sales of specific items up to 30%. The key there is you spotlight the stars that have the highest popularity.
   - If you sell more of the plow horses, you'll actually sell your way into less profits. And that brings us to the last category, the duds, the lowprofit unpopular items. Those in 95% of cases should just be removed entirely.
-- **[Are You Making This One Pricing Mistake That Costs You Money](../knowledge/menu/one-pricing-mistake-costs-money.md)** (Serial 345)
+- **[Are You Making This One Pricing Mistake That Costs You Money](../knowledge/owner-short-form/menu/one-pricing-mistake-costs-money.md)** (Serial 345)
   - Premium pricing for a premium perception. And the research was actually done in the wine industry.  The researchers bought a $100 bottle of wine.
   - A $2 bottle of wine. They put the $100 wine in the $2 bottle.
   - They were using the association they had with the higher price as being higher quality. In the same way, if they're comparing your burger, which costs $14, to the $5 Big Mac, even if you're using the exact same ingredients, most people are going to rate your $14 burger higher.
-- **[This Simple Menu Page Boosts Your Google Traffic!](../knowledge/menu/simple-menu-page-boosts-google.md)** (Serial 348)
+- **[This Simple Menu Page Boosts Your Google Traffic!](../knowledge/owner-short-form/menu/simple-menu-page-boosts-google.md)** (Serial 348)
   - You don't have to be twerking in the kitchen on TikTok to get new customers, but what you do have to do is get really good at telling Mr. Google why he should point people to your website. Strategy one, creating menu pages for each item. Talking tacos increase their traffic by over 25% from this one change alone.
-- **[Don't Make This BIG Menu Mistake That Kills Your Sales](../knowledge/menu/big-menu-mistake-kills-sales.md)** (Serial 351)
+- **[Don't Make This BIG Menu Mistake That Kills Your Sales](../knowledge/owner-short-form/menu/big-menu-mistake-kills-sales.md)** (Serial 351)
   - Dinner. If you're considering expanding your menu to grow your sales, I actually built a tool. Just type in your restaurant name at greater.owner.com. It's 100% free.
-- **[The SECRET Behind Cava's Small Menu](../knowledge/menu/behind-cavas-small-menu-358.md)** (Serial 358)
+- **[The SECRET Behind Cava's Small Menu](../knowledge/owner-short-form/menu/behind-cavas-small-menu-358.md)** (Serial 358)
   - Cava has been running at over 20% profit margins from the very beginning. Brett Schulman made Cava's menu strategically very small. Instead of having dozens of menu items like most new restaurants do, he chose to just focus on a few dishes.
   - It let him unlock bulk buying discounts from his food suppliers faster. The typical restaurant is running at 30% to 40% of every order going to food costs, while Cabba gets by to spending 15% of their sales going to food costs. And believe it or not, guests actually prefer smaller menus. It's.
-- **[STOP Using Boring Menu Descriptions That COST You Sales](../knowledge/menu/using-boring-menu-descriptions-cost.md)** (Serial 388)
+- **[STOP Using Boring Menu Descriptions That COST You Sales](../knowledge/owner-short-form/menu/using-boring-menu-descriptions-cost.md)** (Serial 388)
   - Honey." That's how you create an experience  and turning a $20 table into a $60 Follow owner for more restaurant growth hacks.
   - 99% of servers  get this one thing wrong. You ask a server, "Hey, how's your pothole pizza?" And they say, "Oh, it's really good. I love it." That is lazy. That is bare minimum. And that is costing you thousands of dollars. This is how we do it at our restaurant. We say, "Oh, hey, the pothole pizza is actually one of our best sellers. It is topped with our sliced Italian sausage. It also has cup.
-- **[Catering Pricing Hack: The Correct Formula](../knowledge/menu/catering-pricing-hack-correct-formula.md)** (Serial 408)
+- **[Catering Pricing Hack: The Correct Formula](../knowledge/owner-short-form/menu/catering-pricing-hack-correct-formula.md)** (Serial 408)
   - In this particular case, we know that the total cost is $713.
   - $360 for food, $250 for labor, $50 for supplies, and $50 delivery.
   - Comes out to $838.
-- **[The One Thing Top Restaurants Do Different](../knowledge/menu/one-thing-top-restaurants-do.md)** (Serial 409)
+- **[The One Thing Top Restaurants Do Different](../knowledge/owner-short-form/menu/one-thing-top-restaurants-do.md)** (Serial 409)
   - The average restaurant owner makes around $45,000 in profits per year.
   - Yet, the top 10% are bringing over $260,000.
-- **[The Menu Design Trick That Doubles Restaurant Profits](../knowledge/menu/menu-design-doubles-restaurant-profits.md)** (Serial 427)
+- **[The Menu Design Trick That Doubles Restaurant Profits](../knowledge/owner-short-form/menu/menu-design-doubles-restaurant-profits.md)** (Serial 427)
   - A well-designed menu can increase sales of specific items up to 30%.
   - Those in 95% of cases should just be removed entirely.
-- **[The Emotional Trick Behind a 15% Restaurant Traffic Spike](../knowledge/menu/emotional-behind-15-restaurant-traffic.md)** (Serial 431)
+- **[The Emotional Trick Behind a 15% Restaurant Traffic Spike](../knowledge/owner-short-form/menu/emotional-behind-15-restaurant-traffic.md)** (Serial 431)
   - Traffic jumped nearly 15%.
-- **[Why Raising Cane's rejected 99% of the menu and won?](../knowledge/menu/raising-canes-rejected-99-menu.md)** (Serial 436)
+- **[Why Raising Cane's rejected 99% of the menu and won?](../knowledge/owner-short-form/menu/raising-canes-rejected-99-menu.md)** (Serial 436)
   - One unusual dish made this founder $7 billion.
-- **[This menu item has a 1,900% profit margin](../knowledge/menu/menu-item-has-1900-profit.md)** (Serial 446)
+- **[This menu item has a 1,900% profit margin](../knowledge/owner-short-form/menu/menu-item-has-1900-profit.md)** (Serial 446)
   - So, while they're listed on the menu for an average of $8, they cost less than 40 cents to make, which means a 5% food  cost or they have more than a 10x profile of profitability from what they cost you to what you  can sell them.
   - So, when you're able to add those onion rings to an order for $8 and they cost you 40 to make, you've just pocketed $7.60 60 in pure profitability with no additional labor cost or overhead cost.
   - A great example of a 10x food cost item would be onion rings.
-- **[STOP Leaving $215,000 On the Table!](../knowledge/menu/leaving-215000-on-table.md)** (Serial 460)
+- **[STOP Leaving $215,000 On the Table!](../knowledge/owner-short-form/menu/leaving-215000-on-table.md)** (Serial 460)
   - The average restaurant owner makes around $45,000 in profits per year.
   - Yet, the top 10% are bringing over $260,000.
-- **[Why Viral Restaurant Dishes Fail](../knowledge/menu/viral-restaurant-dishes-fail.md)** (Serial 464)
+- **[Why Viral Restaurant Dishes Fail](../knowledge/owner-short-form/menu/viral-restaurant-dishes-fail.md)** (Serial 464)
   - Many of them, majority, like 85% asked  for cheesecake.
-- **[Why Your Restaurant's Cocktail Is Underpriced](../knowledge/menu/restaurants-cocktail-underpriced.md)** (Serial 474)
+- **[Why Your Restaurant's Cocktail Is Underpriced](../knowledge/owner-short-form/menu/restaurants-cocktail-underpriced.md)** (Serial 474)
   - Your Tom Collins sells for $8.50.
   - Now, if your target is 25% beverage cost, that Tom Collins should be closer to $10.
   - That's roughly $120 you're left on the table.
-- **[How To Calculate Labor Cost For a Catering Order](../knowledge/menu/calculate-labor-cost-catering-order.md)** (Serial 477)
+- **[How To Calculate Labor Cost For a Catering Order](../knowledge/owner-short-form/menu/calculate-labor-cost-catering-order.md)** (Serial 477)
   - Next, let's multiply those hours by your average wage of say $18.
   - 53 * 18, we're talking about $954 in labor cost alone.
   - Means $954 time 1.15, we're talking about $1,97.
-- **[How To Price a Catering Order for 85 People](../knowledge/menu/price-catering-order-85-people.md)** (Serial 491)
+- **[How To Price a Catering Order for 85 People](../knowledge/owner-short-form/menu/price-catering-order-85-people.md)** (Serial 491)
   - Food purchases for this order is $400, labor is $300, supplies and disposables around 50, and delivery is another $50.
   - Now, that puts our total cost at $800.
   - Now, 800 divided by 1 minus 45% gives you $1,454 for the full order.
-- **[How To Price A Catering Order (Double Your Profit)](../knowledge/menu/price-catering-order-double-profit.md)** (Serial 501)
+- **[How To Price A Catering Order (Double Your Profit)](../knowledge/owner-short-form/menu/price-catering-order-double-profit.md)** (Serial 501)
   - In this particular case, we know that the total cost is $713.
   - $360 for food, $250 for labor, $50 for supplies, and $50 delivery.
   - Comes out to $838.
-- **[3 Steps to Turn Your Menu into a Money-Maker [Menu Matrix]](../knowledge/menu/3-steps-turn-menu-money-maker.md)** (Serial 510)
+- **[3 Steps to Turn Your Menu into a Money-Maker [Menu Matrix]](../knowledge/owner-short-form/menu/3-steps-turn-menu-money-maker.md)** (Serial 510)
   - $18.50 outsells $19 every time.
-- **[Your Menu is Too Cluttered (Here's Why)](../knowledge/menu/menu-too-cluttered-heres.md)** (Serial 513)
+- **[Your Menu is Too Cluttered (Here's Why)](../knowledge/owner-short-form/menu/menu-too-cluttered-heres.md)** (Serial 513)
   - The bottom 20% either need to get fixed somehow or they got to go.
-- **[The In-N-Out Burger Formula: High Pay, Simple Menu, Massive Profits](../knowledge/menu/in-n-out-burger-formula-high-pay.md)** (Serial 516)
+- **[The In-N-Out Burger Formula: High Pay, Simple Menu, Massive Profits](../knowledge/owner-short-form/menu/in-n-out-burger-formula-high-pay.md)** (Serial 516)
   - In-N-Out pays their store managers $160,000 a year, while most restaurant chains are cutting wages and looking for cheapest hire they can find.
   - Simplicity drives over $6 million a year in revenue per location.
   - Now, the average McDonald's does about $2 million a year.
-- **[The $120 steak is SECRETLY making you spend more on everything else](../knowledge/menu/120-steak-secretly-spend-on.md)** (Serial 530)
+- **[The $120 steak is SECRETLY making you spend more on everything else](../knowledge/owner-short-form/menu/120-steak-secretly-spend-on.md)** (Serial 530)
   - $120 Wagyu steak is a trap, and here's a billion-dollar trick behind it.
   - So, when you land on the $42 ribeye sitting right below it, you don't think it is expensive.
-- **[EVERY Profitable Restaurant Must Have These 5 Menu Items](../knowledge/menu/profitable-restaurant-must-have-these.md)** (Serial 531)
+- **[EVERY Profitable Restaurant Must Have These 5 Menu Items](../knowledge/owner-short-form/menu/profitable-restaurant-must-have-these.md)** (Serial 531)
   - It doesn't matter how many of them they sell, what it does but it makes your $25 ribeye look like a deal.
   - Number three, an easy upsell under $10.
   - It costs them what, $2 to make?
-- **[3 Menu Hacks That Lead to More Sales in 2026](../knowledge/menu/3-menu-hacks-lead-sales.md)** (Serial 549)
+- **[3 Menu Hacks That Lead to More Sales in 2026](../knowledge/owner-short-form/menu/3-menu-hacks-lead-sales.md)** (Serial 549)
   - They're like $20 a month with the right prompt to make even a iPhone image look really, really good now without having to pay a commercial photographer On the dish descriptions, we tested this across a few hundred restaurants.
   - More than 85% of menu views in 2026 are happening on mobile devices, which means that linking people to a PDF menu or very, very long menu with dozens of categories ends up greatly deterring them from actually placing an order.
-- **[Confusing Menus Kill More Restaurants Than Bad Food](../knowledge/menu/confusing-menus-kill-restaurants-than.md)** (Serial 564)
+- **[Confusing Menus Kill More Restaurants Than Bad Food](../knowledge/owner-short-form/menu/confusing-menus-kill-restaurants-than.md)** (Serial 564)
   - Now, what is the point of collecting $10,000 and not keeping any of it?
   - 80% of bars and restaurants may fail in the next 5 years.
-- **[Most Bars Are Underpricing Cocktails Without Realizing It](../knowledge/menu/most-bars-underpricing-cocktails-without.md)** (Serial 567)
+- **[Most Bars Are Underpricing Cocktails Without Realizing It](../knowledge/owner-short-form/menu/most-bars-underpricing-cocktails-without.md)** (Serial 567)
   - An $8.50 Tom Collins that looks like a 33% pour cost drink on paper is often closer to 40% real cost once operational overhead is factored.
   - Raising a signature cocktail from $8.50 to $10 recovers thousands in profit across annual volume from a single menu item.
-- **[This Mind Trick Raises Check Averages By 40%](../knowledge/menu/mind-raises-check-averages-by.md)** (Serial 587)
+- **[This Mind Trick Raises Check Averages By 40%](../knowledge/owner-short-form/menu/mind-raises-check-averages-by.md)** (Serial 587)
   - Swap one question across your whole front of house and watch check averages jump 30 to 40%.
-- **[6 Steps to 6-Figure Catering Revenue (Easy Guide)](../knowledge/menu/6-steps-6-figure-catering-revenue.md)** (Serial 592)
+- **[6 Steps to 6-Figure Catering Revenue (Easy Guide)](../knowledge/owner-short-form/menu/6-steps-6-figure-catering-revenue.md)** (Serial 592)
   - One $1,000 catering order can put your food in front of 100 potential repeat customers in a single afternoon.
-- **[The Exact Formula to Price Every Add-On on Your Menu](../knowledge/menu/exact-formula-price-add-on-on.md)** (Serial 600)
+- **[The Exact Formula to Price Every Add-On on Your Menu](../knowledge/owner-short-form/menu/exact-formula-price-add-on-on.md)** (Serial 600)
   - A case of chicken costs $120 and weighs 40 pounds.
   - $120 ÷ 40 = $3 per pound.
   - $3 ÷ 16 = $0.19 per ounce 3️ Calculate your raw cost.
-- **[The psychology behind how people read menus](../knowledge/menu/psychology-behind-people-read-menus.md)** (Serial 603)
+- **[The psychology behind how people read menus](../knowledge/owner-short-form/menu/psychology-behind-people-read-menus.md)** (Serial 603)
   - Restaurants that engineer their menus around this pattern typically see a 10 to 15% increase in profits without changing a single recipe or spending a dollar on marketing.
-- **[Stop ignoring this high margin menu hack](../knowledge/menu/ignoring-high-margin-menu-hack.md)** (Serial 604)
+- **[Stop ignoring this high margin menu hack](../knowledge/owner-short-form/menu/ignoring-high-margin-menu-hack.md)** (Serial 604)
   - Frozen beverages have margins between 50 and 70 percent.
-- **[$1,000 Machine That Makes Drinks Worth Triple](../knowledge/menu/1000-machine-drinks-worth-triple.md)** (Serial 615)
+- **[$1,000 Machine That Makes Drinks Worth Triple](../knowledge/owner-short-form/menu/1000-machine-drinks-worth-triple.md)** (Serial 615)
   - Restaurant owners are paying $1,000 for this machine...
-- **[The Correct Way to Calculate Menu Price (Not the 3x Rule)](../knowledge/menu/correct-way-calculate-menu-price.md)** (Serial 667)
+- **[The Correct Way to Calculate Menu Price (Not the 3x Rule)](../knowledge/owner-short-form/menu/correct-way-calculate-menu-price.md)** (Serial 667)
   - For example, if a Margherita pizza costs $3.50 to make and your target food cost is 25%:.
   - You might price it at $13.99.
   - It s simply the math behind a roughly 33% food-cost target.
-- **[What’s the “Lipstick Index”?](../knowledge/menu/whats-lipstick-index.md)** (Serial 679)
+- **[What’s the “Lipstick Index”?](../knowledge/owner-short-form/menu/whats-lipstick-index.md)** (Serial 679)
   - People will skip the $30 dinner and still buy a $9 matcha.
   - A $3 to $5 upgrade a guest can say yes to without thinking about it.
-- **[The Science of Selling: How Many Items Should Be on Your Menu?](../knowledge/menu/science-selling-many-items-should.md)** (Serial 685)
+- **[The Science of Selling: How Many Items Should Be on Your Menu?](../knowledge/owner-short-form/menu/science-selling-many-items-should.md)** (Serial 685)
   - Use the 80/20 Rule: 20% of your menu items likely generate 80% of your revenue.
-- **[Whats the Difference Between Average Check and Average Cover? [Explained]](../knowledge/menu/whats-difference-between-average-check.md)** (Serial 707)
+- **[Whats the Difference Between Average Check and Average Cover? [Explained]](../knowledge/owner-short-form/menu/whats-difference-between-average-check.md)** (Serial 707)
   - Imagine a family of 4 spends $100 at your restaurant.
   - Average check: $100 per transaction.
   - Average cover: $100 ÷ 4 guests = $25 per guest.
 
 ## Operations
 
-- **[How Branded Apps Can Help Restaurant Owners Expand To Multiple Locations](../knowledge/operations/location-data-expansion-push-notifications.md)** (Serial 007)
+- **[How Branded Apps Can Help Restaurant Owners Expand To Multiple Locations](../knowledge/owner-short-form/operations/location-data-expansion-push-notifications.md)** (Serial 007)
   - Talking Tacos scaled from 1 to 5 locations using app-driven customer density analytics and targeted push notifications.
-- **[The RICHEST Restaurant Owner You've Never Heard Of!](../knowledge/operations/the-richest-restaurant-owner-youve-never-hear.md)** (Serial 178)
+- **[The RICHEST Restaurant Owner You've Never Heard Of!](../knowledge/owner-short-form/operations/the-richest-restaurant-owner-youve-never-hear.md)** (Serial 178)
   - Ravi jaipura is worth more than the founder of McDonald's and the founder of Subway combined and you've probably never heard of him when Ravi started opening restaurants in 1997 serving Western food in India that was thought to be crazy because it was so different from what Indian consumers could afford but what Ravi knew was India's economy was growing in such a way that eventually consumers would have money to spend and want to spend it on what are considered to be some of the best food options in the western world like KFC so by owning those Concepts Robie was able to build his $16 billion Empire he didn't just think that were going to work but saw a world in which he could make it more appealing to the Indian palette he created a vegetable Zinger for KFC in India and paner popcorn with his Pizza Hut locations he ended up convincing Pizza Hut Corporate to let him start offering tendor paneer and that became their bestselling Pizza in India.
-- **[I Discovered The SECRET To Texas Roadhouse's MILLIONS](../knowledge/operations/i-discovered-texas-roadhouses-millions.md)** (Serial 201)
+- **[I Discovered The SECRET To Texas Roadhouse's MILLIONS](../knowledge/owner-short-form/operations/i-discovered-texas-roadhouses-millions.md)** (Serial 201)
   - If we just create a steakhouse concept that people can get a steak dinner between 18 and $30 for that this would be the ultimate hit.
   - They're surfing over 15% of the population of Ashland Kentucky every week over $6 million a year in sales.
   - Olive Garden that's doing only $4.5 million a year in sales or Applebee's.
-- **[Why This Billion Dollar Restaurant Chain DISAPPEARED?](../knowledge/operations/billion-dollar-restaurant-chain-disappeared.md)** (Serial 204)
+- **[Why This Billion Dollar Restaurant Chain DISAPPEARED?](../knowledge/owner-short-form/operations/billion-dollar-restaurant-chain-disappeared.md)** (Serial 204)
   - Boston chicken was killing it they invented the rotisserie chicken category in the 1980s doing over $1 billion a year in sales.
-- **[Subway's $10B STRATEGY To Outsmart Competitors](../knowledge/operations/subways-10b-strategy-outsmart-competitors.md)** (Serial 208)
+- **[Subway's $10B STRATEGY To Outsmart Competitors](../knowledge/owner-short-form/operations/subways-10b-strategy-outsmart-competitors.md)** (Serial 208)
   - Subway was starting to take off with the $5 foot long special.
-- **[How A Failed College Project Became A $7 BILLION Restaurant Empire?](../knowledge/operations/failed-college-project-became-7.md)** (Serial 211)
+- **[How A Failed College Project Became A $7 BILLION Restaurant Empire?](../knowledge/owner-short-form/operations/failed-college-project-became-7.md)** (Serial 211)
   - He did that's what made him $7 billion here's the shocking part he actually submitted his business proposal to start Raising Canes in college.
-- **[Restaurant Franchise Success SECRETS That Nobody Talks About!](../knowledge/operations/restaurant-franchise-success-secrets-talks.md)** (Serial 226)
+- **[Restaurant Franchise Success SECRETS That Nobody Talks About!](../knowledge/owner-short-form/operations/restaurant-franchise-success-secrets-talks.md)** (Serial 226)
   - Maintain. Recent research by Fran Data proves that it costs franchisers an average of $70,000 per unit to support franchises with training systems, legal, and quality assurance. Which is why the magic number of franchises tends to be at about 20 locations. That's when it starts becoming really profitable.
-- **[How In-N-Out Changed Fast Food Forever With a $5 Military Speaker](../knowledge/operations/in-n-out-changed-fast-food-forever.md)** (Serial 229)
+- **[How In-N-Out Changed Fast Food Forever With a $5 Military Speaker](../knowledge/owner-short-form/operations/in-n-out-changed-fast-food-forever.md)** (Serial 229)
   - In-N-Out actually invented the drive-thru they were the first one to create it in California using a two-way speaker system for ordering that he created using military surplus of equipment that he literally bought for $5 then when their drive-thru took off it became the thing that In-N-Out was known.
-- **[The Genius Strategy Behind This $5B Restaurant Success?](../knowledge/operations/genius-strategy-behind-5b-restaurant.md)** (Serial 233)
+- **[The Genius Strategy Behind This $5B Restaurant Success?](../knowledge/owner-short-form/operations/genius-strategy-behind-5b-restaurant.md)** (Serial 233)
   - This salad restaurant ipoed at $5 billion reaching over 200 locations just 15 years after being founded lesson number one from the 22-year-old founder Jonathan Neeman selecting a very small space for his store at just 500 ft with no dining room.
-- **[The Genius Behind Panera's Unlimited Drink Strategy](../knowledge/operations/genius-behind-paneras-unlimited-drink.md)** (Serial 238)
+- **[The Genius Behind Panera's Unlimited Drink Strategy](../knowledge/owner-short-form/operations/genius-behind-paneras-unlimited-drink.md)** (Serial 238)
   - Unlimited soft drinks for $10 a month.
   - It absolutely took off. Now, you might be thinking, can't that make them lose huge amounts of money if they just started giving away something that they sell for $3.50 a cup? That's literally taking a customer that could be worth $100 a month. The fascinating thing here is that their numbers show that instead of driving down their average revenue per customer, this drives it way up. Customers on Panera's subscription visit 10 times more frequently.
   - Bring customers one in five times who aren't subscribers. and spend 40% more on high ticket items like entre. This is invoking a really powerful thing in psychology called reciprocity bias where when somebody feels like they're getting lots of great free stuff, they end up wanting to reciprocate, in this case by spending more money. And that ends up driving massive additional revenue for Panera.
-- **[How One Pizza Shop Beat 78,000 Competitors With SPICE!](../knowledge/operations/one-pizza-shop-beat-78000.md)** (Serial 255)
+- **[How One Pizza Shop Beat 78,000 Competitors With SPICE!](../knowledge/owner-short-form/operations/one-pizza-shop-beat-78000.md)** (Serial 255)
   - In a country with 78,31 pizzeras like the United States, how do you stand out from the other 78,300? The answer, a food challenge. That's exactly what the owner of Hell's Pizza in New Zealand did in 2012. They launched their pizza roulette challenge, which invited customers to order a pizza with a twist. One random slice on that pizza would include two drops of ghost pepper chili sauce, the hottest peppers in the world. Not only did Hell's Pizza have their biggest sales day ever during this event, seeing a spike of over $3,000 per day, but the challenge made international headlines.
-- **[Why Small Towns Made Texas Roadhouse MILLIONS?](../knowledge/operations/small-towns-made-texas-roadhouse.md)** (Serial 257)
+- **[Why Small Towns Made Texas Roadhouse MILLIONS?](../knowledge/owner-short-form/operations/small-towns-made-texas-roadhouse.md)** (Serial 257)
   - Texas Roadhouse's first location reached over $6 million a year in sales in a town of less than 30,000 people.
   - Specific locations, they're serving over 15% of the population of Ashland, Kentucky every week. bats. How.
-- **[The Secret Story Behind Subway's Billion Dollar Success](../knowledge/operations/story-behind-subways-billion-dollar.md)** (Serial 266)
+- **[The Secret Story Behind Subway's Billion Dollar Success](../knowledge/owner-short-form/operations/story-behind-subways-billion-dollar.md)** (Serial 266)
   - , 17-year-old Fred Duca opened Pete's Super Submarines in Bridgeport, Connecticut in 1965. And today he's worth $3.7 billion. How could that be possible if you haven't heard of Pete's Submarines the restaurant? When they started advertising with the name pizza submarines, the radio ads made it sound like pizza marines, leading to people think it was a pizza restaurant when in fact all Fred served was Subway sandwiches. That's what led to them shortening their name to just Subway as the brand took.
-- **[One Dish Made This Restaurant Owner $7 BILLION](../knowledge/operations/one-dish-made-restaurant-owner.md)** (Serial 275)
+- **[One Dish Made This Restaurant Owner $7 BILLION](../knowledge/owner-short-form/operations/one-dish-made-restaurant-owner.md)** (Serial 275)
   - One unusual dish made this founder $7 billion. That's the story of Todd Graves, who got the idea for raising canes in a college class. Here's the shocking part. He actually submitted his business proposal to start raising canes in college.
-- **[Panera Bread's Unlimited Drink Strategy is a GAME CHANGER for Restaurants](../knowledge/operations/panera-breads-unlimited-drink-strategy.md)** (Serial 289)
+- **[Panera Bread's Unlimited Drink Strategy is a GAME CHANGER for Restaurants](../knowledge/owner-short-form/operations/panera-breads-unlimited-drink-strategy.md)** (Serial 289)
   - Unlimited soft drinks for $10 a month.
   - It absolutely took off. Now, you might be thinking, can't that make them lose huge amounts of money if they just started giving away something that they sell for $3.50 a cup? That's literally taking a customer that could be worth $100 a month. The fascinating thing here is that their numbers show that instead of driving down their average revenue per customer, this drives it way up. Customers on Panera's subscription visit 10 times more frequently.
   - Bring customers one in five times who aren't subscribers. and spend 40% more on high ticket items like entre. This is invoking a really powerful thing in psychology called reciprocity bias where when somebody feels like they're getting lots of great free stuff, they end up wanting to reciprocate. in this case by spending more money.
-- **[Why Letting Anyone Franchise Your Restaurant Is a Huge Mistake](../knowledge/operations/letting-anyone-franchise-restaurant-huge.md)** (Serial 301)
+- **[Why Letting Anyone Franchise Your Restaurant Is a Huge Mistake](../knowledge/owner-short-form/operations/letting-anyone-franchise-restaurant-huge.md)** (Serial 301)
   - They let anybody franchise their concept. It sounds good in the short term, more income, higher franchise fees, more locations, but it ends up jeopardizing the value of that brand in the market. This is why Panera Bread only had an acceptance rate of 0.25% 25% from the beginning, making it more than 10 times more selective than Harvard. And that's even with ensuring that every application comes from a millionaire that has at least $3 million in cash to open.
-- **[Why McDonald's Makes More From Fries Than Burgers!](../knowledge/operations/mcdonalds-fries-than-burgers.md)** (Serial 313)
+- **[Why McDonald's Makes More From Fries Than Burgers!](../knowledge/owner-short-form/operations/mcdonalds-fries-than-burgers.md)** (Serial 313)
   - Their numbers, most of their profit comes from fries, soft drinks, and mcafe coffee, not from burgers. They use burgers to lure people in with great value. It's just $5 for a Big Mac. But then when you calculate the food cost of a Big Mac, it's beef, American cheese, and a sesame seed bun. It's a $2 food cost on that $5 burger, which means 40% and that they just make $3 in gross profit. But when customers add fries to that order, it might seem like they're just adding $2.50 50 cents in sales. But those fries are made of the cheapest possible ingredients, potatoes, vegetable oil, and salt. That means that they carry a food cost of just 25 or 10% of that overall $2.50. That leaves $2.25 25 cents in gross profit, which means that their profit just doubled by adding the fries.
-- **[Why Small Towns are the KEY to Texas Roadhouse's MASSIVE Success](../knowledge/operations/small-towns-key-texas-roadhouses.md)** (Serial 315)
+- **[Why Small Towns are the KEY to Texas Roadhouse's MASSIVE Success](../knowledge/owner-short-form/operations/small-towns-key-texas-roadhouses.md)** (Serial 315)
   - If we just create a steakhouse concept that people can get a steak dinner between $18 and $30 for that this would be the ultimate hit.
   - . They're serving over 15% of the population of Ashland, Kentucky every week. Over $6 million a year in sales.
   - Olive Garden, that's doing only $4.5 million a year in sales.
-- **[The Surprising Secret Behind Panera Bread’s Success!](../knowledge/operations/surprising-behind-panera-breads-success.md)** (Serial 316)
+- **[The Surprising Secret Behind Panera Bread’s Success!](../knowledge/owner-short-form/operations/surprising-behind-panera-breads-success.md)** (Serial 316)
   - French bakery merge to create a $7 billion restaurant empire? When Ron was starting what would become Panera Bread, he noticed his customer base starting to act very strange in sneaking in deli meat.
-- **[Can AI Save Your Restaurant in 2026?](../knowledge/operations/ai-save-restaurant-2026.md)** (Serial 322)
+- **[Can AI Save Your Restaurant in 2026?](../knowledge/owner-short-form/operations/ai-save-restaurant-2026.md)** (Serial 322)
   - Driving more than $50 million a year in sales. One of Mo's secrets is that he uses AI to create personalized marketing campaigns. He doesn't just send the same generic email to everyone. Instead, he lets AI write a personalized message that's inspired by the specific dish that each guest likes. The data shows that AIdriven email campaigns can deliver more than 4,400% ROI.
-- **[How One Mistake Costs Your Restaurant $720!](../knowledge/operations/one-mistake-costs-restaurant-720.md)** (Serial 329)
+- **[How One Mistake Costs Your Restaurant $720!](../knowledge/owner-short-form/operations/one-mistake-costs-restaurant-720.md)** (Serial 329)
   - Reason your restaurant is losing $720 every day. Imagine a family orders twice a month with you. That is 24 times over the year. And each time they come, they spend $30 with you. That is $720. And that is what that guest is worth to you.
   - Dime with a customer over a $1 ranch dip cup, we are risking losing $720. And if every new team member on our team understood that math, they would treat each guest different.
-- **[This Restaurant's Wild Idea Changed Everything!](../knowledge/operations/restaurants-wild-idea-changed-everything.md)** (Serial 332)
+- **[This Restaurant's Wild Idea Changed Everything!](../knowledge/owner-short-form/operations/restaurants-wild-idea-changed-everything.md)** (Serial 332)
   - This unique strategy made this brand new restaurant $1.4 million in their first year in business. It's called micro influencer partnerships. What Karen from Sushimi Roland did was she gave influencers free merch.
   - Her husband Philip did over $1.4.
   - She designed. One of them says, "I like it raw with a sushi on it. Quite a wild t-shirt, but it got a lot of attention from local influencers." She also gave them a code to use to tell their friends, family, and followers about to use when they were in the restaurant. They gave them 15% off their first order. So, the combination of each of these things ended up creating an effect where Karen.
-- **[The Secret To Growing Your Restaurant Fast!](../knowledge/operations/growing-restaurant-fast.md)** (Serial 356)
+- **[The Secret To Growing Your Restaurant Fast!](../knowledge/owner-short-form/operations/growing-restaurant-fast.md)** (Serial 356)
   - I used to crank out hundreds of pizzas every single day, working side by side by our crew, and I thought I was killing it. Then I realized working a $12 an hour job doesn't actually help my team. It hurts them. There is a concept in economics called the opportunity cost, where every hour you're spending one thing is an hour you can't spend on something more valuable. So instead of working the line for 10 hours, I use those same 10 hours to build training systems. We lock in big catering orders, add new locations, and ultimately create bigger opportunities for our people. And that is how you scale, by building a team that can win without you. Follow owner for more restaurant growth hacks.
-- **[The Surprising Mistake That Destroyed Boston Market!](../knowledge/operations/surprising-mistake-destroyed-boston-market.md)** (Serial 362)
+- **[The Surprising Mistake That Destroyed Boston Market!](../knowledge/owner-short-form/operations/surprising-mistake-destroyed-boston-market.md)** (Serial 362)
   - Five new customers, that number went to one in five. Even worse, investors started losing faith in the company's direction, causing Boston Markets stock to plummet by nearly 60% in 5 months.
-- **[How a Teen Built a Sandwich Empire!](../knowledge/operations/teen-built-sandwich-empire.md)** (Serial 363)
+- **[How a Teen Built a Sandwich Empire!](../knowledge/owner-short-form/operations/teen-built-sandwich-empire.md)** (Serial 363)
   - , 17-year-old Fred DeLuca opened Pete's Super Submarines in Bridgeport, Connecticut in 1965. And today he's worth $3.7 billion. How could that be possible if you haven't heard of Pete's Submarines, the restaurant? When they started advertising with the name Pete's Submarines, the radio ads made it sound like Pizza Marines, leading to people think it was a pizza restaurant, when in fact all Fred served was Subway sandwiches. That's what led to them shortening their name to just Subway as the brand took off.
-- **[What Makes Texas Roadhouse So Popular?](../knowledge/operations/texas-roadhouse-so-popular.md)** (Serial 375)
+- **[What Makes Texas Roadhouse So Popular?](../knowledge/owner-short-form/operations/texas-roadhouse-so-popular.md)** (Serial 375)
   - Kent chose this strategy of focusing on small towns, knowing that most steakous had avoided small towns. And  his insight was if we just create a steakhouse concept that is at a slightly lower price point that people can get a steak dinner in between $18.
   - $30 for it would give them a price point that they could afford. That's how Texas Road Houses's first location  reached over $6 million a year in sales in a town of less than 30,000.
-- **[This Is How Struggling Restaurants Became Goldmines](../knowledge/operations/struggling-restaurants-became-goldmines.md)** (Serial 376)
+- **[This Is How Struggling Restaurants Became Goldmines](../knowledge/owner-short-form/operations/struggling-restaurants-became-goldmines.md)** (Serial 376)
   - Turn them around to make the Moric successful. Some other examples of restaurants that he did this with were Landre that he bought for just $30 million.
-- **[Are You Making This Expensive Restaurant Mistake?](../knowledge/operations/expensive-restaurant-mistake.md)** (Serial 384)
+- **[Are You Making This Expensive Restaurant Mistake?](../knowledge/owner-short-form/operations/expensive-restaurant-mistake.md)** (Serial 384)
   - I wasted hundreds of thousands of dollars before mastering this one restaurant profitability formula. That's the 30 3030 10 rule. 30% food cost, 30% labor, 30% overhead, 10% profits. Your manager may say 3% off budget. You know what's the big deal? At a weekly sales of $15,000, 3% off means $450 a week. Now, that over 52 weeks, we're talking about $23,400. Enough to cover a new oven. a full month of payroll, an entire years of marketing budget. Follow owner for more restaurant growth math that will actually make you money. I wasted hundreds of thousands of dollars before mastering this one restaurant profitability formula.
-- **[Why Every Restaurant Needs AI in 2026!](../knowledge/operations/restaurant-needs-ai-2026.md)** (Serial 392)
+- **[Why Every Restaurant Needs AI in 2026!](../knowledge/owner-short-form/operations/restaurant-needs-ai-2026.md)** (Serial 392)
   - Driving more than $50 million a year in sales. One of Mo's secrets is that he uses AI to create personalized marketing campaigns. He doesn't just send the same generic email to everyone. Instead, he lets AI write a personalized message that's inspired by the specific dish that each guest likes. The data shows that AI-driven email campaigns can deliver more than 4,400% ROI. That means that for every dollar spent, Mo gets $44 back in sales.
-- **[Panera's SECRET to a $6.4B Franchise Empire Revealed](../knowledge/operations/paneras-64b-franchise-empire-revealed.md)** (Serial 395)
+- **[Panera's SECRET to a $6.4B Franchise Empire Revealed](../knowledge/owner-short-form/operations/paneras-64b-franchise-empire-revealed.md)** (Serial 395)
   - Making it harder to franchise than it is to get into Harvard, wouldn't that actually kill your ability to expand? I would think so, too, but I've now seen thousands of restaurants make this mistake that ends up killing them, which is that they see franchisees pounding down their door, and then they let anybody franchise their concept. It sounds good in the short term, more income, higher franchise fees, more locations, but it ends up jeopardizing the value of that brand in the market. This is why Panera Bread only had an acceptance rate of .25% from the beginning, making it more than 10 times more selective than Harvard, and that's even with ensuring that every application comes from a millionaire that has at least $3 million in cash to open a location.
-- **[Why Outside Food Helped Panera Become a $6.4B Empire](../knowledge/operations/outside-food-helped-panera-become.md)** (Serial 404)
+- **[Why Outside Food Helped Panera Become a $6.4B Empire](../knowledge/owner-short-form/operations/outside-food-helped-panera-become.md)** (Serial 404)
   - How did a cookie store and French bakery merge to create a $7 billion restaurant empire?
-- **[Boston Market's BIGGEST Mistake That Led to Bankruptcy](../knowledge/operations/boston-markets-biggest-mistake-led.md)** (Serial 405)
+- **[Boston Market's BIGGEST Mistake That Led to Bankruptcy](../knowledge/owner-short-form/operations/boston-markets-biggest-mistake-led.md)** (Serial 405)
   - They invented the rotisserie chicken category in the 1980s, doing over $1 billion a year in sales.
-- **[Why Catering Prints Money for Restaurants](../knowledge/operations/catering-prints-money-restaurants.md)** (Serial 412)
+- **[Why Catering Prints Money for Restaurants](../knowledge/owner-short-form/operations/catering-prints-money-restaurants.md)** (Serial 412)
   - If you land a $1,000 catering, it's $10 per person and you get to serve 100 people.
   - Gives you $30 per transaction, twice a month, $60.
   - That's $3,600 over the year from one catering event.
-- **[Panera Cracked the Code Nobody Thought Possible](../knowledge/operations/panera-cracked-code-thought-possible.md)** (Serial 420)
+- **[Panera Cracked the Code Nobody Thought Possible](../knowledge/owner-short-form/operations/panera-cracked-code-thought-possible.md)** (Serial 420)
   - Panera Bread offered customers unlimited coffee and unlimited soft drinks for $10 a month and it absolutely took off.
   - Now, you might be thinking, can't that make them lose huge amounts of money if they just started giving away something that they sell for $3.50 a cup?
   - That's literally taking a customer that could be worth $100 a month.
-- **[This $600K Problem Destroys Restaurants](../knowledge/operations/600k-problem-destroys-restaurants.md)** (Serial 421)
+- **[This $600K Problem Destroys Restaurants](../knowledge/owner-short-form/operations/600k-problem-destroys-restaurants.md)** (Serial 421)
   - Would you give someone who lives paycheck to paycheck a budget of $600,000 a year to manage?
   - Instead, say every hour over Target cost us $18.
   - You've got 26% labor at 7 p.m.
-- **[The $1 Raise That Could Break Your Restaurant](../knowledge/operations/1-raise-could-break-restaurant.md)** (Serial 428)
+- **[The $1 Raise That Could Break Your Restaurant](../knowledge/owner-short-form/operations/1-raise-could-break-restaurant.md)** (Serial 428)
   - At $15 an hour, they make around $712 per week.
   - Now, with $1 raised, this team member is going to be at $16 an hour.
   - Of course, an overtime rate of $24 an hour.
-- **[Why Did Red Lobster Go Bankrupt?](../knowledge/operations/red-lobster-go-bankrupt.md)** (Serial 429)
+- **[Why Did Red Lobster Go Bankrupt?](../knowledge/owner-short-form/operations/red-lobster-go-bankrupt.md)** (Serial 429)
   - Red Lobster lost $11 million in one quarter, and one menu decision played a major role.
   - $20 all you can eat shrimp all day, every day.
   - Traffic went up 2% versus the previous quarter and 4% over previous privilege year.
-- **[Restaurants making bank this December all do the same thing!](../knowledge/operations/restaurants-bank-december-all-do.md)** (Serial 430)
+- **[Restaurants making bank this December all do the same thing!](../knowledge/owner-short-form/operations/restaurants-bank-december-all-do.md)** (Serial 430)
   - Number one, 75% of all restaurants traffic during holiday season comes from off- premise dining such as catering orders and  takeouts.
-- **[The Three Rules That Built Jersey Mike's](../knowledge/operations/three-rules-built-jersey-mikes.md)** (Serial 439)
+- **[The Three Rules That Built Jersey Mike's](../knowledge/owner-short-form/operations/three-rules-built-jersey-mikes.md)** (Serial 439)
   - This 17-year-old turned a single sandwich shop into an $8 billion brand with over 3,000 locations.
-- **[The void trick that costs restaurants millions?](../knowledge/operations/void-costs-restaurants-millions.md)** (Serial 444)
+- **[The void trick that costs restaurants millions?](../knowledge/owner-short-form/operations/void-costs-restaurants-millions.md)** (Serial 444)
   - Employee theft can cost a restaurant 5% of their sales.
-- **[Why Chick-fil-A Makes More Money Closed on Sundays](../knowledge/operations/chick-fil-a-money-closed-on-sundays.md)** (Serial 452)
+- **[Why Chick-fil-A Makes More Money Closed on Sundays](../knowledge/owner-short-form/operations/chick-fil-a-money-closed-on-sundays.md)** (Serial 452)
   - Doesn't that cost them 15% or more of their sales?
   - Chick-fil-A's founder was a devout Christian, like 67% of Americans are.
-- **[99% of restaurants are doing this wrong](../knowledge/operations/99-restaurants-doing-wrong.md)** (Serial 461)
+- **[99% of restaurants are doing this wrong](../knowledge/owner-short-form/operations/99-restaurants-doing-wrong.md)** (Serial 461)
   - 99% of restaurants confuse service with hospitality and that mistake keeps them average.
-- **[Increase Restaurant Check Size By 40%](../knowledge/operations/increase-restaurant-check-size-by.md)** (Serial 463)
+- **[Increase Restaurant Check Size By 40%](../knowledge/owner-short-form/operations/increase-restaurant-check-size-by.md)** (Serial 463)
   - Restaurants that train this language see 30 to 40% higher check averages.
-- **[99% of Restaurant Owners Make This Mistake](../knowledge/operations/99-restaurant-owners-mistake.md)** (Serial 471)
+- **[99% of Restaurant Owners Make This Mistake](../knowledge/owner-short-form/operations/99-restaurant-owners-mistake.md)** (Serial 471)
   - I realized working a $12 an hour job doesn't actually help my team.
-- **[Are restaurants competing on the wrong thing entirely?](../knowledge/operations/restaurants-competing-on-wrong-thing.md)** (Serial 484)
+- **[Are restaurants competing on the wrong thing entirely?](../knowledge/owner-short-form/operations/restaurants-competing-on-wrong-thing.md)** (Serial 484)
   - This restaurant gives free manicures and has built a $9 billion empire.
-- **[Your Restaurant Playlist Might Be LOSING You Thousands!](../knowledge/operations/restaurant-playlist-might-be-losing.md)** (Serial 506)
+- **[Your Restaurant Playlist Might Be LOSING You Thousands!](../knowledge/owner-short-form/operations/restaurant-playlist-might-be-losing.md)** (Serial 506)
   - In 1982, a psychologist found out that guests sitting in a slow-tempo music lingered 14 minutes longer and spend 29% more.
-- **[Why Daily Specials Are Expiring For Restaurants](../knowledge/operations/daily-specials-expiring-restaurants.md)** (Serial 507)
+- **[Why Daily Specials Are Expiring For Restaurants](../knowledge/owner-short-form/operations/daily-specials-expiring-restaurants.md)** (Serial 507)
   - Say you have 6 lb of salmon that cost you $12 per pound wholesale and that $72 is sitting on the shelf in the walk-in and it expires in 2 days.
   - The total cost is going to be $5.40.
   - Now, divide that by the target cost of 25% and now your special price should be $22 for that dish.
-- **[McDonald's No.1 Money-Making Secret](../knowledge/operations/mcdonalds-no1-money-making.md)** (Serial 514)
+- **[McDonald's No.1 Money-Making Secret](../knowledge/owner-short-form/operations/mcdonalds-no1-money-making.md)** (Serial 514)
   - Their Big Mac might sell for $5, but with a food cost of about $2, they're only making $3 in gross profit from that Big Mac.
   - When they sell $2.50 worth of fries with a food cost of just $0.25, that's $2.25 in additional profit on their fries, nearly doubling their profit on that transaction.
-- **[Why Restaurants Are Struggling More Than Ever Right Now](../knowledge/operations/restaurants-struggling-than-right-now.md)** (Serial 521)
+- **[Why Restaurants Are Struggling More Than Ever Right Now](../knowledge/owner-short-form/operations/restaurants-struggling-than-right-now.md)** (Serial 521)
   - The national average for a gallon of gas just jumped from $2.98 to $3.98 in a single month.
-- **[How Much Does It ACTUALLY Cost to Run a Restaurant?](../knowledge/operations/much-does-it-actually-cost.md)** (Serial 534)
+- **[How Much Does It ACTUALLY Cost to Run a Restaurant?](../knowledge/owner-short-form/operations/much-does-it-actually-cost.md)** (Serial 534)
   - Around $44,000 a month we pay for food and that's our biggest expenses.
   - $26,400 on labor, which is our second biggest cost.
   - The rent of this location is around $10,500 and that does not include the $600 gas bill or the $1,800 a month in electric bill.
-- **[The No.1 Hidden Cost of Running a Restaurant](../knowledge/operations/no1-hidden-cost-running-restaurant.md)** (Serial 545)
+- **[The No.1 Hidden Cost of Running a Restaurant](../knowledge/owner-short-form/operations/no1-hidden-cost-running-restaurant.md)** (Serial 545)
   - They still had an invoice for $700.
-- **[The surprising mistake killing new restaurants before they open](../knowledge/operations/surprising-mistake-killing-new-restaurants.md)** (Serial 546)
+- **[The surprising mistake killing new restaurants before they open](../knowledge/owner-short-form/operations/surprising-mistake-killing-new-restaurants.md)** (Serial 546)
   - So, you told me that you guys were making $40  a day when you were starting out.
-- **[How We Went From $0 to 7 Restaurants (The Honest Truth)](../knowledge/operations/we-went-0-7-restaurants.md)** (Serial 548)
+- **[How We Went From $0 to 7 Restaurants (The Honest Truth)](../knowledge/owner-short-form/operations/we-went-0-7-restaurants.md)** (Serial 548)
   - It was on a Tuesday, payroll was due on Thursday, and it was about like $3,200 and it was right here in this office and it's like 12 years ago.
-- **[How Much Does It ACTUALLY Cost to Open a Restaurant?](../knowledge/operations/much-does-it-actually-cost-560.md)** (Serial 560)
+- **[How Much Does It ACTUALLY Cost to Open a Restaurant?](../knowledge/owner-short-form/operations/much-does-it-actually-cost-560.md)** (Serial 560)
   - $100,000 for the build out, plumbing, electric, ventilation, unless you take over a second gen space like we did, which is much cheaper.
   - Make lines, $4,000 each.
   - Walk-in fridge, around $12,000 plus $3,000 installation.
-- **[The Management System Behind a $7 Million Restaurant (Copy This)](../knowledge/operations/management-system-behind-7-million.md)** (Serial 581)
+- **[The Management System Behind a $7 Million Restaurant (Copy This)](../knowledge/owner-short-form/operations/management-system-behind-7-million.md)** (Serial 581)
   - Mattenga's went from one location doing $500K a year to seven locations doing $7 million.
-- **[Why Dominos Is Slowly Losing America (And What It Means)](../knowledge/operations/dominos-slowly-losing-america-it.md)** (Serial 591)
+- **[Why Dominos Is Slowly Losing America (And What It Means)](../knowledge/owner-short-form/operations/dominos-slowly-losing-america-it.md)** (Serial 591)
   - Domino's has 21,000 locations, a $9.99 pizza, and U.S.
   - Meanwhile, we grew 10% last month.
-- **[How to steal Dominos $1 Million World Cup strategy](../knowledge/operations/steal-dominos-1-million-world.md)** (Serial 602)
+- **[How to steal Dominos $1 Million World Cup strategy](../knowledge/owner-short-form/operations/steal-dominos-1-million-world.md)** (Serial 602)
   - Domino's isn't giving away $1 million in free pizza.
   - If you don't win you still get 20% off your next order.
-- **[What It Takes To Be In the Top 1% of Restaurants](../knowledge/operations/it-takes-be-top-1.md)** (Serial 607)
+- **[What It Takes To Be In the Top 1% of Restaurants](../knowledge/owner-short-form/operations/it-takes-be-top-1.md)** (Serial 607)
   - The difference between a $50K/month restaurant and a $100K/month restaurant isn t better food. It s better systems. Six-figure operators: Prevent bad reviews.
-- **[The Slow Death of Pizza Hut (And What Killed It)](../knowledge/operations/slow-death-pizza-hut-killed.md)** (Serial 609)
+- **[The Slow Death of Pizza Hut (And What Killed It)](../knowledge/owner-short-form/operations/slow-death-pizza-hut-killed.md)** (Serial 609)
   - Pizza Hut just sold for $2.7 billion to private equity.
-- **[Broke owner mindset vs. rich owner mindset ⬇️](../knowledge/operations/broke-owner-mindset-vs-rich.md)** (Serial 627)
+- **[Broke owner mindset vs. rich owner mindset ⬇️](../knowledge/owner-short-form/operations/broke-owner-mindset-vs-rich.md)** (Serial 627)
   - The $100K owner runs a big menu.
   - The $1M owner runs a tight menu.
-- **[How Much Are You Actually Spending on Food?](../knowledge/operations/much-actually-spending-on-food.md)** (Serial 629)
+- **[How Much Are You Actually Spending on Food?](../knowledge/owner-short-form/operations/much-actually-spending-on-food.md)** (Serial 629)
   - Spend $2,500 on food, sell $10,000 worth.
   - That's a 25% food cost.
   - Anything between 15% and 30% keeps your margins healthy.
-- **[This Breakfast Item Makes $48,000/Month](../knowledge/operations/breakfast-item-48000month.md)** (Serial 633)
+- **[This Breakfast Item Makes $48,000/Month](../knowledge/owner-short-form/operations/breakfast-item-48000month.md)** (Serial 633)
   - $8 a case, as of last week.
-- **[Why Restaurants Sell Gift Cards](../knowledge/operations/restaurants-sell-gift-cards.md)** (Serial 638)
+- **[Why Restaurants Sell Gift Cards](../knowledge/owner-short-form/operations/restaurants-sell-gift-cards.md)** (Serial 638)
   - When someone buys a $50 gift card, you collect the cash today and serve nothing yet.
   - Sell 200 cards and that's $10,000 in your account in a month, no food out the door.
   - Breakage drops straight to your bottom line, up to $1,900 on every $10,000 sold.
-- **[How to Open a Restaurant for Less Than $50,000 (2026)](../knowledge/operations/open-restaurant-less-than-50000.md)** (Serial 650)
+- **[How to Open a Restaurant for Less Than $50,000 (2026)](../knowledge/owner-short-form/operations/open-restaurant-less-than-50000.md)** (Serial 650)
   - Some of the best opportunities cost less than $50,000.
-- **[Panera Just Did Something It Avoided for 40 Years](../knowledge/operations/panera-something-it-avoided-40.md)** (Serial 708)
+- **[Panera Just Did Something It Avoided for 40 Years](../knowledge/owner-short-form/operations/panera-something-it-avoided-40.md)** (Serial 708)
   - Operational case study and restaurant strategy for: Panera Just Did Something It Avoided for 40 Years.
-- **[Turn Lunch Rush Into Repeat Orders In 3 EASY Steps](../knowledge/operations/turn-lunch-rush-repeat-orders.md)** (Serial 715)
+- **[Turn Lunch Rush Into Repeat Orders In 3 EASY Steps](../knowledge/owner-short-form/operations/turn-lunch-rush-repeat-orders.md)** (Serial 715)
   - Ashley s Café says it grew monthly sales from about $40K to $70K in seven months after switching to Owner POS, while capturing 65% of walk-in guests.
 
 ## Payments
 
-- **[Why Restaurant Payroll Just Got More Expensive](../knowledge/payments/restaurant-payroll-got-expensive.md)** (Serial 450)
+- **[Why Restaurant Payroll Just Got More Expensive](../knowledge/owner-short-form/payments/restaurant-payroll-got-expensive.md)** (Serial 450)
   - Here is what $1,000 paycheck really costs a restaurant.
   - That $1,000 paycheck actually costs that restaurant around $1,120 depending on the state.
   - In fact, when Congress passed the Raise the Wages Act in 2021, it was projected to add an additional $65 billion in federal revenue because of the increased payroll tax face.
-- **[What's a Tip Pool and Is It Right for Your Restaurant?](../knowledge/payments/whats-tip-pool-it-right.md)** (Serial 519)
+- **[What's a Tip Pool and Is It Right for Your Restaurant?](../knowledge/owner-short-form/payments/whats-tip-pool-it-right.md)** (Serial 519)
   - Your kitchen team, they go home with $17 an hour on average, while your servers walk out with $28 an hour.
-- **[Why Do Restaurants Go CASH Only? (Not Tax Dodging)](../knowledge/payments/do-restaurants-go-cash-only.md)** (Serial 553)
+- **[Why Do Restaurants Go CASH Only? (Not Tax Dodging)](../knowledge/owner-short-form/payments/do-restaurants-go-cash-only.md)** (Serial 553)
   - If a restaurant does a million dollars a year in sales in credit cards, that is about $30,000 a year that is sent to your big companies, Visa, MasterCard, Amex.
   - A good restaurant makes 5 to 10% profit.
   - Another way to do cash only is to pass that 3% in form of a surcharge fee to the customer.
 
 ## Promotions
 
-- **[The Hangover Special that made this restaurant owner record profits](../knowledge/promotions/new-years-hangover-special.md)** (Serial 026)
+- **[The Hangover Special that made this restaurant owner record profits](../knowledge/owner-short-form/promotions/new-years-hangover-special.md)** (Serial 026)
   - A day previously generating $0 became the single best-performing sales day of the entire year.
   - Orders above a $50 minimum threshold received a free hangover pho bowl.
-- **[The genius reason behind this restaurant marketing strategy will surprise you](../knowledge/promotions/super-bowl-free-delivery-economics.md)** (Serial 029)
+- **[The genius reason behind this restaurant marketing strategy will surprise you](../knowledge/owner-short-form/promotions/super-bowl-free-delivery-economics.md)** (Serial 029)
   - Average delivery check size exceeds $150 on Super Bowl Sunday.
   - Delivery fee cost to restaurant: several dollars ($3–$5) per order.
-- **[Restaurants Should Steal This BOGO Strategy To Maximize Profit](../knowledge/promotions/bogo-low-food-cost-threshold.md)** (Serial 042)
+- **[Restaurants Should Steal This BOGO Strategy To Maximize Profit](../knowledge/owner-short-form/promotions/bogo-low-food-cost-threshold.md)** (Serial 042)
   - Maximum food cost threshold for BOGO promotions: under 15% of menu price.
   - Healthy ceiling for total order food cost: under 30%.
   - Disastrous food cost spike when BOGO is applied to 30% meat dish: 60% food cost.
-- **[How Free Items Make Your Restaurant More Money](../knowledge/promotions/how-free-items-make-your-restaurant-more-mone.md)** (Serial 053)
+- **[How Free Items Make Your Restaurant More Money](../knowledge/owner-short-form/promotions/how-free-items-make-your-restaurant-more-mone.md)** (Serial 053)
   - When you offer something for free you can pair the gift with an upsell ask after giving a free item to that customer it's a great time interestingly to suggest other items that go with it our data from thousands of restaurants proves that customers who are receiving free Loyalty Rewards are 50% more likely to take up the upsell recommendations because of the free value that they're getting but be thoughtful here this idea is not just about making more but truly about making your customers experience better if customers think it's just a trick they might not like it you want this to be sincere and relevant we see it work best when after you ask them which loyalty reward you want you let them click checkout and then between the checkout click and the actual checkout page you say you might also like and then you show them relevant items that pair really nicely with the items that they added to their card.
-- **[How Your Restaurant Makes More Money Online](../knowledge/promotions/how-your-restaurant-makes-more-money-online.md)** (Serial 054)
+- **[How Your Restaurant Makes More Money Online](../knowledge/owner-short-form/promotions/how-your-restaurant-makes-more-money-online.md)** (Serial 054)
   - Social media isn't the answer but Google SEO if you're looking to get new customers online is the answer got it and the reason it's the answer is because as we described earlier people when they're searching for restaurants on Google are being showed results that are near them so it's local rather than Global in nature and when they're in that state of mind when they're searching for best Thai food in Los Altos and so if we can get in front of them then then the conversion rate for each impression ends up being so much higher that even a smaller amount of people seeing the market ends up resulting in way more sales across the board we see that Google is the top acquisition channel for restaurants for a shocking number of new customers like over 80% of total new customers to restaurants are coming through Google.
-- **[The Surprising Reason Texas Roadhouse Copied Walmart](../knowledge/promotions/the-surprising-reason-texas-roadhouse-copied.md)** (Serial 080)
+- **[The Surprising Reason Texas Roadhouse Copied Walmart](../knowledge/owner-short-form/promotions/the-surprising-reason-texas-roadhouse-copied.md)** (Serial 080)
   - The reason why Texas Roadhouse is so successful is that they actually copied Walmart what I mean by that is if you study Sam Walton's story in scaling up Walmart to the multi-billion Dollar business it is today you'll notice something interesting Sam Walton the founder of Walmart banned his team from expanding into Big Towns the reason for this was he knew that he'd be able to have a local Monopoly in these small towns and that that would ultimately help him drive significantly more Revenue per store Kent chose this strategy of focusing on small towns that's how Texas roadhouses first location reached over $6 million a year in sales in a town of less than 30,000 people.
-- **[How To Get A Mobile App For Your Restaurant In Less Than 7 Days](../knowledge/promotions/how-to-get-a-mobile-app-for-your-restaurant-i.md)** (Serial 096)
+- **[How To Get A Mobile App For Your Restaurant In Less Than 7 Days](../knowledge/owner-short-form/promotions/how-to-get-a-mobile-app-for-your-restaurant-i.md)** (Serial 096)
   - Sweet green spent millions of dollars to create their own app but that no longer is the way that a restaurant can get their own app because companies have built branded mobile app generators that take your restaurant's online experience from the web and Port it into a mobile app version for less than $1,000 in initial setup costs in less than 7 days there's two major Solutions on the market the cheapest is called chow now which enables a restaurant to have their own app for less than $200 a month but if you want the highest quality solution then that's where owner.com comes in with or you can send push notifications to your guests promote new menu items new specials new events and do it in a very easy way that uses that app as the perfect medium to communicate with your customers.
-- **[Red Lobster's $11 Million Mistake How Endless Shrimp Backfired](../knowledge/promotions/red-lobsters-11-million-mistake-how-endless-s.md)** (Serial 107)
+- **[Red Lobster's $11 Million Mistake How Endless Shrimp Backfired](../knowledge/owner-short-form/promotions/red-lobsters-11-million-mistake-how-endless-s.md)** (Serial 107)
   - In 2023, Red Lobster made its $20 endless shrimp deal permanent, causing a 40% surge in traffic, but overwhelmed staff and led to long wait times.
   - Customers exploited the deal, eating far more than expected, which resulted in a shocking $11 million loss in just one quarter.
   - In 2020, Thai Union bought 49% of Red Lobster, gaining control of the supply chain.
-- **[Is Spending Millions on an App Really Worth It for Restaurants?](../knowledge/promotions/is-spending-millions-on-an-app-really-worth-i.md)** (Serial 136)
+- **[Is Spending Millions on an App Really Worth It for Restaurants?](../knowledge/owner-short-form/promotions/is-spending-millions-on-an-app-really-worth-i.md)** (Serial 136)
   - Sweet green spent millions of dollars to create their own app but that no longer is the way that a restaurant can get their own app because companies have built branded mobile app generators that take your restaurant's online experience from the web and Port it into a mobile app version for less than $1,000 in initial setup costs in less than 7 days there's two major Solutions on the market the cheapest is called chow now which enables a restaurant to have their own app for less than $200 a month but if you want the highest quality solution then that's where owner.com comes in with or you can send push notifications to your guests promote new menu items new specials new events and do it in a very easy way that uses that app as the perfect medium to communicate with your customers.
-- **[Texas Roadhouse's Secret to Beating the Competition!](../knowledge/promotions/texas-roadhouses-secret-to-beating-the-compet.md)** (Serial 179)
+- **[Texas Roadhouse's Secret to Beating the Competition!](../knowledge/owner-short-form/promotions/texas-roadhouses-secret-to-beating-the-compet.md)** (Serial 179)
   - The reason why Texas Roadhouse is so successful is that they actually copied Walmart what I mean by that is if you study Sam Walton's story in scaling up Walmart to the multi-billion Dollar business it is today you'll notice something interesting Sam Walton the founder of Walmart banned his team from expanding into Big Towns the reason for this was he knew that he'd be able to have a local Monopoly in these small towns and that that would ultimately help him drive significantly more Revenue per store Kent chose this strategy of focusing on small towns that's how Texas roadhouses first location reached over $6 million a year in sales in a town of less than 30,000 people.
-- **[Why Chili's $10.99 Deal Is CRUSHING Other Restaurants](../knowledge/promotions/chilis-1099-deal-crushing-other.md)** (Serial 206)
+- **[Why Chili's $10.99 Deal Is CRUSHING Other Restaurants](../knowledge/owner-short-form/promotions/chilis-1099-deal-crushing-other.md)** (Serial 206)
   - Streamlining prep to focus on high growth items like Crispers the real game changer is value the $199 three for me deal offers 11 combos with chips.
   - TGI Friday struggle Chili's same store sales jumped 14.8% last quarter their strategy cutting 13 dishes.
-- **[Giving Away FREE Food Is The KEY To Success In The Restaurant Business](../knowledge/promotions/giving-away-free-food-key.md)** (Serial 242)
+- **[Giving Away FREE Food Is The KEY To Success In The Restaurant Business](../knowledge/owner-short-form/promotions/giving-away-free-food-key.md)** (Serial 242)
   - Painful. But it turns out that there's a way to do it strategically where we can still be highly profitable. Antuinette is the perfect example of this. What she did is tell all of her customers that they get a free garlic bread if they order $60 or more. So to the customer, spending $10 extra to get a $6 free item felt like a no-brainer. Garlic bread might be listed on the menu for $6, but its ingredients are wheat.
   - With such extreme profitability. And what happened next was epic. Her average order increased in check size by over $10. This discount drives her over $1,000 per month in extra profit from that increased check.
-- **[Pizza Shop Owner Makes Bank By Giving Away FREE Pizza](../knowledge/promotions/pizza-shop-owner-bank-by.md)** (Serial 244)
+- **[Pizza Shop Owner Makes Bank By Giving Away FREE Pizza](../knowledge/owner-short-form/promotions/pizza-shop-owner-bank-by.md)** (Serial 244)
   - They cost him under $2 each. His redemption rate is over 80%. There's typically 30 new movers into his town each month. So that means that he usually gets around 24 of them redeeming that offer like clockwork. Now, he does have a high food cost to factor in here as well. So let's say it has an average 30% food cost. That's now $13.33 to acquire customers that are worth thousands.
-- **[How Free Tacos Made This Restaurant MORE Profitable?](../knowledge/promotions/free-tacos-made-restaurant-profitable.md)** (Serial 247)
+- **[How Free Tacos Made This Restaurant MORE Profitable?](../knowledge/owner-short-form/promotions/free-tacos-made-restaurant-profitable.md)** (Serial 247)
   - Items do you do it? Chicken tacos. Sometimes we're doing churros, buy 1 get one free. And it goes against what most successful restaurant tours would tell you. Why? Even with buy 1 get one, it takes the food cost from, I'm guessing, less than 10% average on those dishes to then if you give away two, it's a 20% food cost, which is still well within the range of what you're advised, but it ends up attracting.
   - They don't see your food costs. They see the menu list price 100%.
-- **[How Chick-fil-A Makes BILLIONS By Giving Away Free Food!](../knowledge/promotions/chick-fil-a-billions-by-giving-away.md)** (Serial 261)
+- **[How Chick-fil-A Makes BILLIONS By Giving Away Free Food!](../knowledge/owner-short-form/promotions/chick-fil-a-billions-by-giving-away.md)** (Serial 261)
   - All sorts of other retailers, but they didn't do it for a profit. They actually say on the sauce packets that 100% of the profits from the sauces go to scholarship funds to help pay for people's education.
-- **[How This Restaurant DOUBLES Profit By Giving Away Free Food](../knowledge/promotions/restaurant-doubles-profit-by-giving.md)** (Serial 274)
+- **[How This Restaurant DOUBLES Profit By Giving Away Free Food](../knowledge/owner-short-form/promotions/restaurant-doubles-profit-by-giving.md)** (Serial 274)
   - Churros are listed on the menu for $7.99, but the ingredients are just flour, sugar, and flavored syrup, so they cost less than 50 cents to make. To the guest is $8 worth of value. It's a free dessert if you're buying for a group, and it's a perfect impulse buy. That means when they're giving away one for free on every order, it's still highly profitable.
   - The food costs are under that 30% figure. Would it actually work that way in practice? Within 30 days of launching this offer, they sold three times as many churros, totaling not only $4,000 in extra sales, but $2,000 in extra profit from less than 30 minutes of setup work. Comment the name of your restaurant in the city it's in. I'll take a look at your menu.
-- **[Why Giving Away 30% Of Sales Makes You More Money!](../knowledge/promotions/giving-away-30-sales-money.md)** (Serial 325)
+- **[Why Giving Away 30% Of Sales Makes You More Money!](../knowledge/owner-short-form/promotions/giving-away-30-sales-money.md)** (Serial 325)
   - They each spend around $30. That's a total of $900 in sales. And we are going to give back to the school 30% of those sales generated. That's around $270. That's good bit of school supplies. And here is where it gets very interesting. Imagine out of 30 families, seven of them turn into regulars.
   - They each come twice a month, which is around 24 times a year. And if each of them spends $30 with you, that's over $5,000 in repeat sales annually. That number adds up real quick. And when you give back, it always comes back. And that is why.
   - Most restaurant owners would never give away 30% of their sales. But for us, that is one of the best marketing moves we make all year. We host dozens of spirit nights.
-- **[How 25 Free Pizzas Make $172,000!](../knowledge/promotions/25-free-pizzas-172000.md)** (Serial 333)
+- **[How 25 Free Pizzas Make $172,000!](../knowledge/owner-short-form/promotions/25-free-pizzas-172000.md)** (Serial 333)
   - This is how I turned 25 free pizzas into more than $172,000 in annual sales following two simple steps. First, we run a poll on social asking.
   - They spend $30 with you each time. That is $14,400. Now, if we do this every single month.
-- **[Why Panera's $10 Unlimited Drinks Deal Is Genius](../knowledge/promotions/paneras-10-unlimited-drinks-deal.md)** (Serial 334)
+- **[Why Panera's $10 Unlimited Drinks Deal Is Genius](../knowledge/owner-short-form/promotions/paneras-10-unlimited-drinks-deal.md)** (Serial 334)
   - Unlimited soft drinks for $10 a month. Can't that make them lose huge amounts of money if they just started giving away something that they sell for $3.50 a cup? The numbers prove that customers on Panera's subscription visit 10 times more frequently.
   - Spend 40% more on high ticket items like entre than non-subscribers.
   - They selected free coffee to give away, which is an item that they maintain a less than 10% food cost on, they don't even lose money on the millions of cups they give away per.
-- **[Why Giving Away 30% Makes YOU More Money!](../knowledge/promotions/giving-away-30-money.md)** (Serial 366)
+- **[Why Giving Away 30% Makes YOU More Money!](../knowledge/owner-short-form/promotions/giving-away-30-money.md)** (Serial 366)
   - Schools need money. Now, imagine only 30 families show up, and they each spend around $30. That's a total of $900 in sales, and we are going to give back to the school >>  >> 30% of those sales generated. That's around $270. That's a good bit of school supplies. And here is where it gets very interesting. Imagine out of 30 families, seven of them turn into regulars, and they each come twice a month, which is around 24 times a year. And if each of them spends $30 with you, that's over $5,000 in repeat sales annually. That number adds up real quick. And when you give  back, it always comes back. And that is why.
   - Most restaurateurs would never give away 30%  of their sales, but for us, that is one of the best marketing moves we make all year. We host dozens of spirit nights.
-- **[How Free Pizza Rolls Made $120,000!](../knowledge/promotions/free-pizza-rolls-made-120000.md)** (Serial 367)
+- **[How Free Pizza Rolls Made $120,000!](../knowledge/owner-short-form/promotions/free-pizza-rolls-made-120000.md)** (Serial 367)
   - This is how I turn free pizza rolls into $120,000 a year in sales. Every month our pizzeria reaches out to 100 local businesses, offices, hotels, schools, churches, gyms, realtors, you  name it. We simply drop off delicious pizza rolls, introduce ourselves, and that we're a local pizzeria down the road, and we would love an opportunity to serve them. We also drop off our catering menu. Let's say 5% or five  out of 100 of these businesses places a big $2,000 catering order with you. Now, that's $10,000  per month or $120,000 a year from giving away free pizza rolls with the food cost of around $2. Follow owner for more restaurant growth hacks that actually work.
-- **[How 25 Free Pizzas Made $172,000!](../knowledge/promotions/25-free-pizzas-made-172000.md)** (Serial 377)
+- **[How 25 Free Pizzas Made $172,000!](../knowledge/owner-short-form/promotions/25-free-pizzas-made-172000.md)** (Serial 377)
   - This is how I turned 25 free pizzas into more than $172,000 in annual sales following two simple steps. First, we run a poll on social asking.
   - They spend $30 with you each time. That is $14,400. Now, if we do this every single month.
-- **[Why Limited Cups Make Starbucks Rich](../knowledge/promotions/limited-cups-starbucks-rich.md)** (Serial 441)
+- **[Why Limited Cups Make Starbucks Rich](../knowledge/owner-short-form/promotions/limited-cups-starbucks-rich.md)** (Serial 441)
   - Take your highest margin item, let's say your $15 pasta, and pair it with a limited edition one-day only tote or a glass.
   - In 2025, store visits jumped by 40% in a single day.
   - Data shows that customers respond three times better to collectible value items than 10% off coupons.
-- **[The Discount Trap Nobody Talks About](../knowledge/promotions/discount-trap-talks-about.md)** (Serial 443)
+- **[The Discount Trap Nobody Talks About](../knowledge/owner-short-form/promotions/discount-trap-talks-about.md)** (Serial 443)
   - Say your burger meal is $20.
   - Your prime cost is $12 and your contribution margin for this dish is $8.
   - So, instead of keeping that contribution margin of $8, you're keeping $6 per order.
-- **[How 25 Free Pizzas Turned Into $172K](../knowledge/promotions/25-free-pizzas-turned-172k.md)** (Serial 468)
+- **[How 25 Free Pizzas Turned Into $172K](../knowledge/owner-short-form/promotions/25-free-pizzas-turned-172k.md)** (Serial 468)
   - This is how I turned 25 free pizzas into more than $172,000 in annual sales following two simple steps.
   - Regulars as in they come twice a month, and they spend $30 with you each time.
-- **[Why Most Restaurants Get Valentine's Day WRONG](../knowledge/promotions/most-restaurants-get-valentines-day.md)** (Serial 473)
+- **[Why Most Restaurants Get Valentine's Day WRONG](../knowledge/owner-short-form/promotions/most-restaurants-get-valentines-day.md)** (Serial 473)
   - Here are three things we do at our restaurants every year for Valentine's Day, and we see 30% more in sales year over year.
   - Research from Cornell found that dimming the lights to 40 lumen can help drive sales by 20%.
-- **[Why These Restaurants Are Disappearing?](../knowledge/promotions/these-restaurants-disappearing.md)** (Serial 488)
+- **[Why These Restaurants Are Disappearing?](../knowledge/owner-short-form/promotions/these-restaurants-disappearing.md)** (Serial 488)
   - Mid-tier restaurants, that $60 to $200 average ticket are quietly dying.
   - The top 10% of earners now drive more than half of consumer spending while income inequality keeps rising.
-- **[Why Profitable Restaurants Push Gift Cards](../knowledge/promotions/profitable-restaurants-push-gift-cards.md)** (Serial 508)
+- **[Why Profitable Restaurants Push Gift Cards](../knowledge/owner-short-form/promotions/profitable-restaurants-push-gift-cards.md)** (Serial 508)
   - When a customer buys a $50 gift card, you get to collect that $50 cash today and deliver zero food.
   - Now, say you sell 200 gift cards in April, $50 each, we're talking about $10,000 in cash.
   - On a $10,000 in gift card sales, we're talking about $1,000 to $1,900 straight into your bottom line.
-- **[5 Cost Cutting Strategies for Restaurants [2026]](../knowledge/promotions/5-cost-cutting-strategies-restaurants.md)** (Serial 511)
+- **[5 Cost Cutting Strategies for Restaurants [2026]](../knowledge/owner-short-form/promotions/5-cost-cutting-strategies-restaurants.md)** (Serial 511)
   - 99% of restaurant owners think that cutting costs means buying cheaper or smaller portions, and that is wrong.
-- **[Heres how I turn FREE pizzas into $172,000 in annual revenue](../knowledge/promotions/heres-i-turn-free-pizzas.md)** (Serial 582)
+- **[Heres how I turn FREE pizzas into $172,000 in annual revenue](../knowledge/owner-short-form/promotions/heres-i-turn-free-pizzas.md)** (Serial 582)
   - If just 2 out of every 10 people become regulars visiting twice a month and spending $30 each time that's 20 new regulars and $14,400 in new annual revenue from one drop.
   - Repeat with a different organization every single month, and that's $172,000 added to your bottom line every year.
-- **[Beat Your Restaurant Competitors in Minutes with This Free AI](../knowledge/promotions/beat-restaurant-competitors-minutes-free.md)** (Serial 616)
+- **[Beat Your Restaurant Competitors in Minutes with This Free AI](../knowledge/owner-short-form/promotions/beat-restaurant-competitors-minutes-free.md)** (Serial 616)
   - Beat 99% of your restaurant competitors with this free AI tool. Most restaurant owners have no idea you can legally spy on your competition. Go to Grader.Owner.com, enter your restaurant name, and AI will scan your online presence the same way Google.
-- **[3 Restaurant Freebie Ideas That Are Better Than Discounts (2026)](../knowledge/promotions/3-restaurant-freebie-ideas-better.md)** (Serial 639)
+- **[3 Restaurant Freebie Ideas That Are Better Than Discounts (2026)](../knowledge/owner-short-form/promotions/3-restaurant-freebie-ideas-better.md)** (Serial 639)
   - People forget 10% off.
 
 ## Purchasing
 
-- **[Sysco Bought Restaurant Depot… Here’s Why Restaurants Should Be Worried](../knowledge/purchasing/sysco-bought-restaurant-depot-heres.md)** (Serial 536)
+- **[Sysco Bought Restaurant Depot… Here’s Why Restaurants Should Be Worried](../knowledge/owner-short-form/purchasing/sysco-bought-restaurant-depot-heres.md)** (Serial 536)
   - Restaurant Depot, they have a hundreds of locations and historically their prices have been about 15% less.
-- **[How Much Do Custom Cups for Restaurants Cost?](../knowledge/purchasing/much-do-custom-cups-restaurants.md)** (Serial 593)
+- **[How Much Do Custom Cups for Restaurants Cost?](../knowledge/owner-short-form/purchasing/much-do-custom-cups-restaurants.md)** (Serial 593)
   - Generic packaging runs 3 to 5% of food costs.
   - Go branded and you're at 5 to 8%.
   - Mattenga s pizza boxes sit at 6%.
