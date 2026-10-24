@@ -1,15 +1,13 @@
 ---
 name: quality-check
-description: Reviews processed restaurant research files for accuracy, preserved transcript, numerical integrity, formula correctness, clean Markdown, and appropriate category placement.
+description: Simple quality check for processed restaurant research files. Verifies category placement, numerical integrity, formula accuracy, original currency preservation, claims vs facts distinction, and concise Markdown format without product bloat.
 ---
 
 # Quality Check
 
 ## Purpose
 
-Review processed research files after transcript extraction to ensure quality, factual integrity, and completeness.
-
-The quality check is simple and focused. It does NOT perform product-level checks, feature evaluations, or backlog reviews.
+Verify that a processed research file accurately and concisely captures restaurant operational knowledge without errors, bloat, or product distortion.
 
 ---
 
@@ -17,42 +15,29 @@ The quality check is simple and focused. It does NOT perform product-level check
 
 For each reviewed research file, verify:
 
-1. **Transcript Preserved**: The complete transcript is included under `# Full Transcript`.
-2. **Numbers & Statistics Accurate**: All material percentages, costs, currencies, units, and ranges match the source transcript exactly. Currencies were not silently converted.
-3. **Formulas Accurate**: Mathematical formulas, inputs, and outputs are correctly recorded and explained. Discrepancies in the source are noted rather than silently rewritten.
-4. **Source Metadata Correct**: Source URL, creator, platform, and publication date are recorded accurately when known. Unknown values are marked `unknown`, not fabricated.
-5. **Category Reasonable**: The file is placed in the best matching folder among the 14 standard categories under `knowledge/`.
-6. **No Important Information Lost**: Operational concepts, management methods, and practical insights were not omitted simply because they don't relate to software.
-7. **Examples vs Facts**: Hypothetical or creator-specific examples are not presented as industry-wide facts or universal benchmarks.
-8. **Claims vs Facts**: Creator opinions and assertions are clearly identified as claims, not verified universal truths.
-9. **Clean Markdown**: Proper front matter, headings, bullet lists, and readable structure.
-10. **No Product Creep**: No feature proposals, product backlogs, feasibility scores, or "Qavyo should build this" commentary.
+1. **Correct Category**: File is placed in the best matching folder among the 16 standard categories under `knowledge/`.
+2. **Useful Information Preserved**: Key operational insights, methods, and practical takeaways were retained.
+3. **Numbers & Calculations Accurate**: Percentages, costs, margins, and formulas match the source exactly.
+4. **Original Currency Preserved**: Currencies (e.g. $, £, €) are kept intact without silent conversions.
+5. **Examples vs Facts**: Hypothetical or creator-specific examples are not presented as universal industry facts or benchmarks.
+6. **Claims vs Facts**: Creator opinions and assertions are clearly labeled as claims, not verified universal truths.
+7. **Concise Markdown**: File is small (10–30 lines), uses bullet points, contains no filler or full transcript dumps.
+8. **No Product Bloat**: No feature proposals, backlog recommendations, feasibility scores, or "Qavyo should build this" commentary.
+9. **No Duplicates**: File is not a redundant duplicate of an existing topic file in that category.
 
 ---
 
-# 2. Scope & Results
+# 2. Review Result
 
-Review one research file or a recent batch of processed files.
+Use one of these outcomes:
 
-Use one of these review outcomes:
+- **PASS**: Meets all standards.
+- **PASS-WITH-CORRECTIONS**: Minor corrections made (formatting, typo in number, label corrected).
+- **NEEDS-REVIEW**: Ambiguity in source requires human review.
 
-- **PASS**: Meets all quality standards.
-- **PASS-WITH-CORRECTIONS**: Minor, safe corrections made (e.g. formatting, labeling a claim, typo in numbers).
-- **NEEDS-REVIEW**: Unclear source audio/text or ambiguous statement requires human review.
-
-Keep reports concise:
+Report format:
 ```
-Quality result: [PASS / PASS-WITH-CORRECTIONS / NEEDS-REVIEW]
-File reviewed: [path]
-Corrections made: [none or list]
-Notes: [optional brief note]
+Quality check: [PASS / PASS-WITH-CORRECTIONS / NEEDS-REVIEW]
+File: [path]
+Corrections: [none or list]
 ```
-
----
-
-# 3. Prohibited Actions
-
-This skill must NOT:
-- perform product feasibility or feature evaluations
-- rewrite substantive source content
-- commit or push to Git
