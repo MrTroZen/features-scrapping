@@ -1,0 +1,26 @@
+# Raw Transcripts
+raw-transcripts/
+
+# Temporary Files
+*.tmp
+*.temp
+scratch/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor Temporary Files & Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
