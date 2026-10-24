@@ -1,1 +1,764 @@
-# knowledge-index
+# Knowledge Index
+
+Master catalog of all structured restaurant operational intelligence files in `knowledge/`.
+
+Total verified entries: **719**
+
+## Customers (96 entries)
+
+- **Serial 005**: [Should Restaurants Get Their Own App?](../knowledge/customers/branded-mobile-apps-retention.md) `[mobile-apps, customer-retention, ordering-habits, direct-ordering]`
+- **Serial 006**: [How This Restaurant Increased Sales By $7,000 (With Their Own App)](../knowledge/customers/branded-app-regular-frequency.md) `[mobile-apps, repeat-orders, sales-growth, customer-frequency]`
+- **Serial 023**: [How restaurant owners are fighting back against bad Yelp reviews](../knowledge/customers/post-order-feedback-loop.md) `[reviews, customer-feedback, reputation-management, yelp]`
+- **Serial 025**: [Does your restaurant know this trick to build customer loyalty?](../knowledge/customers/authentic-owner-storytelling.md) `[customer-loyalty, brand-connection, founder-story, word-of-mouth]`
+- **Serial 032**: [How gamifying your loyalty program like Domino's is a win-win for your restaurant and your customers](../knowledge/customers/gamified-loyalty-rewards.md) `[loyalty-programs, gamification, repeat-frequency, rewards]`
+- **Serial 037**: [How this marketing strategy can get you to do something without even realizing it](../knowledge/customers/reciprocity-in-restaurant-gifting.md) `[reciprocity, behavioral-psychology, customer-spending, loyalty]`
+- **Serial 040**: [Create Loyal Restaurant Customers With This One Simple Trick](../knowledge/customers/identity-based-community-loyalty.md) `[identity-marketing, community-loyalty, affinity-groups, repeat-visits]`
+- **Serial 047**: [The Secret Formula Behind Restaurant Loyalty](../knowledge/customers/repeat-visit-loyalty-curve.md) `[loyalty-curve, retention-rates, customer-lifetime-value, guest-experience]`
+- **Serial 055**: [How To Make Your Restaurant Stand Out](../knowledge/customers/how-to-make-your-restaurant-stand-out.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 056**: [Why Your Restaurant NEEDS Loyalty Points](../knowledge/customers/why-your-restaurant-needs-loyalty-points.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 059**: [How To Build A Strong Restaurant Brand](../knowledge/customers/how-to-build-a-strong-restaurant-brand.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 060**: [How To Increase Online Restaurant Orders](../knowledge/customers/how-to-increase-online-restaurant-orders.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 061**: [Why Most Restaurant Social Media Strategies Are Wrong](../knowledge/customers/why-most-restaurant-social-media-strategies-a.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 065**: [Why Every Restaurant Needs Its Own Video Game](../knowledge/customers/why-every-restaurant-needs-its-own-video-game.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 066**: [The Psychology Behind Restaurant Reviews](../knowledge/customers/the-psychology-behind-restaurant-reviews.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 067**: [How To Create A Profitable Restaurant Loyalty Program](../knowledge/customers/how-to-create-a-profitable-restaurant-loyalty.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 073**: [Avoid This Mistake Restaurant Owners Make](../knowledge/customers/avoid-this-mistake-restaurant-owners-make.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 077**: [Restaurants: Stop Making This Costly Mistake](../knowledge/customers/restaurants-stop-making-this-costly-mistake.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 082**: [Why Most Restaurants Get Ad Targeting Wrong](../knowledge/customers/why-most-restaurants-get-ad-targeting-wrong.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 083**: [How To Make Social Media ROI Positive For Restaurants](../knowledge/customers/how-to-make-social-media-roi-positive-for-res.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 085**: [Restaurants Need This Ad Strategy!](../knowledge/customers/restaurants-need-this-ad-strategy.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 089**: [How To Increase Restaurant Sales Automatically](../knowledge/customers/how-to-increase-restaurant-sales-automaticall.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 091**: [What Restaurants Can Learn From Chipotle's Portion Sizes](../knowledge/customers/what-restaurants-can-learn-from-chipotles-por.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 095**: [Automatically Make More Restaurant Sales?](../knowledge/customers/automatically-make-more-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 098**: [Why Your Restaurant NEEDS To Use AI](../knowledge/customers/why-your-restaurant-needs-to-use-ai.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 099**: [What's The Best Website Builder For Restaurants?](../knowledge/customers/whats-the-best-website-builder-for-restaurant.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 103**: [This Website Builder BOOSTS Restaurant Sales in 2024](../knowledge/customers/this-website-builder-boosts-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 104**: [Why Your First-Time Customers Aren't Coming Back](../knowledge/customers/why-your-first-time-customers-arent-coming-ba.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 105**: [Are Robot Servers the Future of Dining?](../knowledge/customers/are-robot-servers-the-future-of-dining.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 112**: [The Surprising Marketing Trick That Saved Domino's](../knowledge/customers/the-surprising-marketing-trick-that-saved-dom.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 114**: [Why Servers Who Do THIS Get Paid Way More](../knowledge/customers/why-servers-who-do-this-get-paid-way-more.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 121**: [What's Behind Taco Bell's SURPRISING Comeback?](../knowledge/customers/whats-behind-taco-bells-surprising-comeback.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 127**: [Texas Roadhouse's SECRET to Being #1 in Customer Service!](../knowledge/customers/texas-roadhouses-secret-to-being-1-in-custome.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 131**: [Mastering SEO for Restaurants for FREE](../knowledge/customers/mastering-seo-for-restaurants-for-free.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 134**: [The Surprising Truth About Restaurant Pricing Nobody Tells You](../knowledge/customers/the-surprising-truth-about-restaurant-pricing.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 135**: [The Hidden Psychology Behind Menu Prices](../knowledge/customers/the-hidden-psychology-behind-menu-prices.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 138**: [Simplify Your Menu Like Chipotle to Boost Sales](../knowledge/customers/simplify-your-menu-like-chipotle-to-boost-sal.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 140**: [ONE Simple Trick to Increase Restaurant Sales by 30%](../knowledge/customers/one-simple-trick-to-increase-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 144**: [Chick Fil A's Shocking Sunday Strategy Pays Off BIG TIME](../knowledge/customers/chick-fil-as-shocking-sunday-strategy-pays-of.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 145**: [Boost Restaurant Sales with This ONE Secret Weapon](../knowledge/customers/boost-restaurant-sales-with-this-one-secret-w.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 146**: [Meet The CEO Who's Changing Restaurant Tech Forever](../knowledge/customers/meet-the-ceo-whos-changing-restaurant-tech-fo.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 147**: [Why Are Ghost Kitchens DOOMED to Fail?](../knowledge/customers/why-are-ghost-kitchens-doomed-to-fail.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 148**: [What's the BEST Way to Keep Restaurant Customers Coming Back?](../knowledge/customers/whats-the-best-way-to-keep-restaurant-custome.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 151**: [The #1 Reason Restaurant Owners Are Switching to Owner.com](../knowledge/customers/the-1-reason-restaurant-owners-are-switching.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 155**: [Boost Restaurant Sales 50% with This One Simple Trick](../knowledge/customers/boost-restaurant-sales-50-with-this-one-simpl.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 157**: [Is Chick-fil-A REALLY a Cult?](../knowledge/customers/is-chick-fil-a-really-a-cult.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 160**: [Panera's Secret to Turning Occasional Guests into Regulars](../knowledge/customers/paneras-secret-to-turning-occasional-guests-i.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 164**: [The Secret to Chick-fil-A's Success Nobody Tells You](../knowledge/customers/the-secret-to-chick-fil-as-success-nobody-tel.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 165**: [The Restaurant Owner's Guide to Firing with Respect](../knowledge/customers/the-restaurant-owners-guide-to-firing-with-re.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 168**: [Restaurant Marketing Experts Are Hiding THIS from You!](../knowledge/customers/restaurant-marketing-experts-are-hiding-this.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 169**: [OWN Your Customers for LIFE with This Proven Formula!](../knowledge/customers/own-your-customers-for-life-with-this-proven.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 174**: [The Secret to Tripling Tips is Not What You Think!](../knowledge/customers/the-secret-to-tripling-tips-is-not-what-you-t.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 182**: [MIND-BLOWING Restaurant Hack That Will Increase Sales](../knowledge/customers/mind-blowing-restaurant-hack-that-will-increa.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 186**: [Social Media is a Scam for Restaurants The Shocking Reason Why](../knowledge/customers/social-media-is-a-scam-for-restaurants-the-sh.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 192**: [Make Restaurant Ordering RIDICULOUSLY Easy With Mobile Apps](../knowledge/customers/make-restaurant-ordering-ridiculously-easy-wi.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 196**: [Simple Website Changes That Made This Restaurant 5X More Money!](../knowledge/customers/simple-website-changes-that-made-this-restaur.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 199**: [Why Old School Restaurant Marketing Is About To Change Forever With AI](../knowledge/customers/why-old-school-restaurant-marketing-is-about.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 202**: [The Surprising Truth About Restaurant Loyalty Programs Nobody Tells You](../knowledge/customers/surprising-truth-about-restaurant-loyalty.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 230**: [How Smart Restaurants Keep Customers Coming Back For More?](../knowledge/customers/smart-restaurants-keep-customers-coming.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 236**: [This Simple Marketing Hack Makes Customers Buy NOW](../knowledge/customers/simple-marketing-hack-customers-buy.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 240**: [How Restaurants Are Using AI to Read Customer Minds?](../knowledge/customers/restaurants-using-ai-read-customer.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 243**: [The REAL Reason Chick-fil-A Makes $8M Per Location?](../knowledge/customers/real-reason-chick-fil-a-8m-per.md) `[customers, retention, loyalty]`
+- **Serial 259**: [Why Restaurants Lose 60% of First Time Customers?](../knowledge/customers/restaurants-lose-60-first-time.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 268**: [Why The MOST Profitable Restaurant Loyalty Programs Use Points!](../knowledge/customers/most-profitable-restaurant-loyalty-programs.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 281**: [How Restaurants Get More Customers With This Simple SEO Trick!](../knowledge/customers/restaurants-get-customers-simple-seo.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 287**: [How Restaurants Can Get More Customers for $15!](../knowledge/customers/restaurants-get-customers-15.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 311**: [3 Easy Ways to Make Restaurant Customers Come Back for More!](../knowledge/customers/3-easy-ways-restaurant-customers.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 319**: [How One Bad Review Can Cost Your Restaurant $700!](../knowledge/customers/one-bad-review-cost-restaurant.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 326**: [How This Pizza Shop Gets 20 New Customers Every Month!](../knowledge/customers/pizza-shop-gets-20-new.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 327**: [Can This Simple Tool Boost Your Restaurant Reviews?](../knowledge/customers/simple-tool-boost-restaurant-reviews.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 341**: [The Secret Trick Restaurants Use With Desserts](../knowledge/customers/restaurants-use-desserts.md) `[customers, retention, loyalty]`
+- **Serial 347**: [How Restaurants Get More Customers With One SEO Trick!](../knowledge/customers/restaurants-get-customers-one-seo.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 374**: [How 20% of Customers Make Restaurants Rich](../knowledge/customers/20-customers-restaurants-rich.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 380**: [How We Made $70,000 More On Halloween!](../knowledge/customers/we-made-70000-on-halloween.md) `[customers, retention, loyalty]`
+- **Serial 432**: [This Restaurant Trick Gets 30% More Customers](../knowledge/customers/restaurant-gets-30-customers.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 458**: [Five Guys' Genius Trick to Make You a Loyal Customer](../knowledge/customers/five-guys-genius-loyal-customer.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 505**: [Why Paper Stamp Cards Are Killing Your Restaurant](../knowledge/customers/paper-stamp-cards-killing-restaurant.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 523**: [Stop shrinking your portions to save money. It's the fastest way to lose customers!](../knowledge/customers/shrinking-portions-save-money-its.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 527**: [Website Psychology That Actually Converts Customers 💡](../knowledge/customers/website-psychology-actually-converts-customers.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 539**: [Your menu is confusing customers (fix it now)](../knowledge/customers/menu-confusing-customers-fix-it.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 547**: [I Started 'Firing' Customers (Here's Why)](../knowledge/customers/i-started-firing-customers-heres.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 552**: [4 psychology tricks that make customers order more online](../knowledge/customers/4-psychology-tricks-customers-order.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 576**: [The REAL reason guests dont order from your restaurants website](../knowledge/customers/real-reason-guests-order-restaurants.md) `[customers, retention, guest-experience]`
+- **Serial 589**: [Why Guests Skip Your Most Profitable Dishes](../knowledge/customers/guests-skip-most-profitable-dishes.md) `[customers, retention, guest-experience]`
+- **Serial 594**: [The Most Annoying Thing Servers Do Without Knowing It](../knowledge/customers/most-annoying-thing-servers-do.md) `[customers, retention, guest-experience]`
+- **Serial 610**: [Chamoy Menu Items Your Customers Want In 2026](../knowledge/customers/chamoy-menu-items-customers-want.md) `[customers, retention, guest-experience]`
+- **Serial 622**: [The Customer Service Trick That Beat Chick-fil-A (Copy This)](../knowledge/customers/customer-service-beat-chick-fil-a-copy.md) `[customers, retention, guest-experience]`
+- **Serial 632**: [This Song Makes Customers Spend More At Your Restaurant](../knowledge/customers/song-customers-spend-at-restaurant.md) `[customers, retention, guest-experience]`
+- **Serial 636**: [How I Turn Free Food Into Life-Long Customers [3 Steps]](../knowledge/customers/i-turn-free-food-life-long.md) `[customers, retention, guest-experience]`
+- **Serial 666**: [Rich Owner vs Broke Owner: Why Customers Arent Always Right](../knowledge/customers/rich-owner-vs-broke-owner.md) `[customers, retention, guest-experience]`
+- **Serial 669**: [Why You Should NEVER Reply to Negative Reviews](../knowledge/customers/should-never-reply-negative-reviews.md) `[customers, retention, guest-experience]`
+- **Serial 689**: [How to upsell without annoying your customers](../knowledge/customers/upsell-without-annoying-customers.md) `[customers, retention, guest-experience]`
+- **Serial 690**: [Why I Had To Fire A Customer](../knowledge/customers/i-had-fire-customer.md) `[customers, retention, guest-experience]`
+- **Serial 706**: [How Panera Wasted 64 MILLION Customers...](../knowledge/customers/panera-wasted-64-million-customers.md) `[customers, retention, guest-experience]`
+- **Serial 709**: [Why Are You Paying to Acquire Customers Who Never Come Back?](../knowledge/customers/paying-acquire-customers-who-never.md) `[customers, retention, guest-experience]`
+- **Serial 716**: [How to Calculate What Each Guest Must Spend (Average Minimum Check)? [Explained]](../knowledge/customers/calculate-each-guest-must-spend.md) `[customers, retention, guest-experience]`
+
+## Delivery (5 entries)
+
+- **Serial 001**: [Owner.com Review: Jim from Yolked San Jose](../knowledge/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
+- **Serial 022**: [How this one email is saving restaurants owners $1,000s in delivery fees](../knowledge/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
+- **Serial 101**: [Are Robots Taking Over Restaurants?](../knowledge/delivery/are-robots-taking-over-restaurants.md) `[delivery-fees, direct-ordering, third-party-apps, online-ordering]`
+- **Serial 137**: [The Surprising Truth About Ghost Kitchens Nobody Tells You](../knowledge/delivery/the-surprising-truth-about-ghost-kitchens-nob.md) `[delivery-fees, direct-ordering, third-party-apps, online-ordering]`
+- **Serial 245**: [Why Poke Bowls Are Taking Over Food Delivery in 2025?](../knowledge/delivery/poke-bowls-taking-over-food.md) `[delivery, third-party-delivery, commissions]`
+
+## Finance (99 entries)
+
+- **Serial 039**: [Why This Fishy Restaurant Concept Is Booming In 2024](../knowledge/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
+- **Serial 043**: [Copy This Restaurant With INSANE Profit Margins](../knowledge/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
+- **Serial 046**: [$1,000,000+ Restaurant Idea With A Small Footprint](../knowledge/finance/health-cafe-unit-economics.md) `[unit-economics, health-cafe, revenue-per-sqft, profit-margins]`
+- **Serial 074**: [Why Is Texas Roadhouse So Profitable?](../knowledge/finance/why-is-texas-roadhouse-so-profitable.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 081**: [How Losing 10% Profit Made Texas Roadhouse #1](../knowledge/finance/how-losing-10-profit-made-texas-roadhouse-1.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 109**: [Is This The SMARTEST Restaurant Business Model Ever?](../knowledge/finance/is-this-the-smartest-restaurant-business-mode.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 122**: [What's Really Causing Starbucks to Struggle?](../knowledge/finance/whats-really-causing-starbucks-to-struggle.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 143**: [Boost Sales Effortlessly with This Proven System](../knowledge/finance/boost-sales-effortlessly-with-this-proven-sys.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 152**: [Getting into HARVARD is Easier than Becoming a Chick Fil A Franchisee](../knowledge/finance/getting-into-harvard-is-easier-than-becoming.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 158**: [The ONE Thing Holding Your Restaurant Back from Success](../knowledge/finance/the-one-thing-holding-your-restaurant-back-fr.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 171**: [The GREEDY Decision That Killed Quiznos Overnight](../knowledge/finance/the-greedy-decision-that-killed-quiznos-overn.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 172**: [The Surprising Truth About Restaurant Managers Nobody Tells You](../knowledge/finance/the-surprising-truth-about-restaurant-manager.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 177**: [McDonalds REAL ESTATE Empire Rakes in $7.9B Annually!](../knowledge/finance/mcdonalds-real-estate-empire-rakes-in-79b-ann.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 185**: [America's RICHEST Restaurant Owner's SECRET to Success!](../knowledge/finance/americas-richest-restaurant-owners-secret-to.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 194**: [McDonald's Secret Business Model That Made Them RICH!](../knowledge/finance/mcdonalds-secret-business-model-that-made-the.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 197**: [The SHOCKING Truth About Becoming a Chick-fil-A Owner](../knowledge/finance/the-shocking-truth-about-becoming-a-chick-fil.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 198**: [The MILLION Dollar Strategy That Made Texas Roadhouse THRIVE](../knowledge/finance/the-million-dollar-strategy-that-made-texas-r.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 200**: [This FREE Restaurant Data Is A GOLDMINE For Success](../knowledge/finance/this-free-restaurant-data-is-a-goldmine-for-s.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 215**: [The Hidden Money Secret Behind Expensive Steakhouses?](../knowledge/finance/hidden-money-behind-expensive-steakhouses.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 216**: [Calculate Your Restaurant Profits Like a PRO in 1 Minute!](../knowledge/finance/calculate-restaurant-profits-like-pro.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 221**: [Why Poke Bowls Are The Most Profitable Restaurant in 2025?](../knowledge/finance/poke-bowls-most-profitable-restaurant.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 223**: [Cava's SECRET to 20% Profit Margins](../knowledge/finance/cavas-20-profit-margins.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 224**: [McDonalds Makes More Money From FRIES Than Burgers!](../knowledge/finance/mcdonalds-money-fries-than-burgers.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 258**: [Why Closing on Sundays Made Chick-fil-A More Money Than Ever?](../knowledge/finance/closing-on-sundays-made-chick-fil-a.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 262**: [The Secret Behind America’s Richest Restaurant Boss!](../knowledge/finance/behind-americas-richest-restaurant-boss.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 269**: [The SHOCKING Reason Texas Roadhouse Loses 10% Profit](../knowledge/finance/shocking-reason-texas-roadhouse-loses.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 270**: [Are These HIDDEN Profit Leaks Hurting Your Restaurant?](../knowledge/finance/these-hidden-profit-leaks-hurting.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 276**: [The Secret Behind The RICHEST Restaurant Owner](../knowledge/finance/behind-richest-restaurant-owner.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 277**: [The Math Behind INCREASING Restaurant Profits](../knowledge/finance/math-behind-increasing-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 283**: [Why Your Restaurant Isn’t Making Money Even With More Sales!](../knowledge/finance/restaurant-isnt-money-even-sales.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 286**: [What Restaurants Can Learn from McDonald's Secret Profit Makers](../knowledge/finance/restaurants-learn-mcdonalds-profit-makers.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 291**: [The Secret Trick Restaurants Use To Boost Profits!](../knowledge/finance/restaurants-use-boost-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 299**: [The Secret Steps To Boosting Restaurant Profits!](../knowledge/finance/steps-boosting-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 300**: [Why McDonald's Makes Billions Without Selling Food!](../knowledge/finance/mcdonalds-billions-without-selling-food.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 305**: [How Did This Greek Restaurant Make Billions?](../knowledge/finance/greek-restaurant-billions.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 307**: [How Chick-fil-A Makes More Money By Closing On Sundays!](../knowledge/finance/chick-fil-a-money-by-closing-on.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 321**: [Boost Restaurant Sales on Slow Days With This Easy Trick!](../knowledge/finance/boost-restaurant-sales-on-slow.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 328**: [What Every Restaurant Owner Can Learn from Costco!](../knowledge/finance/restaurant-owner-learn-costco.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 330**: [The Secret Trick McDonald's Uses to Make Billions!](../knowledge/finance/mcdonalds-uses-billions.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 336**: [What Makes Top Restaurants So Profitable?](../knowledge/finance/top-restaurants-so-profitable.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 350**: [Want to Grow Your Restaurant Empire? Here's the Secret to Organic Expansion](../knowledge/finance/want-grow-restaurant-empire-heres.md) `[finance, profitability, unit-economics]`
+- **Serial 354**: [Why Prime Cost Can Save Your Restaurant!](../knowledge/finance/prime-cost-save-restaurant.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 355**: [The Secret Trick to Restaurant Profits!](../knowledge/finance/restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 359**: [How Restaurants Make More Money During Holidays](../knowledge/finance/restaurants-money-during-holidays.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 360**: [The Easiest Way To Boost Restaurant Sales Fast](../knowledge/finance/easiest-way-boost-restaurant-sales.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 369**: [The #1 Dessert Mistake You're Making That Costs You Sales](../knowledge/finance/1-dessert-mistake-youre-costs.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 372**: [Want to Boost Restaurant Profits? Watch This Now](../knowledge/finance/want-boost-restaurant-profits-watch.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 373**: [The Surprising Truth About McDonald's Profits](../knowledge/finance/surprising-truth-about-mcdonalds-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 379**: [How McDonald's Makes Billions With One Simple Trick](../knowledge/finance/mcdonalds-billions-one-simple.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 381**: [How Much Do Restaurants REALLY Make?](../knowledge/finance/much-do-restaurants-really.md) `[finance, profitability, unit-economics]`
+- **Serial 385**: [How I Turned My Failing Pizza Shop Into a Money Maker](../knowledge/finance/i-turned-my-failing-pizza.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 386**: [How Much Do Restaurant Owners Really Earn?](../knowledge/finance/much-do-restaurant-owners-really.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 389**: [How To Make More Money At Your Restaurant!](../knowledge/finance/money-at-restaurant.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 390**: [No.1 Reason CAVA Is So Profitable](../knowledge/finance/no1-reason-cava-so-profitable.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 391**: [The Real Reason Your Restaurant Is Losing Money](../knowledge/finance/real-reason-restaurant-losing-money.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 396**: [How Restaurants Make Big Money During Holidays](../knowledge/finance/restaurants-big-money-during-holidays.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 398**: [How One Simple Question Boosted My Catering Sales](../knowledge/finance/one-simple-question-boosted-my.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 399**: [3 Foods That Make Restaurants Rich! (2026)](../knowledge/finance/3-foods-restaurants-rich-2026.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 401**: [Contribution Margin vs Gross Margin Explained](../knowledge/finance/contribution-margin-vs-gross-margin.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 418**: [This is how restaurants calculate if they're going broke!](../knowledge/finance/restaurants-calculate-if-theyre-going.md) `[finance, profitability, unit-economics]`
+- **Serial 425**: [How To Calculate Contribution Margin](../knowledge/finance/calculate-contribution-margin.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 426**: [How To Stop Losing Thousands In Restaurant Sales Every MONTH!](../knowledge/finance/losing-thousands-restaurant-sales-month.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 449**: [Every Restaurant MUST Follow These Prime Cost Rules](../knowledge/finance/restaurant-must-follow-these-prime.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 453**: [Contribution vs Gross Margin: Know the Difference [Math Example]](../knowledge/finance/contribution-vs-gross-margin-know.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 456**: [3 Most Profitable Restaurant Ideas for 2026](../knowledge/finance/3-most-profitable-restaurant-ideas.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 478**: [Most restaurants FAIL because they ignore Prime Cost!](../knowledge/finance/most-restaurants-fail-because-they.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 482**: [How To Boost Restaurant Sales By 30%](../knowledge/finance/boost-restaurant-sales-by-30.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 485**: [How To Calculate Revenue Per Available Seat Hour For Your Restaurant](../knowledge/finance/calculate-revenue-per-available-seat.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 490**: [How To Reverse Engineer Restaurant Profits](../knowledge/finance/reverse-engineer-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 493**: [3 Tips for Profitable Restaurant Catering](../knowledge/finance/3-tips-profitable-restaurant-catering.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 537**: [The No.1 Mistake That Can Destroy Your Restaurant’s Profits](../knowledge/finance/no1-mistake-destroy-restaurants-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 541**: [This Cost Mistake Is Destroying Restaurant Margins](../knowledge/finance/cost-mistake-destroying-restaurant-margins.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 542**: [The Contribution Margin Problem Most Owners Miss](../knowledge/finance/contribution-margin-problem-most-owners.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 557**: [What’s in our $45,000/month miscellaneous cost for running a pizzeria? 🍕](../knowledge/finance/whats-our-45000month-miscellaneous-cost.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 571**: [The Brutal Truth About Restaurant Profit Margins $$$](../knowledge/finance/brutal-truth-about-restaurant-profit.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 580**: [Legendary Pizzeria On How to Grow Profits](../knowledge/finance/legendary-pizzeria-on-grow-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 583**: [The $15 Billion Problem Restaurants Wont Talk About](../knowledge/finance/15-billion-problem-restaurants-wont.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 585**: [3 Restaurant Concepts With the Highest Margins in 2026](../knowledge/finance/3-restaurant-concepts-highest-margins.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 599**: [The simple 2-step trick to double restaurant sales](../knowledge/finance/simple-2-step-double-restaurant-sales.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 618**: [The Most UNPROFITABLE Restaurant Concepts Right Now (2026)](../knowledge/finance/most-unprofitable-restaurant-concepts-right.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 625**: [This one formula saved us from losing $12K on catering last year](../knowledge/finance/one-formula-saved-us-losing.md) `[finance, profitability]`
+- **Serial 634**: [How to Price Catering So You Actually Make Money (Exact Formula)](../knowledge/finance/price-catering-so-actually-money.md) `[finance, profitability]`
+- **Serial 646**: [3 Least Profitable Restaurant Concepts 2026](../knowledge/finance/3-least-profitable-restaurant-concepts.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 649**: [The $20 Fro-Yo Cup: Why Cutting Back Doesnt Mean Cutting Out](../knowledge/finance/20-fro-yo-cup-cutting-back.md) `[finance, profitability]`
+- **Serial 654**: [The Restaurant Profitability Formula: 30-30-30-10 Rule](../knowledge/finance/restaurant-profitability-formula-30-30-30-10-rule.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 655**: [The Fastest Way To Destroy Your Business](../knowledge/finance/fastest-way-destroy-business.md) `[finance, profitability]`
+- **Serial 662**: [AI Slop or Actually Useful? Restaurant Edition](../knowledge/finance/ai-slop-or-actually-useful.md) `[finance, profitability]`
+- **Serial 664**: [How to Calculate Contribution Margin and Break-Even Point](../knowledge/finance/calculate-contribution-margin-break-even-point.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 672**: [The difference between Year 0 and Year 12 of owning a restaurant?](../knowledge/finance/difference-between-year-0-year.md) `[finance, profitability]`
+- **Serial 674**: [The 3 Biggest Restaurant Scams Youre Falling For](../knowledge/finance/3-biggest-restaurant-scams-youre.md) `[finance, profitability]`
+- **Serial 675**: [The difference between Year 0 and Year 12 of owning a restaurant?](../knowledge/finance/difference-between-year-0-year-675.md) `[finance, profitability]`
+- **Serial 684**: [Rich vs. Broke: The real secret to restaurant growth isnt virality](../knowledge/finance/rich-vs-broke-real-restaurant.md) `[finance, profitability]`
+- **Serial 691**: [The Hidden Trap in 30-Day Credit for Restaurants](../knowledge/finance/hidden-trap-30-day-credit-restaurants.md) `[finance, profitability]`
+- **Serial 693**: [Whats the Difference Between Margin and Markup? [Explained]](../knowledge/finance/whats-difference-between-margin-markup.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 696**: [3 Restaurant Rules That Quietly Kill Your Profits](../knowledge/finance/3-restaurant-rules-quietly-kill.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 702**: [Whats the Difference Between Cash Flow and Income? [Explained]](../knowledge/finance/whats-difference-between-cash-flow.md) `[finance, profitability]`
+- **Serial 704**: [Gross Margin vs Net Margin: The Difference Every Owner Needs to Know](../knowledge/finance/gross-margin-vs-net-margin.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 714**: [You’re Losing Sales Every Time Your Servers Say These...](../knowledge/finance/youre-losing-sales-time-servers.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 717**: [Whats the Difference Between Depreciation and Amortization? [Explained]](../knowledge/finance/whats-difference-between-depreciation-amortization.md) `[finance, accounting, depreciation, financial-management]`
+
+## Food-cost (76 entries)
+
+- **Serial 036**: [How one successful restaurant figured out how to give away free food profitably](../knowledge/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
+- **Serial 045**: [Why You Should Open THIS Trending Restaurant Concept](../knowledge/food-cost/gourmet-ramen-economics.md) `[food-cost, ramen, inventory-management, shelf-life, average-check]`
+- **Serial 048**: [The #1 Most Profitable Restaurant In 2024](../knowledge/food-cost/bubble-tea-cogs-and-margins.md) `[bubble-tea, cogs, food-cost, shelf-life, profit-margins]`
+- **Serial 051**: [Indian Restaurants Use THIS Hack To Reduce Food Costs](../knowledge/food-cost/indian-restaurants-use-this-hack-to-reduce-fo.md) `[food-cost, waste-reduction, repurposing-ingredients, inventory]`
+- **Serial 052**: [How To Make Your Restaurant More Profitable](../knowledge/food-cost/how-to-make-your-restaurant-more-profitable.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 057**: [Chipotle's #1 Restaurant Growth Secret](../knowledge/food-cost/chipotles-1-restaurant-growth-secret.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 070**: [Use These Ads To Boost Restaurant Sales](../knowledge/food-cost/use-these-ads-to-boost-restaurant-sales.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 084**: [This Is The Most Profitable Restaurant Concept](../knowledge/food-cost/this-is-the-most-profitable-restaurant-concep.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 090**: [Steal This Profit Margin Strategy For Restaurants](../knowledge/food-cost/steal-this-profit-margin-strategy-for-restaur.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 094**: [Steal This Low Food Cost Strategy For Restaurants](../knowledge/food-cost/steal-this-low-food-cost-strategy-for-restaur.md) `[food-cost, waste-reduction, repurposing-ingredients, inventory]`
+- **Serial 097**: [The Math Behind The Most Successful Restaurants](../knowledge/food-cost/the-math-behind-the-most-successful-restauran.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 108**: [Master Food Cost Calculation in 60 Seconds!](../knowledge/food-cost/master-food-cost-calculation-in-60-seconds.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 110**: [The Shocking Truth About McDonald's Profit](../knowledge/food-cost/the-shocking-truth-about-mcdonalds-profit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 111**: [The Secret Menu Item Making Steakhouses RICH](../knowledge/food-cost/the-secret-menu-item-making-steakhouses-rich.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 115**: [The Pricing Lie That's Killing Independent Restaurants](../knowledge/food-cost/the-pricing-lie-thats-killing-independent-res.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 117**: [The Genius Behind Chick-fil-A's Loyalty Program](../knowledge/food-cost/the-genius-behind-chick-fil-as-loyalty-progra.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 118**: [Make $200,000 Per Restaurant With This Menu Hack](../knowledge/food-cost/make-200000-per-restaurant-with-this-menu-hac.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 119**: [The Olive Garden Loyalty Program Hack You Need to Know](../knowledge/food-cost/the-olive-garden-loyalty-program-hack-you-nee.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 120**: [Restaurant Owners Are Making THIS Mistake With Pricing!](../knowledge/food-cost/restaurant-owners-are-making-this-mistake-wit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 124**: [MAXIMIZE Profit Calculating Restaurant Food Costs the Smart Way](../knowledge/food-cost/maximize-profit-calculating-restaurant-food-c.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 125**: [What's Behind Chipotle's #1 Growth Secret?](../knowledge/food-cost/whats-behind-chipotles-1-growth-secret.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 128**: [E COLI Almost Killed Chipotle But Then This Happened](../knowledge/food-cost/e-coli-almost-killed-chipotle-but-then-this-h.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 130**: [Is Your Menu COSTING You Customers and Profit?](../knowledge/food-cost/is-your-menu-costing-you-customers-and-profit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 133**: [What's the REAL Reason You're Paying More for That Sushi?](../knowledge/food-cost/whats-the-real-reason-youre-paying-more-for-t.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 139**: [Why 75% of Health Cafes Fail in the First Year](../knowledge/food-cost/why-75-of-health-cafes-fail-in-the-first-year.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 141**: [Calculate Your Restaurant's Profit Margin FAST and Avoid Costly Mistakes](../knowledge/food-cost/calculate-your-restaurants-profit-margin-fast.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 162**: [Hire the PERFECT Restaurant Manager with This One Question](../knowledge/food-cost/hire-the-perfect-restaurant-manager-with-this.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 173**: [What Makes McDonald's So Profitable?](../knowledge/food-cost/what-makes-mcdonalds-so-profitable.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 181**: [Calculate Your Restaurant's FOOD COST in Just 60 Seconds!](../knowledge/food-cost/calculate-your-restaurants-food-cost-in-just.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 183**: [Mind Blowing Way Restaurants Boost Profit Margins](../knowledge/food-cost/mind-blowing-way-restaurants-boost-profit-mar.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 187**: [Chick-fil-A's SECRET to Making $8M Per Location](../knowledge/food-cost/chick-fil-as-secret-to-making-8m-per-location.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 189**: [Menu Engineering Secrets of Top Earning Restaurants Revealed](../knowledge/food-cost/menu-engineering-secrets-of-top-earning-resta.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 190**: [The $7B SECRET to Turning a Struggling Cookie Store into Panera Bread!](../knowledge/food-cost/the-7b-secret-to-turning-a-struggling-cookie.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 191**: [The 30-Second Restaurant Food Cost Formula That Actually Works](../knowledge/food-cost/the-30-second-restaurant-food-cost-formula-th.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 217**: [Master These Food Cost Rules To Save Your Restaurant Money](../knowledge/food-cost/master-these-food-cost-rules.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 250**: [How Restaurants Save Thousands Using Leftover Food](../knowledge/food-cost/restaurants-save-thousands-using-leftover.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 263**: [Easy Food Cost Trick Every Restaurant Needs!](../knowledge/food-cost/easy-food-cost-restaurant-needs.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 290**: [Restaurant Food Cost Rules You Should Never Break!](../knowledge/food-cost/restaurant-food-cost-rules-should.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 298**: [The 60% Rule Every Restaurant Needs!](../knowledge/food-cost/60-rule-restaurant-needs.md) `[food-cost, cost-control, portioning]`
+- **Serial 302**: [The Secret to Restaurant Success Isn’t What You Think!](../knowledge/food-cost/restaurant-success-isnt-think.md) `[food-cost, cost-control, portioning]`
+- **Serial 304**: [How To Find Food Costs In Just 60 Seconds!](../knowledge/food-cost/find-food-costs-60-seconds.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 309**: [The #1 Food Cost Mistake You're Making Right Now](../knowledge/food-cost/1-food-cost-mistake-youre.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 340**: [How To Find Your Food Cost In Seconds!](../knowledge/food-cost/find-food-cost-seconds.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 343**: [Why Onion Rings Are a Secret Goldmine For Restaurants](../knowledge/food-cost/onion-rings-goldmine-restaurants.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 344**: [The #1 Food Cost Rule Every Restaurant Owner Must Know](../knowledge/food-cost/1-food-cost-rule-restaurant.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 357**: [Why Most Pizzerias Lose $40,625 Every Year](../knowledge/food-cost/most-pizzerias-lose-40625-year.md) `[food-cost, cost-control, portioning]`
+- **Serial 364**: [Is Your Food Cost EATING into Your Profits?](../knowledge/food-cost/food-cost-eating-profits.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 368**: [Why Your Food Costs Are Skyrocketing Even When Sales Drop](../knowledge/food-cost/food-costs-skyrocketing-even-when.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 370**: [Are You Making This Food Cost Mistake?](../knowledge/food-cost/food-cost-mistake.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 382**: [How to Calculate Food Cost (Easy Formula)](../knowledge/food-cost/calculate-food-cost-easy-formula.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 383**: [👇The $40,000 Mistake Hiding in Your Kitchen](../knowledge/food-cost/40000-mistake-hiding-kitchen.md) `[food-cost, cost-control, portioning]`
+- **Serial 397**: [Why $8 Onion Rings Are a Money Machine!](../knowledge/food-cost/8-onion-rings-money-machine.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 406**: [Where Restaurants Accidentally Lose $37,700](../knowledge/food-cost/where-restaurants-accidentally-lose-37700.md) `[food-cost, cost-control, portioning]`
+- **Serial 407**: [Stop Losing Money on Wasted Food](../knowledge/food-cost/losing-money-on-wasted-food.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 410**: [How to Calculate Food Cost In 60 Seconds!](../knowledge/food-cost/calculate-food-cost-60-seconds.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 417**: [The No.1 Reason Why Restaurants Fail](../knowledge/food-cost/no1-reason-restaurants-fail.md) `[food-cost, cost-control, portioning]`
+- **Serial 435**: [The 60-65% Rule That Saves Restaurants](../knowledge/food-cost/60-65-rule-saves-restaurants.md) `[food-cost, cost-control, portioning]`
+- **Serial 457**: [Calculate Restaurant Food Costs In 60 Seconds](../knowledge/food-cost/calculate-restaurant-food-costs-60.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 459**: [How to Achieve 28-30% Food Cost 🤫](../knowledge/food-cost/achieve-28-30-food-cost.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 462**: [The hidden $40,000 problem in every restaurant](../knowledge/food-cost/hidden-40000-problem-restaurant.md) `[food-cost, cost-control, portioning]`
+- **Serial 466**: [Calculate Food Cost In 30 Seconds 🍔🍕](../knowledge/food-cost/calculate-food-cost-30-seconds.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 467**: [Never Exceed These Food Cost Rules 🤯](../knowledge/food-cost/never-exceed-these-food-cost.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 489**: [Why Restaurants Should NEVER Serve Small Portions](../knowledge/food-cost/restaurants-should-never-serve-small.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 497**: [Should Your Restaurant RAISE Prices?](../knowledge/food-cost/should-restaurant-raise-prices.md) `[food-cost, cost-control, portioning]`
+- **Serial 525**: [Poor Owner vs Rich Owner: Here Are the Differences 🤔](../knowledge/food-cost/poor-owner-vs-rich-owner.md) `[food-cost, cost-control, portioning]`
+- **Serial 526**: [Real Restaurant Owner's Secret to Controlling Food Costs](../knowledge/food-cost/real-restaurant-owners-controlling-food.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 535**: [The Hidden Costs of Running a Restaurant](../knowledge/food-cost/hidden-costs-running-restaurant.md) `[food-cost, cost-control, portioning]`
+- **Serial 556**: [How to Calculate Food Cost? (Real Math Example)](../knowledge/food-cost/calculate-food-cost-real-math.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 559**: [Olive Garden's Genius Move During Inflation](../knowledge/food-cost/olive-gardens-genius-move-during.md) `[food-cost, cost-control, portioning]`
+- **Serial 574**: [McDonalds doesnt make money on burgers. They make it on fries.](../knowledge/food-cost/mcdonalds-doesnt-money-on-burgers.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 577**: [The Easy Formula to Calculate Pour Cost](../knowledge/food-cost/easy-formula-calculate-pour-cost.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 626**: [3 Strategies to Cut Food Waste By 50% (Fast & Easy)](../knowledge/food-cost/3-strategies-cut-food-waste.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 648**: [How Restaurants Calculate Food Cost (Easy Formula)](../knowledge/food-cost/restaurants-calculate-food-cost-easy.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 653**: [Stop Blaming Bad Sales for Your High Food Cost](../knowledge/food-cost/blaming-bad-sales-high-food.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 676**: [3 Strategies to Help You Hit 30% Food Cost](../knowledge/food-cost/3-strategies-help-hit-30.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 682**: [How Much Do We Lose To Waste Per Year?](../knowledge/food-cost/much-do-we-lose-waste.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+
+## Forecasting (1 entries)
+
+- **Serial 481**: [How to Forecast Restaurant Sales](../knowledge/forecasting/forecast-restaurant-sales.md) `[sales-forecasting, demand-forecasting, planning]`
+
+## Kitchen (2 entries)
+
+- **Serial 554**: [Your kitchen could make 20% more annually (here's how)](../knowledge/kitchen/kitchen-could-20-annually-heres.md) `[kitchen, kitchen-operations, throughput]`
+- **Serial 565**: [Your pizza kitchen isn't broken, your system is](../knowledge/kitchen/pizza-kitchen-isnt-broken-system.md) `[kitchen, kitchen-operations, throughput]`
+
+## Labour (57 entries)
+
+- **Serial 016**: [The Secret That The Top Restaurant Owners Have In Common (Hint: People)](../knowledge/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
+- **Serial 041**: [Find Top Restaurant Staff With This Simple Secret](../knowledge/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
+- **Serial 078**: [Why Is Texas Roadhouse #1 In Service?](../knowledge/labour/why-is-texas-roadhouse-1-in-service.md) `[staffing, recruiting, labor-management, retention]`
+- **Serial 150**: [The Shocking Reason Most Restaurant Managers Fail](../knowledge/labour/the-shocking-reason-most-restaurant-managers.md) `[staffing, recruiting, labor-management, retention]`
+- **Serial 156**: [What Makes a Restaurant a True Neighborhood Spot?](../knowledge/labour/what-makes-a-restaurant-a-true-neighborhood-s.md) `[staffing, recruiting, labor-management, retention]`
+- **Serial 167**: [Mike Bausch's Secret to Building Loyal Restaurant Teams](../knowledge/labour/mike-bauschs-secret-to-building-loyal-restaur.md) `[staffing, recruiting, labor-management, retention]`
+- **Serial 209**: [Why In-N-Out DOUBLED Their Labor Costs and Won BIG!](../knowledge/labour/in-n-out-doubled-labor-costs-won.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 218**: [This Fast Food Chain Pays Workers TRIPLE The Minimum Wage!](../knowledge/labour/fast-food-chain-pays-workers.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 225**: [Why Paying 70% Above Minimum Wage Made This Restaurant THRIVE?](../knowledge/labour/paying-70-above-minimum-wage.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 267**: [Are You Hiring The Wrong Restaurant Manager?](../knowledge/labour/hiring-wrong-restaurant-manager.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 278**: [Why Does In-N-Out Pay Workers So Much?](../knowledge/labour/does-in-n-out-pay-workers-so.md) `[labour, wages, staff-management]`
+- **Serial 293**: [The #1 Reason Restaurant Are LOSING Top Employees](../knowledge/labour/1-reason-restaurant-losing-top.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 295**: [What’s Hiding in Your Restaurant’s P&L?](../knowledge/labour/whats-hiding-restaurants-pl.md) `[labour, wages, staff-management]`
+- **Serial 297**: [The Fastest Way To Make Your Restaurant Team Happier!](../knowledge/labour/fastest-way-restaurant-team-happier.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 306**: [The Secret Formula To Make Six Figures In Your Restaurant!](../knowledge/labour/formula-six-figures-restaurant.md) `[labour, wages, staff-management]`
+- **Serial 312**: [The Secret Behind Happy Restaurant Teams!](../knowledge/labour/behind-happy-restaurant-teams.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 318**: [How Higher Wages Made This Restaurant a Success!](../knowledge/labour/higher-wages-made-restaurant-success.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 353**: [How 4 Simple Dishes Changed Fast Food Forever](../knowledge/labour/4-simple-dishes-changed-fast.md) `[labour, wages, staff-management]`
+- **Serial 394**: [Why Do Employees Pay $25,000 To Run This Restaurant?](../knowledge/labour/do-employees-pay-25000-run.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 400**: [Want a Clean Restaurant? Fix Your Team's Motivation in Just 5 Minutes](../knowledge/labour/want-clean-restaurant-fix-teams.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 402**: [Why Making Staff Pay For Food Is Hurting Your Restaurant](../knowledge/labour/staff-pay-food-hurting-restaurant.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 415**: [How To Calculate Your Labor Costs (Easy Math)](../knowledge/labour/calculate-labor-costs-easy-math.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 416**: [This Fast Food Chain Pays Workers DOUBLE the Industry Average](../knowledge/labour/fast-food-chain-pays-workers-416.md) `[labour, wages, staff-management]`
+- **Serial 419**: [Why Your Staff Keeps Making the Same Mistake](../knowledge/labour/staff-keeps-same-mistake.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 433**: [The 3 Numbers That Actually Matter in Restaurants](../knowledge/labour/3-numbers-actually-matter-restaurants.md) `[labour, wages, staff-management]`
+- **Serial 438**: [The 60% Rule Most Restaurants Don't Know](../knowledge/labour/60-rule-most-restaurants-know.md) `[labour, wages, staff-management]`
+- **Serial 445**: [Why Most Restaurants Guess Labor Costs](../knowledge/labour/most-restaurants-guess-labor-costs.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 480**: [Why Chipotle Makes SO Much Money](../knowledge/labour/chipotle-so-much-money.md) `[labour, wages, staff-management]`
+- **Serial 495**: [Why Micromanaging Your Restaurant Staff is a HUGE Mistake](../knowledge/labour/micromanaging-restaurant-staff-huge-mistake.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 498**: [The Dangerous Metric Most Restaurants Ignore](../knowledge/labour/dangerous-metric-most-restaurants-ignore.md) `[labour, wages, staff-management]`
+- **Serial 500**: [How Chipotle Makes SO MUCH Money](../knowledge/labour/chipotle-so-much-money-500.md) `[labour, wages, staff-management]`
+- **Serial 515**: [Stop Asking Your Staff to Pay for Food!](../knowledge/labour/asking-staff-pay-food.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 517**: [Real restaurant owner’s secret to 0% turnover in 2025](../knowledge/labour/real-restaurant-owners-0-turnover.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 518**: [Labor costs killing your restaurant? Save this one simple rule 🤯](../knowledge/labour/labor-costs-killing-restaurant-save.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 522**: [Why Fast Food Giants Can't Match In-N-Out's Pay](../knowledge/labour/fast-food-giants-cant-match.md) `[labour, wages, staff-management]`
+- **Serial 524**: [You can do $5M a year and still be LOSING money](../knowledge/labour/do-5m-year-still-be.md) `[labour, wages, staff-management]`
+- **Serial 570**: [Strategy Behind a $7,000,000/Year Restaurant Team](../knowledge/labour/strategy-behind-7000000year-restaurant-team.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 573**: [Why Good Employees Actually Leave (Its Not About Pay)](../knowledge/labour/good-employees-actually-leave-its.md) `[labour, staff-retention, wages, management]`
+- **Serial 575**: [Pizzeria Owner Exposes Their Winning System](../knowledge/labour/pizzeria-owner-exposes-winning-system.md) `[labour, staff-retention]`
+- **Serial 578**: [Restaurants Fail for One Reason — And It Has Nothing to Do With Cooking](../knowledge/labour/restaurants-fail-one-reason-it.md) `[labour, staff-retention]`
+- **Serial 586**: [What To Do When Your Staff Asks For More Money](../knowledge/labour/do-when-staff-asks-money.md) `[labour, staff-retention, wages, management]`
+- **Serial 595**: [When to train vs. when to FIRE restaurant staff](../knowledge/labour/when-train-vs-when-fire.md) `[labour, staff-retention, wages, management]`
+- **Serial 611**: [Stop Micromanaging Your Staff. Heres Why.](../knowledge/labour/micromanaging-staff-heres.md) `[labour, staff-retention, wages, management]`
+- **Serial 612**: [Why Your Team Does Not Follow the Checklist (And How To Fix It)](../knowledge/labour/team-does-not-follow-checklist.md) `[labour, staff-retention, wages, management]`
+- **Serial 613**: [Rookie vs Smart Restaurant Managers (3 Tips)](../knowledge/labour/rookie-vs-smart-restaurant-managers.md) `[labour, staff-retention]`
+- **Serial 614**: [Most Service Training Gets It Wrong. Heres What Actually Works](../knowledge/labour/most-service-training-gets-it.md) `[labour, staff-retention, wages, management]`
+- **Serial 663**: [Are You a Rich Owner or a Broke Owner?](../knowledge/labour/rich-owner-or-broke-owner.md) `[labour, staff-retention]`
+- **Serial 671**: [Why I Fired Myself From My Own Kitchen](../knowledge/labour/i-fired-myself-my-own.md) `[labour, staff-retention, wages, management]`
+- **Serial 673**: [Why Moms Build Better Businesses (2 Reasons)](../knowledge/labour/moms-build-better-businesses-2.md) `[labour, staff-retention]`
+- **Serial 683**: [How to stop micromanaging your team (copy this SOP)](../knowledge/labour/micromanaging-team-copy-sop.md) `[labour, staff-retention, wages, management]`
+- **Serial 692**: [YOUR STAFF SHOULD NEVER EAT “DEAD FOOD”](../knowledge/labour/staff-should-never-eat-dead.md) `[labour, staff-retention, wages, management]`
+- **Serial 694**: [How to Pay Staff More Without Killing Margins?](../knowledge/labour/pay-staff-without-killing-margins.md) `[labour, staff-retention, wages, management]`
+- **Serial 695**: [How Much Food Should You Keep in Your Restaurant? Stock Turnover & Par Levels Explained](../knowledge/labour/much-food-should-keep-restaurant.md) `[labour, staff-retention]`
+- **Serial 699**: [Psychology Tricks to Increase Your Average Ticket (Real Research)](../knowledge/labour/psychology-tricks-increase-average-ticket.md) `[labour, staff-retention]`
+- **Serial 711**: [Struggling to keep good restaurant staff? Heres what to do.](../knowledge/labour/struggling-keep-good-restaurant-staff.md) `[labour, staff-retention, wages, management]`
+- **Serial 712**: [Why Paneras Hiring Humans to Fix What Tech Couldnt](../knowledge/labour/paneras-hiring-humans-fix-tech.md) `[labour, staff-retention, wages, management]`
+- **Serial 713**: [Whats the Difference Between Labor Cost and Labor Efficiency Ratio? [Explained]](../knowledge/labour/whats-difference-between-labor-cost.md) `[labour, staff-retention, wages, management]`
+
+## Marketing (108 entries)
+
+- **Serial 002**: [Best Google Keywords for Restaurant: SEO For Restaurants](../knowledge/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
+- **Serial 003**: [Restaurant SEO Must-Have: Building Citations (Getting NAPs Right)](../knowledge/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
+- **Serial 004**: [Restaurant SEO: Ranking #1 On Google Images Using Alt-Text](../knowledge/marketing/restaurant-image-alt-text-seo.md) `[seo, google-images, alt-text, acquisition, local-marketing]`
+- **Serial 008**: [Restaurant Marketing: Why Google SEO Beats Social Media](../knowledge/marketing/google-seo-vs-social-media-intent.md) `[seo, social-media, buyer-intent, conversion-rates]`
+- **Serial 009**: [Best restaurant homepage setup for conversion](../knowledge/marketing/restaurant-homepage-structure.md) `[website-design, conversion-rate, menu-preview, visual-marketing]`
+- **Serial 010**: [How to use restaurant reviews to increase sales](../knowledge/marketing/homepage-customer-reviews-seo.md) `[reviews, social-proof, seo-rankings, conversion]`
+- **Serial 011**: [How to use your restaurant website to build your email list](../knowledge/marketing/website-vip-club-lead-capture.md) `[email-marketing, lead-capture, vip-club, conversion]`
+- **Serial 013**: [Best restaurant website structure for conversion](../knowledge/marketing/restaurant-website-conversion-flow.md) `[website-design, conversion-rate, ux, online-ordering]`
+- **Serial 015**: [How The Best Restaurants Do Branding](../knowledge/marketing/target-customer-brand-positioning.md) `[branding, target-audience, customer-personas, positioning]`
+- **Serial 017**: [5 things restaurants need to automate their marketing](../knowledge/marketing/automated-marketing-data-collection.md) `[marketing-automation, sms-marketing, email-marketing, data-collection]`
+- **Serial 018**: [Why you need to be using this restaurant marketing strategy in 2023](../knowledge/marketing/founder-story-conversion-lift.md) `[storytelling, average-check, order-frequency, website-conversion]`
+- **Serial 019**: [How to advertise your restaurant on Google for free](../knowledge/marketing/item-specific-seo-landing-pages.md) `[seo, organic-traffic, landing-pages, menu-items]`
+- **Serial 020**: [3 things every successful restaurant has on their website](../knowledge/marketing/above-the-fold-homepage-elements.md) `[website-design, above-the-fold, social-proof, conversion]`
+- **Serial 024**: [How one restaurant successfully used this email to drive an extra $2,000 a month](../knowledge/marketing/weekly-specials-email-broadcast.md) `[email-marketing, sms-marketing, weekly-specials, sales-lift]`
+- **Serial 028**: [How this restaurant is getting a 1250% return with this marketing strategy](../knowledge/marketing/new-mover-direct-mail-roi.md) `[direct-mail, roi, customer-acquisition, new-movers]`
+- **Serial 030**: [The 2009 'Cardboard Pizza' commercial from Domino's that turned around their entire company](../knowledge/marketing/radical-transparency-advertising.md) `[transparency, brand-turnaround, advertising, customer-feedback]`
+- **Serial 031**: [Why direct mail marketing for restaurants is not dead in 2023](../knowledge/marketing/direct-mail-deliverability-and-standout.md) `[direct-mail, marketing-channels, attention, retention]`
+- **Serial 033**: [This is the perfect time to send direct mail as a restaurant if you want more regular customers](../knowledge/marketing/new-resident-direct-mail-timing.md) `[direct-mail, timing, new-residents, lead-filtering]`
+- **Serial 038**: [The 3 things every successful direct mail strategy for restaurants should have](../knowledge/marketing/direct-mail-core-components.md) `[direct-mail, copywriting, personalization, offers]`
+- **Serial 058**: [The Surprising Reason Sweetgreen Was Created](../knowledge/marketing/the-surprising-reason-sweetgreen-was-created.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 068**: [Why Instagram Isn't Boosting Restaurant Sales](../knowledge/marketing/why-instagram-isnt-boosting-restaurant-sales.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 072**: [How This Person Opened A Restaurant For Less Than $10,000](../knowledge/marketing/how-this-person-opened-a-restaurant-for-less.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 076**: [This Billion Dollar Restaurant Spends Zero On Ads](../knowledge/marketing/this-billion-dollar-restaurant-spends-zero-on.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 086**: [How The 80/20 Rule Applies To Restaurant Marketing](../knowledge/marketing/how-the-8020-rule-applies-to-restaurant-marke.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 087**: [The Cheapest Way To Open A Restaurant](../knowledge/marketing/the-cheapest-way-to-open-a-restaurant.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 092**: [How Texas Roadhouse Spends Zero On Ads](../knowledge/marketing/how-texas-roadhouse-spends-zero-on-ads.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 102**: [Why Private Equity Is Fueling Restaurant Chain Explosions](../knowledge/marketing/why-private-equity-is-fueling-restaurant-chai.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 113**: [Why Taco Bell's Breakfast GAMBLE Was a Game Changer](../knowledge/marketing/why-taco-bells-breakfast-gamble-was-a-game-ch.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 123**: [The Surprising Reason Texas Roadhouse Ignores Advertising!](../knowledge/marketing/the-surprising-reason-texas-roadhouse-ignores.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 132**: [Spy on Your Restaurant Competitors for FREE with AI](../knowledge/marketing/spy-on-your-restaurant-competitors-for-free-w.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 142**: [Boost Your Restaurant's Sales with a GREAT Digital Experience!](../knowledge/marketing/boost-your-restaurants-sales-with-a-great-dig.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 154**: [Restaurant Success Made Easy With This FREE AI Tool!](../knowledge/marketing/restaurant-success-made-easy-with-this-free-a.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 159**: [Texas Roadhouse Crushes Applebee's with THIS Simple Strategy!](../knowledge/marketing/texas-roadhouse-crushes-applebees-with-this-s.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 170**: [The SECRET to Attracting TOP Talent in Restaurants](../knowledge/marketing/the-secret-to-attracting-top-talent-in-restau.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 175**: [BILLIONAIRE Restaurant Owner Secrets REVEALED](../knowledge/marketing/billionaire-restaurant-owner-secrets-revealed.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 188**: [Meet the FISHERMAN Who Built a 7 Billion Dollar Chicken Finger Empire](../knowledge/marketing/meet-the-fisherman-who-built-a-7-billion-doll.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 207**: [Free Restaurant SEO Guide That Actually Works in 2025](../knowledge/marketing/free-restaurant-seo-guide-actually.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 213**: [Why Texas Roadhouse DOMINATES Local Marketing While Others Fail?](../knowledge/marketing/texas-roadhouse-dominates-local-marketing.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 219**: [How This Free Tool Ranks Restaurants #1 on Google Search](../knowledge/marketing/free-tool-ranks-restaurants-1.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 222**: [The MARKETING Genius Behind Domino's Trump Ad](../knowledge/marketing/marketing-genius-behind-dominos-trump.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 228**: [How Small Restaurants Beat Big Brands on Google Search?](../knowledge/marketing/small-restaurants-beat-big-brands.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 241**: [Small Restaurant Makes MILLIONS With Simple Marketing Trick](../knowledge/marketing/small-restaurant-millions-simple-marketing.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 246**: [Why Your Free Restaurant Dessert Is A GENIUS Marketing Trick?](../knowledge/marketing/free-restaurant-dessert-genius-marketing.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 249**: [The Biggest Marketing Fail in Fast Food History](../knowledge/marketing/biggest-marketing-fail-fast-food.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 264**: [Why This Ice Cream Shop Makes $200,000 a Year!](../knowledge/marketing/ice-cream-shop-200000-year.md) `[marketing, local-seo, branding]`
+- **Serial 265**: [Are You Wasting Time on Social Media for Your Restaurant?](../knowledge/marketing/wasting-time-on-social-media.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 273**: [The GENIUS Restaurant Marketing Move Taco Bell Made](../knowledge/marketing/genius-restaurant-marketing-move-taco.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 282**: [The Secret Google Tool That Boosts Restaurant Profits!](../knowledge/marketing/google-tool-boosts-restaurant-profits.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 288**: [How AI Can Help Your Restaurant Beat the Competition in 2025!](../knowledge/marketing/ai-help-restaurant-beat-competition.md) `[marketing, local-seo, branding]`
+- **Serial 308**: [STOP Wasting Time on Social Media for Restaurant Sales](../knowledge/marketing/wasting-time-on-social-media-308.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 314**: [Can Your Restaurant Survive Without Social Media](../knowledge/marketing/restaurant-survive-without-social-media.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 339**: [Why Guerrilla Marketing is a STILL WORKS for Small Restaurants](../knowledge/marketing/guerrilla-marketing-still-works-small.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 378**: [This $200 Restaurant Trick Beats Expensive Ads!](../knowledge/marketing/200-restaurant-beats-expensive-ads.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 411**: [Free Churros Made This Restaurant Rich](../knowledge/marketing/free-churros-made-restaurant-rich.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 414**: [The breadstick trick that made me six figures more!](../knowledge/marketing/breadstick-made-me-six-figures.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 423**: [Stop Wasting Money on Social Media | Here's What Actually Works for Restaurants](../knowledge/marketing/wasting-money-on-social-media.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 434**: [Every Restaurant Owner MUST Read This Book!](../knowledge/marketing/restaurant-owner-must-read-book.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 437**: [Restaurant Owners Missing This on Their Websites](../knowledge/marketing/restaurant-owners-missing-on-websites.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 447**: [🤯 The $100,000 Restaurant Marketing Email](../knowledge/marketing/100000-restaurant-marketing-email.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 451**: [Google Trick Every Restaurant Owner Needs to Know](../knowledge/marketing/google-restaurant-owner-needs-know.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 455**: [Smart Restaurants Give THESE Away](../knowledge/marketing/smart-restaurants-give-these-away.md) `[marketing, local-seo, branding]`
+- **Serial 465**: [Why SEO Is So Powerful for Restaurants](../knowledge/marketing/seo-so-powerful-restaurants.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 469**: [Don't Let Your Restaurant Miss Out On The Super Bowl](../knowledge/marketing/let-restaurant-miss-out-on.md) `[marketing, local-seo, branding]`
+- **Serial 472**: [Why Good Food Isnt Enough For Restaurants](../knowledge/marketing/good-food-isnt-enough-restaurants.md) `[marketing, local-seo, branding]`
+- **Serial 476**: [Why Restaurants Let You DRAW On The Table?](../knowledge/marketing/restaurants-let-draw-on-table.md) `[marketing, local-seo, branding]`
+- **Serial 494**: [How Breadsticks Made My Restaurant Over $100,000](../knowledge/marketing/breadsticks-made-my-restaurant-over.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 499**: [Papa Johns' Fatal Marketing Mistake](../knowledge/marketing/papa-johns-fatal-marketing-mistake.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 502**: [Why Homemade Means Nothing in (most) Restaurants](../knowledge/marketing/homemade-means-nothing-most-restaurants.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 512**: [Restaurant Owners Are Getting Scammed #business #truth](../knowledge/marketing/restaurant-owners-getting-scammed-business.md) `[marketing, local-seo, branding]`
+- **Serial 520**: [What is NAP in Local SEO? Here's Why It Matters!](../knowledge/marketing/nap-local-seo-heres-it.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 528**: [Most Restaurants Get This Wrong #marketing #restaurantowner](../knowledge/marketing/most-restaurants-get-wrong-marketing.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 529**: [Here's How to Rank Your Restaurant On ChatGPT](../knowledge/marketing/heres-rank-restaurant-on-chatgpt.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 538**: [Real Restaurant Owner's Secret to Marketing and Growth](../knowledge/marketing/real-restaurant-owners-marketing-growth.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 543**: [BREAKING: Burger King Workers Now Have an AI Voice in Their Head Grading Their Friendliness](../knowledge/marketing/breaking-burger-king-workers-now.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 551**: [Most restaurant owners are leaving $15K on the table (here's what to do)](../knowledge/marketing/most-restaurant-owners-leaving-15k.md) `[marketing, local-seo, branding]`
+- **Serial 558**: [STOP trading hours for dollars if you want to scale!](../knowledge/marketing/trading-hours-dollars-if-want.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 561**: [“We rely on word of mouth” is why your sales are flat 🚩](../knowledge/marketing/we-rely-on-word-mouth.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 566**: [Why We Don't Promote Mother's Day (And What We Do Instead)](../knowledge/marketing/we-promote-mothers-day-we.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 568**: [One question added $25,000 a year to our catering sales](../knowledge/marketing/one-question-added-25000-year.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 572**: [Which Marketing Channel Makes Restaurants The Most Money?](../knowledge/marketing/which-marketing-channel-restaurants-most.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 579**: [3 Things Gwyneth Paltrows Restaurant Does That Independent Owners Should Copy](../knowledge/marketing/3-things-gwyneth-paltrows-restaurant.md) `[marketing, customer-acquisition]`
+- **Serial 588**: [Olive Garden’s Genius Free Breadstick Strategy](../knowledge/marketing/olive-gardens-genius-free-breadstick.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 590**: [The FREE AI tool every restaurant owner should be using right now in 2026](../knowledge/marketing/free-ai-tool-restaurant-owner.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 596**: [You can buy a restaurant for less than $50,000 in 2026](../knowledge/marketing/buy-restaurant-less-than-50000.md) `[marketing, customer-acquisition]`
+- **Serial 601**: [The Truth About Running a Restaurant Right Now](../knowledge/marketing/truth-about-running-restaurant-right.md) `[marketing, customer-acquisition]`
+- **Serial 605**: [The 3 jobs of a restaurant owner (most fail at the last one)](../knowledge/marketing/3-jobs-restaurant-owner-most.md) `[marketing, customer-acquisition]`
+- **Serial 606**: [Real Owner Reacts: Was That Actually Good Advice?](../knowledge/marketing/real-owner-reacts-was-actually.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 608**: [First Impressions Happen Before the First Bite](../knowledge/marketing/first-impressions-happen-before-first.md) `[marketing, customer-acquisition]`
+- **Serial 624**: [This one click difference costs restaurants millions](../knowledge/marketing/one-click-difference-costs-restaurants.md) `[marketing, customer-acquisition]`
+- **Serial 628**: [Differences Between a $1M and $10M Restaurant Owner](../knowledge/marketing/differences-between-1m-10m-restaurant.md) `[marketing, customer-acquisition]`
+- **Serial 630**: [How does a struggling pizzeria grow to $7M/year?](../knowledge/marketing/does-struggling-pizzeria-grow-7myear.md) `[marketing, customer-acquisition]`
+- **Serial 631**: [Stop Treating Your Business Like A Baby (Here’s Why)](../knowledge/marketing/treating-business-like-baby-heres.md) `[marketing, customer-acquisition]`
+- **Serial 635**: [Restaurant owners making $11,760/month with this one strategy](../knowledge/marketing/restaurant-owners-11760month-one-strategy.md) `[marketing, customer-acquisition]`
+- **Serial 637**: [How to Enforce Rules Without Being the Bad Guy (4 Steps)](../knowledge/marketing/enforce-rules-without-being-bad.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 640**: [How My Restaurant Made An Extra $187.000](../knowledge/marketing/my-restaurant-made-extra-187000.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 642**: [This Pizza Place Went From Broke to Booming, Heres How](../knowledge/marketing/pizza-place-went-broke-booming.md) `[marketing, customer-acquisition]`
+- **Serial 651**: [The No.1 Reason Independent Restaurants Fail Online](../knowledge/marketing/no1-reason-independent-restaurants-fail.md) `[marketing, customer-acquisition]`
+- **Serial 657**: [Your restaurant website doesnt need to be prettier. It needs to sell more.](../knowledge/marketing/restaurant-website-doesnt-need-be.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 658**: [Why Texas Roadhouse Banned General Managers](../knowledge/marketing/texas-roadhouse-banned-general-managers.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 665**: [The Most Expensive Lesson for Restaurant Owners (2026)](../knowledge/marketing/most-expensive-lesson-restaurant-owners.md) `[marketing, customer-acquisition]`
+- **Serial 677**: [How to scale from $800k to $1.4 million a year?](../knowledge/marketing/scale-800k-14-million-year.md) `[marketing, customer-acquisition]`
+- **Serial 678**: [How to Spot a Failing Restaurant in 30 Seconds](../knowledge/marketing/spot-failing-restaurant-30-seconds.md) `[marketing, customer-acquisition]`
+- **Serial 688**: [How Much Does It Actually Cost To Run A Pizza Restaurant?](../knowledge/marketing/much-does-it-actually-cost-688.md) `[marketing, customer-acquisition]`
+- **Serial 697**: [Stop Standardizing Everything, Use the Hospitality Functions Matrix Instead](../knowledge/marketing/standardizing-everything-use-hospitality-functions.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 698**: [Marketing Strategies That Actually Work for Restaurants In 2026](../knowledge/marketing/marketing-strategies-actually-work-restaurants.md) `[marketing, customer-acquisition]`
+- **Serial 700**: [Stop Using AI for Content Nobody Asked For (Do This Instead)](../knowledge/marketing/using-ai-content-asked-do.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 701**: [The Biggest Mistake Restaurant Owners Make & What To Do Instead](../knowledge/marketing/biggest-mistake-restaurant-owners-do.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 719**: [Stop Making These Mistakes for Your Restaurant Website!](../knowledge/marketing/these-mistakes-restaurant-website.md) `[marketing, customer-acquisition, channel-roi]`
+
+## Menu (91 entries)
+
+- **Serial 014**: [The Alarming Reason Why Restaurants FAIL (Menu Market Fit)](../knowledge/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
+- **Serial 021**: [Why every restaurant owner needs to know this psychology trick to increase sales](../knowledge/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
+- **Serial 027**: [Why every restaurant should use THIS menu hack from Domino's pizza to avoid decision fatigue](../knowledge/menu/step-by-step-menu-decision-fatigue.md) `[decision-fatigue, menu-engineering, ordering-flow, conversion]`
+- **Serial 044**: [The Simple Restaurant Hack To Increase The Average Check Size](../knowledge/menu/free-item-average-check-threshold.md) `[average-check, spend-thresholds, upselling, food-cost]`
+- **Serial 050**: [Sushi Restaurants Use THIS Hack To Make More Profit](../knowledge/menu/menu-naming-perceived-value.md) `[menu-engineering, perceived-value, pricing-power, menu-naming]`
+- **Serial 064**: [How AI Is Helping Restaurants Make More Money](../knowledge/menu/how-ai-is-helping-restaurants-make-more-money.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 069**: [The Key To A Great Restaurant Website](../knowledge/menu/the-key-to-a-great-restaurant-website.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 079**: [Why Restaurants Shouldn't Boost Facebook Posts](../knowledge/menu/why-restaurants-shouldnt-boost-facebook-posts.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 088**: [How Restaurants Should Use Influencers](../knowledge/menu/how-restaurants-should-use-influencers.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 093**: [How To Find Trending Dishes For Your Restaurant](../knowledge/menu/how-to-find-trending-dishes-for-your-restaura.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 100**: [THIS Is Why Restaurant's Fail](../knowledge/menu/this-is-why-restaurants-fail.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 116**: [How to Use Google to Save Your Restaurant Business](../knowledge/menu/how-to-use-google-to-save-your-restaurant-bus.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 126**: [The #1 Marketing Hack Restaurants Are Using to Get Ahead!](../knowledge/menu/the-1-marketing-hack-restaurants-are-using-to.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 129**: [Is Your Restaurant Missing Out on $1.4 Million Because of THIS?](../knowledge/menu/is-your-restaurant-missing-out-on-14-million.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 149**: [Chick Fil A CRUSHES McDonalds and Starbucks in Sales](../knowledge/menu/chick-fil-a-crushes-mcdonalds-and-starbucks-i.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 180**: [What's Behind Chick fil A's $6.2B Empire Success](../knowledge/menu/whats-behind-chick-fil-as-62b-empire-success.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 184**: [The #1 Restaurant Hack NO ONE Tells You](../knowledge/menu/the-1-restaurant-hack-no-one-tells-you.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 193**: [The REAL Story Behind Chick-fil-A's Massive Success!](../knowledge/menu/the-real-story-behind-chick-fil-as-massive-su.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 195**: [In-N-Out's SECRET To Making DOUBLE The Money With LESS Menu Items](../knowledge/menu/in-n-outs-secret-to-making-double-the-money-w.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 205**: [The Secret Z-Pattern That Makes Restaurants Rich](../knowledge/menu/z-pattern-restaurants-rich.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 214**: [How Chick-fil-A Grew Their Menu Without Hurting Their Brand?](../knowledge/menu/chick-fil-a-grew-menu-without-hurting.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 220**: [The Simple Menu Trick That Made Chipotle a BILLION Dollar Brand!](../knowledge/menu/simple-menu-made-chipotle-billion.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 227**: [The Perfect Menu Size That Will Make Your Restaurant PROFITABLE!](../knowledge/menu/perfect-menu-size-will-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 231**: [How This Restaurant Hit $60M Sales Without Raising Menu Prices?](../knowledge/menu/restaurant-hit-60m-sales-without.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 232**: [Why Chipotle's Simple Menu Made Them BILLIONS](../knowledge/menu/chipotles-simple-menu-made-them.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 234**: [The Secret Psychology Behind Profitable Restaurant Menus](../knowledge/menu/psychology-behind-profitable-restaurant-menus.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 237**: [The Shocking Truth About RESTAURANT Pricing Strategies](../knowledge/menu/shocking-truth-about-restaurant-pricing.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 248**: [Why Pizza Hut Added Xbox Gaming to Their Menu?](../knowledge/menu/pizza-hut-added-xbox-gaming.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 251**: [This Simple Sushi Menu Trick Makes Restaurants an Extra $6 Per Roll!](../knowledge/menu/simple-sushi-menu-restaurants-extra.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 252**: [The MASSIVE Menu Mistake That Destroyed Boston Market](../knowledge/menu/massive-menu-mistake-destroyed-boston.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 253**: [Why 90% of Restaurants FAIL in Their First Year?](../knowledge/menu/90-restaurants-fail-first-year.md) `[menu-engineering, pricing-strategy]`
+- **Serial 254**: [The Hidden Math Behind Restaurant Menu Pricing in 2025](../knowledge/menu/hidden-math-behind-restaurant-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 271**: [The SECRET Behind Cava's Small Menu](../knowledge/menu/behind-cavas-small-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 284**: [Why Fewer Menu Choices Make Your Restaurant More Money!](../knowledge/menu/fewer-menu-choices-restaurant-money.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 285**: [Are Complex Menus SECRETLY SABOTAGING Your Restaurant's Success?](../knowledge/menu/complex-menus-secretly-sabotaging-restaurants.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 296**: [Why Does In-N-Out Beat McDonald's With a Tiny Menu?](../knowledge/menu/does-in-n-out-beat-mcdonalds-tiny.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 310**: [Why Most Restaurants Get Their Menu Wrong!](../knowledge/menu/most-restaurants-get-menu-wrong.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 317**: [Are Fancy Food Names Hurting Your Restaurant Sales?](../knowledge/menu/fancy-food-names-hurting-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 324**: [Why Most Restaurant Menus Are Killing Their Profits?](../knowledge/menu/most-restaurant-menus-killing-profits.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 331**: [The Secret Tool Every Restaurant Needs!](../knowledge/menu/tool-restaurant-needs.md) `[menu-engineering, pricing-strategy]`
+- **Serial 335**: [Why This Pickle Sandwich Shop Is Blowing Up](../knowledge/menu/pickle-sandwich-shop-blowing-up.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 342**: [The Hidden Trick Behind Popular Restaurant Menus](../knowledge/menu/hidden-behind-popular-restaurant-menus.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 345**: [Are You Making This One Pricing Mistake That Costs You Money](../knowledge/menu/one-pricing-mistake-costs-money.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 346**: [Why Too Many Choices Hurt Your Restaurant!](../knowledge/menu/too-many-choices-hurt-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 348**: [This Simple Menu Page Boosts Your Google Traffic!](../knowledge/menu/simple-menu-page-boosts-google.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 351**: [Don't Make This BIG Menu Mistake That Kills Your Sales](../knowledge/menu/big-menu-mistake-kills-sales.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 358**: [The SECRET Behind Cava's Small Menu](../knowledge/menu/behind-cavas-small-menu-358.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 371**: [Why Most Restaurants Fail And How To Fix It](../knowledge/menu/most-restaurants-fail-fix-it.md) `[menu-engineering, pricing-strategy]`
+- **Serial 388**: [STOP Using Boring Menu Descriptions That COST You Sales](../knowledge/menu/using-boring-menu-descriptions-cost.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 408**: [Catering Pricing Hack: The Correct Formula](../knowledge/menu/catering-pricing-hack-correct-formula.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 409**: [The One Thing Top Restaurants Do Different](../knowledge/menu/one-thing-top-restaurants-do.md) `[menu-engineering, pricing-strategy]`
+- **Serial 424**: [The Genius Behind Chipotle's Limited Menu](../knowledge/menu/genius-behind-chipotles-limited-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 427**: [The Menu Design Trick That Doubles Restaurant Profits](../knowledge/menu/menu-design-doubles-restaurant-profits.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 431**: [The Emotional Trick Behind a 15% Restaurant Traffic Spike](../knowledge/menu/emotional-behind-15-restaurant-traffic.md) `[menu-engineering, pricing-strategy]`
+- **Serial 436**: [Why Raising Cane's rejected 99% of the menu and won?](../knowledge/menu/raising-canes-rejected-99-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 446**: [This menu item has a 1,900% profit margin](../knowledge/menu/menu-item-has-1900-profit.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 454**: [Ozempic Just Changed How Restaurants Need to Cook](../knowledge/menu/ozempic-changed-restaurants-need-cook.md) `[menu-engineering, pricing-strategy]`
+- **Serial 460**: [STOP Leaving $215,000 On the Table!](../knowledge/menu/leaving-215000-on-table.md) `[menu-engineering, pricing-strategy]`
+- **Serial 464**: [Why Viral Restaurant Dishes Fail](../knowledge/menu/viral-restaurant-dishes-fail.md) `[menu-engineering, pricing-strategy]`
+- **Serial 474**: [Why Your Restaurant's Cocktail Is Underpriced](../knowledge/menu/restaurants-cocktail-underpriced.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 477**: [How To Calculate Labor Cost For a Catering Order](../knowledge/menu/calculate-labor-cost-catering-order.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 479**: [What's The Ideal Number of Menu Items for Restaurants?](../knowledge/menu/whats-ideal-number-menu-items.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 487**: [Can You Spot Red Flags in a Restaurant?](../knowledge/menu/spot-red-flags-restaurant.md) `[menu-engineering, pricing-strategy]`
+- **Serial 491**: [How To Price a Catering Order for 85 People](../knowledge/menu/price-catering-order-85-people.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 501**: [How To Price A Catering Order (Double Your Profit)](../knowledge/menu/price-catering-order-double-profit.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 503**: [Why Rich Owners Cut Their Menu in Half](../knowledge/menu/rich-owners-cut-menu-half.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 504**: [Never Put THESE Words On Your Menu](../knowledge/menu/never-put-these-words-on.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 510**: [3 Steps to Turn Your Menu into a Money-Maker [Menu Matrix]](../knowledge/menu/3-steps-turn-menu-money-maker.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 513**: [Your Menu is Too Cluttered (Here's Why)](../knowledge/menu/menu-too-cluttered-heres.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 516**: [The In-N-Out Burger Formula: High Pay, Simple Menu, Massive Profits](../knowledge/menu/in-n-out-burger-formula-high-pay.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 530**: [The $120 steak is SECRETLY making you spend more on everything else](../knowledge/menu/120-steak-secretly-spend-on.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 531**: [EVERY Profitable Restaurant Must Have These 5 Menu Items](../knowledge/menu/profitable-restaurant-must-have-these.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 549**: [3 Menu Hacks That Lead to More Sales in 2026](../knowledge/menu/3-menu-hacks-lead-sales.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 555**: [The Simple Fix To Abandoned Orders (Real Example)](../knowledge/menu/simple-fix-abandoned-orders-real.md) `[menu-engineering, pricing-strategy]`
+- **Serial 563**: [Gordon Ramsay doesn’t just cook better, he designs menus to make you spend more!](../knowledge/menu/gordon-ramsay-doesnt-cook-better.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 564**: [Confusing Menus Kill More Restaurants Than Bad Food](../knowledge/menu/confusing-menus-kill-restaurants-than.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 567**: [Most Bars Are Underpricing Cocktails Without Realizing It](../knowledge/menu/most-bars-underpricing-cocktails-without.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 587**: [This Mind Trick Raises Check Averages By 40%](../knowledge/menu/mind-raises-check-averages-by.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 592**: [6 Steps to 6-Figure Catering Revenue (Easy Guide)](../knowledge/menu/6-steps-6-figure-catering-revenue.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 598**: [Your Menu Modifiers Might Be Backwards](../knowledge/menu/menu-modifiers-might-be-backwards.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 600**: [The Exact Formula to Price Every Add-On on Your Menu](../knowledge/menu/exact-formula-price-add-on-on.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 603**: [The psychology behind how people read menus](../knowledge/menu/psychology-behind-people-read-menus.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 604**: [Stop ignoring this high margin menu hack](../knowledge/menu/ignoring-high-margin-menu-hack.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 615**: [$1,000 Machine That Makes Drinks Worth Triple](../knowledge/menu/1000-machine-drinks-worth-triple.md) `[menu-engineering, pricing-strategy]`
+- **Serial 644**: [5 Words to NEVER Put On a Menu (2026)](../knowledge/menu/5-words-never-put-on.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 661**: [Why You Should Care About the Fertilizer Crisis](../knowledge/menu/should-care-about-fertilizer-crisis.md) `[menu-engineering, pricing-strategy]`
+- **Serial 667**: [The Correct Way to Calculate Menu Price (Not the 3x Rule)](../knowledge/menu/correct-way-calculate-menu-price.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 670**: [Why Your Big Menu Is Killing Your Restaurant](../knowledge/menu/big-menu-killing-restaurant.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 679**: [What’s the “Lipstick Index”?](../knowledge/menu/whats-lipstick-index.md) `[menu-engineering, pricing-strategy]`
+- **Serial 685**: [The Science of Selling: How Many Items Should Be on Your Menu?](../knowledge/menu/science-selling-many-items-should.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 707**: [Whats the Difference Between Average Check and Average Cover? [Explained]](../knowledge/menu/whats-difference-between-average-check.md) `[menu-engineering, pricing-strategy]`
+
+## Operations (130 entries)
+
+- **Serial 007**: [How Branded Apps Can Help Restaurant Owners Expand To Multiple Locations](../knowledge/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
+- **Serial 012**: [The #1 key to succeeding in restaurants](../knowledge/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
+- **Serial 063**: [Restaurants Are Using Instagram WRONG](../knowledge/operations/restaurants-are-using-instagram-wrong.md) `[operations, restaurant-management, systems]`
+- **Serial 075**: [Should You Buy A Failing Restaurant?](../knowledge/operations/should-you-buy-a-failing-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 106**: [The Shocking Truth About Restaurant Leases](../knowledge/operations/the-shocking-truth-about-restaurant-leases.md) `[operations, restaurant-management, systems]`
+- **Serial 166**: [Want a Thriving Restaurant? Look for This One Quality in a Manager](../knowledge/operations/want-a-thriving-restaurant-look-for-this-one.md) `[operations, restaurant-management, systems]`
+- **Serial 178**: [The RICHEST Restaurant Owner You've Never Heard Of!](../knowledge/operations/the-richest-restaurant-owner-youve-never-hear.md) `[operations, restaurant-management, systems]`
+- **Serial 201**: [I Discovered The SECRET To Texas Roadhouse's MILLIONS](../knowledge/operations/i-discovered-texas-roadhouses-millions.md) `[operations, restaurant-management, workflow]`
+- **Serial 203**: [How In-N-Out Makes Fresh Food So Affordable](../knowledge/operations/in-n-out-fresh-food-so-affordable.md) `[operations, restaurant-management, workflow]`
+- **Serial 204**: [Why This Billion Dollar Restaurant Chain DISAPPEARED?](../knowledge/operations/billion-dollar-restaurant-chain-disappeared.md) `[operations, restaurant-management, workflow]`
+- **Serial 208**: [Subway's $10B STRATEGY To Outsmart Competitors](../knowledge/operations/subways-10b-strategy-outsmart-competitors.md) `[operations, restaurant-management, workflow]`
+- **Serial 210**: [Why This Tiny 900 Square Foot Restaurant Made MILLIONS?](../knowledge/operations/tiny-900-square-foot-restaurant.md) `[operations, restaurant-management, workflow]`
+- **Serial 211**: [How A Failed College Project Became A $7 BILLION Restaurant Empire?](../knowledge/operations/failed-college-project-became-7.md) `[operations, restaurant-management, workflow]`
+- **Serial 226**: [Restaurant Franchise Success SECRETS That Nobody Talks About!](../knowledge/operations/restaurant-franchise-success-secrets-talks.md) `[operations, restaurant-management, workflow]`
+- **Serial 229**: [How In-N-Out Changed Fast Food Forever With a $5 Military Speaker](../knowledge/operations/in-n-out-changed-fast-food-forever.md) `[operations, restaurant-management, workflow]`
+- **Serial 233**: [The Genius Strategy Behind This $5B Restaurant Success?](../knowledge/operations/genius-strategy-behind-5b-restaurant.md) `[operations, restaurant-management, workflow]`
+- **Serial 235**: [Why Smart Restaurant Owners EMBRACE Their Weaknesses?](../knowledge/operations/smart-restaurant-owners-embrace-weaknesses.md) `[operations, restaurant-management, workflow]`
+- **Serial 238**: [The Genius Behind Panera's Unlimited Drink Strategy](../knowledge/operations/genius-behind-paneras-unlimited-drink.md) `[operations, restaurant-management, workflow]`
+- **Serial 239**: [The 2 Minute Hack That Will Boost Your Restaurant Rankings!](../knowledge/operations/2-minute-hack-will-boost.md) `[operations, restaurant-management, workflow]`
+- **Serial 255**: [How One Pizza Shop Beat 78,000 Competitors With SPICE!](../knowledge/operations/one-pizza-shop-beat-78000.md) `[operations, restaurant-management, workflow]`
+- **Serial 256**: [Why Restaurant Marriages FAIL And How To Fix Them?](../knowledge/operations/restaurant-marriages-fail-fix-them.md) `[operations, restaurant-management, workflow]`
+- **Serial 257**: [Why Small Towns Made Texas Roadhouse MILLIONS?](../knowledge/operations/small-towns-made-texas-roadhouse.md) `[operations, restaurant-management, workflow]`
+- **Serial 260**: [Why Does Every In-N-Out Have Two Palm Trees Outside?](../knowledge/operations/does-in-n-out-have-two-palm.md) `[operations, restaurant-management, workflow]`
+- **Serial 266**: [The Secret Story Behind Subway's Billion Dollar Success](../knowledge/operations/story-behind-subways-billion-dollar.md) `[operations, restaurant-management, workflow]`
+- **Serial 272**: [The Surprising Reason WHY In-N-Out Beats McDonald's](../knowledge/operations/surprising-reason-in-n-out-beats-mcdonalds.md) `[operations, restaurant-management, workflow]`
+- **Serial 275**: [One Dish Made This Restaurant Owner $7 BILLION](../knowledge/operations/one-dish-made-restaurant-owner.md) `[operations, restaurant-management, workflow]`
+- **Serial 279**: [Can Small Restaurants Compete Like Chick-fil-A?](../knowledge/operations/small-restaurants-compete-like-chick-fil-a.md) `[operations, restaurant-management, workflow]`
+- **Serial 280**: [Why Shake Shack’s Tiny Space Made It Huge!](../knowledge/operations/shake-shacks-tiny-space-made.md) `[operations, restaurant-management, workflow]`
+- **Serial 289**: [Panera Bread's Unlimited Drink Strategy is a GAME CHANGER for Restaurants](../knowledge/operations/panera-breads-unlimited-drink-strategy.md) `[operations, restaurant-management, workflow]`
+- **Serial 292**: [Why Did People Sneak Food Into Panera Bread?](../knowledge/operations/people-sneak-food-panera-bread.md) `[operations, restaurant-management, workflow]`
+- **Serial 294**: [Did This Tiny Restaurant Hack Make Shake Shack Huge?](../knowledge/operations/tiny-restaurant-hack-shake-shack.md) `[operations, restaurant-management, workflow]`
+- **Serial 301**: [Why Letting Anyone Franchise Your Restaurant Is a Huge Mistake](../knowledge/operations/letting-anyone-franchise-restaurant-huge.md) `[operations, restaurant-management, workflow]`
+- **Serial 303**: [Can Restaurants REALLY Recover from a Food Safety Crisis?](../knowledge/operations/restaurants-really-recover-food-safety.md) `[operations, restaurant-management, workflow]`
+- **Serial 313**: [Why McDonald's Makes More From Fries Than Burgers!](../knowledge/operations/mcdonalds-fries-than-burgers.md) `[operations, restaurant-management, workflow]`
+- **Serial 315**: [Why Small Towns are the KEY to Texas Roadhouse's MASSIVE Success](../knowledge/operations/small-towns-key-texas-roadhouses.md) `[operations, restaurant-management, workflow]`
+- **Serial 316**: [The Surprising Secret Behind Panera Bread’s Success!](../knowledge/operations/surprising-behind-panera-breads-success.md) `[operations, restaurant-management, workflow]`
+- **Serial 320**: [Why Did Domino's Change Its Name?](../knowledge/operations/dominos-change-its-name.md) `[operations, restaurant-management, workflow]`
+- **Serial 322**: [Can AI Save Your Restaurant in 2026?](../knowledge/operations/ai-save-restaurant-2026.md) `[operations, restaurant-management, workflow]`
+- **Serial 323**: [Did This Food Trend Just Vanish Overnight?](../knowledge/operations/food-trend-vanish-overnight.md) `[operations, restaurant-management, workflow]`
+- **Serial 329**: [How One Mistake Costs Your Restaurant $720!](../knowledge/operations/one-mistake-costs-restaurant-720.md) `[operations, restaurant-management, workflow]`
+- **Serial 332**: [This Restaurant's Wild Idea Changed Everything!](../knowledge/operations/restaurants-wild-idea-changed-everything.md) `[operations, restaurant-management, workflow]`
+- **Serial 338**: [How Restaurants Can Fight Inflation](../knowledge/operations/restaurants-fight-inflation.md) `[operations, restaurant-management, workflow]`
+- **Serial 352**: [How a Tiny Space Made Shake Shack Famous](../knowledge/operations/tiny-space-made-shake-shack.md) `[operations, restaurant-management, workflow]`
+- **Serial 356**: [The Secret To Growing Your Restaurant Fast!](../knowledge/operations/growing-restaurant-fast.md) `[operations, restaurant-management, workflow]`
+- **Serial 361**: [The Secret Behind Taco Bell's Big Comeback!](../knowledge/operations/behind-taco-bells-big-comeback.md) `[operations, restaurant-management, workflow]`
+- **Serial 362**: [The Surprising Mistake That Destroyed Boston Market!](../knowledge/operations/surprising-mistake-destroyed-boston-market.md) `[operations, restaurant-management, workflow]`
+- **Serial 363**: [How a Teen Built a Sandwich Empire!](../knowledge/operations/teen-built-sandwich-empire.md) `[operations, restaurant-management, workflow]`
+- **Serial 365**: [Make Your Restaurant Work Without You](../knowledge/operations/restaurant-work-without.md) `[operations, restaurant-management, workflow]`
+- **Serial 375**: [What Makes Texas Roadhouse So Popular?](../knowledge/operations/texas-roadhouse-so-popular.md) `[operations, restaurant-management, workflow]`
+- **Serial 376**: [This Is How Struggling Restaurants Became Goldmines](../knowledge/operations/struggling-restaurants-became-goldmines.md) `[operations, restaurant-management, workflow]`
+- **Serial 384**: [Are You Making This Expensive Restaurant Mistake?](../knowledge/operations/expensive-restaurant-mistake.md) `[operations, restaurant-management, workflow]`
+- **Serial 387**: [The Secret Behind Chick-fil-A's Friendly Service](../knowledge/operations/behind-chick-fil-as-friendly-service.md) `[operations, restaurant-management, workflow]`
+- **Serial 392**: [Why Every Restaurant Needs AI in 2026!](../knowledge/operations/restaurant-needs-ai-2026.md) `[operations, restaurant-management, workflow]`
+- **Serial 393**: [This Restaurant Said NO To Custom Orders And It Worked](../knowledge/operations/restaurant-said-no-custom-orders.md) `[operations, restaurant-management, workflow]`
+- **Serial 395**: [Panera's SECRET to a $6.4B Franchise Empire Revealed](../knowledge/operations/paneras-64b-franchise-empire-revealed.md) `[operations, restaurant-management, workflow]`
+- **Serial 403**: [The Genius Trick Behind Shake Shack's Long Lines!](../knowledge/operations/genius-behind-shake-shacks-long.md) `[operations, restaurant-management, systems]`
+- **Serial 404**: [Why Outside Food Helped Panera Become a $6.4B Empire](../knowledge/operations/outside-food-helped-panera-become.md) `[operations, restaurant-management, systems]`
+- **Serial 405**: [Boston Market's BIGGEST Mistake That Led to Bankruptcy](../knowledge/operations/boston-markets-biggest-mistake-led.md) `[operations, restaurant-management, systems]`
+- **Serial 412**: [Why Catering Prints Money for Restaurants](../knowledge/operations/catering-prints-money-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 420**: [Panera Cracked the Code Nobody Thought Possible](../knowledge/operations/panera-cracked-code-thought-possible.md) `[operations, restaurant-management, systems]`
+- **Serial 421**: [This $600K Problem Destroys Restaurants](../knowledge/operations/600k-problem-destroys-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 422**: [Why In-N-Out is Cheaper and Fresher Than Every Competitor](../knowledge/operations/in-n-out-cheaper-fresher-than-competitor.md) `[operations, restaurant-management, systems]`
+- **Serial 428**: [The $1 Raise That Could Break Your Restaurant](../knowledge/operations/1-raise-could-break-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 429**: [Why Did Red Lobster Go Bankrupt?](../knowledge/operations/red-lobster-go-bankrupt.md) `[operations, restaurant-management, systems]`
+- **Serial 430**: [Restaurants making bank this December all do the same thing!](../knowledge/operations/restaurants-bank-december-all-do.md) `[operations, restaurant-management, systems]`
+- **Serial 439**: [The Three Rules That Built Jersey Mike's](../knowledge/operations/three-rules-built-jersey-mikes.md) `[operations, restaurant-management, systems]`
+- **Serial 440**: [This Pizza Bankruptcy Reveals a Brutal Truth](../knowledge/operations/pizza-bankruptcy-reveals-brutal-truth.md) `[operations, restaurant-management, systems]`
+- **Serial 442**: [The #1 Mistake Restaurants Make With Catering](../knowledge/operations/1-mistake-restaurants-catering.md) `[operations, restaurant-management, systems]`
+- **Serial 444**: [The void trick that costs restaurants millions?](../knowledge/operations/void-costs-restaurants-millions.md) `[operations, restaurant-management, systems]`
+- **Serial 448**: [BRILLIANT Small Space Strategy for Shake Shack's Success (Social Proof Hack) #shakeshack](../knowledge/operations/brilliant-small-space-strategy-shake.md) `[operations, restaurant-management, systems]`
+- **Serial 452**: [Why Chick-fil-A Makes More Money Closed on Sundays](../knowledge/operations/chick-fil-a-money-closed-on-sundays.md) `[operations, restaurant-management, systems]`
+- **Serial 461**: [99% of restaurants are doing this wrong](../knowledge/operations/99-restaurants-doing-wrong.md) `[operations, restaurant-management, systems]`
+- **Serial 463**: [Increase Restaurant Check Size By 40%](../knowledge/operations/increase-restaurant-check-size-by.md) `[operations, restaurant-management, systems]`
+- **Serial 471**: [99% of Restaurant Owners Make This Mistake](../knowledge/operations/99-restaurant-owners-mistake.md) `[operations, restaurant-management, systems]`
+- **Serial 475**: [Why Waffle House NEVER Closes!](../knowledge/operations/waffle-house-never-closes.md) `[operations, restaurant-management, systems]`
+- **Serial 483**: [Restaurants Make The MOST Money From These](../knowledge/operations/restaurants-most-money-these.md) `[operations, restaurant-management, systems]`
+- **Serial 484**: [Are restaurants competing on the wrong thing entirely?](../knowledge/operations/restaurants-competing-on-wrong-thing.md) `[operations, restaurant-management, systems]`
+- **Serial 486**: [3 Signs of a DIRTY Restaurant](../knowledge/operations/3-signs-dirty-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 492**: [Why Nobody Wants To Work In Your Restaurant](../knowledge/operations/wants-work-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 496**: [Why Most Restaurants FAIL](../knowledge/operations/most-restaurants-fail.md) `[operations, restaurant-management, systems]`
+- **Serial 506**: [Your Restaurant Playlist Might Be LOSING You Thousands!](../knowledge/operations/restaurant-playlist-might-be-losing.md) `[operations, restaurant-management, systems]`
+- **Serial 507**: [Why Daily Specials Are Expiring For Restaurants](../knowledge/operations/daily-specials-expiring-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 509**: [Why This Restaurant Refuses to Open Location #2](../knowledge/operations/restaurant-refuses-open-location-2.md) `[operations, restaurant-management, systems]`
+- **Serial 514**: [McDonald's No.1 Money-Making Secret](../knowledge/operations/mcdonalds-no1-money-making.md) `[operations, restaurant-management, systems]`
+- **Serial 521**: [Why Restaurants Are Struggling More Than Ever Right Now](../knowledge/operations/restaurants-struggling-than-right-now.md) `[operations, restaurant-management, systems]`
+- **Serial 532**: [5-Figure Owners vs 6-Figure Owners | What's Different?](../knowledge/operations/5-figure-owners-vs-6-figure-owners.md) `[operations, restaurant-management, systems]`
+- **Serial 533**: [Chick-fil-A Copied This From 5-Star Hotels and It Worked](../knowledge/operations/chick-fil-a-copied-5-star-hotels-it.md) `[operations, restaurant-management, systems]`
+- **Serial 534**: [How Much Does It ACTUALLY Cost to Run a Restaurant?](../knowledge/operations/much-does-it-actually-cost.md) `[operations, restaurant-management, systems]`
+- **Serial 540**: [The REAL reason restaurants can't scale #businessmindset](../knowledge/operations/real-reason-restaurants-cant-scale.md) `[operations, restaurant-management, systems]`
+- **Serial 544**: [How to build a restaurant that doesn't need you in 2026](../knowledge/operations/build-restaurant-doesnt-need-2026.md) `[operations, restaurant-management, systems]`
+- **Serial 545**: [The No.1 Hidden Cost of Running a Restaurant](../knowledge/operations/no1-hidden-cost-running-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 546**: [The surprising mistake killing new restaurants before they open](../knowledge/operations/surprising-mistake-killing-new-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 548**: [How We Went From $0 to 7 Restaurants (The Honest Truth)](../knowledge/operations/we-went-0-7-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 550**: [The No.1 Hidden Cost of Running a Taco Restaurant](../knowledge/operations/no1-hidden-cost-running-taco.md) `[operations, restaurant-management, systems]`
+- **Serial 560**: [How Much Does It ACTUALLY Cost to Open a Restaurant?](../knowledge/operations/much-does-it-actually-cost-560.md) `[operations, restaurant-management, systems]`
+- **Serial 562**: [How to Sell More by Offering LESS](../knowledge/operations/sell-by-offering-less.md) `[operations, restaurant-management, systems]`
+- **Serial 569**: [Most owners have no idea how much gets decided without them](../knowledge/operations/most-owners-have-no-idea.md) `[operations, restaurant-management, systems]`
+- **Serial 581**: [The Management System Behind a $7 Million Restaurant (Copy This)](../knowledge/operations/management-system-behind-7-million.md) `[operations, restaurant-management, systems]`
+- **Serial 591**: [Why Dominos Is Slowly Losing America (And What It Means)](../knowledge/operations/dominos-slowly-losing-america-it.md) `[operations, restaurant-management, systems]`
+- **Serial 597**: [POV: Your First National Restaurant Association Show In Chicago 2026](../knowledge/operations/pov-first-national-restaurant-association.md) `[operations, restaurant-management, systems]`
+- **Serial 602**: [How to steal Dominos $1 Million World Cup strategy](../knowledge/operations/steal-dominos-1-million-world.md) `[operations, restaurant-management, systems]`
+- **Serial 607**: [What It Takes To Be In the Top 1% of Restaurants](../knowledge/operations/it-takes-be-top-1.md) `[operations, restaurant-management, systems]`
+- **Serial 609**: [The Slow Death of Pizza Hut (And What Killed It)](../knowledge/operations/slow-death-pizza-hut-killed.md) `[operations, restaurant-management, systems]`
+- **Serial 617**: [THIS Potato Never Turns Brown (Heres Why)](../knowledge/operations/potato-never-turns-brown-heres.md) `[operations, restaurant-management, systems]`
+- **Serial 619**: [3 Traits of A Successful Restaurant Owner](../knowledge/operations/3-traits-successful-restaurant-owner.md) `[operations, restaurant-management, systems]`
+- **Serial 620**: [3 Money Mistakes Your Restaurant Is Making Right Now](../knowledge/operations/3-money-mistakes-restaurant-right.md) `[operations, restaurant-management, systems]`
+- **Serial 621**: [Catering is really a logistics operation!](../knowledge/operations/catering-really-logistics-operation.md) `[operations, restaurant-management, systems]`
+- **Serial 623**: [The Hardest Part of Owning a Restaurant Today](../knowledge/operations/hardest-part-owning-restaurant-today.md) `[operations, restaurant-management, systems]`
+- **Serial 627**: [Broke owner mindset vs. rich owner mindset ⬇️](../knowledge/operations/broke-owner-mindset-vs-rich.md) `[operations, restaurant-management, systems]`
+- **Serial 629**: [How Much Are You Actually Spending on Food?](../knowledge/operations/much-actually-spending-on-food.md) `[operations, restaurant-management, systems]`
+- **Serial 633**: [This Breakfast Item Makes $48,000/Month](../knowledge/operations/breakfast-item-48000month.md) `[operations, restaurant-management, systems]`
+- **Serial 638**: [Why Restaurants Sell Gift Cards](../knowledge/operations/restaurants-sell-gift-cards.md) `[operations, restaurant-management, systems]`
+- **Serial 641**: [The Real Reason Behind Subways Collapse](../knowledge/operations/real-reason-behind-subways-collapse.md) `[operations, restaurant-management, systems]`
+- **Serial 645**: [3 Things Restaurants Must Do After the Lettuce Crisis](../knowledge/operations/3-things-restaurants-must-do.md) `[operations, restaurant-management, systems]`
+- **Serial 647**: [3 Levels of Restaurant Branding (Most Stay At Level 1)](../knowledge/operations/3-levels-restaurant-branding-most.md) `[operations, restaurant-management, systems]`
+- **Serial 650**: [How to Open a Restaurant for Less Than $50,000 (2026)](../knowledge/operations/open-restaurant-less-than-50000.md) `[operations, restaurant-management, systems]`
+- **Serial 652**: [The No.1 Restaurant Trend In 2026: Grandma-core](../knowledge/operations/no1-restaurant-trend-2026-grandma-core.md) `[operations, restaurant-management, systems]`
+- **Serial 656**: [The No.1 Rule of Great Restaurant Owners](../knowledge/operations/no1-rule-great-restaurant-owners.md) `[operations, restaurant-management, systems]`
+- **Serial 659**: [The Real Reason Subway Failed](../knowledge/operations/real-reason-subway-failed.md) `[operations, restaurant-management, systems]`
+- **Serial 660**: [The first step to franchising isnt opening a second location, its standardizing everything](../knowledge/operations/first-step-franchising-isnt-opening.md) `[operations, restaurant-management, systems]`
+- **Serial 668**: [Why America Shouldnt Abolish Tips](../knowledge/operations/america-shouldnt-abolish-tips.md) `[operations, restaurant-management, systems]`
+- **Serial 680**: [McDonalds surveillance: what they really know about you](../knowledge/operations/mcdonalds-surveillance-they-really-know.md) `[operations, restaurant-management, systems]`
+- **Serial 681**: [Year 0 vs Year 12: The Brutal Reality of Restaurant Ownership](../knowledge/operations/year-0-vs-year-12.md) `[operations, restaurant-management, systems]`
+- **Serial 686**: [3 Restaurant Lessons I Wish I Knew 12 Years Ago](../knowledge/operations/3-restaurant-lessons-i-wish.md) `[operations, restaurant-management, systems]`
+- **Serial 687**: [How to make your restaurant survive without you](../knowledge/operations/restaurant-survive-without.md) `[operations, restaurant-management, systems]`
+- **Serial 705**: [Nobody Can Define the American Dream](../knowledge/operations/define-american-dream.md) `[operations, restaurant-management, systems]`
+- **Serial 708**: [Panera Just Did Something It Avoided for 40 Years](../knowledge/operations/panera-something-it-avoided-40.md) `[operations, restaurant-management, systems]`
+- **Serial 710**: [Don’t Make Panera’s AI Mistake](../knowledge/operations/paneras-ai-mistake.md) `[operations, restaurant-management, systems]`
+- **Serial 715**: [Turn Lunch Rush Into Repeat Orders In 3 EASY Steps](../knowledge/operations/turn-lunch-rush-repeat-orders.md) `[operations, restaurant-management, systems]`
+- **Serial 718**: [The $72,000 Mistake Every Restaurant Makes on Friday Night](../knowledge/operations/72000-mistake-restaurant-on-friday.md) `[operations, restaurant-management, systems]`
+
+## Payments (3 entries)
+
+- **Serial 450**: [Why Restaurant Payroll Just Got More Expensive](../knowledge/payments/restaurant-payroll-got-expensive.md) `[payments, transaction-fees]`
+- **Serial 519**: [What's a Tip Pool and Is It Right for Your Restaurant?](../knowledge/payments/whats-tip-pool-it-right.md) `[payments, transaction-fees, cash-flow, tipping]`
+- **Serial 553**: [Why Do Restaurants Go CASH Only? (Not Tax Dodging)](../knowledge/payments/do-restaurants-go-cash-only.md) `[payments, transaction-fees, cash-flow, tipping]`
+
+## Promotions (48 entries)
+
+- **Serial 026**: [The Hangover Special that made this restaurant owner record profits](../knowledge/promotions/new-years-hangover-special.md) `[holiday-promotions, new-years-day, low-food-cost, takeout-records]`
+- **Serial 029**: [The genius reason behind this restaurant marketing strategy will surprise you](../knowledge/promotions/super-bowl-free-delivery-economics.md) `[free-delivery, event-marketing, average-check, super-bowl]`
+- **Serial 034**: [The interesting reason why this restaurant owner donated a meal for every meal ordered](../knowledge/promotions/cause-marketing-low-food-cost.md) `[cause-marketing, food-cost, charity-promotions, sustainability]`
+- **Serial 035**: [Why every restaurant needs to know about this marketing hack from Domino's pizza](../knowledge/promotions/urgency-scarcity-limited-time-deals.md) `[scarcity, urgency, lto, promotions, fear-of-missing-out]`
+- **Serial 042**: [Restaurants Should Steal This BOGO Strategy To Maximize Profit](../knowledge/promotions/bogo-low-food-cost-threshold.md) `[bogo, food-cost-percentage, promotions, margin-protection]`
+- **Serial 049**: [Only The Most Successful Restaurants Do THIS Discount](../knowledge/promotions/conditional-discount-app-adoption.md) `[conditional-discounts, mobile-app, customer-acquisition, order-frequency]`
+- **Serial 053**: [How Free Items Make Your Restaurant More Money](../knowledge/promotions/how-free-items-make-your-restaurant-more-mone.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 054**: [How Your Restaurant Makes More Money Online](../knowledge/promotions/how-your-restaurant-makes-more-money-online.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 062**: [Your Restaurant + Story = $$$](../knowledge/promotions/your-restaurant-story.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 071**: [How To Rank Your Restaurant Higher On Google](../knowledge/promotions/how-to-rank-your-restaurant-higher-on-google.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 080**: [The Surprising Reason Texas Roadhouse Copied Walmart](../knowledge/promotions/the-surprising-reason-texas-roadhouse-copied.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 096**: [How To Get A Mobile App For Your Restaurant In Less Than 7 Days](../knowledge/promotions/how-to-get-a-mobile-app-for-your-restaurant-i.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 107**: [Red Lobster's $11 Million Mistake How Endless Shrimp Backfired](../knowledge/promotions/red-lobsters-11-million-mistake-how-endless-s.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 136**: [Is Spending Millions on an App Really Worth It for Restaurants?](../knowledge/promotions/is-spending-millions-on-an-app-really-worth-i.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 153**: [The Real Difference Between Successful Restaurants and Failed Ones](../knowledge/promotions/the-real-difference-between-successful-restau.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 161**: [Marketing Mistakes That Destroyed a Restaurant Empire](../knowledge/promotions/marketing-mistakes-that-destroyed-a-restauran.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 163**: [STOP Ignoring Customer Feedback and Save Your Restaurant](../knowledge/promotions/stop-ignoring-customer-feedback-and-save-your.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 176**: [Why Restaurants Like In-N-Out Are Hiding Their Best Menu Items](../knowledge/promotions/why-restaurants-like-in-n-out-are-hiding-thei.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 179**: [Texas Roadhouse's Secret to Beating the Competition!](../knowledge/promotions/texas-roadhouses-secret-to-beating-the-compet.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 206**: [Why Chili's $10.99 Deal Is CRUSHING Other Restaurants](../knowledge/promotions/chilis-1099-deal-crushing-other.md) `[promotions, discounting, offers]`
+- **Serial 212**: [Why This Restaurant Gives Away Free Meals Every Day?](../knowledge/promotions/restaurant-gives-away-free-meals.md) `[promotions, discounting, offers]`
+- **Serial 242**: [Giving Away FREE Food Is The KEY To Success In The Restaurant Business](../knowledge/promotions/giving-away-free-food-key.md) `[promotions, discounting, offers]`
+- **Serial 244**: [Pizza Shop Owner Makes Bank By Giving Away FREE Pizza](../knowledge/promotions/pizza-shop-owner-bank-by.md) `[promotions, discounting, offers]`
+- **Serial 247**: [How Free Tacos Made This Restaurant MORE Profitable?](../knowledge/promotions/free-tacos-made-restaurant-profitable.md) `[promotions, discounting, offers]`
+- **Serial 261**: [How Chick-fil-A Makes BILLIONS By Giving Away Free Food!](../knowledge/promotions/chick-fil-a-billions-by-giving-away.md) `[promotions, discounting, offers]`
+- **Serial 274**: [How This Restaurant DOUBLES Profit By Giving Away Free Food](../knowledge/promotions/restaurant-doubles-profit-by-giving.md) `[promotions, discounting, offers]`
+- **Serial 325**: [Why Giving Away 30% Of Sales Makes You More Money!](../knowledge/promotions/giving-away-30-sales-money.md) `[promotions, discounting, offers]`
+- **Serial 333**: [How 25 Free Pizzas Make $172,000!](../knowledge/promotions/25-free-pizzas-172000.md) `[promotions, discounting, offers]`
+- **Serial 334**: [Why Panera's $10 Unlimited Drinks Deal Is Genius](../knowledge/promotions/paneras-10-unlimited-drinks-deal.md) `[promotions, discounting, offers]`
+- **Serial 337**: [She Gave Away Food to 100 Businesses and THIS Happened](../knowledge/promotions/she-gave-away-food-100.md) `[promotions, discounting, customer-acquisition]`
+- **Serial 349**: [Why the Identity Discount Works Like Magic!](../knowledge/promotions/identity-discount-works-like-magic.md) `[promotions, discounting, offers]`
+- **Serial 366**: [Why Giving Away 30% Makes YOU More Money!](../knowledge/promotions/giving-away-30-money.md) `[promotions, discounting, offers]`
+- **Serial 367**: [How Free Pizza Rolls Made $120,000!](../knowledge/promotions/free-pizza-rolls-made-120000.md) `[promotions, discounting, offers]`
+- **Serial 377**: [How 25 Free Pizzas Made $172,000!](../knowledge/promotions/25-free-pizzas-made-172000.md) `[promotions, discounting, offers]`
+- **Serial 413**: [This Discount Trick Grew Her Sales](../knowledge/promotions/discount-grew-her-sales.md) `[promotions, discounting, offers]`
+- **Serial 441**: [Why Limited Cups Make Starbucks Rich](../knowledge/promotions/limited-cups-starbucks-rich.md) `[promotions, discounting, customer-acquisition]`
+- **Serial 443**: [The Discount Trap Nobody Talks About](../knowledge/promotions/discount-trap-talks-about.md) `[promotions, discounting, offers]`
+- **Serial 468**: [How 25 Free Pizzas Turned Into $172K](../knowledge/promotions/25-free-pizzas-turned-172k.md) `[promotions, discounting, offers]`
+- **Serial 470**: [Free Hack to Know What Dishes to Serve](../knowledge/promotions/free-hack-know-dishes-serve.md) `[promotions, discounting, offers]`
+- **Serial 473**: [Why Most Restaurants Get Valentine's Day WRONG](../knowledge/promotions/most-restaurants-get-valentines-day.md) `[promotions, discounting, offers]`
+- **Serial 488**: [Why These Restaurants Are Disappearing?](../knowledge/promotions/these-restaurants-disappearing.md) `[promotions, discounting, customer-acquisition]`
+- **Serial 508**: [Why Profitable Restaurants Push Gift Cards](../knowledge/promotions/profitable-restaurants-push-gift-cards.md) `[promotions, discounting, offers]`
+- **Serial 511**: [5 Cost Cutting Strategies for Restaurants [2026]](../knowledge/promotions/5-cost-cutting-strategies-restaurants.md) `[promotions, discounting, customer-acquisition]`
+- **Serial 582**: [Heres how I turn FREE pizzas into $172,000 in annual revenue](../knowledge/promotions/heres-i-turn-free-pizzas.md) `[promotions, discounting, offers]`
+- **Serial 616**: [Beat Your Restaurant Competitors in Minutes with This Free AI](../knowledge/promotions/beat-restaurant-competitors-minutes-free.md) `[promotions, discounting, offers]`
+- **Serial 639**: [3 Restaurant Freebie Ideas That Are Better Than Discounts (2026)](../knowledge/promotions/3-restaurant-freebie-ideas-better.md) `[promotions, discounting, offers]`
+- **Serial 643**: [Why Five Guys Pays People to Eat for Free? (Steal This Strategy)](../knowledge/promotions/five-guys-pays-people-eat.md) `[promotions, discounting, offers]`
+- **Serial 703**: [3 Psychology Tricks to Grow Sales Without Discounting](../knowledge/promotions/3-psychology-tricks-grow-sales.md) `[promotions, discounting, offers]`
+
+## Purchasing (3 entries)
+
+- **Serial 536**: [Sysco Bought Restaurant Depot… Here’s Why Restaurants Should Be Worried](../knowledge/purchasing/sysco-bought-restaurant-depot-heres.md) `[purchasing, supplier-pricing, inventory-sourcing]`
+- **Serial 584**: [Why does cheese get more expensive every summer?](../knowledge/purchasing/does-cheese-get-expensive-summer.md) `[purchasing, supplier-pricing, inventory-sourcing]`
+- **Serial 593**: [How Much Do Custom Cups for Restaurants Cost?](../knowledge/purchasing/much-do-custom-cups-restaurants.md) `[purchasing, supplier-pricing, inventory-sourcing]`
+
