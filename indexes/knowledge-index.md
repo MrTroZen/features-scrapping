@@ -2,7 +2,7 @@
 
 Master catalog of all structured restaurant operational intelligence files in `knowledge/`.
 
-Total verified entries: **719**
+Total verified entries: **780** (719 Short-Form, 61 Long-Form)
 
 ## Customers (96 entries)
 
@@ -103,7 +103,7 @@ Total verified entries: **719**
 - **Serial 709**: [Why Are You Paying to Acquire Customers Who Never Come Back?](../knowledge/owner-short-form/customers/paying-acquire-customers-who-never.md) `[customers, retention, guest-experience]`
 - **Serial 716**: [How to Calculate What Each Guest Must Spend (Average Minimum Check)? [Explained]](../knowledge/owner-short-form/customers/calculate-each-guest-must-spend.md) `[customers, retention, guest-experience]`
 
-## Delivery (5 entries)
+## Delivery (8 entries)
 
 - **Serial 001**: [Owner.com Review: Jim from Yolked San Jose](../knowledge/owner-short-form/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
 - **Serial 022**: [How this one email is saving restaurants owners $1,000s in delivery fees](../knowledge/owner-short-form/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
@@ -111,7 +111,13 @@ Total verified entries: **719**
 - **Serial 137**: [The Surprising Truth About Ghost Kitchens Nobody Tells You](../knowledge/owner-short-form/delivery/the-surprising-truth-about-ghost-kitchens-nob.md) `[delivery-fees, direct-ordering, third-party-apps, online-ordering]`
 - **Serial 245**: [Why Poke Bowls Are Taking Over Food Delivery in 2025?](../knowledge/owner-short-form/delivery/poke-bowls-taking-over-food.md) `[delivery, third-party-delivery, commissions]`
 
-## Finance (99 entries)
+### Long-Form In-Depth Intelligence
+
+- **Long-Form Serial 01**: [Numbers / Calculations](../knowledge/owner-full-form/delivery/saving-restaurant-devastated-by-covid.md) `[direct-ordering, third-party-delivery, online-ordering, customer-retention, upselling]`
+- **Long-Form Serial 04**: [Numbers / Calculations](../knowledge/owner-full-form/delivery/owner-com-case-study-samos-oaxaca.md) `[direct-ordering, third-party-delivery, delivery-commissions, customer-data, guest-retention]`
+- **Long-Form Serial 19**: [Numbers / Calculations](../knowledge/owner-full-form/delivery/converting-delivery-app-users-to-branded-apps.md) `[direct-ordering, branded-mobile-apps, delivery-commissions, customer-retention, cambodian-cuisine, online-ordering]`
+
+## Finance (104 entries)
 
 - **Serial 039**: [Why This Fishy Restaurant Concept Is Booming In 2024](../knowledge/owner-short-form/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
 - **Serial 043**: [Copy This Restaurant With INSANE Profit Margins](../knowledge/owner-short-form/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
@@ -213,6 +219,14 @@ Total verified entries: **719**
 - **Serial 714**: [You’re Losing Sales Every Time Your Servers Say These...](../knowledge/owner-short-form/finance/youre-losing-sales-time-servers.md) `[finance, profitability, margins, unit-economics]`
 - **Serial 717**: [Whats the Difference Between Depreciation and Amortization? [Explained]](../knowledge/owner-short-form/finance/whats-difference-between-depreciation-amortization.md) `[finance, accounting, depreciation, financial-management]`
 
+### Long-Form In-Depth Intelligence
+
+- **Long-Form Serial 10**: [Numbers / Calculations](../knowledge/owner-full-form/finance/most-profitable-food-business-concepts.md) `[unit-economics, profit-margins, food-cost, concept-selection, labor-efficiency, capex]`
+- **Long-Form Serial 23**: [Numbers / Calculations](../knowledge/owner-full-form/finance/funding-multi-unit-restaurant-expansion.md) `[scaling, multi-unit, restaurant-financing, franchising, private-equity, sba-loans, cash-flow-reinvestment]`
+- **Long-Form Serial 34**: [Restaurant Financial Management: P&L Architecture, Prime Cost Benchmarks, and Margin Engineering](../knowledge/owner-full-form/finance/restaurant-p-and-l-mastery-and-prime-cost-control.md) `[restaurant, p, and, l]`
+- **Long-Form Serial 46**: [Weekly Restaurant Dashboard and Variance Control](../knowledge/owner-full-form/finance/weekly-restaurant-dashboard-and-variance-control.md) `[weekly, restaurant, dashboard, and]`
+- **Long-Form Serial 47**: [Seven Food Cost Reduction Strategies and Portion Economics](../knowledge/owner-full-form/finance/seven-food-cost-reduction-strategies.md) `[seven, food, cost, reduction]`
+
 ## Food-cost (76 entries)
 
 - **Serial 036**: [How one successful restaurant figured out how to give away free food profitably](../knowledge/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
@@ -301,7 +315,7 @@ Total verified entries: **719**
 - **Serial 554**: [Your kitchen could make 20% more annually (here's how)](../knowledge/owner-short-form/kitchen/kitchen-could-20-annually-heres.md) `[kitchen, kitchen-operations, throughput]`
 - **Serial 565**: [Your pizza kitchen isn't broken, your system is](../knowledge/owner-short-form/kitchen/pizza-kitchen-isnt-broken-system.md) `[kitchen, kitchen-operations, throughput]`
 
-## Labour (57 entries)
+## Labour (58 entries)
 
 - **Serial 016**: [The Secret That The Top Restaurant Owners Have In Common (Hint: People)](../knowledge/owner-short-form/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
 - **Serial 041**: [Find Top Restaurant Staff With This Simple Secret](../knowledge/owner-short-form/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
@@ -361,7 +375,11 @@ Total verified entries: **719**
 - **Serial 712**: [Why Paneras Hiring Humans to Fix What Tech Couldnt](../knowledge/owner-short-form/labour/paneras-hiring-humans-fix-tech.md) `[labour, staff-retention, wages, management]`
 - **Serial 713**: [Whats the Difference Between Labor Cost and Labor Efficiency Ratio? [Explained]](../knowledge/owner-short-form/labour/whats-difference-between-labor-cost.md) `[labour, staff-retention, wages, management]`
 
-## Marketing (108 entries)
+### Long-Form In-Depth Intelligence
+
+- **Long-Form Serial 26**: [Numbers / Calculations](../knowledge/owner-full-form/labour/hiring-and-managing-top-restaurant-managers.md) `[restaurant-managers, gm-hiring, interview-scorecard, labor-management, prime-cost, incentive-compensation, leadership]`
+
+## Marketing (123 entries)
 
 - **Serial 002**: [Best Google Keywords for Restaurant: SEO For Restaurants](../knowledge/owner-short-form/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
 - **Serial 003**: [Restaurant SEO Must-Have: Building Citations (Getting NAPs Right)](../knowledge/owner-short-form/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
@@ -472,7 +490,25 @@ Total verified entries: **719**
 - **Serial 701**: [The Biggest Mistake Restaurant Owners Make & What To Do Instead](../knowledge/owner-short-form/marketing/biggest-mistake-restaurant-owners-do.md) `[marketing, customer-acquisition, channel-roi]`
 - **Serial 719**: [Stop Making These Mistakes for Your Restaurant Website!](../knowledge/owner-short-form/marketing/these-mistakes-restaurant-website.md) `[marketing, customer-acquisition, channel-roi]`
 
-## Menu (91 entries)
+### Long-Form In-Depth Intelligence
+
+- **Long-Form Serial 05**: [Numbers / Calculations](../knowledge/owner-full-form/marketing/3-best-restaurant-marketing-strategies.md) `[local-seo, google-business-profile, upselling, average-order-value, automated-retention, reviews]`
+- **Long-Form Serial 07**: [Numbers / Calculations](../knowledge/owner-full-form/marketing/7-money-making-emails-every-restaurant-should-send.md) `[email-marketing, customer-retention, cart-abandonment, review-generation, winback-campaigns, direct-ordering]`
+- **Long-Form Serial 08**: [Numbers / Calculations](../knowledge/owner-full-form/marketing/new-mover-direct-mail-acquisition.md) `[direct-mail, new-movers, customer-acquisition, cac, pizzeria-marketing, local-marketing]`
+- **Long-Form Serial 09**: [Numbers / Calculations](../knowledge/owner-full-form/marketing/facebook-ads-retargeting-and-lookalikes.md) `[facebook-ads, retargeting, lookalike-audiences, customer-acquisition, catering, ezcater, roas]`
+- **Long-Form Serial 11**: [Numbers / Calculations](../knowledge/owner-full-form/marketing/top-proven-pizzeria-growth-strategies.md) `[pizzeria-marketing, local-seo, menu-item-pages, direct-mail, automated-retention, conversion-rate]`
+- **Long-Form Serial 12**: [Numbers / Calculations](../knowledge/owner-full-form/marketing/building-a-profitable-restaurant-brand.md) `[branding, brand-strategy, ideal-customer-profile, restaurant-positioning, customer-loyalty]`
+- **Long-Form Serial 16**: [Numbers / Calculations](../knowledge/owner-full-form/marketing/yelp-organic-conversion-and-review-management.md) `[yelp, review-management, customer-acquisition, reputation-management, call-to-action, online-conversion]`
+- **Long-Form Serial 22**: [Numbers / Calculations](../knowledge/owner-full-form/marketing/four-growth-mistakes-independent-restaurants-make.md) `[marketing-mistakes, boost-post, influencer-marketing, ad-targeting, conversion-rate, direct-ordering]`
+- **Long-Form Serial 28**: [Restaurant Customer Acquisition: AI-Driven Local SEO vs. Social Media and Branded Mobile Apps](../knowledge/owner-full-form/marketing/ai-seo-and-branded-mobile-apps.md) `[ai, seo, and, branded]`
+- **Long-Form Serial 31**: [Independent Restaurant Digital Transformation: App Economics, Low-COGS Loyalty, and Conversion Optimization](../knowledge/owner-full-form/marketing/independent-restaurant-digital-conversion-playbook.md) `[independent, restaurant, digital, conversion]`
+- **Long-Form Serial 40**: [Independent Pizzeria Marketing: The Community Compound Effect, 10-Channel Campaigns, and the 8-Second Friction Test](../knowledge/owner-full-form/marketing/pizza-marketing-and-reorder-friction-benchmarks.md) `[pizza, marketing, and, reorder]`
+- **Long-Form Serial 42**: [Seven Lifecycle Marketing Emails for Restaurant Revenue and Retention](../knowledge/owner-full-form/marketing/seven-money-making-lifecycle-emails.md) `[seven, money, making, lifecycle]`
+- **Long-Form Serial 49**: [Automated Google Review Generation and Reputation Defense](../knowledge/owner-full-form/marketing/automated-google-review-generation-and-reputation-defense.md) `[automated, google, review, generation]`
+- **Long-Form Serial 55**: [Strategic Table Upselling and Italian Dining Economics](../knowledge/owner-full-form/marketing/strategic-upselling-and-italian-dining-economics.md) `[strategic, upselling, and, italian]`
+- **Long-Form Serial 62**: [Taco Bell Turnaround and Digital Loyalty Mechanics](../knowledge/owner-full-form/marketing/taco-bell-turnaround-and-loyalty-mechanics.md) `[taco, bell, turnaround, and]`
+
+## Menu (95 entries)
 
 - **Serial 014**: [The Alarming Reason Why Restaurants FAIL (Menu Market Fit)](../knowledge/owner-short-form/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
 - **Serial 021**: [Why every restaurant owner needs to know this psychology trick to increase sales](../knowledge/owner-short-form/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
@@ -566,7 +602,14 @@ Total verified entries: **719**
 - **Serial 685**: [The Science of Selling: How Many Items Should Be on Your Menu?](../knowledge/owner-short-form/menu/science-selling-many-items-should.md) `[menu-engineering, pricing-strategy, check-average]`
 - **Serial 707**: [Whats the Difference Between Average Check and Average Cover? [Explained]](../knowledge/owner-short-form/menu/whats-difference-between-average-check.md) `[menu-engineering, pricing-strategy]`
 
-## Operations (130 entries)
+### Long-Form In-Depth Intelligence
+
+- **Long-Form Serial 25**: [Numbers / Calculations](../knowledge/owner-full-form/menu/menu-engineering-and-profit-matrix.md) `[menu-engineering, boston-matrix, stars-plowhorses-puzzles-dogs, z-pattern, pricing-psychology, menu-descriptions, contribution-margin]`
+- **Long-Form Serial 32**: [Menu Engineering Failure: Competitive Substitution, Operational Bloat, and the Collapse of Boston Market](../knowledge/owner-full-form/menu/competitive-substitution-and-boston-market-collapse.md) `[competitive, substitution, and, boston]`
+- **Long-Form Serial 50**: [Digital Menu Engineering and Modifier Architecture](../knowledge/owner-full-form/menu/digital-menu-engineering-and-modifier-architecture.md) `[digital, menu, engineering, and]`
+- **Long-Form Serial 53**: [Olive Garden Unit Economics and Perceived Value Strategy](../knowledge/owner-full-form/menu/olive-garden-unit-economics-and-perceived-value.md) `[olive, garden, unit, economics]`
+
+## Operations (162 entries)
 
 - **Serial 007**: [How Branded Apps Can Help Restaurant Owners Expand To Multiple Locations](../knowledge/owner-short-form/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
 - **Serial 012**: [The #1 key to succeeding in restaurants](../knowledge/owner-short-form/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
@@ -699,6 +742,41 @@ Total verified entries: **719**
 - **Serial 715**: [Turn Lunch Rush Into Repeat Orders In 3 EASY Steps](../knowledge/owner-short-form/operations/turn-lunch-rush-repeat-orders.md) `[operations, restaurant-management, systems]`
 - **Serial 718**: [The $72,000 Mistake Every Restaurant Makes on Friday Night](../knowledge/owner-short-form/operations/72000-mistake-restaurant-on-friday.md) `[operations, restaurant-management, systems]`
 
+### Long-Form In-Depth Intelligence
+
+- **Long-Form Serial 06**: [Numbers / Calculations](../knowledge/owner-full-form/operations/7-alarming-reasons-why-restaurants-fail.md) `[restaurant-failure, menu-market-fit, food-cost, customer-retention, staff-turnover, branding, website-conversion]`
+- **Long-Form Serial 14**: [Numbers / Calculations](../knowledge/owner-full-form/operations/independent-restaurant-digital-playbook.md) `[restaurant-strategy, branded-mobile-apps, delivery-economics, google-seo, cart-abandonment, founder-storytelling, order-frequency]`
+- **Long-Form Serial 15**: [Numbers / Calculations](../knowledge/owner-full-form/operations/cava-multi-unit-growth-playbook.md) `[scaling, multi-unit, fast-casual, unit-economics, site-selection, acquisitions, second-generation-space, mobile-data]`
+- **Long-Form Serial 17**: [Numbers / Calculations](../knowledge/owner-full-form/operations/scaling-restaurants-to-50-locations-mendocino-farms.md) `[scaling, multi-unit, fast-casual, mendocino-farms, restaurant-culture, hospitality-training, concept-differentiation]`
+- **Long-Form Serial 18**: [Numbers / Calculations](../knowledge/owner-full-form/operations/sweetgreens-7-billion-dollar-growth-secrets.md) `[sweetgreen, fast-casual, scaling, direct-ordering, venture-capital, mobile-app, real-estate-footprint, lifestyle-branding]`
+- **Long-Form Serial 20**: [Numbers / Calculations](../knowledge/owner-full-form/operations/multi-unit-pizzeria-systems-andolinis.md) `[scaling, multi-unit, email-marketing, recipe-costing, prime-cost, market-density, andolinis, pizzeria-operations]`
+- **Long-Form Serial 21**: [Numbers / Calculations](../knowledge/owner-full-form/operations/opening-a-restaurant-via-distressed-asset-buys.md) `[distressed-assets, restaurant-startup, commercial-leasing, equipment-acquisition, capex-reduction, lease-negotiation, second-generation-space]`
+- **Long-Form Serial 24**: [Numbers / Calculations](../knowledge/owner-full-form/operations/brian-niccol-restaurant-ceo-playbook.md) `[brian-niccol, chipotle, operational-strategy, throughput, customer-segmentation, daypart-expansion, crisis-management]`
+- **Long-Form Serial 27**: [Quiznos Downfall: Franchise Expansion and Supply Chain Mistakes](../knowledge/owner-full-form/operations/quiznos-franchise-and-expansion-mistakes.md) `[quiznos, franchise, and, expansion]`
+- **Long-Form Serial 29**: [Multi-Billion Dollar Restaurant Operations: Real Estate, Lexicon Engineering, Hyper-Focus, and Distressed Turnarounds](../knowledge/owner-full-form/operations/billionaire-restaurant-playbooks.md) `[billionaire, restaurant, playbooks]`
+- **Long-Form Serial 30**: [Panera Bread Operations: Selective Franchising, Beverage Subscriptions, and Distressed Acquisitions](../knowledge/owner-full-form/operations/panera-bread-growth-and-subscription-playbook.md) `[panera, bread, growth, and]`
+- **Long-Form Serial 33**: [Fast-Casual Scaling: Dual-Concept Co-Location, Database Migration, and Founder-Led Marketing](../knowledge/owner-full-form/operations/dual-concept-colocation-and-scaling.md) `[dual, concept, colocation, and]`
+- **Long-Form Serial 36**: [Restaurant Failure Prevention: Menu-Market Fit, Retention Economics, and Open-Book Labor Management](../knowledge/owner-full-form/operations/restaurant-failure-prevention-and-labor-economics.md) `[restaurant, failure, prevention, and]`
+- **Long-Form Serial 37**: [Multi-Unit Operational Excellence: Distressed Asset Turnarounds, Purchasing Budgets, and Offshore Back-Office Systems](../knowledge/owner-full-form/operations/matangas-pizzeria-turnaround-and-scaling-playbook.md) `[matangas, pizzeria, turnaround, and]`
+- **Long-Form Serial 38**: [Multi-Unit Pizza Operations: Central Commissary Economics, Off-Domain SEO Penalties, and Digital Capacity Throttling](../knowledge/owner-full-form/operations/commissary-kitchen-economics-and-digital-integration.md) `[commissary, kitchen, economics, and]`
+- **Long-Form Serial 41**: [Restaurant Delegation & Multi-Unit Readiness: The 2-Week Absence Test, Invisible Labor, and Operational Traps](../knowledge/owner-full-form/operations/multi-unit-scaling-and-delegation-framework.md) `[multi, unit, scaling, and]`
+- **Long-Form Serial 44**: [Multi-Unit Systems and 9-Month Leadership Development Pipeline](../knowledge/owner-full-form/operations/multi-unit-systems-and-leadership-pipeline.md) `[multi, unit, systems, and]`
+- **Long-Form Serial 45**: [Restaurant Growth and Profitability Playbook](../knowledge/owner-full-form/operations/restaurant-growth-and-profitability-playbook.md) `[restaurant, growth, and, profitability]`
+- **Long-Form Serial 48**: [Five Operational Systems for Multi-Unit Restaurant Scaling](../knowledge/owner-full-form/operations/five-systems-multi-unit-restaurant-scaling.md) `[five, systems, multi, unit]`
+- **Long-Form Serial 51**: [Restaurant Automation, Equipment ROI, and Predictive Data Strategy](../knowledge/owner-full-form/operations/restaurant-automation-equipment-roi-and-data-strategy.md) `[restaurant, automation, equipment, roi]`
+- **Long-Form Serial 52**: [Subway Franchise Breakdown and Incentive Alignment](../knowledge/owner-full-form/operations/subway-franchise-breakdown-and-incentive-alignment.md) `[subway, franchise, breakdown, and]`
+- **Long-Form Serial 54**: [Restaurant Catering Growth, B2B Acquisition, and Pricing Playbook](../knowledge/owner-full-form/operations/restaurant-catering-growth-and-pricing-playbook.md) `[restaurant, catering, growth, and]`
+- **Long-Form Serial 56**: [Four Non-Negotiable Restaurant Operating Rules](../knowledge/owner-full-form/operations/four-non-negotiable-restaurant-operating-rules.md) `[four, non, negotiable, restaurant]`
+- **Long-Form Serial 57**: [Reversing Flat Restaurant Sales and the FORM Service Framework](../knowledge/owner-full-form/operations/reversing-flat-restaurant-sales-and-form-framework.md) `[reversing, flat, restaurant, sales]`
+- **Long-Form Serial 58**: [Five Guys Operational Playbook and General Manager Screening](../knowledge/owner-full-form/operations/five-guys-operational-playbook-and-gm-screening.md) `[five, guys, operational, playbook]`
+- **Long-Form Serial 59**: [In-N-Out Operational System and Labor Economics](../knowledge/owner-full-form/operations/in-n-out-operational-and-labor-playbook.md) `[in, n, out, operational]`
+- **Long-Form Serial 60**: [Chili's Turnaround and the Value Barbell Pricing Strategy](../knowledge/owner-full-form/operations/chilis-turnaround-and-value-barbell-strategy.md) `[chilis, turnaround, and, value]`
+- **Long-Form Serial 61**: [Jersey Mike's Scaling and Operational Theater](../knowledge/owner-full-form/operations/jersey-mikes-scaling-and-operational-theater.md) `[jersey, mikes, scaling, and]`
+- **Long-Form Serial 63**: [Panda Express Systems and Self-Funded Profit Compounding](../knowledge/owner-full-form/operations/panda-express-system-and-profit-compounding.md) `[panda, express, system, and]`
+- **Long-Form Serial 64**: [Panera Turnaround and the Mechanics of Operational Erosion](../knowledge/owner-full-form/operations/panera-turnaround-and-operational-erosion.md) `[panera, turnaround, and, operational]`
+- **Long-Form Serial 65**: [Hunt Brothers Host-Location Model, Operational Simplicity, and Waste Engineering](../knowledge/owner-full-form/operations/hunt-brothers-host-location-and-waste-engineering.md) `[hunt, brothers, host, location]`
+- **Long-Form Serial 66**: [Chick-fil-A Operating Model, Drive-Thru Physics, and Operator Incentive Architecture](../knowledge/owner-full-form/operations/chick-fil-a-operating-model-and-drive-thru-physics.md) `[chick, fil, a, operating]`
+
 ## Payments (3 entries)
 
 - **Serial 450**: [Why Restaurant Payroll Just Got More Expensive](../knowledge/owner-short-form/payments/restaurant-payroll-got-expensive.md) `[payments, transaction-fees]`
@@ -761,4 +839,10 @@ Total verified entries: **719**
 - **Serial 536**: [Sysco Bought Restaurant Depot… Here’s Why Restaurants Should Be Worried](../knowledge/owner-short-form/purchasing/sysco-bought-restaurant-depot-heres.md) `[purchasing, supplier-pricing, inventory-sourcing]`
 - **Serial 584**: [Why does cheese get more expensive every summer?](../knowledge/owner-short-form/purchasing/does-cheese-get-expensive-summer.md) `[purchasing, supplier-pricing, inventory-sourcing]`
 - **Serial 593**: [How Much Do Custom Cups for Restaurants Cost?](../knowledge/owner-short-form/purchasing/much-do-custom-cups-restaurants.md) `[purchasing, supplier-pricing, inventory-sourcing]`
+
+## Social (1 entries)
+
+### Long-Form In-Depth Intelligence
+
+- **Long-Form Serial 13**: [Numbers / Calculations](../knowledge/owner-full-form/social/7-instagram-tools-for-restaurants.md) `[instagram, food-photography, geotagging, social-media-strategy, local-discovery, link-in-bio]`
 

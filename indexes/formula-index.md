@@ -28,6 +28,13 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
 - **[Are Robots Taking Over Restaurants?](../knowledge/owner-short-form/delivery/are-robots-taking-over-restaurants.md)** (Serial 101)
   - Would you trust a robot to make your food in California Chipotle has introduced ocado a new robot that can cut skin and core avocados in just 26 seconds this could save workers a lot of time freeing them from the usual 50-minute process of hand preparing guacamole meanwhile Chipotle's augmented make line is putting together burrito bowls and salads handling about 65% of Orange County's online orders and chipotle isn't the only one in New York Colonel is already using a robot arm to flip plant-based burger patties plus Shake Shack and Uber Eats are trying out autonomous delivery robots on sidewalks in Los Angeles with plans to expand to 2,000 robots by 2025.
 
+### Long-Form In-Depth Formulas
+
+- **[Numbers / Calculations](../knowledge/owner-full-form/delivery/converting-delivery-app-users-to-branded-apps.md)** (Long-Form Serial 19)
+  - Margin preservation: Eliminated standard 20% to 30% third-party marketplace commissions on converted repeat diners.
+- **[Numbers / Calculations](../knowledge/owner-full-form/delivery/saving-restaurant-devastated-by-covid.md)** (Long-Form Serial 01)
+  - Visual High-Margin Upselling:** Pair ~30% food-cost core entrees with low-food-cost (~5%) add-on recommendations in the digital checkout flow to expand ticket margin.
+
 ## Finance
 
 - **[Copy This Restaurant With INSANE Profit Margins](../knowledge/owner-short-form/finance/artisan-ice-cream-unit-economics.md)** (Serial 043)
@@ -109,6 +116,26 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
   - Margin: $12 ÷ $16 = 75% Markup: $12 ÷ $4 = 300%.
 - **[Whats the Difference Between Depreciation and Amortization? [Explained]](../knowledge/owner-short-form/finance/whats-difference-between-depreciation-amortization.md)** (Serial 717)
   - I spent $30,000, so I deduct $30,000 this year. Sometimes.
+
+### Long-Form In-Depth Formulas
+
+- **[Numbers / Calculations](../knowledge/owner-full-form/finance/most-profitable-food-business-concepts.md)** (Long-Form Serial 10)
+  - Shelf-Life Margin Insulation:** Concepts based on frozen, dried, or shelf-stable inventory (tea powders, frozen açai, frozen dairy/creams, noodles) eliminate daily fresh produce spoilage and protect gross margins against inventory variance.
+- **[Restaurant Financial Management: P&L Architecture, Prime Cost Benchmarks, and Margin Engineering](../knowledge/owner-full-form/finance/restaurant-p-and-l-mastery-and-prime-cost-control.md)** (Long-Form Serial 34)
+  - Formula: `\text{Prime Cost (\%)} = \frac{\text{Cost of Goods Sold (COGS)} + \text{Total Labor Costs}}{\text{Total Gross Sales}} \times 100`
+  - Formula: `\text{Total Ticket} = \$5.00 + \$2.50 = \$7.50`
+  - Formula: `\text{Total COGS} = \$2.00 + \$0.25 = \$2.25`
+  - Formula: `\text{Blended Food Cost \%} = \frac{\$2.25}{\$7.50} = 30.0\% \quad (\text{Reduced by } 10.0 \text{ percentage points})`
+- **[Seven Food Cost Reduction Strategies and Portion Economics](../knowledge/owner-full-form/finance/seven-food-cost-reduction-strategies.md)** (Long-Form Serial 47)
+  - Formula: `\$140,000 \times 29\% = \$40,600/\text{week}`
+  - Formula: `\$140,000 \times 32\% = \$44,800/\text{week}`
+  - Formula: `\text{Weekly Cash Variance} = \$44,800 - \$40,600 = \$4,200/\text{week}`
+  - Formula: `\text{Annual Lost Cash} = \$4,200 \times 52 = \$218,400/\text{year}`
+- **[Weekly Restaurant Dashboard and Variance Control](../knowledge/owner-full-form/finance/weekly-restaurant-dashboard-and-variance-control.md)** (Long-Form Serial 46)
+  - Formula: `\text{Month-to-Date (MTD) Growth Rate} = \left(\frac{\text{Current Year MTD Sales}}{\text{Prior Year MTD Sales}}\right) - 1`
+  - Formula: `\text{Projected Next Week Sales} = \text{Prior Year Same-Week Sales} \times (1 + \text{MTD Growth Rate})`
+  - Formula: `\text{Dollar Labor Budget} = \text{Projected Next Week Sales} \times \text{Labor Target \%}`
+  - Formula: `\$11,500 \times 20\% = \$2,300\text{ Max Labor Spend}`
 
 ## Food-cost
 
@@ -281,6 +308,27 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
 - **[This Pizza Place Went From Broke to Booming, Heres How](../knowledge/owner-short-form/marketing/pizza-place-went-broke-booming.md)** (Serial 642)
   - The lesson: sometimes the fastest way to grow restaurant sales isn t getting more customers it s making it easier for the customers you already have to order directly from you.
 
+### Long-Form In-Depth Formulas
+
+- **[Numbers / Calculations](../knowledge/owner-full-form/marketing/3-best-restaurant-marketing-strategies.md)** (Long-Form Serial 05)
+  - Systematic Margin-Stacking Upsells:** Add low-labor, low-cost add-on prompts (guacamole, sauces, beverages) to the digital checkout basket before final payment.
+- **[Automated Google Review Generation and Reputation Defense](../knowledge/owner-full-form/marketing/automated-google-review-generation-and-reputation-defense.md)** (Long-Form Serial 49)
+  - Formula: `\text{Average Lost Diners per 1-Star Review} = 30\text{ potential customers}`
+  - Formula: `\text{Average First-Ticket Value} = \$25.00`
+  - Formula: `\text{Immediate Lost Revenue} = 30 \times \$25 = \$700.00\text{ (excluding lost lifetime repeat value)}`
+- **[Independent Restaurant Digital Transformation: App Economics, Low-COGS Loyalty, and Conversion Optimization](../knowledge/owner-full-form/marketing/independent-restaurant-digital-conversion-playbook.md)** (Long-Form Serial 31)
+  - Formula: `\text{Ideal Reward Target} = \text{High Menu Retail Price} + \text{Low Raw Ingredient Cost}`
+- **[Independent Pizzeria Marketing: The Community Compound Effect, 10-Channel Campaigns, and the 8-Second Friction Test](../knowledge/owner-full-form/marketing/pizza-marketing-and-reorder-friction-benchmarks.md)** (Long-Form Serial 40)
+  - Formula: `\text{Monthly Food Output} = 25 \times 16\text{-inch pizzas} \implies 100 \text{ people fed / month}`
+  - Formula: `\text{Annual Direct Reach} = 100 \times 12 \text{ months} = 1,200 \text{ prospective diners}`
+  - Formula: `\text{Target Regular Conversion} = 10\% \implies 120 \text{ new regulars / year}`
+  - Formula: `\text{For every additional second of mobile checkout delay} \implies \mathbf{10\% \text{ reduction in digital conversion}}`
+- **[Strategic Table Upselling and Italian Dining Economics](../knowledge/owner-full-form/marketing/strategic-upselling-and-italian-dining-economics.md)** (Long-Form Serial 55)
+  - Formula: `\text{Weekly Ticket Volume} = 3,000\text{ tickets}`
+  - Formula: `\text{Average Check Lift} = +\$2.00\text{ per guest ticket}`
+  - Formula: `\text{Annual Direct Revenue Gain} = 3,000 \times \$2.00 \times 52 = \$312,000/\text{year}`
+  - Formula: `\text{Dessert Retail Price} = \$10.00\quad (\text{at } 85\% \text{ Gross Margin} = \$8.50 \text{ Profit/Unit})`
+
 ## Menu
 
 - **[The Simple Restaurant Hack To Increase The Average Check Size](../knowledge/owner-short-form/menu/free-item-average-check-threshold.md)** (Serial 044)
@@ -310,6 +358,21 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
   - $3 ÷ 16 = $0.19 per ounce 3️ Calculate your raw cost.
 - **[The Correct Way to Calculate Menu Price (Not the 3x Rule)](../knowledge/owner-short-form/menu/correct-way-calculate-menu-price.md)** (Serial 667)
   - For example, if a Margherita pizza costs $3.50 to make and your target food cost is 25%:.
+
+### Long-Form In-Depth Formulas
+
+- **[Menu Engineering Failure: Competitive Substitution, Operational Bloat, and the Collapse of Boston Market](../knowledge/owner-full-form/menu/competitive-substitution-and-boston-market-collapse.md)** (Long-Form Serial 32)
+  - Margin Cannibalization:** Customers actively substituted lower-margin, cheaper items (e.g., meatloaf) in place of the brand's most profitable hero rotisserie plates.
+  - Loss of Pricing Power:** When grocery stores combined lower pricing with One-Stop shopping convenience, Boston Market had no operational moat to protect market share.
+- **[Digital Menu Engineering and Modifier Architecture](../knowledge/owner-full-form/menu/digital-menu-engineering-and-modifier-architecture.md)** (Long-Form Serial 50)
+  - Formula: `\text{Pizza / Burger COGS} \approx 30\%–40\%`
+  - Formula: `\text{Fries / Mozzarella Sticks / Beverages COGS} \approx 10\%–15\%`
+  - Unit Margin Comparison*:
+- **[Olive Garden Unit Economics and Perceived Value Strategy](../knowledge/owner-full-form/menu/olive-garden-unit-economics-and-perceived-value.md)** (Long-Form Serial 53)
+  - Formula: `\$5,600,000 \times 5\% = \$280,000/\text{year in incremental single-store revenue}`
+  - Formula: `\text{Wholesale Parbaked Breadstick Cost} \approx \$0.06–\$0.08/\text{unit}`
+  - Formula: `\text{Average Consumption per Party of Two} = 6\text{ breadsticks}`
+  - Formula: `\text{Total Ingredient Cost per Table} \approx \$0.40–\$0.50\ (< \$0.60)`
 
 ## Operations
 
@@ -346,6 +409,71 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
   - That's a 25% food cost.
   - Here's the formula that takes 30 seconds and tells you everything.
 
+### Long-Form In-Depth Formulas
+
+- **[Chick-fil-A Operating Model, Drive-Thru Physics, and Operator Incentive Architecture](../knowledge/owner-full-form/operations/chick-fil-a-operating-model-and-drive-thru-physics.md)** (Long-Form Serial 66)
+  - Formula: `\text{Net Distributable Cash} = \text{Gross Revenue} - \text{Top-Line Fee (15\%)} - \text{COGS} - \text{Labor} - \text{Operating Expenses}`
+  - Formula: `\text{Operator Compensation} = 0.50 \times \text{Net Distributable Cash}`
+- **[Chili's Turnaround and the Value Barbell Pricing Strategy](../knowledge/owner-full-form/operations/chilis-turnaround-and-value-barbell-strategy.md)** (Long-Form Serial 60)
+  - Formula: `\text{Decomposition of Revenue Lift: } +16\% \text{ Guest Count Growth} + 4\% \text{ Premium Mix Trade-Up} + <3\% \text{ Price Hikes}`
+- **[Five Guys Operational Playbook and General Manager Screening](../knowledge/owner-full-form/operations/five-guys-operational-playbook-and-gm-screening.md)** (Long-Form Serial 58)
+  - Formula: `\text{Commodity Fast Food Ticket: } \$8.50 \text{ at } 12\% \text{ Net Margin} = \$1.02 \text{ Net Profit}`
+  - Formula: `\text{Premium Fast Casual Ticket: } \$14.00 \text{ at } 15\% \text{ Net Margin} = \$2.10 \text{ Net Profit}`
+- **[Five Operational Systems for Multi-Unit Restaurant Scaling](../knowledge/owner-full-form/operations/five-systems-multi-unit-restaurant-scaling.md)** (Long-Form Serial 48)
+  - Formula: `\text{Campaign Creative Pack} = 2\text{ Videos} + 4\text{ High-Res Photos} + 3\text{ Ad/Copy Captions}`
+- **[Four Non-Negotiable Restaurant Operating Rules](../knowledge/owner-full-form/operations/four-non-negotiable-restaurant-operating-rules.md)** (Long-Form Serial 56)
+  - Formula: `\text{5 stops/day} \times \text{5 days/week} = 25\text{ establishments/week}`
+  - Formula: `25\text{ locations} \times 10\text{ employees/location} = 250\text{ direct local contacts/week}`
+  - Formula: `250 \times 4\text{ weeks} = 1,000\text{ local residents personally sampled every month}`
+- **[Hunt Brothers Host-Location Model, Operational Simplicity, and Waste Engineering](../knowledge/owner-full-form/operations/hunt-brothers-host-location-and-waste-engineering.md)** (Long-Form Serial 65)
+  - Formula: `\text{Weekly Cheese Loss} = \left(\frac{\text{Excess Ounces}}{16 \text{ oz/lb}}\right) \times \text{Cost per Pound} \times \text{Pizzas Produced per Week}`
+  - Formula: `\text{Weekly Waste Loss} = \left(\frac{2}{16}\right) \times \$2.80 \times 4,000 = 0.125 \times \$2.80 \times 4,000 = \$1,400\text{ / week}`
+  - Formula: `\text{Annual Profit Loss} = \$1,400 \times 52 = \mathbf{\$72,800\text{ / year}}`
+- **[In-N-Out Operational System and Labor Economics](../knowledge/owner-full-form/operations/in-n-out-operational-and-labor-playbook.md)** (Long-Form Serial 59)
+  - Formula: `\text{One Pot Cell} = 1\text{ Flat-Top Grill} + 1\text{ Assembly Board} + 1\text{ Dedicated Fryer Bank}`
+  - Formula: `\text{Incremental Ingredient Cost} \approx \$0.10–\$0.15\text{ (caramelized onions + spread)}`
+  - Formula: `\text{Retail Add-On Charge} \approx +\$2.00\text{ per item}`
+  - Formula: `\text{Gross Margin on Customization} > 90\%`
+- **[Jersey Mike's Scaling and Operational Theater](../knowledge/owner-full-form/operations/jersey-mikes-scaling-and-operational-theater.md)** (Long-Form Serial 61)
+  - Formula: `\text{Jersey Mike's Average Unit Volume (AUV)} \approx \$1,300,000/\text{year}`
+  - Formula: `\text{Subway Average Unit Volume (AUV)} \approx \$490,000/\text{year}`
+- **[Multi-Unit Operational Excellence: Distressed Asset Turnarounds, Purchasing Budgets, and Offshore Back-Office Systems](../knowledge/owner-full-form/operations/matangas-pizzeria-turnaround-and-scaling-playbook.md)** (Long-Form Serial 37)
+  - Formula: `\text{Required Minimum Gross Sales} = \frac{\text{Monthly Rent Obligation}}{0.08}`
+  - Formula: `\text{Weekly Sales Threshold} = \frac{\text{Required Minimum Monthly Sales}}{4.33}`
+  - Formula: `\text{Required Weekly Guest Count} = \frac{\text{Weekly Sales Threshold}}{\text{Average Check Size}}`
+  - Formula: `\frac{\$30,000}{\$30} = 1,000 \text{ orders / week} \quad (\approx 143 \text{ orders / day})`
+- **[Multi-Unit Systems and 9-Month Leadership Development Pipeline](../knowledge/owner-full-form/operations/multi-unit-systems-and-leadership-pipeline.md)** (Long-Form Serial 44)
+  - Formula: `\text{Assembly Time per Pizza} = 2.0\text{ minutes}`
+  - Formula: `\text{Target Volume} = 30\text{ pizzas}`
+  - Formula: `\text{Total Labor Time Required} = 30 \times 2 = 60\text{ minutes of uninterrupted line work}`
+  - Calculation*:
+- **[Panda Express Systems and Self-Funded Profit Compounding](../knowledge/owner-full-form/operations/panda-express-system-and-profit-compounding.md)** (Long-Form Serial 63)
+  - Formula: `\text{Average Unit Volume (AUV)} \approx \$2,600,000/\text{year}`
+- **[Panera Bread Operations: Selective Franchising, Beverage Subscriptions, and Distressed Acquisitions](../knowledge/owner-full-form/operations/panera-bread-growth-and-subscription-playbook.md)** (Long-Form Serial 30)
+  - Marginal COGS Insulation:** Beverage food cost is maintained at **<10%**, ensuring the marginal cost of coffee pours is fully absorbed by the $10 monthly recurring base fee plus incremental food purchases.
+- **[Quiznos Downfall: Franchise Expansion and Supply Chain Mistakes](../knowledge/owner-full-form/operations/quiznos-franchise-and-expansion-mistakes.md)** (Long-Form Serial 27)
+  - Formula: `\text{Supplier Revenue} = \$200,000,000 \quad (74.1\%)`
+  - Formula: `\text{Royalty Revenue} = \$70,000,000 \quad (25.9\%)`
+  - Formula: `\text{Total Corporate Revenue} = \$270,000,000`
+- **[Restaurant Automation, Equipment ROI, and Predictive Data Strategy](../knowledge/owner-full-form/operations/restaurant-automation-equipment-roi-and-data-strategy.md)** (Long-Form Serial 51)
+  - Formula: `\text{Manual Daily Prep Time} = 2.0\text{ hours/day (hand slicing peppers/onions)}`
+  - Formula: `\text{Machine Prep Time} = 0.5\text{ hours/day (30 minutes)}`
+  - Formula: `\text{Daily Labor Saved} = 1.5\text{ hours/day}`
+  - Formula: `\text{Weekly Labor Saved} = 1.5 \times 7 = 10.5\text{ hours/week}`
+- **[Restaurant Catering Growth, B2B Acquisition, and Pricing Playbook](../knowledge/owner-full-form/operations/restaurant-catering-growth-and-pricing-playbook.md)** (Long-Form Serial 54)
+  - Formula: `\$10,000 \times 20\%–30\% = \$2,000–\$3,000/\text{month}\ (\$24,000–\$36,000/\text{year})\text{ straight to net profit}`
+  - Formula: `\text{Catering Price} = \frac{\text{Total Variable Costs}}{1 - \text{Target Net Profit Margin}}`
+  - Formula: `\text{Price} = \frac{\$710.00}{1 - 0.15} = \frac{\$710.00}{0.85} = \$835.29`
+  - Formula: `\text{Per-Person Price} = \frac{\$835.29}{85\text{ Guests}} = \$9.82\text{ per guest (plus applicable taxes)}`
+- **[Restaurant Failure Prevention: Menu-Market Fit, Retention Economics, and Open-Book Labor Management](../knowledge/owner-full-form/operations/restaurant-failure-prevention-and-labor-economics.md)** (Long-Form Serial 36)
+  - Formula: `\text{CAC} \approx 7 \times \text{Retention Cost}`
+- **[Restaurant Growth and Profitability Playbook](../knowledge/owner-full-form/operations/restaurant-growth-and-profitability-playbook.md)** (Long-Form Serial 45)
+  - Formula: `\text{Optimal Menu} = 6\text{ Appetizers} + 8\text{ Entrees} + 8\text{ Beverages} + 4\text{ Desserts} = 26\text{ Total SKUs}`
+  - Formula: `\text{Prime Cost} = \text{Cost of Goods Sold (Food Cost \%)} + \text{Total Labor Cost \%} \le 60\%`
+  - Margin Reality**: Large corporate chains maintain $15\%$ net margins despite low retail prices. Independent restaurants competing on low prices average $\le 5\%$ net margin and risk insolvency under food and labor inflation.
+- **[Reversing Flat Restaurant Sales and the FORM Service Framework](../knowledge/owner-full-form/operations/reversing-flat-restaurant-sales-and-form-framework.md)** (Long-Form Serial 57)
+  - Formula: `\text{POS KDS Kitchen Load Time} = \text{Timestamp Ticket Fires} \rightarrow \text{Timestamp Item Enters Oven} \le 6.0\text{ minutes}`
+
 ## Promotions
 
 - **[Restaurants Should Steal This BOGO Strategy To Maximize Profit](../knowledge/owner-short-form/promotions/bogo-low-food-cost-threshold.md)** (Serial 042)
@@ -381,4 +509,11 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
 
 - **[How Much Do Custom Cups for Restaurants Cost?](../knowledge/owner-short-form/purchasing/much-do-custom-cups-restaurants.md)** (Serial 593)
   - Generic packaging runs 3 to 5% of food costs.
+
+## Social
+
+### Long-Form In-Depth Formulas
+
+- **[Numbers / Calculations](../knowledge/owner-full-form/social/7-instagram-tools-for-restaurants.md)** (Long-Form Serial 13)
+  - The Macro "Food Porn" Video Formula:** Shoot in natural daylight, zoom into the texture of the dish, and highlight kinetic action (slicing, pulling, drizzling) within the first 2 seconds of the video.
 
