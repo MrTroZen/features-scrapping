@@ -575,3 +575,10 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
 - **[Menu Item Contribution Margin Matrix](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/restaurant-menu-matrix-dilemma.md)**
   - Contribution Margin Dollars: $\text{Contribution Margin} = \text{Selling Price} - \text{Portion Recipe Cost}$.
   - Optimization Goal: Maximize total dollars contributed rather than solely minimizing percentage food cost.
+
+## Franchise Economics & Behavioral Pricing (Wilson F&B)
+
+- **[Franchise Occupancy Ratio](../knowledge/wilson-fb/wilson-fb-full-form/finance/one-page-every-franchise-buyer-should.md)**
+  - Occupancy Cost Ceiling: $\text{Rent Ratio} = \frac{\text{Base Rent} + \text{NNN}}{\text{Gross Food and Beverage Sales}} \le 6\% \text{ to } 8\%$.
+- **[Decoy Pricing & Combo Attach Lift](../knowledge/wilson-fb/wilson-fb-short-form/menu/decoy-effect-psychological-tricks-starbucks-uses.md)** (Serial 144)
+  - Anchor Conversion Shift: $\text{Decoy Margin Lift} = \frac{\text{High-Tier Attach} - \text{Baseline Attach}}{\text{Baseline Attach}} \implies 40\% \text{ to } 55\% \text{ shift to higher-margin tier}$.

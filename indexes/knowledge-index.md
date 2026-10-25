@@ -2,9 +2,9 @@
 
 Master catalog of all structured restaurant operational intelligence files in `knowledge/`.
 
-Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts, 247 Owner-girl Videos, 68 Restaurant Boss Shorts, 387 Restaurant Boss Videos)
+Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts, 247 Owner-girl Videos, 68 Restaurant Boss Shorts, 387 Restaurant Boss Videos, 198 Wilson F&B Shorts, 403 Wilson F&B Videos)
 
-## Customers (163 entries)
+## Customers (209 entries)
 
 - **Serial 005**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-mobile-apps-retention.md) `[mobile-apps, customer-retention, ordering-habits, direct-ordering]`
 - **Serial 006**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-app-regular-frequency.md) `[mobile-apps, repeat-orders, sales-growth, customer-frequency]`
@@ -169,8 +169,54 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 204 (Restaurant Boss Video)**: [Is Your Restaurant Team Lacking Hospitality?](../knowledge/restaurant-boss/restaurant-boss-full-form/customers/restaurant-team-lacking-hospitality.md)
 - **Serial 287 (Restaurant Boss Video)**: [How to Handle Fake Restaurant Reviews](../knowledge/restaurant-boss/restaurant-boss-full-form/customers/handle-fake-restaurant-reviews.md)
 - **Serial 313 (Restaurant Boss Video)**: [What Defines Great Restaurant Customer Service](../knowledge/restaurant-boss/restaurant-boss-full-form/customers/defines-great-restaurant-customer-service.md)
+- **Serial 096 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/importance-human-connection.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 122 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/use-loyalty-card-incentivise-customers-return.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 136 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/generate-positive-word-mouth-marketing-social.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 137 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/using-social-wifi-marketing-create-repeat.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 138 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/social-wifi-marketing-so-important.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 139 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/social-wifi-marketing.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 140 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/endowment-effect-psychological-tricks-starbucks-uses.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 143 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/cheerleader-effect-psychological-tricks-starbucks-uses.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 146 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/have-clear-understanding-brand-target-demographic.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 154 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/ask-yourself-do-you-actually-enjoy.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 162 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/cognitive-overload-psychological-hacks-used-by.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 170 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/understand-customer-demographic.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 186 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/figure-out-target-market-starting.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 193 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/using-power-instagram-create-positive-touch.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 194 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/using-power-instagram-create-positive-touch-2.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 198 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/self-identification.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 199 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/barnum-effect.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 200 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/sell-habits.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 201 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/customers/psychology-colour.md) `[customer-retention, consumer-psychology, guest-experience, loyalty-systems]`
+- **Serial 042 (Wilson F&B Video)**: [Cafe Business Secrets: How To Get Customers Without Discounts](../knowledge/wilson-fb/wilson-fb-full-form/customers/cafe-business-secrets-get-customers-without.md)
+- **Serial 053 (Wilson F&B Video)**: [How To Land Brand Deals That Attract More Customers - 13.3 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/customers/land-brand-deals-attract-more-customers.md)
+- **Serial 066 (Wilson F&B Video)**: [How To Get Your First Customer By Pre-Launching - 10.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/customers/get-first-customer-by-pre-launching.md)
+- **Serial 105 (Wilson F&B Video)**: [3 Types Of Marketing Content That Customers Love - 6.2.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/customers/3-types-marketing-content-customers-love.md)
+- **Serial 109 (Wilson F&B Video)**: [4 Golden Pillars To Attract Consistent Restaurant Customers -6.4 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/customers/4-golden-pillars-attract-consistent-restaurant.md)
+- **Serial 110 (Wilson F&B Video)**: [How To Create A Loyalty Program For Your Restaurant - 6.5 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/customers/create-loyalty-program-restaurant-65.md)
+- **Serial 134 (Wilson F&B Video)**: [How To Get Into The Minds Of Your Restaurant Customers - 2.5 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/customers/get-into-minds-restaurant-customers.md)
+- **Serial 135 (Wilson F&B Video)**: [How to Craft Your Restaurant Business Customer Avatar - 2.4.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/customers/craft-restaurant-business-customer-avatar.md)
+- **Serial 136 (Wilson F&B Video)**: [5 Pitfalls To Avoid When Creating A Customer Avatar - 2.4.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/customers/5-pitfalls-avoid-when-creating-customer.md)
+- **Serial 154 (Wilson F&B Video)**: [How To Market A Destination Restaurant Business](../knowledge/wilson-fb/wilson-fb-full-form/customers/market-destination-restaurant-business.md)
+- **Serial 160 (Wilson F&B Video)**: [How This Restaurant Owner Started With No Experience](../knowledge/wilson-fb/wilson-fb-full-form/customers/restaurant-owner-started-no-experience.md)
+- **Serial 213 (Wilson F&B Video)**: [Best Way to Get More Restaurant Customers in 2021! (Social Wifi Marketing - Why/How?)](../knowledge/wilson-fb/wilson-fb-full-form/customers/best-way-get-more-restaurant-customers.md)
+- **Serial 221 (Wilson F&B Video)**: [5 Psychological Tricks McDonald's Uses To Get More Customers | Restaurant Marketing](../knowledge/wilson-fb/wilson-fb-full-form/customers/5-psychological-tricks-mcdonalds-uses-get.md)
+- **Serial 231 (Wilson F&B Video)**: [How To Make A Restaurant Website Without Any Coding Experience in 20 minutes](../knowledge/wilson-fb/wilson-fb-full-form/customers/make-restaurant-website-without-any-coding.md)
+- **Serial 246 (Wilson F&B Video)**: [Inside $1.7M Award-Winning Destination Restaurant | Secret Sauce Ep.8](../knowledge/wilson-fb/wilson-fb-full-form/customers/inside-17m-award-winning-destination-restaurant-secret.md)
+- **Serial 247 (Wilson F&B Video)**: [How To EASILY Create Restaurant Marketing Designs With No Experience in 14 mins](../knowledge/wilson-fb/wilson-fb-full-form/customers/easily-create-restaurant-marketing-designs-no.md)
+- **Serial 251 (Wilson F&B Video)**: [How Lan Started An Award-Winning Restaurant With No Experience | Secret Sauce Ep.5](../knowledge/wilson-fb/wilson-fb-full-form/customers/lan-started-award-winning-restaurant-no-experience.md)
+- **Serial 260 (Wilson F&B Video)**: [The New Restaurant Experience in 2021...](../knowledge/wilson-fb/wilson-fb-full-form/customers/new-restaurant-experience-2021.md)
+- **Serial 267 (Wilson F&B Video)**: [How to Reopen Your Restaurant Safely POST-COVID with QR Codes (Get More Customers!)](../knowledge/wilson-fb/wilson-fb-full-form/customers/reopen-restaurant-safely-post-covid-qr-codes.md)
+- **Serial 272 (Wilson F&B Video)**: [How To Start A Restaurant With NO Experience | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/customers/start-restaurant-no-experience-restaurant-management.md)
+- **Serial 273 (Wilson F&B Video)**: [How Restaurants MUST Manage Their Online Reputation To Attract More Customers | Restaurant Marketing](../knowledge/wilson-fb/wilson-fb-full-form/customers/restaurants-must-manage-their-online-reputation.md)
+- **Serial 287 (Wilson F&B Video)**: [Ice Cream Shop Owner Reacts To CRAZY CUSTOMERS BE LIKE | Restaurant Management 2020](../knowledge/wilson-fb/wilson-fb-full-form/customers/ice-cream-shop-owner-reacts-crazy.md)
+- **Serial 289 (Wilson F&B Video)**: [4 Quick Restaurant Instagram Tactics To Get MORE Customers | Restaurant Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/customers/4-quick-restaurant-instagram-tactics-get.md)
+- **Serial 290 (Wilson F&B Video)**: [How Every Restaurant Can Build Loyal Customers With Educational Experiences!](../knowledge/wilson-fb/wilson-fb-full-form/customers/every-restaurant-can-build-loyal-customers.md)
+- **Serial 312 (Wilson F&B Video)**: [8 Must Have Items On Your Restaurant Website To ATTRACT 50% More Customers | Restaurant Marketing](../knowledge/wilson-fb/wilson-fb-full-form/customers/8-must-have-items-restaurant-website.md)
+- **Serial 384 (Wilson F&B Video)**: [Acquire Customers And Market Your Business | $0 – $1M EP. 9](../knowledge/wilson-fb/wilson-fb-full-form/customers/acquire-customers-market-business-0-1m.md)
+- **Serial 400 (Wilson F&B Video)**: [6 Core Values: Fun Experience](../knowledge/wilson-fb/wilson-fb-full-form/customers/6-core-values-fun-experience.md)
 
-## Delivery (41 entries)
+## Delivery (69 entries)
 
 - **Serial 001**: [Key Information](../knowledge/owner/owner-short-form/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
 - **Serial 022**: [Key Information](../knowledge/owner/owner-short-form/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
@@ -213,8 +259,36 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 189 (Restaurant Boss Video)**: [Should I Open a Ghost Kitchen?](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/should-i-open-ghost-kitchen.md)
 - **Serial 190 (Restaurant Boss Video)**: [What is a Ghost Kitchen?](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/ghost-kitchen.md)
 - **Serial 221 (Restaurant Boss Video)**: [Increase Sales with Third Party Delivery Services](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/increase-sales-third-party-delivery-services.md)
+- **Serial 030 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/delivery/trader-joes-says-no-online-delivery.md) `[delivery-operations, cloud-kitchens, off-premise-dining, virtual-brands]`
+- **Serial 115 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/delivery/monthly-subscription-boxes-easy-home-food.md) `[delivery-operations, cloud-kitchens, off-premise-dining, virtual-brands]`
+- **Serial 163 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/delivery/multiple-cloud-kitchen-brands-can-lower.md) `[delivery-operations, cloud-kitchens, off-premise-dining, virtual-brands]`
+- **Serial 164 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/delivery/multiple-cloud-kitchen-brands-can-lower-2.md) `[delivery-operations, cloud-kitchens, off-premise-dining, virtual-brands]`
+- **Serial 165 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/delivery/maximise-return-multiple-cloud-kitchen-brands.md) `[delivery-operations, cloud-kitchens, off-premise-dining, virtual-brands]`
+- **Serial 166 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/delivery/cloud-kitchen-businesses-can-tackle-wider.md) `[delivery-operations, cloud-kitchens, off-premise-dining, virtual-brands]`
+- **Serial 167 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/delivery/cloud-kitchen-business.md) `[delivery-operations, cloud-kitchens, off-premise-dining, virtual-brands]`
+- **Serial 088 (Wilson F&B Video)**: [How To Leverage Food Delivery Apps For Your Food Business - 1.4 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/delivery/leverage-food-delivery-apps-food-business.md)
+- **Serial 097 (Wilson F&B Video)**: [How To Increase Restaurant Sales With Food Delivery - 7.3 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/delivery/increase-restaurant-sales-food-delivery.md)
+- **Serial 182 (Wilson F&B Video)**: [4 HUGE Benefits of Creating Multiple Cloud Kitchen Brands](../knowledge/wilson-fb/wilson-fb-full-form/delivery/4-huge-benefits-creating-multiple-cloud.md)
+- **Serial 194 (Wilson F&B Video)**: [How To Make Your Cloud Kitchen PROFITABLE | Start A Cloud Kitchen 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/make-cloud-kitchen-profitable-start-cloud.md)
+- **Serial 202 (Wilson F&B Video)**: [4 Most Common Reasons Why Cloud Kitchens FAIL](../knowledge/wilson-fb/wilson-fb-full-form/delivery/4-most-common-reasons-cloud-kitchens.md)
+- **Serial 210 (Wilson F&B Video)**: [How To EASILY Write A Cloud Kitchen Business Plan | Start A Food Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/easily-write-cloud-kitchen-business-plan.md)
+- **Serial 224 (Wilson F&B Video)**: [The BEST Food Item For Ghost Kitchens in 2021!](../knowledge/wilson-fb/wilson-fb-full-form/delivery/best-food-item-ghost-kitchens-2021.md)
+- **Serial 233 (Wilson F&B Video)**: [Walmart Expands Into Cloud Kitchens??](../knowledge/wilson-fb/wilson-fb-full-form/delivery/walmart-expands-into-cloud-kitchens.md)
+- **Serial 237 (Wilson F&B Video)**: [7 Cloud Kitchen Marketing Channels To Master or Perish | Ghost Kitchen Marketing](../knowledge/wilson-fb/wilson-fb-full-form/delivery/7-cloud-kitchen-marketing-channels-master.md)
+- **Serial 239 (Wilson F&B Video)**: [How New Cloud Kitchen Owner Created A Whacky $3K/mo Automated Profitable Food Business](../knowledge/wilson-fb/wilson-fb-full-form/delivery/new-cloud-kitchen-owner-created-whacky.md)
+- **Serial 253 (Wilson F&B Video)**: [What's The Best Food Delivery App For Restaurants? Uber Eats/DoorDash/Postmates/Grubhub [Superfood]](../knowledge/wilson-fb/wilson-fb-full-form/delivery/whats-best-food-delivery-app-restaurants.md)
+- **Serial 266 (Wilson F&B Video)**: [How This New Cloud Kitchen Got 100+ Sales In First Month | Start A Ghost Kitchen 2020](../knowledge/wilson-fb/wilson-fb-full-form/delivery/new-cloud-kitchen-got-100-sales.md)
+- **Serial 268 (Wilson F&B Video)**: [Top 8 Most Popular Food Delivery Items in 2020 for Restaurants & Cloud Kitchens](../knowledge/wilson-fb/wilson-fb-full-form/delivery/top-8-most-popular-food-delivery.md)
+- **Serial 270 (Wilson F&B Video)**: [How To Start A Cloud Kitchen/Ghost Kitchen [Starter Guide] 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/start-cloud-kitchenghost-kitchen-starter-guide.md)
+- **Serial 275 (Wilson F&B Video)**: [How Restaurants Can Save 30% Commissions From UberEats & DoorDash | Start Your Own Food Delivery](../knowledge/wilson-fb/wilson-fb-full-form/delivery/restaurants-can-save-30-commissions-ubereats.md)
+- **Serial 282 (Wilson F&B Video)**: [5 Common Cloud Kitchen Mistakes That Will BANKRUPT You | Ghost Kitchen Guide](../knowledge/wilson-fb/wilson-fb-full-form/delivery/5-common-cloud-kitchen-mistakes-will.md)
+- **Serial 286 (Wilson F&B Video)**: [How To Start A Cloud Kitchen In 20 Mins | Ghost Kitchen & Virtual Kitchen 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/start-cloud-kitchen-20-mins-ghost.md)
+- **Serial 309 (Wilson F&B Video)**: [6 Cloud Kitchen/Ghost Kitchen Business Models You Should Know | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/6-cloud-kitchenghost-kitchen-business-models.md)
+- **Serial 313 (Wilson F&B Video)**: [UBER BUYING GRUBHUB?? What It Means For Restaurant Owners, Food Delivery, & Cloud Kitchens...](../knowledge/wilson-fb/wilson-fb-full-form/delivery/uber-buying-grubhub-it-means-restaurant.md)
+- **Serial 315 (Wilson F&B Video)**: [Cloud Kitchens VS. Dine-In Restaurants: Which is better? | Ghost Kitchen/Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/cloud-kitchens-vs-dine-in-restaurants-which.md)
+- **Serial 332 (Wilson F&B Video)**: [What are Cloud Kitchens and Ghost Kitchens? ($70B Opportunity) | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/are-cloud-kitchens-ghost-kitchens-70b.md)
 
-## Finance (164 entries)
+## Finance (222 entries)
 
 - **Serial 039**: [Key Information](../knowledge/owner/owner-short-form/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
 - **Serial 043**: [Key Information](../knowledge/owner/owner-short-form/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
@@ -380,8 +454,66 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 374 (Restaurant Boss Video)**: [2017 Restaurant Profit Goals](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/2017-restaurant-profit-goals.md)
 - **Serial 386 (Restaurant Boss Video)**: [How to Create a Restaurant Budget](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/create-restaurant-budget.md)
 - **Serial 403 (Restaurant Boss Video)**: [Restaurant Start up Mistakes: How to open a Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-start-up-mistakes-open-restaurant.md)
+- **Serial 008 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/wingstop-usually-under-1800-square-feet.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 012 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/every-franchise-you-know-takes-few.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 014 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/buy-in-chick-fil-a-10000-average-standalone-store.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 054 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/mcdonalds-lost-billions.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 057 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/27m-mistake-mcdonalds-founders-made.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 059 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/chipotle-almost-went-bankrupt-2015.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 068 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/krispy-kreme-went-bankrupt.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 077 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/real-reason-red-lobster-went-bankrupt.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 088 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/love-food-going-bankrupt-you.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 089 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/food-industry-trap-nobody-talks-about.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 106 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/90-restaurants-close.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 131 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/much-does-pos-software-cost.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 134 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/much-it-costs-open-coffee-shop.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 142 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/cashless-effect-psychological-tricks-starbucks-uses.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 145 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/figuring-out-unit-economics.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 160 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/cashless-effect-psychological-hacks-used-by.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 187 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/restaurant-needs-rainy-day-fund.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 188 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/investments-vs-percentages-every-restaurant.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 208 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/restaurant-needs-rainy-day-fund-restaurant.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 215 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/finance/funding-coffee-shop-business-money-banks.md) `[restaurant-finance, unit-economics, start-up-capital, financial-reserves]`
+- **Serial 002 (Wilson F&B Video)**: [he Highest-Selling Food Franchise in America Is One of the Worst to Own](../knowledge/wilson-fb/wilson-fb-full-form/finance/he-highest-selling-food-franchise-america-one.md)
+- **Serial 004 (Wilson F&B Video)**: [The One Page Every Franchise Buyer Should Read (Most Never Do)](../knowledge/wilson-fb/wilson-fb-full-form/finance/one-page-every-franchise-buyer-should.md)
+- **Serial 010 (Wilson F&B Video)**: [Chick-fil-A Walks Away From $1 Billion a Year on Purpose](../knowledge/wilson-fb/wilson-fb-full-form/finance/chick-fil-a-walks-away-1-billion-year.md)
+- **Serial 017 (Wilson F&B Video)**: [Hooters' 42-Year Run Ended in Bankruptcy—Here's Why](../knowledge/wilson-fb/wilson-fb-full-form/finance/hooters-42-year-run-ended-bankruptcyheres.md)
+- **Serial 021 (Wilson F&B Video)**: [Subway's Fatal Contract Clause Destroyed 7,000 Franchises](../knowledge/wilson-fb/wilson-fb-full-form/finance/subways-fatal-contract-clause-destroyed-7000.md)
+- **Serial 022 (Wilson F&B Video)**: [The $1.5 Billion Mistake That Killed Red Lobster](../knowledge/wilson-fb/wilson-fb-full-form/finance/15-billion-mistake-killed-red-lobster.md)
+- **Serial 023 (Wilson F&B Video)**: [The Hiring Mistake That's Bankrupting Restaurants Right Now](../knowledge/wilson-fb/wilson-fb-full-form/finance/hiring-mistake-thats-bankrupting-restaurants-right.md)
+- **Serial 029 (Wilson F&B Video)**: [Don't Raise Money for Your Business Until You Watch This](../knowledge/wilson-fb/wilson-fb-full-form/finance/dont-raise-money-business-until-you.md)
+- **Serial 072 (Wilson F&B Video)**: [How To Calculate Your Fixed Costs For Your Food Business- 4.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/finance/calculate-fixed-costs-food-business-41.md)
+- **Serial 073 (Wilson F&B Video)**: [Food Business Variable Costs: Why Most Entrepreneurs Get This Wrong](../knowledge/wilson-fb/wilson-fb-full-form/finance/food-business-variable-costs-most-entrepreneurs.md)
+- **Serial 074 (Wilson F&B Video)**: [How To Determine Your Food Business Startup Costs - 4.3 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/finance/determine-food-business-startup-costs.md)
+- **Serial 094 (Wilson F&B Video)**: [3 Reasons Why Promotions Could Bankrupt Your Restaurant - 7.5 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/finance/3-reasons-promotions-could-bankrupt-restaurant.md)
+- **Serial 121 (Wilson F&B Video)**: [Variable Costs vs. Fixed Costs: What’s The Difference - 4.4 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/finance/variable-costs-vs-fixed-costs-whats.md)
+- **Serial 125 (Wilson F&B Video)**: [How To Negotiate Free Rent For Your Restaurant Business - 3.1.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/finance/negotiate-free-rent-restaurant-business.md)
+- **Serial 126 (Wilson F&B Video)**: [How To Negotiate Things Other Than Free Rent - 3.1.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/finance/negotiate-things-other-than-free-rent.md)
+- **Serial 157 (Wilson F&B Video)**: [How Much To Save To Start A Restaurant Business](../knowledge/wilson-fb/wilson-fb-full-form/finance/much-save-start-restaurant-business.md)
+- **Serial 207 (Wilson F&B Video)**: [5 Psychological Tricks Starbucks Uses To Market Their Coffee & Make Billions | Restaurant Marketing](../knowledge/wilson-fb/wilson-fb-full-form/finance/5-psychological-tricks-starbucks-uses-market.md)
+- **Serial 215 (Wilson F&B Video)**: [How Much It Costs To Open A Coffee Shop Business | Cafe Restaurant 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/much-it-costs-open-coffee-shop.md)
+- **Serial 236 (Wilson F&B Video)**: [How Travis Scott SAVED McDonald's From Bankruptcy | Restaurant Marketing 2021](../knowledge/wilson-fb/wilson-fb-full-form/finance/travis-scott-saved-mcdonalds-bankruptcy-restaurant.md)
+- **Serial 292 (Wilson F&B Video)**: [How Much It Costs To Start An Ice Cream Shop Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/much-it-costs-start-ice-cream.md)
+- **Serial 293 (Wilson F&B Video)**: [Top Restaurant Owner Mistakes That Bankrupts 60% of Food Businesses [Part 2]](../knowledge/wilson-fb/wilson-fb-full-form/finance/top-restaurant-owner-mistakes-bankrupts-60.md)
+- **Serial 294 (Wilson F&B Video)**: [Biggest Restaurant Owner Mistakes That Will Make You Bankrupt](../knowledge/wilson-fb/wilson-fb-full-form/finance/biggest-restaurant-owner-mistakes-will-make.md)
+- **Serial 298 (Wilson F&B Video)**: [3 Common Restaurant Marketing Traps That Will Bankrupt You | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/3-common-restaurant-marketing-traps-will.md)
+- **Serial 304 (Wilson F&B Video)**: [5 Hidden Restaurant Costs To Look Out For When Opening A Restaurant Business | Restaurant Management](../knowledge/wilson-fb/wilson-fb-full-form/finance/5-hidden-restaurant-costs-look-out.md)
+- **Serial 306 (Wilson F&B Video)**: [Lease Terms You HAVE TO Know About When Starting A Restaurant & Small Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/lease-terms-you-have-know-about.md)
+- **Serial 311 (Wilson F&B Video)**: [Cafe Owner Pays Off Rent in 24 HRS By Selling A Genius Item During CoronaVirus Lockdown [Interview]](../knowledge/wilson-fb/wilson-fb-full-form/finance/cafe-owner-pays-off-rent-24.md)
+- **Serial 314 (Wilson F&B Video)**: [Cut Small Business Costs & Save MORE Money 💵 | Restaurant Management Small Business Tips 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/cut-small-business-costs-save-more.md)
+- **Serial 318 (Wilson F&B Video)**: [5 Ways To Reduce Labour Costs For Restaurants | Restaurant Management & Small Business Tips 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/5-ways-reduce-labour-costs-restaurants.md)
+- **Serial 319 (Wilson F&B Video)**: [How To Calculate Labour Cost For Restaurants & Small Businesses 2022 | Restaurant Management](../knowledge/wilson-fb/wilson-fb-full-form/finance/calculate-labour-cost-restaurants-small-businesses.md)
+- **Serial 320 (Wilson F&B Video)**: [How To Recession-Proof Your Restaurant and Beat CoronaVirus | Small Business Finance Management 2021](../knowledge/wilson-fb/wilson-fb-full-form/finance/recession-proof-restaurant-beat-coronavirus-small-business.md)
+- **Serial 321 (Wilson F&B Video)**: [How To Assess Your Business Health Pt.1 | Small Business Finance Management 2021](../knowledge/wilson-fb/wilson-fb-full-form/finance/assess-business-health-pt1-small-business.md)
+- **Serial 325 (Wilson F&B Video)**: [Restaurant Staffing During Coronavirus & Recession? | Restaurant Management & Small Business Tips](../knowledge/wilson-fb/wilson-fb-full-form/finance/restaurant-staffing-during-coronavirus-recession-restaurant.md)
+- **Serial 328 (Wilson F&B Video)**: [CORONAVIRUS VS. RESTAURANTS (Shocking Opportunity in a Pandemic & Recession?)](../knowledge/wilson-fb/wilson-fb-full-form/finance/coronavirus-vs-restaurants-shocking-opportunity-pandemic.md)
+- **Serial 329 (Wilson F&B Video)**: [5 Ways Restaurants Can Survive CoronaVirus & Recession (URGENT) | Small Business Tips 2021](../knowledge/wilson-fb/wilson-fb-full-form/finance/5-ways-restaurants-can-survive-coronavirus.md)
+- **Serial 345 (Wilson F&B Video)**: [How To Open A Restaurant With NO Money? | Small Business Advice Restaurant Funding 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/open-restaurant-no-money-small-business.md)
+- **Serial 349 (Wilson F&B Video)**: [How Much Does it Cost to Start a Restaurant (+5 Money-Saving Tips) | Restaurant Management Tips 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/much-does-it-cost-start-restaurant.md)
+- **Serial 383 (Wilson F&B Video)**: [Opening Up A Franchise | $0 – $1M EP. 10](../knowledge/wilson-fb/wilson-fb-full-form/finance/opening-up-franchise-0-1m-ep.md)
+- **Serial 447 (Wilson F&B Video)**: [How To Raise Money](../knowledge/wilson-fb/wilson-fb-full-form/finance/raise-money.md)
 
-## Food Cost (103 entries)
+## Food Cost (116 entries)
 
 - **Serial 036**: [Key Information](../knowledge/owner/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
 - **Serial 045**: [Key Information](../knowledge/owner/owner-short-form/food-cost/gourmet-ramen-economics.md) `[food-cost, ramen, inventory-management, shelf-life, average-check]`
@@ -486,6 +618,19 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 426 (Restaurant Boss Video)**: [Restaurant Food Cost Saving Ideas](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/restaurant-food-cost-saving-ideas.md)
 - **Serial 427 (Restaurant Boss Video)**: [Restaurant Food Cost Tip: Food Cost alone is NOT enough!](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/restaurant-food-cost-tip-food-cost.md)
 - **Serial 430 (Restaurant Boss Video)**: [Food Cost & Beverage Cost, does it matter to a restaurant owner?](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/food-cost-beverage-cost-does-it.md)
+- **Serial 047 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/food-cost/trick-makes-pepper-cutting-look-effortless.md) `[food-cost, cogs-management, margin-defense, ingredient-sourcing]`
+- **Serial 072 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/food-cost/fix-restaurants-broken-margins.md) `[food-cost, cogs-management, margin-defense, ingredient-sourcing]`
+- **Serial 133 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/food-cost/additional-costs-consider-when-opening-coffee.md) `[food-cost, cogs-management, margin-defense, ingredient-sourcing]`
+- **Serial 135 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/food-cost/renovation-costs-consider-when-opening-coffee.md) `[food-cost, cogs-management, margin-defense, ingredient-sourcing]`
+- **Serial 148 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/food-cost/logistical-obstacles-when-dealing-ingredients-imports.md) `[food-cost, cogs-management, margin-defense, ingredient-sourcing]`
+- **Serial 203 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/food-cost/food-truck-cost-awareness.md) `[food-cost, cogs-management, margin-defense, ingredient-sourcing]`
+- **Serial 214 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/food-cost/find-food-suppliers-food-business.md) `[food-cost, cogs-management, margin-defense, ingredient-sourcing]`
+- **Serial 005 (Wilson F&B Video)**: [Why Five Guys Throws Extra Fries in Your Bag on Purpose](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/five-guys-throws-extra-fries-bag.md)
+- **Serial 008 (Wilson F&B Video)**: [What The Taco Bell Outbreak Should Teach Every Restaurant Owner](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/taco-bell-outbreak-should-teach-every.md)
+- **Serial 009 (Wilson F&B Video)**: [This Restaurant Makes $27M Per Location By Weighing Every Dumpling](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/restaurant-makes-27m-per-location-by.md)
+- **Serial 322 (Wilson F&B Video)**: [7 Ways Restaurants Are Surviving CoronaVirus Outbreak | Restaurant Management Small Business Tips](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/7-ways-restaurants-are-surviving-coronavirus.md)
+- **Serial 334 (Wilson F&B Video)**: [How To Calculate Food Cost Percentage (& SAVE $$) | Cafe Restaurant Management Tips 2022](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/calculate-food-cost-percentage-save-cafe.md)
+- **Serial 340 (Wilson F&B Video)**: [5 Restaurant Food Cost Saving Ideas To Use NOW (Save $$) | Cafe Restaurant Management Tips  2021](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/5-restaurant-food-cost-saving-ideas.md)
 
 ## Forecasting (10 entries)
 
@@ -500,7 +645,7 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 252 (Restaurant Boss Video)**: [State of the Restaurant Industry - My Predictions on Where You Should Focus for 2020](../knowledge/restaurant-boss/restaurant-boss-full-form/forecasting/state-restaurant-industry-my-predictions.md)
 - **Serial 332 (Restaurant Boss Video)**: [The Great Restaurant Success Predictor](../knowledge/restaurant-boss/restaurant-boss-full-form/forecasting/great-restaurant-success-predictor.md)
 
-## Inventory (13 entries)
+## Inventory (14 entries)
 
 - **Serial 066 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md) `[inventory-management, par-levels, waste-reduction, ordering-systems]`
 - **Serial 007 (Toast Video)**: [Inventory Control Systems: Sheet-to-Shelf Counting and Stock Variance Prevention](../knowledge/toast/toast-full-form/inventory/restaurant-inventory-nightmares-sheet-to-shelf-counting.md)
@@ -515,8 +660,9 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 268 (Restaurant Boss Video)**: [Four Reasons I Don’t Teach Restaurant Inventory](../knowledge/restaurant-boss/restaurant-boss-full-form/inventory/four-reasons-i-dont-teach-restaurant.md)
 - **Serial 322 (Restaurant Boss Video)**: [Restaurant Owner Activity Inventory](../knowledge/restaurant-boss/restaurant-boss-full-form/inventory/restaurant-owner-activity-inventory.md)
 - **Serial 412 (Restaurant Boss Video)**: [How to Lower Your Restaurant Inventory without Software](../knowledge/restaurant-boss/restaurant-boss-full-form/inventory/lower-restaurant-inventory-without-software.md)
+- **Serial 111 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/inventory/easily-record-inventory-phone.md) `[inventory-management, mobile-inventory, stock-control]`
 
-## Kitchen (30 entries)
+## Kitchen (41 entries)
 
 - **Serial 554**: [Key Information](../knowledge/owner/owner-short-form/kitchen/kitchen-could-20-annually-heres.md) `[kitchen, kitchen-operations, throughput]`
 - **Serial 565**: [Key Information](../knowledge/owner/owner-short-form/kitchen/pizza-kitchen-isnt-broken-system.md) `[kitchen, kitchen-operations, throughput]`
@@ -548,8 +694,19 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 308 (Restaurant Boss Video)**: [The Importance of Cleanliness In Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/importance-cleanliness-restaurant.md)
 - **Serial 405 (Restaurant Boss Video)**: [Restaurant Checklist and Prep Sheets](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/restaurant-checklist-prep-sheets.md)
 - **Serial 424 (Restaurant Boss Video)**: [Restaurant Owners Kitchen Checklist and Prep List](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/restaurant-owners-kitchen-checklist-prep-list.md)
+- **Serial 005 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/kitchen/waffle-house-opens-every-single-day.md) `[kitchen-operations, assembly-line-speed, line-execution, food-prep]`
+- **Serial 062 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/kitchen/assembly-line-hack-turned-1-burrito.md) `[kitchen-operations, assembly-line-speed, line-execution, food-prep]`
+- **Serial 070 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/kitchen/they-dont-use-frozen-patties-but.md) `[kitchen-operations, assembly-line-speed, line-execution, food-prep]`
+- **Serial 159 (Wilson F&B Video)**: [How Chefs Can Start A Successful Restaurant](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/chefs-can-start-successful-restaurant.md)
+- **Serial 173 (Wilson F&B Video)**: [Reacting to GIGANTIC Cookie Food Business Behind The Scenes - My Cookie Dealer](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/reacting-gigantic-cookie-food-business-behind.md)
+- **Serial 196 (Wilson F&B Video)**: [How To Start A Virtual Kitchen From Your Restaurant & Increase REVENUE | Restaurant Sales](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/start-virtual-kitchen-restaurant-increase-revenue.md)
+- **Serial 199 (Wilson F&B Video)**: [Entrepreneur Reacts - Chef Serving Top Tier Sushi Out Of A Food Truck](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/entrepreneur-reacts-chef-serving-top.md)
+- **Serial 206 (Wilson F&B Video)**: [Private Chef Makes $14,000 Per MONTH | Entrepreneur Reacts](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/private-chef-makes-14000-per-month.md)
+- **Serial 248 (Wilson F&B Video)**: [How Chef Chris Opened a Restaurant During The Pandemic | Secret Sauce Ep. 7](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/chef-chris-opened-restaurant-during-pandemic.md)
+- **Serial 271 (Wilson F&B Video)**: [How One Of The Best Pastry Chefs In Vancouver Is Starting A Bakery](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/one-best-pastry-chefs-vancouver-starting.md)
+- **Serial 370 (Wilson F&B Video)**: [MUST HAVE Equipment For Your Ice Cream Business in 2022 | Restaurant Management Food & Beverage Tips](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/must-have-equipment-ice-cream-business.md)
 
-## Labour (359 entries)
+## Labour (378 entries)
 
 - **Serial 016**: [Key Information](../knowledge/owner/owner-short-form/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
 - **Serial 041**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
@@ -910,8 +1067,27 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 398 (Restaurant Boss Video)**: [5 Step Restaurant Employee Training Model](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/5-step-restaurant-employee-training-model.md)
 - **Serial 432 (Restaurant Boss Video)**: [Restaurant Owner Employee Management Tip: Will your Employees Go to War for You?](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-owner-employee-management-tip-will.md)
 - **Serial 433 (Restaurant Boss Video)**: [Restaurant Owner Labor Cost Tip: DO THIS, and you can be in Hawaii next year...](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-owner-labor-cost-tip-do.md)
+- **Serial 087 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/labour/team-work-can-make-good-content.md) `[labor-management, staff-hiring, team-leadership, workplace-culture]`
+- **Serial 100 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/labour/ai-wont-take-restaurant-job.md) `[labor-management, staff-hiring, team-leadership, workplace-culture]`
+- **Serial 103 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/labour/most-important-people-hire.md) `[labor-management, staff-hiring, team-leadership, workplace-culture]`
+- **Serial 114 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/labour/ex-disney-world-manager-transitioned-into-successful.md) `[labor-management, staff-hiring, team-leadership, workplace-culture]`
+- **Serial 157 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/labour/build-right-team-food-business-plans.md) `[labor-management, staff-hiring, team-leadership, workplace-culture]`
+- **Serial 039 (Wilson F&B Video)**: [Restaurant Hiring Strategy: How To Build Your Dream Team (2026)](../knowledge/wilson-fb/wilson-fb-full-form/labour/restaurant-hiring-strategy-build-dream-team.md)
+- **Serial 112 (Wilson F&B Video)**: [6 Ways To Reduce Staff Turnover In Your Restaurant Business- 5.4 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/labour/6-ways-reduce-staff-turnover-restaurant.md)
+- **Serial 113 (Wilson F&B Video)**: [How To Train Your Restaurant Staff With Ease - 5.3 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/labour/train-restaurant-staff-ease-53.md)
+- **Serial 114 (Wilson F&B Video)**: [How To Hire Your ALL-STAR Restaurant Team - 5.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/labour/hire-all-star-restaurant-team-52.md)
+- **Serial 127 (Wilson F&B Video)**: [How To Assemble Your Restaurant Business Build Out Team - 3.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/labour/assemble-restaurant-business-build-out-team.md)
+- **Serial 142 (Wilson F&B Video)**: [How To Create Your Restaurant Business Team Structure - 1.5 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/labour/create-restaurant-business-team-structure.md)
+- **Serial 337 (Wilson F&B Video)**: [Why Your Restaurant Staff Are ALWAYS Leaving You | Small Business & Restaurant Management Tips 2022](../knowledge/wilson-fb/wilson-fb-full-form/labour/restaurant-staff-are-always-leaving-you.md)
+- **Serial 341 (Wilson F&B Video)**: [3 Signs To FIRE Your Restaurant Management or Staff | How To Open and Run A Restaurant Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/labour/3-signs-fire-restaurant-management-staff.md)
+- **Serial 347 (Wilson F&B Video)**: [How To Reduce Employee Turnover (Keep Your BEST Restaurant Staff!) | How To Start A Restaurant 2022](../knowledge/wilson-fb/wilson-fb-full-form/labour/reduce-employee-turnover-keep-best-restaurant.md)
+- **Serial 348 (Wilson F&B Video)**: [Top 5 Restaurant Hiring Tips & Traits of Good Employees | Restaurant Management Tips 2021](../knowledge/wilson-fb/wilson-fb-full-form/labour/top-5-restaurant-hiring-tips-traits.md)
+- **Serial 372 (Wilson F&B Video)**: [How To Know If Your Employee Are Stealing From Your Restaurant (Prevent It!) | Restaurant Management](../knowledge/wilson-fb/wilson-fb-full-form/labour/know-if-employee-are-stealing-restaurant.md)
+- **Serial 429 (Wilson F&B Video)**: [Great Leaders Lead by Example](../knowledge/wilson-fb/wilson-fb-full-form/labour/great-leaders-lead-by-example.md)
+- **Serial 439 (Wilson F&B Video)**: [Grow Your Business As A Team](../knowledge/wilson-fb/wilson-fb-full-form/labour/grow-business-as-team.md)
+- **Serial 445 (Wilson F&B Video)**: [How To Build A Great Company Culture](../knowledge/wilson-fb/wilson-fb-full-form/labour/build-great-company-culture.md)
 
-## Marketing (221 entries)
+## Marketing (311 entries)
 
 - **Serial 002**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
 - **Serial 003**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
@@ -1134,8 +1310,98 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 425 (Restaurant Boss Video)**: [Restaurant Marketing [Define your Restaurant Brand]](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-marketing-define-restaurant-brand.md)
 - **Serial 431 (Restaurant Boss Video)**: [Restaurant Owner Marketing Tip: Get more Customers](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-owner-marketing-tip-get-more.md)
 - **Serial 434 (Restaurant Boss Video)**: [Restaurant Owner Marketing Tip: How do you know if customers want what you are serving?](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-owner-marketing-tip-do-you.md)
+- **Serial 002 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/cracker-barrel-quietly-removed-old-man.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 006 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/dominos-went-national-tv-told-whole.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 009 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/popeyes-protected-its-brand.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 031 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/trader-joes-discontinues-favorite-items.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 032 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/genius-behind-trader-joes-success-scarcity.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 033 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/genius-retail-strategy-behind-trader-joes.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 051 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/one-man-turned-starbucks-into-lifestyle.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 063 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/whopper-disaster-vs-cookie-success-story.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 064 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/you-shouldnt-wait-krispy-kreme-line.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 065 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/wall-street-missed-about-krispy-kreme.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 067 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/krispy-kreme-almost-failed-despite-being.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 075 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/dangerous-incentive-subway-corporate-destroyed-its.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 079 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/go-viral-content-creation-cafe-volume.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 080 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/video-format-got-chilis-41m-sales.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 081 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/most-food-truck-owners-miss-one.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 092 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/breaking-down-viral-food-videos.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 094 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/breakdown-viral-food-videos.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 097 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/boba-owners-are-actually-winning.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 102 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/restaurant-show-up-ai-searches.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 107 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/turn-cafe-into-destination-spot.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 108 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/use-fomo-make-mone.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 110 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/get-people-root-you.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 123 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/business-cards-are-still-very-effective.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 124 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/create-standing-banners-highly-impactful-restaurant.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 125 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/create-correct-social-media-design-assets.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 126 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/use-promotional-posters-restaurant-marketing.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 127 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/market-brand-double-restaurant-sales-wzero.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 156 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/identify-marketing-plan-food-business-plans.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 161 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/occams-razor-psychological-hacks-used-by.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 180 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/worst-advice-restaurant-owners-get-when.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 192 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/important-strategies-behind-user-generated-content.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 202 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/marketing/marketing-tactics.md) `[restaurant-marketing, brand-building, viral-campaigns, local-advertising]`
+- **Serial 003 (Wilson F&B Video)**: [Why Do People Drive 3 Hours to Visit a Gas Station?](../knowledge/wilson-fb/wilson-fb-full-form/marketing/do-people-drive-3-hours-visit.md)
+- **Serial 026 (Wilson F&B Video)**: [Most Restaurants Post the Wrong Content (Here's What Works)](../knowledge/wilson-fb/wilson-fb-full-form/marketing/most-restaurants-post-wrong-content-heres.md)
+- **Serial 033 (Wilson F&B Video)**: [3 Viral Restaurant Marketing Ideas (That Actually Drive Sales)](../knowledge/wilson-fb/wilson-fb-full-form/marketing/3-viral-restaurant-marketing-ideas-actually.md)
+- **Serial 045 (Wilson F&B Video)**: [Social Media For Restaurants: The 2026 Viral Formula](../knowledge/wilson-fb/wilson-fb-full-form/marketing/social-media-restaurants-2026-viral-formula.md)
+- **Serial 049 (Wilson F&B Video)**: [How To Take Food Orders On Instagram (Paid Option) - 6.2.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/take-food-orders-instagram-paid-option.md)
+- **Serial 054 (Wilson F&B Video)**: [2 Ways To Set Up Your Instagram Food Business - 6.0 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/2-ways-set-up-instagram-food.md)
+- **Serial 057 (Wilson F&B Video)**: [How To Take Food Orders On Instagram For Free - 6.2.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/take-food-orders-instagram-free.md)
+- **Serial 059 (Wilson F&B Video)**: [How To Set Up Your Instagram Shop (Paid - Shopify Only) - 6.5 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/set-up-instagram-shop-paid.md)
+- **Serial 060 (Wilson F&B Video)**: [Boost Your Food Business Orders With Instagram Profile Tweaks](../knowledge/wilson-fb/wilson-fb-full-form/marketing/boost-food-business-orders-instagram-profile.md)
+- **Serial 061 (Wilson F&B Video)**: [How To Create Instagram Highlights Easily & Effectively - 7.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/create-instagram-highlights-easily-effectively.md)
+- **Serial 062 (Wilson F&B Video)**: [How To EASILY Create Social Media Content For Your Food Business -8.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/easily-create-social-media-content-food.md)
+- **Serial 064 (Wilson F&B Video)**: [How To Pick Best Instagram Hashtags To Grow Your Food Business - 9.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/pick-best-instagram-hashtags-grow-food.md)
+- **Serial 065 (Wilson F&B Video)**: [How To Save Time By Scheduling Instagram Content - 9.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/save-time-by-scheduling-instagram-content.md)
+- **Serial 068 (Wilson F&B Video)**: [How To Run Instagram Contest Giveaways And Grow Your Following - 11.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/marketing/run-instagram-contest-giveaways-grow-following.md)
+- **Serial 092 (Wilson F&B Video)**: [How To Get More Social Media Followers W/ Viral Contests - 7.4.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/marketing/get-more-social-media-followers-w.md)
+- **Serial 093 (Wilson F&B Video)**: [How To Skyrocket Your Restaurant With Viral Contests - 7.4.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/marketing/skyrocket-restaurant-viral-contests-742.md)
+- **Serial 100 (Wilson F&B Video)**: [2 Advanced Restaurant Marketing Tactics For MORE Growth - 7.1.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/marketing/2-advanced-restaurant-marketing-tactics-more.md)
+- **Serial 104 (Wilson F&B Video)**: [How To Grow Your Restaurant Marketing With Lead Magnets - 6.1.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/marketing/grow-restaurant-marketing-lead-magnets.md)
+- **Serial 106 (Wilson F&B Video)**: [How To Create Content FAST For Your Restaurant - 6.2.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/marketing/create-content-fast-restaurant-622.md)
+- **Serial 111 (Wilson F&B Video)**: [How To Build Your Restaurant Marketing Channels - 6.1.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/marketing/build-restaurant-marketing-channels-611.md)
+- **Serial 115 (Wilson F&B Video)**: [How To Attract Top Talent For Your Restaurant Business - 5.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/marketing/attract-top-talent-restaurant-business.md)
+- **Serial 124 (Wilson F&B Video)**: [12 Essential Restaurant Branding Assets To Create - 3.4.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/marketing/12-essential-restaurant-branding-assets-create.md)
+- **Serial 155 (Wilson F&B Video)**: [How To Create A Restaurant Marketing Plan in 7 Steps | Restaurant Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/create-restaurant-marketing-plan-7-steps.md)
+- **Serial 169 (Wilson F&B Video)**: [Why Your Restaurant Doesn't Need MORE Marketing](../knowledge/wilson-fb/wilson-fb-full-form/marketing/restaurant-doesnt-need-more-marketing.md)
+- **Serial 171 (Wilson F&B Video)**: [WHY Instagram Is The BEST PLATFORM For Building Your Food Business](../knowledge/wilson-fb/wilson-fb-full-form/marketing/instagram-best-platform-building-food-business.md)
+- **Serial 179 (Wilson F&B Video)**: [Reacting to Crazy Food Business Idea Tiktoks Pt.4](../knowledge/wilson-fb/wilson-fb-full-form/marketing/reacting-crazy-food-business-idea-tiktoks.md)
+- **Serial 183 (Wilson F&B Video)**: [Food Entrepreneur Reacts to Crazy Food Business Tiktoks Ep.3](../knowledge/wilson-fb/wilson-fb-full-form/marketing/food-entrepreneur-reacts-crazy-food-business.md)
+- **Serial 184 (Wilson F&B Video)**: [Entrepreneur Reacts To Unique Food Business Tiktoks Pt.2 | Start a food business](../knowledge/wilson-fb/wilson-fb-full-form/marketing/entrepreneur-reacts-unique-food-business-tiktoks.md)
+- **Serial 187 (Wilson F&B Video)**: [How To Market Your Food Business On Instagram [GUIDE] | Start A Food Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/market-food-business-instagram-guide-start.md)
+- **Serial 189 (Wilson F&B Video)**: [5 Psychological Hacks Dominos Uses To Sell Millions Of Pizzas Everyday | Restaurant Marketing](../knowledge/wilson-fb/wilson-fb-full-form/marketing/5-psychological-hacks-dominos-uses-sell.md)
+- **Serial 190 (Wilson F&B Video)**: [Reacting To Food Business Tiktoks | Food Business Ideas](../knowledge/wilson-fb/wilson-fb-full-form/marketing/reacting-food-business-tiktoks-food-business.md)
+- **Serial 209 (Wilson F&B Video)**: [Cookie Brand Sells 20,000 Cookies A Month | Ice Cream Owner Reacts:](../knowledge/wilson-fb/wilson-fb-full-form/marketing/cookie-brand-sells-20000-cookies-month.md)
+- **Serial 218 (Wilson F&B Video)**: [How This Vegan Food Business Is Building A Brand Of Loyal Fans | Pop Up Food Business](../knowledge/wilson-fb/wilson-fb-full-form/marketing/vegan-food-business-building-brand-loyal.md)
+- **Serial 223 (Wilson F&B Video)**: [How This Food Business Sells $20,000 Dumplings A Month On Instagram 🥟](../knowledge/wilson-fb/wilson-fb-full-form/marketing/food-business-sells-20000-dumplings-month.md)
+- **Serial 235 (Wilson F&B Video)**: [Top Restaurant Marketing Trends In 2021 To Know And Dominate | Restaurant Marketing 2021](../knowledge/wilson-fb/wilson-fb-full-form/marketing/top-restaurant-marketing-trends-2021-know.md)
+- **Serial 241 (Wilson F&B Video)**: [How Popeyes Trolled McDonald's & Got Free Press | Restaurant Marketing 2021](../knowledge/wilson-fb/wilson-fb-full-form/marketing/popeyes-trolled-mcdonalds-got-free-press.md)
+- **Serial 244 (Wilson F&B Video)**: [How Restaurant Owners Should Properly Pitch Journalists | Restaurant Marketing w/ Tyler Summers](../knowledge/wilson-fb/wilson-fb-full-form/marketing/restaurant-owners-should-properly-pitch-journalists.md)
+- **Serial 249 (Wilson F&B Video)**: [How To Set Up & Optimize Restaurant Google My Business For Maximum Exposure | Restaurant Marketing](../knowledge/wilson-fb/wilson-fb-full-form/marketing/set-up-optimize-restaurant-google-my.md)
+- **Serial 255 (Wilson F&B Video)**: [6 Essential Restaurant Marketing Instagram Designs You MUST Make](../knowledge/wilson-fb/wilson-fb-full-form/marketing/6-essential-restaurant-marketing-instagram-designs.md)
+- **Serial 269 (Wilson F&B Video)**: [How To Market Your Restaurant In New Normal With QR Codes | Restaurant Marketing 2021](../knowledge/wilson-fb/wilson-fb-full-form/marketing/market-restaurant-new-normal-qr-codes.md)
+- **Serial 274 (Wilson F&B Video)**: [6 Restaurant Marketing Design Assets Every Restaurant Owner Needs To Make](../knowledge/wilson-fb/wilson-fb-full-form/marketing/6-restaurant-marketing-design-assets-every.md)
+- **Serial 280 (Wilson F&B Video)**: [6 Money-Making Emails Every Restaurant Should Be Sending | Restaurant Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/6-money-making-emails-every-restaurant-should.md)
+- **Serial 284 (Wilson F&B Video)**: [7 Instagram Tools To GROW Your Restaurant Instagram | Restaurant Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/7-instagram-tools-grow-restaurant-instagram.md)
+- **Serial 295 (Wilson F&B Video)**: [How to Add $50K EXTRA To Your Ice Cream Shop Business | Restaurant Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/add-50k-extra-ice-cream-shop.md)
+- **Serial 297 (Wilson F&B Video)**: [7 Easy & Simple Ways To INCREASE Online Restaurant Orders | Restaurant Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/7-easy-simple-ways-increase-online.md)
+- **Serial 300 (Wilson F&B Video)**: [How This Bar Owner Added $50K EXTRA To His Restaurant Business |  Marketing For Restaurants 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/bar-owner-added-50k-extra-his.md)
+- **Serial 330 (Wilson F&B Video)**: [4 Steps to Brand Your Restaurant & Small Business For Success | How To Open A Restaurant 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/4-steps-brand-restaurant-small-business.md)
+- **Serial 336 (Wilson F&B Video)**: [How To Market Your Restaurant on Social Media | Food Business/Restaurant Marketing Strategies](../knowledge/wilson-fb/wilson-fb-full-form/marketing/market-restaurant-social-media-food-businessrestaurant.md)
+- **Serial 346 (Wilson F&B Video)**: [Top 10 Restaurant Marketing Strategies That WORK | Start A Restaurant Food Business](../knowledge/wilson-fb/wilson-fb-full-form/marketing/top-10-restaurant-marketing-strategies-work.md)
+- **Serial 352 (Wilson F&B Video)**: [How To Build A Community Of Loyal Fans For Your Amazon FBA Brand (2020)](../knowledge/wilson-fb/wilson-fb-full-form/marketing/build-community-loyal-fans-amazon-fba.md)
+- **Serial 356 (Wilson F&B Video)**: [Brand Strategy: How McDonald's & LV Stay Relevant in 2019 | small business branding tips](../knowledge/wilson-fb/wilson-fb-full-form/marketing/brand-strategy-mcdonalds-lv-stay-relevant.md)
+- **Serial 358 (Wilson F&B Video)**: [$200K Deal From Building My Personal Brand? (Start TODAY 2020)](../knowledge/wilson-fb/wilson-fb-full-form/marketing/200k-deal-building-my-personal-brand.md)
+- **Serial 366 (Wilson F&B Video)**: [How To Find Instagram Content Ideas That WORK | Restaurant & Small Business Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/find-instagram-content-ideas-work-restaurant.md)
+- **Serial 367 (Wilson F&B Video)**: [How to Create A MONTH of Social Media Content in ONE Day For Restaurants | Restaurant Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/create-month-social-media-content-one.md)
+- **Serial 375 (Wilson F&B Video)**: [3 Marketing Secrets to GROW a Brick and Mortar Store | Small Business & Restaurant Marketing 2022](../knowledge/wilson-fb/wilson-fb-full-form/marketing/3-marketing-secrets-grow-brick-mortar.md)
+- **Serial 377 (Wilson F&B Video)**: [How to Do Influencer Marketing for Your Restaurant or Coffee Shop (FOR FREE!) in 2019](../knowledge/wilson-fb/wilson-fb-full-form/marketing/do-influencer-marketing-restaurant-coffee-shop.md)
+- **Serial 414 (Wilson F&B Video)**: [The Real Estate of Social Media](../knowledge/wilson-fb/wilson-fb-full-form/marketing/real-estate-social-media.md)
+- **Serial 419 (Wilson F&B Video)**: [Brand Building: Call to Action](../knowledge/wilson-fb/wilson-fb-full-form/marketing/brand-building-call-action.md)
 
-## Menu (144 entries)
+## Menu (172 entries)
 
 - **Serial 014**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
 - **Serial 021**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
@@ -1281,8 +1547,36 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 355 (Restaurant Boss Video)**: [How to Price Restaurant Menu Items](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/price-restaurant-menu-items.md)
 - **Serial 368 (Restaurant Boss Video)**: [2 Tools for a More Profitable Restaurant Menu](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/2-tools-more-profitable-restaurant-menu.md)
 - **Serial 406 (Restaurant Boss Video)**: [What is Menu Engineering](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/menu-engineering.md)
+- **Serial 004 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/heres-raising-canes-built-huge-fan.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 011 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/din-tai-fung-every-soup-dumpling.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 013 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/heres-viral-food-menu-saved-chilis.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 034 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/would-you-fire-someone-over-150.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 036 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/150-hot-dog-sells-memberships.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 037 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/costcos-hot-dog-promise-you-can.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 038 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/costco-refuses-raise-hot-dog-prices.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 040 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/orange-chicken-isnt-actually-chinese.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 049 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/starbucks-removed-coffee-their-menu-then.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 071 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/in-n-outs-secret-menu-genius-marketing-move.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 078 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/ai-menu-engineering-optimize-cafe-pricing.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 128 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/create-you-menu-based-demand-double.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 141 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/charm-pricing-psychological-tricks-starbucks-uses.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 144 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/decoy-effect-psychological-tricks-starbucks-uses.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 168 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/ignoring-numbers-expensive-food-menu.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 169 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/huge-menus-expensive-food-menu.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 171 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/focussing-only-foods-you-enjoy.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 184 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/design-you-menu-correctly-starting.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 185 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/menu/pick-product-high-demand-starting.md) `[menu-engineering, pricing-strategy, product-focus, sku-rationalization]`
+- **Serial 012 (Wilson F&B Video)**: [Costco Loses Money on Every Hot Dog. Here's Why It's Genius.](../knowledge/wilson-fb/wilson-fb-full-form/menu/costco-loses-money-every-hot-dog.md)
+- **Serial 020 (Wilson F&B Video)**: [How In-N-Out Turned 4 Menu Items Into $2.1 Billion a Year](../knowledge/wilson-fb/wilson-fb-full-form/menu/in-n-out-turned-4-menu-items-into.md)
+- **Serial 071 (Wilson F&B Video)**: [How To Craft Your Winning Food Menu - 3.5 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/menu/craft-winning-food-menu-35.md)
+- **Serial 085 (Wilson F&B Video)**: [How To Add Variety To Your Food Menu - 2.3 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/menu/add-variety-food-menu-23.md)
+- **Serial 117 (Wilson F&B Video)**: [How To Price Your Restaurant Menu PROPERLY - 4.6 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/menu/price-restaurant-menu-properly-46.md)
+- **Serial 132 (Wilson F&B Video)**: [6 Restaurant Menu Design Hacks To Increase Revenue - 2.6.2 Profitable Restaurant Owner's Academy](../knowledge/wilson-fb/wilson-fb-full-form/menu/6-restaurant-menu-design-hacks-increase.md)
+- **Serial 133 (Wilson F&B Video)**: [How To Create A Winning & Profitable Restaurant Menu - 2.6.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/menu/create-winning-profitable-restaurant-menu.md)
+- **Serial 175 (Wilson F&B Video)**: [5 Psychological Tricks Dunkin Uses To Sell 2.9B Donuts Every Year | Food Marketing Strategies](../knowledge/wilson-fb/wilson-fb-full-form/menu/5-psychological-tricks-dunkin-uses-sell.md)
+- **Serial 181 (Wilson F&B Video)**: [3.2 Expensive Food Menu Mistakes That Are Ruining Your Food Business](../knowledge/wilson-fb/wilson-fb-full-form/menu/32-expensive-food-menu-mistakes-are.md)
 
-## Operations (889 entries)
+## Operations (1195 entries)
 
 - **Serial 007**: [Key Information](../knowledge/owner/owner-short-form/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
 - **Serial 012**: [Key Information](../knowledge/owner/owner-short-form/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
@@ -2173,6 +2467,312 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 414 (Restaurant Boss Video)**: [Restaurant Bootcamp Weekend](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-bootcamp-weekend.md)
 - **Serial 421 (Restaurant Boss Video)**: [Charlie Trotter Restaurant Owner Lesson in Life](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/charlie-trotter-restaurant-owner-lesson-life.md)
 - **Serial 429 (Restaurant Boss Video)**: [Restaurant Owner: Restaurant Managemnet Success Tip](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owner-restaurant-managemnet-success-tip.md)
+- **Serial 001 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/tim-hortons.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 003 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/heres-white-castle-started-first-ever.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 007 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/heres-haidilao-became-one-most-successful.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 010 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/subway-one-giant-chain-refuses-publish.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 015 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/texas-roadhouse-refuses-serve-you-lunch.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 016 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/five-guys.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 017 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/nandos.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 018 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/jollibee.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 019 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/wendys.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 020 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/dunkin.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 021 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/chick-fil-a.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 022 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/dutch-bros.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 023 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/cheesecake-factory.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 024 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/wingstop.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 025 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/five-guys-2.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 026 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/tim-hortons-2.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 027 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/nandos-2.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 028 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/jollibee-2.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 029 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/wingstop-afford-its-expensive-rent.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 035 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/costco-membership-model-genius-scam.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 039 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/panda-express-stays-ahead-competition.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 041 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/undeniable-success-panda-expresss-strategy.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 042 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/real-reason-panda-express-owns-every.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 043 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/danny-meyers-rule-built-empires.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 044 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/discipline-turned-one-restaurant-into-global.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 045 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/expansion-mistake-most-restaurants-make.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 046 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/shake-shack-became-billion-dollar-company.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 048 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/starbucks-almost-died-because.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 050 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/starbucks-sold-out-you-noticed.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 052 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/one-decision-made-ray-kroc-richer.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 053 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/mcdonalds-not-burger-company.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 055 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/mcdonalds-plays-4d-chess-franchisees.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 056 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/mcdonalds-accidentally-revealed-their-biggest-secret.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 058 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/hooters-couldnt-adapt-now-its-too.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 060 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/one-broken-link-broke-everything-chipotle.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 061 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/chipotles-comeback-masterclass-recovery.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 066 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/costco-proved-strategy-works-better-than.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 073 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/in-n-out-tastes-so-different.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 074 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/in-n-outs-business-model-actually-perfect.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 076 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/end-subway-era.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 082 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/start-profitable-food-truck-2026.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 083 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/he-lost-40-his-clients-heres.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 090 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/secrets-scaling-restaurant.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 093 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/restaurant-franchises-outperform-independent-restaurants.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 095 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/should-you-franchise.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 098 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/dont-fear-ai-leverage-it-success.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 099 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/proven-9-step-system-boba-success.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 101 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/you-cant-change-market.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 104 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/no-1-mistake-restaurant-owners-make.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 105 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/restaurants-are-invincible-ai.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 109 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/dont-ignore-global-trend.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 113 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/execution-key-bringing-magical-experience-customers.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 116 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/cakes-easy-home-food-businesses-ideas.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 117 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/pizza-easy-home-food-businesses-ideas.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 118 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/cookies-easy-home-food-businesses-ideas.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 119 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/ice-cream-easy-home-food-businesses.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 129 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/do-research-based-location-double-restaurant.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 130 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/spend-time-effort-packaging-presentation.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 147 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/taking-full-control-youre-building.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 149 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/ice-cream-shop-business-plan-swot.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 150 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/design-matters-ice-cream-shop-business.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 151 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/location-matters-ice-cream-shop-business.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 152 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/concept-matters-ice-cream-shop-business.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 158 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/problem-are-you-trying-solve-food.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 172 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/running-healthy-business-numbers-matter.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 175 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/chefs-can-start-successful-restaurant.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 176 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/rookie-mistakes-new-food-business-owners.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 177 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/not-educating-yourself-rookie-mistakes-new.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 178 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/not-enough-preparation-rookie-mistakes-new.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 179 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/food-businesses-should-ignore-competition.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 181 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/experience-obstacles-adversity-will-shape-you.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 182 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/biggest-mistake-new-food-business-owners.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 183 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/understanding-pareto-principle-starting-food.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 189 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/do-coffee-shops-fail-part.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 190 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/do-coffee-shops-fail-part-2.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 191 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/do-coffee-shops-fail-part-3.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 197 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/strategy-encourage-additional-purchasing.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 204 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/choosing-right-concept.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 205 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/starting-food-truck.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 207 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/biggest-mistake-new-food-business-owners-2.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 209 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/entrepreneur-started-donut-food-business-by.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 210 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/should-you-start-restaurant-business.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 211 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/successful-food-business-attracted-their-first.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 213 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/operations/make-ice-cream-people-will-buy.md) `[restaurant-operations, franchise-systems, sop-execution, scaling-strategy]`
+- **Serial 001 (Wilson F&B Video)**: [How Jersey Mike’s Grew From One Shop to 3,000+ Locations](../knowledge/wilson-fb/wilson-fb-full-form/operations/jersey-mikes-grew-one-shop-3000.md)
+- **Serial 006 (Wilson F&B Video)**: [How a fast food chain Beat Apple, Amazon & Google](../knowledge/wilson-fb/wilson-fb-full-form/operations/fast-food-chain-beat-apple-amazon.md)
+- **Serial 007 (Wilson F&B Video)**: [This Restaurant Hasn't Closed Its Doors In 70 Years](../knowledge/wilson-fb/wilson-fb-full-form/operations/restaurant-hasnt-closed-its-doors-70.md)
+- **Serial 011 (Wilson F&B Video)**: [The Real Story of How Trader Joe's Was Built (And What Every Owner Can Steal)](../knowledge/wilson-fb/wilson-fb-full-form/operations/real-story-trader-joes-was-built.md)
+- **Serial 013 (Wilson F&B Video)**: [The One Food Court Stall That Became a 2,400-Store Empire](../knowledge/wilson-fb/wilson-fb-full-form/operations/one-food-court-stall-became-2400-store.md)
+- **Serial 014 (Wilson F&B Video)**: [Shake Shack is winning | Here's Why the CEO waited 4 years to expand](../knowledge/wilson-fb/wilson-fb-full-form/operations/shake-shack-winning-heres-ceo-waited.md)
+- **Serial 015 (Wilson F&B Video)**: [Starbucks is Collapsing Again | Here's Why the New CEO Can't Fix It](../knowledge/wilson-fb/wilson-fb-full-form/operations/starbucks-collapsing-again-heres-new-ceo.md)
+- **Serial 016 (Wilson F&B Video)**: [Why McDonald's Real Business Has Almost Nothing to Do With Food](../knowledge/wilson-fb/wilson-fb-full-form/operations/mcdonalds-real-business-has-almost-nothing.md)
+- **Serial 018 (Wilson F&B Video)**: [The Exact Thing That Made Chipotle Great Is What Almost Killed It](../knowledge/wilson-fb/wilson-fb-full-form/operations/exact-thing-made-chipotle-great-almost.md)
+- **Serial 019 (Wilson F&B Video)**: [Scaling Too Fast: The Krispy Kreme Downfall Analyzed](../knowledge/wilson-fb/wilson-fb-full-form/operations/scaling-too-fast-krispy-kreme-downfall.md)
+- **Serial 024 (Wilson F&B Video)**: [Everything You Need to Open a Cafe in 2026 (Avoid the 80% Failure Rate)](../knowledge/wilson-fb/wilson-fb-full-form/operations/everything-you-need-open-cafe-2026.md)
+- **Serial 025 (Wilson F&B Video)**: [The Restaurant AI Playbook: How to Save Thousands with These 5 Tools](../knowledge/wilson-fb/wilson-fb-full-form/operations/restaurant-ai-playbook-save-thousands-these.md)
+- **Serial 027 (Wilson F&B Video)**: [9 Steps to a Profitable Food Truck Business in 2026](../knowledge/wilson-fb/wilson-fb-full-form/operations/9-steps-profitable-food-truck-business.md)
+- **Serial 028 (Wilson F&B Video)**: [The $500M Founder Playbook: Surviving the Impossible](../knowledge/wilson-fb/wilson-fb-full-form/operations/500m-founder-playbook-surviving-impossible.md)
+- **Serial 030 (Wilson F&B Video)**: [5 Deadly Mistakes Every New Food Business Owner Makes](../knowledge/wilson-fb/wilson-fb-full-form/operations/5-deadly-mistakes-every-new-food.md)
+- **Serial 031 (Wilson F&B Video)**: [Desmond Lim: The Immigrant Kid Who Solved F&B's Biggest Problem](../knowledge/wilson-fb/wilson-fb-full-form/operations/desmond-lim-immigrant-kid-who-solved.md)
+- **Serial 032 (Wilson F&B Video)**: [Why Chick-fil-A is Harder to Get Into Than Harvard (The $10M Strategy)](../knowledge/wilson-fb/wilson-fb-full-form/operations/chick-fil-a-harder-get-into-than-harvard.md)
+- **Serial 034 (Wilson F&B Video)**: [The Scaling Death Trap Every Restaurant Owner Hits](../knowledge/wilson-fb/wilson-fb-full-form/operations/scaling-death-trap-every-restaurant-owner.md)
+- **Serial 035 (Wilson F&B Video)**: [The Healthy Boba Trend That's Reshaping the Industry](../knowledge/wilson-fb/wilson-fb-full-form/operations/healthy-boba-trend-thats-reshaping-industry.md)
+- **Serial 036 (Wilson F&B Video)**: [AI for Restaurants: The Secret to Infinite Bookings](../knowledge/wilson-fb/wilson-fb-full-form/operations/ai-restaurants-secret-infinite-bookings.md)
+- **Serial 037 (Wilson F&B Video)**: [The REAL Reason Most Restaurants Fail (It's Not The Food)](../knowledge/wilson-fb/wilson-fb-full-form/operations/real-reason-most-restaurants-fail-its.md)
+- **Serial 038 (Wilson F&B Video)**: [ChatGPT Replaced Google. Most Restaurants Just Got Invisible.](../knowledge/wilson-fb/wilson-fb-full-form/operations/chatgpt-replaced-google-most-restaurants-just.md)
+- **Serial 040 (Wilson F&B Video)**: [Restaurants Are Using Collectibles To Print Money (Here's How)](../knowledge/wilson-fb/wilson-fb-full-form/operations/restaurants-are-using-collectibles-print-money.md)
+- **Serial 041 (Wilson F&B Video)**: [The Most Profitable Restaurant To Open in 2026](../knowledge/wilson-fb/wilson-fb-full-form/operations/most-profitable-restaurant-open-2026.md)
+- **Serial 043 (Wilson F&B Video)**: [5 AI Tools To Triple Your Restaurant Profits In 2026](../knowledge/wilson-fb/wilson-fb-full-form/operations/5-ai-tools-triple-restaurant-profits.md)
+- **Serial 044 (Wilson F&B Video)**: [3 ChatGPT Prompts Every Restaurant Owner Needs To Know](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-chatgpt-prompts-every-restaurant-owner.md)
+- **Serial 046 (Wilson F&B Video)**: [How To Open A Coffee Shop In 2026 (The Modern Method)](../knowledge/wilson-fb/wilson-fb-full-form/operations/open-coffee-shop-2026-modern-method.md)
+- **Serial 047 (Wilson F&B Video)**: [4 Years Ago I Quit. Here's What Happened](../knowledge/wilson-fb/wilson-fb-full-form/operations/4-years-ago-i-quit-heres.md)
+- **Serial 048 (Wilson F&B Video)**: [[FREE Courses] How To Start A Restaurant Business Or Food Business Step-By-Step](../knowledge/wilson-fb/wilson-fb-full-form/operations/free-courses-start-restaurant-business-food.md)
+- **Serial 050 (Wilson F&B Video)**: [How To Leverage Holiday Campaigns To Grow Your Food Business - 12.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/leverage-holiday-campaigns-grow-food-business.md)
+- **Serial 051 (Wilson F&B Video)**: [Simple Proven Templates To Begin Work With Influencers - 13.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/simple-proven-templates-begin-work-influencers.md)
+- **Serial 052 (Wilson F&B Video)**: [How To Get Press For Your Food Business - 13.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/get-press-food-business-132.md)
+- **Serial 055 (Wilson F&B Video)**: [Ultimate Guide To Successful Food Business Operations - 6.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/ultimate-guide-successful-food-business-operations.md)
+- **Serial 056 (Wilson F&B Video)**: [How To Choose The Best Payment System For Your Food Business - 6.3 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/choose-best-payment-system-food-business.md)
+- **Serial 058 (Wilson F&B Video)**: [How To Fullfill Your Food Orders FAST & WELL - 6.4 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/fullfill-food-orders-fast-well.md)
+- **Serial 063 (Wilson F&B Video)**: [How To EASILY Plan Your Food Photoshoot - 8.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/easily-plan-food-photoshoot-82.md)
+- **Serial 067 (Wilson F&B Video)**: [How To Work With Influencers To Promote Your Business For Free - 11.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/work-influencers-promote-business-free.md)
+- **Serial 069 (Wilson F&B Video)**: [How To Source Your Food Packaging Effectively & On Budget - 3.3 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/source-food-packaging-effectively-budget.md)
+- **Serial 070 (Wilson F&B Video)**: [How To Calculate The Right Price For Your Food Product - 3.4 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/calculate-right-price-food-product.md)
+- **Serial 075 (Wilson F&B Video)**: [How To Calculate Your Breakeven Point For Your Food Business - 4.4 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/calculate-breakeven-point-food-business.md)
+- **Serial 076 (Wilson F&B Video)**: [How To Create Memorable Designs For Your Food Concept - 5.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/create-memorable-designs-food-concept.md)
+- **Serial 077 (Wilson F&B Video)**: [How To Find A Great Designer For Your Food Business - 5.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/find-great-designer-food-business.md)
+- **Serial 078 (Wilson F&B Video)**: [How To Bring Your Food Business Designs To Life & Cheaply - 5.3 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/bring-food-business-designs-life-cheaply.md)
+- **Serial 079 (Wilson F&B Video)**: [How To Package Your Food Products Right To Get More Sales - 3.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/package-food-products-right-get-more.md)
+- **Serial 080 (Wilson F&B Video)**: [How To Create Your Competitive Advantage And Dominate - 3.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/create-competitive-advantage-dominate-31.md)
+- **Serial 081 (Wilson F&B Video)**: [How To Choose A Great Food Business Name - 2.7 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/choose-great-food-business-name.md)
+- **Serial 082 (Wilson F&B Video)**: [How To Test Your Hero Item Before Launching Your Food Business - 2.6 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/test-hero-item-before-launching-food.md)
+- **Serial 083 (Wilson F&B Video)**: [How To Research Your Competitors To Be Unbeatable - 2.5 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/research-competitors-be-unbeatable-25.md)
+- **Serial 084 (Wilson F&B Video)**: [How To Identify Your Client Avatar For Your Food Business - 2.4 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/identify-client-avatar-food-business.md)
+- **Serial 086 (Wilson F&B Video)**: [How To Choose The RIGHT Food Product To Sell - 2.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/choose-right-food-product-sell.md)
+- **Serial 087 (Wilson F&B Video)**: [How To Find Ideas & Inspiration For Your Food Business - 2.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/find-ideas-inspiration-food-business.md)
+- **Serial 089 (Wilson F&B Video)**: [Legal Requirements To Start Your Food Businesses - 1.3 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/legal-requirements-start-food-businesses.md)
+- **Serial 090 (Wilson F&B Video)**: [How To Get Set Up Your Food Business Right - 1.2 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/get-set-up-food-business-right.md)
+- **Serial 091 (Wilson F&B Video)**: [The Roadmap To Start A Successful Food Business - 1.1 Foodiepreneur’s Finest Program](../knowledge/wilson-fb/wilson-fb-full-form/operations/roadmap-start-successful-food-business.md)
+- **Serial 095 (Wilson F&B Video)**: [360 Ads: How To Grow Your Restaurant With Paid Ads - 7.6.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/360-ads-grow-restaurant-paid-ads.md)
+- **Serial 096 (Wilson F&B Video)**: [How To Set Up Your 360 Ads For Your Restaurant Business - 7.6.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/set-up-360-ads-restaurant-business.md)
+- **Serial 098 (Wilson F&B Video)**: [How To Craft Irresistible Press Releases To Get Coverage - 7.2.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/craft-irresistible-press-releases-get-coverage.md)
+- **Serial 099 (Wilson F&B Video)**: [How To Get Free Press For Your Restaurant Business - 7.2.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/get-free-press-restaurant-business.md)
+- **Serial 101 (Wilson F&B Video)**: [3 Tactics To Position Your Restaurant For Growth - 7.1.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-tactics-position-restaurant-growth.md)
+- **Serial 102 (Wilson F&B Video)**: [How To Seek Your 1000 Loyal Fans For Your Restaurant Pt 2 -6.6.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/seek-1000-loyal-fans-restaurant-2.md)
+- **Serial 103 (Wilson F&B Video)**: [How To Seek Your 1000 Loyal Fans For Your Restaurant Pt 1 -6.6.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/seek-1000-loyal-fans-restaurant-1.md)
+- **Serial 107 (Wilson F&B Video)**: [How To Craft Your Restaurant Launch Campaign (Part 1) - 6.3.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/craft-restaurant-launch-campaign-part-1.md)
+- **Serial 108 (Wilson F&B Video)**: [How To Craft Your Restaurant Launch Campaign (Part 2) - 6.3.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/craft-restaurant-launch-campaign-part-2.md)
+- **Serial 116 (Wilson F&B Video)**: [How To Create Your Restaurant Business Financial Plan - 4.7 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/create-restaurant-business-financial-plan.md)
+- **Serial 118 (Wilson F&B Video)**: [How To Forecast Your Restaurant Business Revenue - 4.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/forecast-restaurant-business-revenue-41.md)
+- **Serial 119 (Wilson F&B Video)**: [How Much To Invest To Start Your Restaurant Business - 4.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/much-invest-start-restaurant-business.md)
+- **Serial 120 (Wilson F&B Video)**: [Why The Number Of Restaurant Seats Matter For Your Business -4.3 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/number-restaurant-seats-matter-business-43.md)
+- **Serial 122 (Wilson F&B Video)**: [How To Calculate Your Restaurant Business Break Even Point - 4.5 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/calculate-restaurant-business-break-even-point.md)
+- **Serial 123 (Wilson F&B Video)**: [How To Find Good Designers For Your Restaurant Business - 3.4.2 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/find-good-designers-restaurant-business.md)
+- **Serial 128 (Wilson F&B Video)**: [How To Source Your Signature Recipe For Your Restaurant - 3.3 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/source-signature-recipe-restaurant-33.md)
+- **Serial 129 (Wilson F&B Video)**: [How To Validate Your Restaurant Business’ Mind Space - 2.9 Profitable Restaurant Owner's Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/validate-restaurant-business-mind-space.md)
+- **Serial 130 (Wilson F&B Video)**: [How To To Dominate The Competitive Restaurant Industry - 2.8 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/dominate-competitive-restaurant-industry-28.md)
+- **Serial 131 (Wilson F&B Video)**: [How To Stand Out From Your Restaurant Competitors - 2.7 Profitable Restaurant Owner's Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/stand-out-restaurant-competitors-27.md)
+- **Serial 137 (Wilson F&B Video)**: [How to Find Your Perfect Restaurant Business Location - 2.3 Profitable Restaurant Owner’s Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/find-perfect-restaurant-business-location.md)
+- **Serial 138 (Wilson F&B Video)**: [Choose The Concept That Matches Your Unique Lifestyle - 2.2.2 Profitable Restaurant Owner’s Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/choose-concept-matches-unique-lifestyle.md)
+- **Serial 139 (Wilson F&B Video)**: [The 4 Money-Making Restaurant Business Concepts - 2.2.1 Profitable Restaurant Owner's Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/4-money-making-restaurant-business-concepts.md)
+- **Serial 140 (Wilson F&B Video)**: [How To Pick Your Winning Restaurant Business Concept - 2.1 Profitable Restaurant Owner's Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/pick-winning-restaurant-business-concept.md)
+- **Serial 141 (Wilson F&B Video)**: [How To Craft Your Restaurant Business Blueprint - 1.6 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/craft-restaurant-business-blueprint-16.md)
+- **Serial 143 (Wilson F&B Video)**: [3 Alter Egos To Build A Successful Restaurant Business - 1.4 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-alter-egos-build-successful-restaurant.md)
+- **Serial 144 (Wilson F&B Video)**: [How To Overcome the HARDEST Restaurant Business Obstacles - 1.3 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/overcome-hardest-restaurant-business-obstacles.md)
+- **Serial 145 (Wilson F&B Video)**: [How To Start A Restaurant Business PROPERLY - 1.2 Profitable Restaurant Owner’s Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/start-restaurant-business-properly-12.md)
+- **Serial 146 (Wilson F&B Video)**: [7 Deadly Mindsets That Will Kill Your Restaurant Business - 1.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/7-deadly-mindsets-will-kill-restaurant.md)
+- **Serial 147 (Wilson F&B Video)**: [How To Start A Profitable Restaurant: Timeline & Overview - Profitable Restaurant Owner’s Academy](../knowledge/wilson-fb/wilson-fb-full-form/operations/start-profitable-restaurant-timeline-overview.md)
+- **Serial 153 (Wilson F&B Video)**: [3 Tips To Starting A Pop Up Food Business | Food Business Owner](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-tips-starting-pop-up-food.md)
+- **Serial 156 (Wilson F&B Video)**: [Avoid This HUGE Coffee Shop Business Mistake | Start A Cafe 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/avoid-huge-coffee-shop-business-mistake.md)
+- **Serial 161 (Wilson F&B Video)**: [Struggles From A Successful Restaurant Owner's First Year Of Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/struggles-successful-restaurant-owners-first-year.md)
+- **Serial 162 (Wilson F&B Video)**: [BIGGEST Lesson From A Successful Restaurant Owner](../knowledge/wilson-fb/wilson-fb-full-form/operations/biggest-lesson-successful-restaurant-owner.md)
+- **Serial 163 (Wilson F&B Video)**: ['It was a NIGHTMARE...' | Food Business Startups](../knowledge/wilson-fb/wilson-fb-full-form/operations/it-was-nightmare-food-business-startups.md)
+- **Serial 164 (Wilson F&B Video)**: [How to take your restaurant business to the next level](../knowledge/wilson-fb/wilson-fb-full-form/operations/take-restaurant-business-next-level.md)
+- **Serial 165 (Wilson F&B Video)**: [Why EVERY restaurant business is the same](../knowledge/wilson-fb/wilson-fb-full-form/operations/every-restaurant-business-same.md)
+- **Serial 166 (Wilson F&B Video)**: [If your restaurant is empty...](../knowledge/wilson-fb/wilson-fb-full-form/operations/if-restaurant-empty.md)
+- **Serial 167 (Wilson F&B Video)**: [If you own a small business. WATCH THIS!](../knowledge/wilson-fb/wilson-fb-full-form/operations/if-you-own-small-business-watch.md)
+- **Serial 168 (Wilson F&B Video)**: [Reacting to $12 Ice Cream Pints | Start an ice cream business](../knowledge/wilson-fb/wilson-fb-full-form/operations/reacting-12-ice-cream-pints-start.md)
+- **Serial 170 (Wilson F&B Video)**: [The ONE Mistake You Don't Want To Make For Your Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/one-mistake-you-dont-want-make.md)
+- **Serial 172 (Wilson F&B Video)**: [Don't fall for this trap...](../knowledge/wilson-fb/wilson-fb-full-form/operations/dont-fall-trap.md)
+- **Serial 174 (Wilson F&B Video)**: [3 Rookie Mistakes New Food Business Owners Make](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-rookie-mistakes-new-food-business.md)
+- **Serial 176 (Wilson F&B Video)**: [Reacting to 13 Yr Old Builds $6 Million Food Empire](../knowledge/wilson-fb/wilson-fb-full-form/operations/reacting-13-yr-old-builds-6.md)
+- **Serial 177 (Wilson F&B Video)**: [How To Start A Food Truck Business In 20 Mins [STARTER GUIDE]](../knowledge/wilson-fb/wilson-fb-full-form/operations/start-food-truck-business-20-mins.md)
+- **Serial 178 (Wilson F&B Video)**: [Reacting To Couple Starting Mobile Coffee Shop In Ford Ranger | Start A Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/reacting-couple-starting-mobile-coffee-shop.md)
+- **Serial 180 (Wilson F&B Video)**: [3 Myths New Food Business Owners Fall For [EXPOSED]](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-myths-new-food-business-owners.md)
+- **Serial 185 (Wilson F&B Video)**: [Entrepreneur Reacts: How This Pickle Food Business DOMINATES | Start A Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/entrepreneur-reacts-pickle-food-business-dominates.md)
+- **Serial 186 (Wilson F&B Video)**: [How To Write A Home Bakery Business Plan Step-By-Step | Start A Food Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/write-home-bakery-business-plan-step-by-step.md)
+- **Serial 188 (Wilson F&B Video)**: [Entrepreneur Reacts: $1.2M Online Coffee Business That Rescues Dogs | Start A Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/entrepreneur-reacts-12m-online-coffee-business.md)
+- **Serial 191 (Wilson F&B Video)**: [How This Donut Food Business Sells OUT Every Month | Start A Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/donut-food-business-sells-out-every.md)
+- **Serial 192 (Wilson F&B Video)**: [4 Mistakes To AVOID When Starting A Food Business | Food Business Success](../knowledge/wilson-fb/wilson-fb-full-form/operations/4-mistakes-avoid-when-starting-food.md)
+- **Serial 193 (Wilson F&B Video)**: [Entrepreneur React - Man Opens Mobile Coffee Shop Business On Tricycle](../knowledge/wilson-fb/wilson-fb-full-form/operations/entrepreneur-react-man-opens-mobile.md)
+- **Serial 195 (Wilson F&B Video)**: [Entrepreneur Reacts - $15,000/Mo Throwing Luxury Picnics | Food Business Ideas](../knowledge/wilson-fb/wilson-fb-full-form/operations/entrepreneur-reacts-15000mo-throwing-luxury.md)
+- **Serial 197 (Wilson F&B Video)**: [How To Start A Home Bakery Business STEP-BY-STEP Starter Guide | Start A Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/start-home-bakery-business-step-by-step-starter.md)
+- **Serial 198 (Wilson F&B Video)**: [5 Unique Coffee Shop Business Concepts Around The World That WORK | Start A Cafe Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/5-unique-coffee-shop-business-concepts.md)
+- **Serial 200 (Wilson F&B Video)**: [Start A Boba Tea Booth Business STEP BY STEP | Start a food business](../knowledge/wilson-fb/wilson-fb-full-form/operations/start-boba-tea-booth-business-step.md)
+- **Serial 201 (Wilson F&B Video)**: [How To EASILY Write A Ice Cream Shop Business Plan | Start A Small Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/easily-write-ice-cream-shop-business.md)
+- **Serial 203 (Wilson F&B Video)**: [How A Bored Retiree Started $1,000,000 Food Business | Entrepreneur Reacts](../knowledge/wilson-fb/wilson-fb-full-form/operations/bored-retiree-started-1000000-food-business.md)
+- **Serial 204 (Wilson F&B Video)**: [How To Start A Food Business At Home [STEP-BY-STEP GUIDE]](../knowledge/wilson-fb/wilson-fb-full-form/operations/start-food-business-home-step-by-step-guide.md)
+- **Serial 205 (Wilson F&B Video)**: [How Omsom Built A Successful Food Business in the Midst of A Pandemic [INTERVIEW]](../knowledge/wilson-fb/wilson-fb-full-form/operations/omsom-built-successful-food-business-midst.md)
+- **Serial 208 (Wilson F&B Video)**: [Entrepreneur Reacts: From $80 To Successful Coffee Shop and Bakery | Cafe Restaurant](../knowledge/wilson-fb/wilson-fb-full-form/operations/entrepreneur-reacts-80-successful-coffee-shop.md)
+- **Serial 211 (Wilson F&B Video)**: [How Restaurants Can Make +20% MORE Profit | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/restaurants-can-make-20-more-profit.md)
+- **Serial 212 (Wilson F&B Video)**: [Ice Cream Owner Reacts: Coffee Cart Selling 100 Cups A Day | Food Business Ideas](../knowledge/wilson-fb/wilson-fb-full-form/operations/ice-cream-owner-reacts-coffee-cart.md)
+- **Serial 214 (Wilson F&B Video)**: [How This Best Restaurant In U.S Handled the PANDEMIC | Restaurant Industry 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/best-restaurant-us-handled-pandemic-restaurant.md)
+- **Serial 216 (Wilson F&B Video)**: [Ice Cream Owner Reacts: Sisters Launch Cheesecake Business After Government Shut Down](../knowledge/wilson-fb/wilson-fb-full-form/operations/ice-cream-owner-reacts-sisters-launch.md)
+- **Serial 217 (Wilson F&B Video)**: [How To INCREASE Your Restaurant Sales By 200% W/ZERO Risk (Restaurant Owner Only)](../knowledge/wilson-fb/wilson-fb-full-form/operations/increase-restaurant-sales-by-200-wzero.md)
+- **Serial 219 (Wilson F&B Video)**: [How This Bartender Created a +$80k Side Hustle | Food Business Ideas](../knowledge/wilson-fb/wilson-fb-full-form/operations/bartender-created-80k-side-hustle-food.md)
+- **Serial 220 (Wilson F&B Video)**: [10 EASY Home Food Businesses Ideas You Can Start In 2022 | Start A Small Online Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/10-easy-home-food-businesses-ideas.md)
+- **Serial 222 (Wilson F&B Video)**: [How They Sold $100k+ of Brownies In Their First Year | Start A Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/they-sold-100k-brownies-their-first.md)
+- **Serial 225 (Wilson F&B Video)**: [How An Ex-Disney World Manager Started A Successful Coffee Shop Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/ex-disney-world-manager-started-successful-coffee.md)
+- **Serial 226 (Wilson F&B Video)**: [5 Must Know Reasons Why Coffee Shops FAIL In Their First Year | Start a Cafe Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/5-must-know-reasons-coffee-shops.md)
+- **Serial 227 (Wilson F&B Video)**: [How To Start A Boba Tea Shop In 20 Minutes | Bubble Tea Shop Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/start-boba-tea-shop-20-minutes.md)
+- **Serial 228 (Wilson F&B Video)**: [Why You Won't Start A Restaurant This Year...AGAIN](../knowledge/wilson-fb/wilson-fb-full-form/operations/you-wont-start-restaurant-yearagain.md)
+- **Serial 229 (Wilson F&B Video)**: [7 Ways To Start A Small Business With NO Money | Small Business Tips 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/7-ways-start-small-business-no.md)
+- **Serial 230 (Wilson F&B Video)**: [Top 5 Most Profitable Food Business Ideas in 2021 | Small Business Ideas 2021](../knowledge/wilson-fb/wilson-fb-full-form/operations/top-5-most-profitable-food-business.md)
+- **Serial 232 (Wilson F&B Video)**: [How To Market Your Restaurant For CHEAP](../knowledge/wilson-fb/wilson-fb-full-form/operations/market-restaurant-cheap.md)
+- **Serial 234 (Wilson F&B Video)**: [Scams New Restaurant Owners Fall For | How To Start A Restaurant 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/scams-new-restaurant-owners-fall-start.md)
+- **Serial 238 (Wilson F&B Video)**: [How To EASILY Write A Coffee Shop Business Plan [Step-by-Step] | Start A Coffee Shop Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/easily-write-coffee-shop-business-plan.md)
+- **Serial 240 (Wilson F&B Video)**: [3 Surprising Characteristics Of Most Successful Businesses In The World](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-surprising-characteristics-most-successful-businesses.md)
+- **Serial 242 (Wilson F&B Video)**: [Secret Psychological Triggers To Make People BUY From Your Restaurant & Food Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/secret-psychological-triggers-make-people-buy.md)
+- **Serial 243 (Wilson F&B Video)**: [WE DID IT!](../knowledge/wilson-fb/wilson-fb-full-form/operations/did-it.md)
+- **Serial 245 (Wilson F&B Video)**: [Top 8 Food Trends In 2021 You Should Watch For Your Restaurant Business | Food Business Ideas](../knowledge/wilson-fb/wilson-fb-full-form/operations/top-8-food-trends-2021-you.md)
+- **Serial 250 (Wilson F&B Video)**: [How Justin Started A Successful Restaurant During The Pandemic | Secret Sauce Ep.6](../knowledge/wilson-fb/wilson-fb-full-form/operations/justin-started-successful-restaurant-during-pandemic.md)
+- **Serial 252 (Wilson F&B Video)**: [What Makes A Restaurant Popular Pre & Post COVID?](../knowledge/wilson-fb/wilson-fb-full-form/operations/makes-restaurant-popular-pre-post-covid.md)
+- **Serial 254 (Wilson F&B Video)**: [How Mr. Beast Started 300 Burger Restaurants OVERNIGHT [Superfood]](../knowledge/wilson-fb/wilson-fb-full-form/operations/mr-beast-started-300-burger-restaurants.md)
+- **Serial 256 (Wilson F&B Video)**: [Secrets of a $2M Italian Restaurant Chain | Secret Sauce Ep.4](../knowledge/wilson-fb/wilson-fb-full-form/operations/secrets-2m-italian-restaurant-chain-secret.md)
+- **Serial 257 (Wilson F&B Video)**: [How This Restaurant Is EXPANDING During The Pandemic](../knowledge/wilson-fb/wilson-fb-full-form/operations/restaurant-expanding-during-pandemic.md)
+- **Serial 258 (Wilson F&B Video)**: [How To Run A Successful Poke Shop | Secret Sauce Ep.3](../knowledge/wilson-fb/wilson-fb-full-form/operations/run-successful-poke-shop-secret-sauce.md)
+- **Serial 259 (Wilson F&B Video)**: [Secret To This Fried Chicken Takeout...Cocktail Lounge? | Secret Sauce Ep.2](../knowledge/wilson-fb/wilson-fb-full-form/operations/secret-fried-chicken-takeoutcocktail-lounge-secret.md)
+- **Serial 261 (Wilson F&B Video)**: [Secrets To Running An Award-Winning Vietnamese Restaurant | Secret Sauce Ep.1](../knowledge/wilson-fb/wilson-fb-full-form/operations/secrets-running-award-winning-vietnamese-restaurant-secret.md)
+- **Serial 262 (Wilson F&B Video)**: [Secrets To Starting A Successful Restaurant | Secret Sauce Prequel](../knowledge/wilson-fb/wilson-fb-full-form/operations/secrets-starting-successful-restaurant-secret-sauce.md)
+- **Serial 263 (Wilson F&B Video)**: [Excuses You KEEP Telling Yourself](../knowledge/wilson-fb/wilson-fb-full-form/operations/excuses-you-keep-telling-yourself.md)
+- **Serial 264 (Wilson F&B Video)**: [Time to CLOSE Your Restaurant…](../knowledge/wilson-fb/wilson-fb-full-form/operations/time-close-restaurant.md)
+- **Serial 265 (Wilson F&B Video)**: [I'm scared...](../knowledge/wilson-fb/wilson-fb-full-form/operations/im-scared.md)
+- **Serial 276 (Wilson F&B Video)**: [How Much Money Uber Drivers REALLY Make?](../knowledge/wilson-fb/wilson-fb-full-form/operations/much-money-uber-drivers-really-make.md)
+- **Serial 277 (Wilson F&B Video)**: [How To Manage Your Time Better & Achieve Work/Life Balance](../knowledge/wilson-fb/wilson-fb-full-form/operations/manage-time-better-achieve-worklife-balance.md)
+- **Serial 278 (Wilson F&B Video)**: [4 Best Practices Restaurants MUST Do In New Normal | Restaurant Management 2020](../knowledge/wilson-fb/wilson-fb-full-form/operations/4-best-practices-restaurants-must-do.md)
+- **Serial 279 (Wilson F&B Video)**: [Restaurant Owner Reacts To Poop Cafe & Hello Kitty Cafe | Themed Cafes](../knowledge/wilson-fb/wilson-fb-full-form/operations/restaurant-owner-reacts-poop-cafe-hello.md)
+- **Serial 281 (Wilson F&B Video)**: [Why Being Optimistic Will Make You Wildly Successful | How to be optimistic](../knowledge/wilson-fb/wilson-fb-full-form/operations/being-optimistic-will-make-you-wildly.md)
+- **Serial 283 (Wilson F&B Video)**: [LYFT Closes...TONIGHT?! WTF?| Bad New for Restaurant Owners & Gig Workers ab5 bill](../knowledge/wilson-fb/wilson-fb-full-form/operations/lyft-closestonight-wtf-bad-new-restaurant.md)
+- **Serial 285 (Wilson F&B Video)**: [Uber Eats & Lyft To Leave California?? | Bad New for Restaurant Owners & Gig Workers ab5 bill](../knowledge/wilson-fb/wilson-fb-full-form/operations/uber-eats-lyft-leave-california-bad.md)
+- **Serial 288 (Wilson F&B Video)**: [How Restaurants Are Surviving The COVID World | Restaurant Management 2020](../knowledge/wilson-fb/wilson-fb-full-form/operations/restaurants-are-surviving-covid-world-restaurant.md)
+- **Serial 291 (Wilson F&B Video)**: [1 Trait That Separate Successful Restaurant Owners & Entrepreneurs From Everybody Else](../knowledge/wilson-fb/wilson-fb-full-form/operations/1-trait-separate-successful-restaurant-owners.md)
+- **Serial 296 (Wilson F&B Video)**: [8 Steps in Creating A Profitable & Successful Coffee Shop Business | Cafe Restaurant 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/8-steps-creating-profitable-successful-coffee.md)
+- **Serial 299 (Wilson F&B Video)**: [How To Open And Run A Successful Restaurant In 2020 & Moving Forward [PLAYBOOK]](../knowledge/wilson-fb/wilson-fb-full-form/operations/open-run-successful-restaurant-2020-moving.md)
+- **Serial 301 (Wilson F&B Video)**: [9 Pros & Cons of Buying A Restaurant Business [BUY TIME] | Open A Restaurant 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/9-pros-cons-buying-restaurant-business.md)
+- **Serial 302 (Wilson F&B Video)**: [How to Build an Ice Cream Store into a International Chain - 5 Yr Overnight Success Story [ACQUIRED]](../knowledge/wilson-fb/wilson-fb-full-form/operations/build-ice-cream-store-into-international.md)
+- **Serial 303 (Wilson F&B Video)**: [4 Things That STOP Entrepreneurs & Small Business Owners From Being Successful | Open A Restaurant](../knowledge/wilson-fb/wilson-fb-full-form/operations/4-things-stop-entrepreneurs-small-business.md)
+- **Serial 305 (Wilson F&B Video)**: [How To Start A Coffee Shop ☕  [Easy Step-By-Step Breakdown] | How To Open A Cafe Business 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/start-coffee-shop-easy-step-by-step-breakdown.md)
+- **Serial 307 (Wilson F&B Video)**: [Can't Stay Silent About This...](../knowledge/wilson-fb/wilson-fb-full-form/operations/cant-stay-silent-about.md)
+- **Serial 308 (Wilson F&B Video)**: [#1 Business Skill YOU Must Learn To Be Successful | Small Business Owner & Entrepreneur Advice 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/business-skill-you-must-learn-be.md)
+- **Serial 310 (Wilson F&B Video)**: [Why NOW Is The Best Time You Should Start Your Dream Restaurant/Cafe | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/now-best-time-you-should-start.md)
+- **Serial 316 (Wilson F&B Video)**: [How Top Fine Dining Restaurant Is Adapting To COVID-19 W/Mark Canlis | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/top-fine-dining-restaurant-adapting-covid-19.md)
+- **Serial 317 (Wilson F&B Video)**: [5 Tips For Restaurant Owners To Run A Successful Restaurant | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/5-tips-restaurant-owners-run-successful.md)
+- **Serial 323 (Wilson F&B Video)**: [6 Traits Successful Restaurant Owners Possess (Do you?) | Restaurant Management Small Business 2021](../knowledge/wilson-fb/wilson-fb-full-form/operations/6-traits-successful-restaurant-owners-possess.md)
+- **Serial 324 (Wilson F&B Video)**: [Is This A Good Restaurant Location? | Answering Your Comments | Restaurant Management Small Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/good-restaurant-location-answering-comments-restaurant.md)
+- **Serial 326 (Wilson F&B Video)**: [#1 Way Restaurants Will Survive CoronaVirus Closures | Restaurant Management](../knowledge/wilson-fb/wilson-fb-full-form/operations/way-restaurants-will-survive-coronavirus-closures.md)
+- **Serial 327 (Wilson F&B Video)**: [How To Run A Successful Restaurant Business 2020 | Small Business & Restaurant Management Advice](../knowledge/wilson-fb/wilson-fb-full-form/operations/run-successful-restaurant-business-2020-small.md)
+- **Serial 331 (Wilson F&B Video)**: [2 Biggest Lessons I've Learned From Starting A Restaurant Food Business 2020 | Ice Cream Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/2-biggest-lessons-ive-learned-starting.md)
+- **Serial 333 (Wilson F&B Video)**: [5 Amazingly Profitable Food Business Ideas For 2020 To Open | Small Business Ideas 2021](../knowledge/wilson-fb/wilson-fb-full-form/operations/5-amazingly-profitable-food-business-ideas.md)
+- **Serial 335 (Wilson F&B Video)**: [6 EASY Ways to Increase Restaurant Sales on Slow Days | How to Run A Restaurant Successfully 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/6-easy-ways-increase-restaurant-sales.md)
+- **Serial 338 (Wilson F&B Video)**: [People Who SHOULDN'T Start A Restaurant (is this YOU?) | How To Open And Run A Restaurant 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/people-who-shouldnt-start-restaurant-you.md)
+- **Serial 339 (Wilson F&B Video)**: [How To Easily Write A Restaurant Business Plan [Step-by-step] | open a restaurant 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/easily-write-restaurant-business-plan-step-by-step.md)
+- **Serial 342 (Wilson F&B Video)**: [2 Most Powerful Mindsets For Success For Entrepreneurs w/Matt Astifan | Behind Everyone Podcast Ep.1](../knowledge/wilson-fb/wilson-fb-full-form/operations/2-most-powerful-mindsets-success-entrepreneurs.md)
+- **Serial 343 (Wilson F&B Video)**: [5 Alarming Reasons Why Restaurants & Food Businesses FAIL](../knowledge/wilson-fb/wilson-fb-full-form/operations/5-alarming-reasons-restaurants-food-businesses.md)
+- **Serial 344 (Wilson F&B Video)**: [How To Choose The RIGHT Business Partner For Your F&B | Small Business Advice Restaurant Management](../knowledge/wilson-fb/wilson-fb-full-form/operations/choose-right-business-partner-fb-small.md)
+- **Serial 350 (Wilson F&B Video)**: [How To Choose the PERFECT Restaurant Location 2022 | Restaurant Management & Small Business Advice](../knowledge/wilson-fb/wilson-fb-full-form/operations/choose-perfect-restaurant-location-2022-restaurant.md)
+- **Serial 351 (Wilson F&B Video)**: [How to Open & Start a Restaurant Business (4 Money Making Models) | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/open-start-restaurant-business-4-money.md)
+- **Serial 353 (Wilson F&B Video)**: [5 Productivity Tips For Entrepreneurs To Get MORE Done in 2022 | Time Management Tips](../knowledge/wilson-fb/wilson-fb-full-form/operations/5-productivity-tips-entrepreneurs-get-more.md)
+- **Serial 354 (Wilson F&B Video)**: [3 REASONS WHY BRICK AND MORTAR SUCKS (I QUIT) | E commerce vs Brick and Mortar](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-reasons-brick-mortar-sucks-i.md)
+- **Serial 355 (Wilson F&B Video)**: [2 Must Read Books For Entrepreneurs in 2020 (transformed my life!)](../knowledge/wilson-fb/wilson-fb-full-form/operations/2-must-read-books-entrepreneurs-2020.md)
+- **Serial 357 (Wilson F&B Video)**: [When To Quit And When To Continue Your Business? (Arrogance VS Perseverance)](../knowledge/wilson-fb/wilson-fb-full-form/operations/when-quit-when-continue-business-arrogance.md)
+- **Serial 359 (Wilson F&B Video)**: [INSANE Advantage of Having A Mentor and How To Find A Mentor in 2020 (Must watch for entrepreneurs)](../knowledge/wilson-fb/wilson-fb-full-form/operations/insane-advantage-having-mentor-find-mentor.md)
+- **Serial 360 (Wilson F&B Video)**: [3 Entrepreneur MYTHS (the Truth No One Tells You 2020) | Must Watch For New Entrepreneurs](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-entrepreneur-myths-truth-no-one.md)
+- **Serial 361 (Wilson F&B Video)**: [The 3 Traits of ALL Successful People (Start Developing These NOW) 2020](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-traits-all-successful-people-start.md)
+- **Serial 362 (Wilson F&B Video)**: [How To Decide Which Business To Start | Entrepreneur Advice 2022](../knowledge/wilson-fb/wilson-fb-full-form/operations/decide-which-business-start-entrepreneur-advice.md)
+- **Serial 363 (Wilson F&B Video)**: [How To Avoid Burnout As An Entrepreneur in 2020 (Secrets From A Serial Entrepreneur)](../knowledge/wilson-fb/wilson-fb-full-form/operations/avoid-burnout-as-entrepreneur-2020-secrets.md)
+- **Serial 364 (Wilson F&B Video)**: [How To Overcome Fear As An Entrepreneur And Business Owner (Start now!)](../knowledge/wilson-fb/wilson-fb-full-form/operations/overcome-fear-as-entrepreneur-business-owner.md)
+- **Serial 365 (Wilson F&B Video)**: [Top 5 Most Profitable Food Business Ideas For 2019 | Small Business Ideas](../knowledge/wilson-fb/wilson-fb-full-form/operations/top-5-most-profitable-food-business-2.md)
+- **Serial 371 (Wilson F&B Video)**: [How We Made $36,489.50 in our FIRST Month of Our Ice Cream Business!!!](../knowledge/wilson-fb/wilson-fb-full-form/operations/made-3648950-first-month-ice-cream.md)
+- **Serial 373 (Wilson F&B Video)**: [How to Be a Restaurant Partner for UberEATS and MISTAKES to Avoid (MORE $!) | Restaurant management](../knowledge/wilson-fb/wilson-fb-full-form/operations/be-restaurant-partner-ubereats-mistakes-avoid.md)
+- **Serial 374 (Wilson F&B Video)**: [How to Scale a Brick and Mortar Business to 1 Million Revenue FAST | Small Business Tips](../knowledge/wilson-fb/wilson-fb-full-form/operations/scale-brick-mortar-business-1-million.md)
+- **Serial 376 (Wilson F&B Video)**: [How to Open and Run a Successful Restaurant | Food & Beverage & Restaurant Management Advice](../knowledge/wilson-fb/wilson-fb-full-form/operations/open-run-successful-restaurant-food-beverage.md)
+- **Serial 378 (Wilson F&B Video)**: [3 Things to Know BEFORE Opening a Restaurant (Avoid These Mistakes!) 2022| Restaurant Management](../knowledge/wilson-fb/wilson-fb-full-form/operations/3-things-know-before-opening-restaurant.md)
+- **Serial 379 (Wilson F&B Video)**: [How to Open an Ice Cream Shop | Advice for Small Business Owners | Restaurant Management Tips](../knowledge/wilson-fb/wilson-fb-full-form/operations/open-ice-cream-shop-advice-small.md)
+- **Serial 380 (Wilson F&B Video)**: [Best Advice For Young People And Entrepreneurs In Their 20s | How I Started](../knowledge/wilson-fb/wilson-fb-full-form/operations/best-advice-young-people-entrepreneurs-their.md)
+- **Serial 381 (Wilson F&B Video)**: [720 Sweets - Grand Opening at T&T @ West Edmonton Mall](../knowledge/wilson-fb/wilson-fb-full-form/operations/720-sweets-grand-opening-tt.md)
+- **Serial 382 (Wilson F&B Video)**: [Monthy Updates: February 2018](../knowledge/wilson-fb/wilson-fb-full-form/operations/monthy-updates-february-2018.md)
+- **Serial 385 (Wilson F&B Video)**: [Is Time Really Money? | Keynote Speech](../knowledge/wilson-fb/wilson-fb-full-form/operations/time-really-money-keynote-speech.md)
+- **Serial 386 (Wilson F&B Video)**: [Starting As An Entrepreneur | $0 - $1M EP. 8](../knowledge/wilson-fb/wilson-fb-full-form/operations/starting-as-entrepreneur-0-1m.md)
+- **Serial 387 (Wilson F&B Video)**: [Manifesting My Dreams In 2018](../knowledge/wilson-fb/wilson-fb-full-form/operations/manifesting-my-dreams-2018.md)
+- **Serial 388 (Wilson F&B Video)**: [Manifesting Dreams Into Reality | $0 - $1M EP. 7](../knowledge/wilson-fb/wilson-fb-full-form/operations/manifesting-dreams-into-reality-0.md)
+- **Serial 389 (Wilson F&B Video)**: [Expanding My 7-Figure Business Internationally](../knowledge/wilson-fb/wilson-fb-full-form/operations/expanding-my-7-figure-business-internationally.md)
+- **Serial 390 (Wilson F&B Video)**: [Our Product Developmental Stages | $0 - $1M EP. 6](../knowledge/wilson-fb/wilson-fb-full-form/operations/product-developmental-stages-0-1m.md)
+- **Serial 391 (Wilson F&B Video)**: [Franchising A Business In 2018 | $0 - $1M EP. 5](../knowledge/wilson-fb/wilson-fb-full-form/operations/franchising-business-2018-0-1m.md)
+- **Serial 394 (Wilson F&B Video)**: [Why Brick And Mortar Sucks | $0 - $1M EP. 2](../knowledge/wilson-fb/wilson-fb-full-form/operations/brick-mortar-sucks-0-1m.md)
+- **Serial 399 (Wilson F&B Video)**: [How To Find Your Passion | An Entrepreneur's Advice](../knowledge/wilson-fb/wilson-fb-full-form/operations/find-passion-entrepreneurs-advice.md)
+- **Serial 406 (Wilson F&B Video)**: [6 Core Values: Innovate](../knowledge/wilson-fb/wilson-fb-full-form/operations/6-core-values-innovate.md)
+- **Serial 416 (Wilson F&B Video)**: [6 Core Values: Empowerment](../knowledge/wilson-fb/wilson-fb-full-form/operations/6-core-values-empowerment.md)
+- **Serial 418 (Wilson F&B Video)**: [6 Core Values: Communication](../knowledge/wilson-fb/wilson-fb-full-form/operations/6-core-values-communication.md)
+- **Serial 420 (Wilson F&B Video)**: [Why you should be valuable before successful | Advice for entrepreneurs](../knowledge/wilson-fb/wilson-fb-full-form/operations/you-should-be-valuable-before-successful.md)
+- **Serial 427 (Wilson F&B Video)**: [720 Sweets - Grandopening at T&T Supermarket @ Metrotown](../knowledge/wilson-fb/wilson-fb-full-form/operations/720-sweets-grandopening-tt-supermarket.md)
+- **Serial 432 (Wilson F&B Video)**: [How to Set and Achieve Your Goals](../knowledge/wilson-fb/wilson-fb-full-form/operations/set-achieve-goals.md)
+- **Serial 433 (Wilson F&B Video)**: [Get Shit Done – For Small Business](../knowledge/wilson-fb/wilson-fb-full-form/operations/get-shit-done-small-business.md)
+- **Serial 443 (Wilson F&B Video)**: [The BEST Time Management Tips](../knowledge/wilson-fb/wilson-fb-full-form/operations/best-time-management-tips.md)
+- **Serial 451 (Wilson F&B Video)**: [I Sell Happiness](../knowledge/wilson-fb/wilson-fb-full-form/operations/i-sell-happiness.md)
+- **Serial 468 (Wilson F&B Video)**: [Wilson Lee Socialight 2016 Keynote Speaker](../knowledge/wilson-fb/wilson-fb-full-form/operations/wilson-lee-socialight-2016-keynote-speaker.md)
+- **Serial 486 (Wilson F&B Video)**: [UBC Psych Alumni Profile 2016 - Wilson Lee](../knowledge/wilson-fb/wilson-fb-full-form/operations/ubc-psych-alumni-profile-2016.md)
 
 ## Payments (35 entries)
 
@@ -2267,7 +2867,7 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 109 (Toast Video)**: [Discounts vs Voids in Toast](../knowledge/toast/toast-full-form/promotions/discounts-vs-voids.md)
 - **Serial 308 (Toast Video)**: [How to Make Happy Hour Unforgettable](../knowledge/toast/toast-full-form/promotions/make-happy-hour-unforgettable.md)
 
-## Purchasing (10 entries)
+## Purchasing (11 entries)
 
 - **Serial 536**: [Key Information](../knowledge/owner/owner-short-form/purchasing/sysco-bought-restaurant-depot-heres.md) `[purchasing, supplier-pricing, inventory-sourcing]`
 - **Serial 584**: [Key Information](../knowledge/owner/owner-short-form/purchasing/does-cheese-get-expensive-summer.md) `[purchasing, supplier-pricing, inventory-sourcing]`
@@ -2279,6 +2879,7 @@ Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 224 (Owner-girl Video)**: [How NEVER pay full price to VistaPrint Part 2](../knowledge/owner-girl/owner-girl-full-form/purchasing/never-pay-full-price-vistaprint-part.md)
 - **Serial 225 (Owner-girl Video)**: [How NEVER pay full price to VistaPrint Part 1](../knowledge/owner-girl/owner-girl-full-form/purchasing/never-pay-full-price-vistaprint-part-2.md)
 - **Serial 177 (Restaurant Boss Video)**: [Should you have multiple broadline distributors?](../knowledge/restaurant-boss/restaurant-boss-full-form/purchasing/should-you-have-multiple-broadline-distributors.md)
+- **Serial 132 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/purchasing/get-best-deals-coffee-shop-equipment.md) `[purchasing, supplier-sourcing, equipment-procurement, vendor-contracts]`
 
 ## Social (4 entries)
 

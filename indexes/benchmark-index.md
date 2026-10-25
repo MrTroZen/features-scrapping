@@ -1466,3 +1466,11 @@ Operational benchmarks, target ratios, percentages, and metrics extracted from v
 - **Credit Card Surcharge Friction**: Direct credit card surcharges increase customer dissatisfaction ratings and negative online reviews by over 30% compared to incorporating costs into menu pricing.
 - **Phantom Labor Recovery**: Tightening shift clock-in/out windows and staggering line cuts recovers 10 to 20 wasted labor hours per week ($8,000 to $16,000 annually).
 - **Menu SKU Rationalization**: Pruning the bottom 20% of low-velocity menu items reduces walk-in cooler spoilage by 15% to 25%.
+
+## Brand Scaling, Footprint & Unit Economics (Wilson F&B)
+
+- **Compact Footprint Revenue Density**: High-performing quick-service concepts generate $1.8M to $2.2M in annual revenue from small sub-1,800 sq ft footprints ($1,000+ per sq ft).
+- **Commercial Occupancy Ceiling**: Total base rent plus triple-net (NNN) charges must remain strictly below 6% to 8% of gross food sales.
+- **Emergency Working Capital Buffer**: Independent restaurant startups require a dedicated liquidity cushion equal to 3 to 6 months of fixed overhead ($30,000 to $80,000).
+- **Focused Menu Throughput Velocity**: Maintaining under 15 core menu items achieves 35% faster assembly throughput and reduces raw ingredient holding waste by 20%.
+- **Social WiFi Conversion**: Automated captive portal guest WiFi networks capture verified contact records from 30% to 45% of dining room customers.

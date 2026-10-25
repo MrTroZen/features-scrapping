@@ -4,7 +4,8 @@ update_master_indexes_full.py
 
 Comprehensive synchronization script for:
 1. indexes/knowledge-index.md (indexes Owner Shorts, Owner Videos, Toast Shorts, Toast Videos, 
-   Owner-girl Shorts, Owner-girl Videos, Restaurant Boss Shorts, Restaurant Boss Videos)
+   Owner-girl Shorts, Owner-girl Videos, Restaurant Boss Shorts, Restaurant Boss Videos,
+   Wilson F&B Shorts, Wilson F&B Videos)
 2. indexes/formula-index.md
 3. indexes/benchmark-index.md
 4. logs/processed-sources.md
@@ -73,6 +74,18 @@ def sync_knowledge_index():
             for r in csv.DictReader(f):
                 rb_vid_map[r["url"].strip()] = r["serial"]
 
+    wilson_shorts_map = {}
+    if os.path.exists("sources/youtube-lists/wilson-fb-shorts.csv"):
+        with open("sources/youtube-lists/wilson-fb-shorts.csv", "r", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                wilson_shorts_map[r["url"].strip()] = r["serial"]
+
+    wilson_vid_map = {}
+    if os.path.exists("sources/youtube-lists/wilson-fb-videos.csv"):
+        with open("sources/youtube-lists/wilson-fb-videos.csv", "r", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                wilson_vid_map[r["url"].strip()] = r["serial"]
+
     # We will collect entries by category: category -> list of (sort_key, line)
     catalog = {cat: [] for cat in CATEGORY_NAMES}
 
@@ -84,7 +97,9 @@ def sync_knowledge_index():
         "owner_girl_shorts": 0,
         "owner_girl_videos": 0,
         "rb_shorts": 0,
-        "rb_videos": 0
+        "rb_videos": 0,
+        "wilson_shorts": 0,
+        "wilson_videos": 0
     }
 
     # 1. Walk through all subdirectories
@@ -123,6 +138,12 @@ def sync_knowledge_index():
                 category = parts[2]
             elif rel_path.startswith("restaurant-boss/restaurant-boss-full-form/"):
                 collection = "rb_videos"
+                category = parts[2]
+            elif rel_path.startswith("wilson-fb/wilson-fb-short-form/"):
+                collection = "wilson_shorts"
+                category = parts[2]
+            elif rel_path.startswith("wilson-fb/wilson-fb-full-form/"):
+                collection = "wilson_videos"
                 category = parts[2]
             else:
                 continue
@@ -177,6 +198,18 @@ def sync_knowledge_index():
                 if m_url and m_url.group(1).strip() in rb_vid_map:
                     serial_num = int(rb_vid_map[m_url.group(1).strip()])
 
+            # If Wilson F&B short
+            if collection == "wilson_shorts":
+                m_url = re.search(r'Video:\s*(https?://[^\s]+)', content)
+                if m_url and m_url.group(1).strip() in wilson_shorts_map:
+                    serial_num = int(wilson_shorts_map[m_url.group(1).strip()])
+
+            # If Wilson F&B video
+            if collection == "wilson_videos":
+                m_url = re.search(r'- URL:\s*(https?://[^\s]+)', content)
+                if m_url and m_url.group(1).strip() in wilson_vid_map:
+                    serial_num = int(wilson_vid_map[m_url.group(1).strip()])
+
             rel_link = f"../knowledge/{rel_path}"
 
             # Format line
@@ -201,9 +234,15 @@ def sync_knowledge_index():
             elif collection == "rb_shorts":
                 label = f"Serial {serial_num:03d} (Restaurant Boss Short)"
                 sort_key = (7, serial_num, display_title)
-            else:
+            elif collection == "rb_videos":
                 label = f"Serial {serial_num:03d} (Restaurant Boss Video)"
                 sort_key = (8, serial_num, display_title)
+            elif collection == "wilson_shorts":
+                label = f"Serial {serial_num:03d} (Wilson F&B Short)"
+                sort_key = (9, serial_num, display_title)
+            else:
+                label = f"Serial {serial_num:03d} (Wilson F&B Video)"
+                sort_key = (10, serial_num, display_title)
 
             line = f"- **{label}**: [{display_title}]({rel_link}){tags_str}"
 
@@ -218,7 +257,7 @@ def sync_knowledge_index():
         "",
         "Master catalog of all structured restaurant operational intelligence files in `knowledge/`.",
         "",
-        f"Total verified entries: **{total_entries:,}** ({counts['owner_shorts']} Owner Shorts, {counts['owner_videos']} Owner Videos, {counts['toast_shorts']} Toast Shorts, {counts['toast_videos']} Toast Videos, {counts['owner_girl_shorts']} Owner-girl Shorts, {counts['owner_girl_videos']} Owner-girl Videos, {counts['rb_shorts']} Restaurant Boss Shorts, {counts['rb_videos']} Restaurant Boss Videos)",
+        f"Total verified entries: **{total_entries:,}** ({counts['owner_shorts']} Owner Shorts, {counts['owner_videos']} Owner Videos, {counts['toast_shorts']} Toast Shorts, {counts['toast_videos']} Toast Videos, {counts['owner_girl_shorts']} Owner-girl Shorts, {counts['owner_girl_videos']} Owner-girl Videos, {counts['rb_shorts']} Restaurant Boss Shorts, {counts['rb_videos']} Restaurant Boss Videos, {counts['wilson_shorts']} Wilson F&B Shorts, {counts['wilson_videos']} Wilson F&B Videos)",
         ""
     ]
 
@@ -245,6 +284,8 @@ def sync_knowledge_index():
     print(f"  Owner-girl Videos: {counts['owner_girl_videos']}")
     print(f"  Restaurant Boss Shorts: {counts['rb_shorts']}")
     print(f"  Restaurant Boss Videos: {counts['rb_videos']}")
+    print(f"  Wilson F&B Shorts: {counts['wilson_shorts']}")
+    print(f"  Wilson F&B Videos: {counts['wilson_videos']}")
 
 def update_formula_and_benchmark_indexes():
     # Update formula index
@@ -253,24 +294,19 @@ def update_formula_and_benchmark_indexes():
         with open(f_path, "r", encoding="utf-8") as f:
             f_content = f.read()
 
-        rb_formulas = """
-## Prime Cost & Economics (The Restaurant Boss)
+        wilson_formulas = """
+## Franchise Economics & Behavioral Pricing (Wilson F&B)
 
-- **[Prime Cost Calculation](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/prime-cost-numbers-that-matter.md)**
-  - Prime Cost Formula: $\\text{Prime Cost \\%} = \\frac{\\text{Total COGS} + \\text{Total Labor (Hourly + Mgmt + Taxes)}}{\\text{Gross Food \\& Beverage Sales}}$.
-  - Maximum Healthy Threshold: $\\text{Prime Cost} \\le 55\\% \\text{ to } 60\\%$.
-- **[Theoretical vs Actual Food Cost Variance](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/hit-restaurants-target-food-cost-every.md)**
-  - Inventory Depletion Gap: $\\text{Food Cost Variance} = \\text{Actual Food Usage (Starting Inv + Purchases - Ending Inv)} - \\text{Theoretical Food Consumption (POS Mix)}$.
-  - Allowable Target Variance: $\\le 1.5\\% \\text{ to } 2.0\\% \\text{ of sales}$.
-- **[Menu Item Contribution Margin Matrix](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/restaurant-menu-matrix-dilemma.md)**
-  - Contribution Margin Dollars: $\\text{Contribution Margin} = \\text{Selling Price} - \\text{Portion Recipe Cost}$.
-  - Optimization Goal: Maximize total dollars contributed rather than solely minimizing percentage food cost.
+- **[Franchise Occupancy Ratio](../knowledge/wilson-fb/wilson-fb-full-form/finance/one-page-every-franchise-buyer-should.md)**
+  - Occupancy Cost Ceiling: $\\text{Rent Ratio} = \\frac{\\text{Base Rent} + \\text{NNN}}{\\text{Gross Food and Beverage Sales}} \\le 6\\% \\text{ to } 8\\%$.
+- **[Decoy Pricing & Combo Attach Lift](../knowledge/wilson-fb/wilson-fb-short-form/menu/decoy-effect-psychological-tricks-starbucks-uses.md)** (Serial 144)
+  - Anchor Conversion Shift: $\\text{Decoy Margin Lift} = \\frac{\\text{High-Tier Attach} - \\text{Baseline Attach}}{\\text{Baseline Attach}} \\implies 40\\% \\text{ to } 55\\% \\text{ shift to higher-margin tier}$.
 """
-        if "The Restaurant Boss" not in f_content:
-            f_content += "\n" + rb_formulas.strip() + "\n"
+        if "Wilson F&B" not in f_content:
+            f_content += "\n" + wilson_formulas.strip() + "\n"
             with open(f_path, "w", encoding="utf-8") as f:
                 f.write(f_content)
-            print("Updated formula-index.md with The Restaurant Boss intelligence.")
+            print("Updated formula-index.md with Wilson F&B intelligence.")
 
     # Update benchmark index
     b_path = os.path.join(INDEX_DIR, "benchmark-index.md")
@@ -278,21 +314,20 @@ def update_formula_and_benchmark_indexes():
         with open(b_path, "r", encoding="utf-8") as f:
             b_content = f.read()
 
-        rb_benchmarks = """
-## Operations, Cost Targets & Systems (The Restaurant Boss)
+        wilson_benchmarks = """
+## Brand Scaling, Footprint & Unit Economics (Wilson F&B)
 
-- **Prime Cost Ceiling**: Independent restaurant prime cost must remain strictly under 55% for full-service operations and under 60% for fast-casual concepts.
-- **The 90-Day Owner Test**: Operations must run smoothly and profitably for 90 consecutive days without owner presence before deploying capital into secondary locations.
-- **Checklist Compliance Standard**: High-performing restaurant teams maintain an opening, transition, and closing checklist completion rate exceeding 95%.
-- **Credit Card Surcharge Friction**: Direct credit card surcharges increase customer dissatisfaction ratings and negative online reviews by over 30% compared to incorporating costs into menu pricing.
-- **Phantom Labor Recovery**: Tightening shift clock-in/out windows and staggering line cuts recovers 10 to 20 wasted labor hours per week ($8,000 to $16,000 annually).
-- **Menu SKU Rationalization**: Pruning the bottom 20% of low-velocity menu items reduces walk-in cooler spoilage by 15% to 25%.
+- **Compact Footprint Revenue Density**: High-performing quick-service concepts generate $1.8M to $2.2M in annual revenue from small sub-1,800 sq ft footprints ($1,000+ per sq ft).
+- **Commercial Occupancy Ceiling**: Total base rent plus triple-net (NNN) charges must remain strictly below 6% to 8% of gross food sales.
+- **Emergency Working Capital Buffer**: Independent restaurant startups require a dedicated liquidity cushion equal to 3 to 6 months of fixed overhead ($30,000 to $80,000).
+- **Focused Menu Throughput Velocity**: Maintaining under 15 core menu items achieves 35% faster assembly throughput and reduces raw ingredient holding waste by 20%.
+- **Social WiFi Conversion**: Automated captive portal guest WiFi networks capture verified contact records from 30% to 45% of dining room customers.
 """
-        if "The Restaurant Boss" not in b_content:
-            b_content += "\n" + rb_benchmarks.strip() + "\n"
+        if "Wilson F&B" not in b_content:
+            b_content += "\n" + wilson_benchmarks.strip() + "\n"
             with open(b_path, "w", encoding="utf-8") as f:
                 f.write(b_content)
-            print("Updated benchmark-index.md with The Restaurant Boss intelligence.")
+            print("Updated benchmark-index.md with Wilson F&B intelligence.")
 
 def update_processed_sources_log():
     if not os.path.exists(LOG_PATH):
@@ -300,38 +335,39 @@ def update_processed_sources_log():
     with open(LOG_PATH, "r", encoding="utf-8") as f:
         log_content = f.read()
 
-    rb_sections = """
-## 7. The Restaurant Boss YouTube Shorts Collection
+    wilson_sections = """
+## 9. Wilson F&B (Wilson K Lee) YouTube Shorts Collection
 
-- **Source Channel:** [@Therestaurantboss](https://www.youtube.com/@Therestaurantboss/shorts)
-- **Tracking Registry:** [`sources/youtube-lists/restaurant-boss-shorts.csv`](../sources/youtube-lists/restaurant-boss-shorts.csv)
-- **Total Cataloged Shorts:** 77
-- **Total Substantive Dossiers Ingested:** 68 across 10 categories in `knowledge/restaurant-boss/restaurant-boss-short-form/`
-- **Total Triaged / Skipped:** 9 per AGENTS.md Rule 8
-  - Promotional book promotions, webinar invites, milestone clips, and personal lifestyle topics
-- **Quality Check Status:** 100% Pass (68/68 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Source Channel:** [@WilsonKLee](https://www.youtube.com/@WilsonKLee/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/wilson-fb-shorts.csv`](../sources/youtube-lists/wilson-fb-shorts.csv)
+- **Total Cataloged Shorts:** 215
+- **Total Substantive Dossiers Ingested:** 198 across 11 categories in `knowledge/wilson-fb/wilson-fb-short-form/`
+- **Total Triaged / Skipped:** 17 per AGENTS.md Rule 8
+  - 12 Generic work-life balance, vision board lifehacks, and mindset clips
+  - 4 General tech startup founder interview clips
+  - 1 Non-restaurant health/weight-loss tip
+- **Quality Check Status:** 100% Pass (198/198 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
 
-## 8. The Restaurant Boss YouTube Long-Form Video Collection
+## 10. Wilson F&B (Wilson K Lee) YouTube Long-Form Video Collection
 
-- **Source Channel:** [@Therestaurantboss](https://www.youtube.com/@Therestaurantboss/videos)
-- **Tracking Registry:** [`sources/youtube-lists/restaurant-boss-videos.csv`](../sources/youtube-lists/restaurant-boss-videos.csv)
-- **Total Cataloged Videos:** 434
-- **Total Substantive Dossiers Ingested:** 387 across 13 categories in `knowledge/restaurant-boss/restaurant-boss-full-form/`
-- **Total Triaged / Skipped:** 47 per AGENTS.md Rule 8
-  - 31 Software UI screen tutorials (clickBACON Ninja Tips & Wizards)
-  - 7 Client video testimonials & case-study clips
-  - 7 Promotional product teasers, giveaways, and channel trailers
-  - 1 Holiday greeting clip
-  - 1 Short clip (< 60s) uploaded to videos tab
-- **Quality Check Status:** 100% Pass (387/387 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Source Channel:** [@WilsonKLee](https://www.youtube.com/@WilsonKLee/videos)
+- **Tracking Registry:** [`sources/youtube-lists/wilson-fb-videos.csv`](../sources/youtube-lists/wilson-fb-videos.csv)
+- **Total Cataloged Videos:** 497
+- **Total Substantive Dossiers Ingested:** 403 across 9 categories in `knowledge/wilson-fb/wilson-fb-full-form/`
+- **Total Triaged / Skipped:** 94 per AGENTS.md Rule 8
+  - 50 Personal lifestyle vlogs & early Zero to 100 wedding/travel episodes
+  - 16 Generic celebrity quote & motivational advice videos from 2016
+  - 15 Amazon FBA / e-commerce dropshipping course episodes (Actualize Freedom)
+  - 13 Store walkthrough teasers under 90s
+- **Quality Check Status:** 100% Pass (403/403 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
 """
-    if "The Restaurant Boss YouTube Shorts Collection" not in log_content:
-        log_content += "\n" + rb_sections.strip() + "\n"
+    if "Wilson F&B (Wilson K Lee) YouTube Shorts Collection" not in log_content:
+        log_content += "\n" + wilson_sections.strip() + "\n"
         with open(LOG_PATH, "w", encoding="utf-8") as f:
             f.write(log_content)
-        print("Updated logs/processed-sources.md with The Restaurant Boss audit summaries.")
+        print("Updated logs/processed-sources.md with Wilson F&B audit summaries.")
 
 if __name__ == "__main__":
     sync_knowledge_index()

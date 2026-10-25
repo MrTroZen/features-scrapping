@@ -176,3 +176,30 @@ Audit trail of ingested content channels and processing runs for Qavyo Restauran
   - 1 Short clip (< 60s) uploaded to videos tab
 - **Quality Check Status:** 100% Pass (387/387 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
+
+## 9. Wilson F&B (Wilson K Lee) YouTube Shorts Collection
+
+- **Source Channel:** [@WilsonKLee](https://www.youtube.com/@WilsonKLee/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/wilson-fb-shorts.csv`](../sources/youtube-lists/wilson-fb-shorts.csv)
+- **Total Cataloged Shorts:** 215
+- **Total Substantive Dossiers Ingested:** 198 across 11 categories in `knowledge/wilson-fb/wilson-fb-short-form/`
+- **Total Triaged / Skipped:** 17 per AGENTS.md Rule 8
+  - 12 Generic work-life balance, vision board lifehacks, and mindset clips
+  - 4 General tech startup founder interview clips
+  - 1 Non-restaurant health/weight-loss tip
+- **Quality Check Status:** 100% Pass (198/198 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
+
+## 10. Wilson F&B (Wilson K Lee) YouTube Long-Form Video Collection
+
+- **Source Channel:** [@WilsonKLee](https://www.youtube.com/@WilsonKLee/videos)
+- **Tracking Registry:** [`sources/youtube-lists/wilson-fb-videos.csv`](../sources/youtube-lists/wilson-fb-videos.csv)
+- **Total Cataloged Videos:** 497
+- **Total Substantive Dossiers Ingested:** 403 across 9 categories in `knowledge/wilson-fb/wilson-fb-full-form/`
+- **Total Triaged / Skipped:** 94 per AGENTS.md Rule 8
+  - 50 Personal lifestyle vlogs & early Zero to 100 wedding/travel episodes
+  - 16 Generic celebrity quote & motivational advice videos from 2016
+  - 15 Amazon FBA / e-commerce dropshipping course episodes (Actualize Freedom)
+  - 13 Store walkthrough teasers under 90s
+- **Quality Check Status:** 100% Pass (403/403 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
