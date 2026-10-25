@@ -2,9 +2,9 @@
 
 Master catalog of all structured restaurant operational intelligence files in `knowledge/`.
 
-Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts)
+Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts, 247 Owner-girl Videos)
 
-## Customers (136 entries)
+## Customers (156 entries)
 
 - **Serial 005**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-mobile-apps-retention.md) `[mobile-apps, customer-retention, ordering-habits, direct-ordering]`
 - **Serial 006**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-app-regular-frequency.md) `[mobile-apps, repeat-orders, sales-growth, customer-frequency]`
@@ -142,8 +142,28 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 391 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/avoid-poor-handling-customer-concerns.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
 - **Serial 392 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/improve-restaurant-customer-service.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
 - **Serial 393 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/you-need-know-if-you-want.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 003 (Owner-girl Video)**: [How WE Handle Customer Complaints | Restaurant System](../knowledge/owner-girl/owner-girl-full-form/customers/handle-customer-complaints-restaurant-system.md)
+- **Serial 029 (Owner-girl Video)**: [EASY Customer Service Tips you need to know](../knowledge/owner-girl/owner-girl-full-form/customers/easy-customer-service-tips-you-need.md)
+- **Serial 063 (Owner-girl Video)**: [Deal with ANGRY and RUDE customers | Customer Service Training](../knowledge/owner-girl/owner-girl-full-form/customers/deal-angry-rude-customers-customer-service.md)
+- **Serial 105 (Owner-girl Video)**: [3 Customer Service Tips for Introverts | Restaurant Service Tips](../knowledge/owner-girl/owner-girl-full-form/customers/3-customer-service-tips-introverts-restaurant.md)
+- **Serial 123 (Owner-girl Video)**: [TURN Complaining Customers Into Loyal Guest | Restaurant Customer Service Tips](../knowledge/owner-girl/owner-girl-full-form/customers/turn-complaining-customers-into-loyal-guest.md)
+- **Serial 124 (Owner-girl Video)**: [Handle CUSTOMER COMPLAINTS with EASE | Turn Fussy Guests into Loyal Customers](../knowledge/owner-girl/owner-girl-full-form/customers/handle-customer-complaints-ease-turn-fussy.md)
+- **Serial 125 (Owner-girl Video)**: [TOP Restaurant Customer Complaints Handled](../knowledge/owner-girl/owner-girl-full-form/customers/top-restaurant-customer-complaints-handled.md)
+- **Serial 127 (Owner-girl Video)**: [🥘 IMPROVE Restaurant Customer Service | Best Restaurant Customer Service](../knowledge/owner-girl/owner-girl-full-form/customers/improve-restaurant-customer-service-best-restaurant.md)
+- **Serial 128 (Owner-girl Video)**: [5 Customer Service TRAINING tips for Restaurants | Improve Restaurant Customer Service](../knowledge/owner-girl/owner-girl-full-form/customers/5-customer-service-training-tips-restaurants.md)
+- **Serial 129 (Owner-girl Video)**: [10 BEST Customer Service Experiences in Restaurant Industry](../knowledge/owner-girl/owner-girl-full-form/customers/10-best-customer-service-experiences-restaurant.md)
+- **Serial 163 (Owner-girl Video)**: [Are you committing the Cardinal Sin Of Customer Service?](../knowledge/owner-girl/owner-girl-full-form/customers/are-you-committing-cardinal-sin-customer.md)
+- **Serial 167 (Owner-girl Video)**: [GIVE CUSTOMERS WHAT THEY WANT | Customer Service Tip](../knowledge/owner-girl/owner-girl-full-form/customers/give-customers-they-want-customer-service.md)
+- **Serial 168 (Owner-girl Video)**: [CUSTOMER OBSESSION | Customer Service Tip](../knowledge/owner-girl/owner-girl-full-form/customers/customer-obsession-customer-service-tip.md)
+- **Serial 169 (Owner-girl Video)**: [RESTAURANT CUSTOMER SERVICE TIP | Define good service](../knowledge/owner-girl/owner-girl-full-form/customers/restaurant-customer-service-tip-define-good.md)
+- **Serial 211 (Owner-girl Video)**: [TOP Restaurant's Customer Service Tips | RESTAURANT MANAGEMENT TIP](../knowledge/owner-girl/owner-girl-full-form/customers/top-restaurants-customer-service-tips-restaurant.md)
+- **Serial 237 (Owner-girl Video)**: [PAULA DEEN'S RESTAURANT YELP CASE STUDY  - HOW TO RESPOND TO YELP REVIEWS](../knowledge/owner-girl/owner-girl-full-form/customers/paula-deens-restaurant-yelp-case-study.md)
+- **Serial 239 (Owner-girl Video)**: [HOW TO CHANGE YOUR RESTAURANT'S YELP HOLIDAY HOURS](../knowledge/owner-girl/owner-girl-full-form/customers/change-restaurants-yelp-holiday-hours.md)
+- **Serial 240 (Owner-girl Video)**: [ORM Strategies That Work: Building Trust in the Digital Age | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/customers/orm-strategies-work-building-trust-digital.md)
+- **Serial 243 (Owner-girl Video)**: [HOW TO GET MORE ONLINE REVIEWS FOR YOUR RESTAURANT](../knowledge/owner-girl/owner-girl-full-form/customers/get-more-online-reviews-restaurant.md)
+- **Serial 245 (Owner-girl Video)**: [Boost Your Restaurant Sales with Online Reviews: A Masterclass in Turning Feedback into Profits!](../knowledge/owner-girl/owner-girl-full-form/customers/boost-restaurant-sales-online-reviews-masterclass.md)
 
-## Delivery (26 entries)
+## Delivery (30 entries)
 
 - **Serial 001**: [Key Information](../knowledge/owner/owner-short-form/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
 - **Serial 022**: [Key Information](../knowledge/owner/owner-short-form/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
@@ -171,8 +191,12 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 240 (Toast Video)**: [Assign Servers to Orders and Tables When Using Toast Mobile Order & Pay](../knowledge/toast/toast-full-form/delivery/assign-servers-orders-tables-when.md)
 - **Serial 288 (Toast Video)**: [Turning Takeout into Loyalty: How Burger 25 Grows with Toast Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/turning-takeout-into-loyalty-burger.md)
 - **Serial 037 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/delivery/restaurant-hustle-145-pizzas-delivered-one.md) `[delivery-operations, catering-logistics, order-volume, speed-of-fulfillment]`
+- **Serial 116 (Owner-girl Video)**: [GROW Catering Sales | Valuable Catering Sales Manager Tips](../knowledge/owner-girl/owner-girl-full-form/delivery/grow-catering-sales-valuable-catering-sales.md)
+- **Serial 142 (Owner-girl Video)**: [GROW your Catering Sales with these 7 tips | Effective Restaurant Sales Tips](../knowledge/owner-girl/owner-girl-full-form/delivery/grow-catering-sales-these-7-tips.md)
+- **Serial 157 (Owner-girl Video)**: [REDUCE Order Taking MISTAKES | FOH Manager Tips](../knowledge/owner-girl/owner-girl-full-form/delivery/reduce-order-taking-mistakes-foh-manager.md)
+- **Serial 215 (Owner-girl Video)**: [GROW Your Restaurants DELIVERY Sales | RESTAURANT Marketing TIP](../knowledge/owner-girl/owner-girl-full-form/delivery/grow-restaurants-delivery-sales-restaurant-marketing.md)
 
-## Finance (127 entries)
+## Finance (134 entries)
 
 - **Serial 039**: [Key Information](../knowledge/owner/owner-short-form/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
 - **Serial 043**: [Key Information](../knowledge/owner/owner-short-form/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
@@ -301,8 +325,15 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 238 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/hidden-dangers-cash-management-restaurant-industry.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
 - **Serial 253 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/do-you-disclose-sales-number-staff.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
 - **Serial 296 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/can-you-control-restaurants-profitability.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 007 (Owner-girl Video)**: [😱 DAVE Portnoy Caught Us Off-Guard | 4 Lessons That Could SAVE Your Restaurant](../knowledge/owner-girl/owner-girl-full-form/finance/dave-portnoy-caught-us-off-guard-4.md)
+- **Serial 033 (Owner-girl Video)**: [RESTAURANT Startup Vs Operating Costs tips from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/finance/restaurant-startup-vs-operating-costs-tips.md)
+- **Serial 137 (Owner-girl Video)**: [TOP Restaurant Owner Mistakes | How to avoid UNEXPECTED Restaurant Expenses](../knowledge/owner-girl/owner-girl-full-form/finance/top-restaurant-owner-mistakes-avoid-unexpected.md)
+- **Serial 193 (Owner-girl Video)**: [HOW TO OPEN A RESTAURANT WITH NO MONEY | Start a Restaurant](../knowledge/owner-girl/owner-girl-full-form/finance/open-restaurant-no-money-start-restaurant.md)
+- **Serial 201 (Owner-girl Video)**: [RESTAURANT STARTUP MISTAKES to avoid: How to open a Restaurant](../knowledge/owner-girl/owner-girl-full-form/finance/restaurant-startup-mistakes-avoid-open-restaurant.md)
+- **Serial 248 (Owner-girl Video)**: [5 RESTAURANT STARTUP MISTAKES to AVOID | WHY Restaurants Fail? |](../knowledge/owner-girl/owner-girl-full-form/finance/5-restaurant-startup-mistakes-avoid-restaurants.md)
+- **Serial 255 (Owner-girl Video)**: [RESTAURANT OWNER SALARY | HOW MUCH DOES A RESTAURANT OWNER MAKE?](../knowledge/owner-girl/owner-girl-full-form/finance/restaurant-owner-salary-much-does-restaurant.md)
 
-## Food Cost (82 entries)
+## Food Cost (85 entries)
 
 - **Serial 036**: [Key Information](../knowledge/owner/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
 - **Serial 045**: [Key Information](../knowledge/owner/owner-short-form/food-cost/gourmet-ramen-economics.md) `[food-cost, ramen, inventory-management, shelf-life, average-check]`
@@ -386,15 +417,20 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 315 (Toast Video)**: [Restaurant Inventory Management: How to Calculate & Use PAR Levels to Reduce Food Waste](../knowledge/toast/toast-full-form/food-cost/restaurant-inventory-management-calculate-use.md)
 - **Serial 045 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/food-cost/when-recipe-book-speaks-another-language.md) `[food-cost, recipe-consistency, portion-control, cogs-management]`
 - **Serial 205 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/food-cost/can-easily-be-done-fix-food.md) `[food-cost, recipe-consistency, portion-control, cogs-management]`
+- **Serial 004 (Owner-girl Video)**: [CONTROLLING Restaurant Costs Is Simple If You Focus on This ONE Thing | Cogs Control](../knowledge/owner-girl/owner-girl-full-form/food-cost/controlling-restaurant-costs-simple-if-you.md)
+- **Serial 114 (Owner-girl Video)**: [6 Remarkable Restaurant Portion Control Tips | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/food-cost/6-remarkable-restaurant-portion-control-tips.md)
+- **Serial 213 (Owner-girl Video)**: [How To Get Rid Of Flies At A Restaurant | Restaurant Owner Q&A](../knowledge/owner-girl/owner-girl-full-form/food-cost/get-rid-flies-restaurant-restaurant-owner.md)
 
-## Forecasting (4 entries)
+## Forecasting (6 entries)
 
 - **Serial 481**: [Key Information](../knowledge/owner/owner-short-form/forecasting/forecast-restaurant-sales.md) `[sales-forecasting, demand-forecasting, planning]`
 - **Serial 098 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/forecasting/predicting-holiday-restaurant-demand-with-ai.md) `[demand-forecasting, holiday-prep, sales-prediction, prep-planning]`
 - **Serial 111 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/forecasting/predictive-shift-flagging-before-rushes-occur.md) `[shift-prediction, rush-management, demand-forecasting, labor-optimization]`
 - **Serial 365 (Toast Video)**: [Staff for the Forecast: Trish Rowley on Toast IQ Team](../knowledge/toast/toast-full-form/forecasting/staff-forecast-trish-rowley-iq.md)
+- **Serial 006 (Owner-girl Video)**: [RESTAURANT SALES Projections Formula | Sales Forecasting](../knowledge/owner-girl/owner-girl-full-form/forecasting/restaurant-sales-projections-formula-sales-forecasting.md)
+- **Serial 234 (Owner-girl Video)**: [PARKINSON'S LAW IN RESTAURANTS](../knowledge/owner-girl/owner-girl-full-form/forecasting/parkinsons-law-restaurants.md)
 
-## Inventory (8 entries)
+## Inventory (10 entries)
 
 - **Serial 066 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md) `[inventory-management, par-levels, waste-reduction, ordering-systems]`
 - **Serial 007 (Toast Video)**: [Inventory Control Systems: Sheet-to-Shelf Counting and Stock Variance Prevention](../knowledge/toast/toast-full-form/inventory/restaurant-inventory-nightmares-sheet-to-shelf-counting.md)
@@ -404,6 +440,8 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 158 (Toast Video)**: [Simplifying Retail Inventory and Operations with Toast Retail](../knowledge/toast/toast-full-form/inventory/simplifying-retail-inventory-operations-retail.md)
 - **Serial 168 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/inventory/skillset-must-have-restaurant-business-inventory.md) `[inventory-management, stock-control, par-levels, item-availability]`
 - **Serial 285 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/inventory/do-you-hate-it-if-item.md) `[inventory-management, stock-control, par-levels, item-availability]`
+- **Serial 086 (Owner-girl Video)**: [Out of Stock 86 Report and how to COMMUNICATE with guests](../knowledge/owner-girl/owner-girl-full-form/inventory/out-stock-86-report-communicate-guests.md)
+- **Serial 228 (Owner-girl Video)**: [Restaurant Inventory Management: What system do you use for ordering and keeping track of inventory?](../knowledge/owner-girl/owner-girl-full-form/inventory/restaurant-inventory-management-system-do-you.md)
 
 ## Kitchen (20 entries)
 
@@ -428,7 +466,7 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 098 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/kitchen/delivering-joy-beyond-food-mattengas-journey.md) `[kitchen-operations, station-throughput, food-prep, order-timing]`
 - **Serial 386 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/kitchen/kitchen-flow-systematize-it.md) `[kitchen-operations, station-throughput, food-prep, order-timing]`
 
-## Labour (214 entries)
+## Labour (267 entries)
 
 - **Serial 016**: [Key Information](../knowledge/owner/owner-short-form/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
 - **Serial 041**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
@@ -644,8 +682,61 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 380 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/achieve-good-team-performance-train-peoples.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
 - **Serial 382 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/stop-being-emotional-when-dealing-employee.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
 - **Serial 384 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/quick-tip-improve-customer-service-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 002 (Owner-girl Video)**: [How to Get Your Restaurant staff to Follow the Cleaning Checklist | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/labour/get-restaurant-staff-follow-cleaning-checklist.md)
+- **Serial 010 (Owner-girl Video)**: [How to Enforce Restaurant Rules Without Losing Your Team's Respect](../knowledge/owner-girl/owner-girl-full-form/labour/enforce-restaurant-rules-without-losing-teams.md)
+- **Serial 016 (Owner-girl Video)**: [This MANAGEMENT Style has made me a successful Restaurant Manager](../knowledge/owner-girl/owner-girl-full-form/labour/management-style-has-made-me-successful.md)
+- **Serial 024 (Owner-girl Video)**: [TIPS to be a GREAT Restaurant Manager from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/labour/tips-be-great-restaurant-manager-restaurant.md)
+- **Serial 026 (Owner-girl Video)**: [3 TEAM Building Strategies for Restaurant Managers from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/labour/3-team-building-strategies-restaurant-managers.md)
+- **Serial 027 (Owner-girl Video)**: [The ROLE of a great RESTAURANT MANAGER from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/labour/role-great-restaurant-manager-restaurant-owner.md)
+- **Serial 028 (Owner-girl Video)**: [SHIFT Change Tips for Restaurant Managers from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/labour/shift-change-tips-restaurant-managers-restaurant.md)
+- **Serial 030 (Owner-girl Video)**: [CONFLICT RESOLUTION Top Tips from a Restaurant Owner | Conflict Resolution](../knowledge/owner-girl/owner-girl-full-form/labour/conflict-resolution-top-tips-restaurant-owner.md)
+- **Serial 037 (Owner-girl Video)**: [7 Holiday Staffing Tips in Restaurants | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/labour/7-holiday-staffing-tips-restaurants-restaurant.md)
+- **Serial 039 (Owner-girl Video)**: [10 TIPS For New Restaurant Managers From a  Restaurant Owner | restaurant management](../knowledge/owner-girl/owner-girl-full-form/labour/10-tips-new-restaurant-managers-restaurant.md)
+- **Serial 042 (Owner-girl Video)**: [When to NOT Listen to Staff as a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/labour/when-not-listen-staff-as-restaurant.md)
+- **Serial 044 (Owner-girl Video)**: [EARN the RESPECT of your Staff | Restaurant Manager Tips](../knowledge/owner-girl/owner-girl-full-form/labour/earn-respect-staff-restaurant-manager-tips.md)
+- **Serial 050 (Owner-girl Video)**: [Why Background Checks Are Crucial in Hiring | 3 Lessons Learned from a 'Sex Offender Staff' Case](../knowledge/owner-girl/owner-girl-full-form/labour/background-checks-are-crucial-hiring-3.md)
+- **Serial 051 (Owner-girl Video)**: [Build a Strong Management Team Using Accountability Charts | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/labour/build-strong-management-team-using-accountability.md)
+- **Serial 052 (Owner-girl Video)**: [Restaurant Staff Thief Caught and 4 Lessons Learned | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/labour/restaurant-staff-thief-caught-4-lessons.md)
+- **Serial 056 (Owner-girl Video)**: [Manage team conflict effectively | 3 Top Restaurant Manager Tips](../knowledge/owner-girl/owner-girl-full-form/labour/manage-team-conflict-effectively-3-top.md)
+- **Serial 058 (Owner-girl Video)**: [4 Ways to Manage Team Performance | Top Performance Management System Tips](../knowledge/owner-girl/owner-girl-full-form/labour/4-ways-manage-team-performance-top.md)
+- **Serial 059 (Owner-girl Video)**: [BOOST Employee Morale | Restaurant Manager Tips](../knowledge/owner-girl/owner-girl-full-form/labour/boost-employee-morale-restaurant-manager-tips.md)
+- **Serial 061 (Owner-girl Video)**: [Map Your Success: The Ultimate Employee Experience Roadmap Guide](../knowledge/owner-girl/owner-girl-full-form/labour/map-success-ultimate-employee-experience-roadmap.md)
+- **Serial 064 (Owner-girl Video)**: [How To Write an Incident Report Effectively | Restaurant Management Training](../knowledge/owner-girl/owner-girl-full-form/labour/write-incident-report-effectively-restaurant-management.md)
+- **Serial 066 (Owner-girl Video)**: [7 HR Policies Every Restaurant Owner Must Have | Restaurant Manager Tips](../knowledge/owner-girl/owner-girl-full-form/labour/7-hr-policies-every-restaurant-owner.md)
+- **Serial 067 (Owner-girl Video)**: [The ABSOLUTE Best Way to Control LABOR in your Restaurant | Restaurant Manager Tips](../knowledge/owner-girl/owner-girl-full-form/labour/absolute-best-way-control-labor-restaurant.md)
+- **Serial 082 (Owner-girl Video)**: [Restaurant Manager Log as a RESTAURANT MANAGEMENT TOOL | Restaurant Management System Tip](../knowledge/owner-girl/owner-girl-full-form/labour/restaurant-manager-log-as-restaurant-management.md)
+- **Serial 084 (Owner-girl Video)**: [5 Top Interview Tips | How to ace a job interview easily?](../knowledge/owner-girl/owner-girl-full-form/labour/5-top-interview-tips-ace-job.md)
+- **Serial 085 (Owner-girl Video)**: [TOP Restaurant Manager Success tips | Restaurant Manager Training](../knowledge/owner-girl/owner-girl-full-form/labour/top-restaurant-manager-success-tips-restaurant.md)
+- **Serial 087 (Owner-girl Video)**: [MANAGE People Who Are Hard To Manage | BEST Restaurant Manager Tips](../knowledge/owner-girl/owner-girl-full-form/labour/manage-people-who-are-hard-manage.md)
+- **Serial 088 (Owner-girl Video)**: [WHY Good Employees quit | Restaurant Manager Tips](../knowledge/owner-girl/owner-girl-full-form/labour/good-employees-quit-restaurant-manager-tips.md)
+- **Serial 089 (Owner-girl Video)**: [How to Become a General Restaurant Manager? | Tips to get promoted at work](../knowledge/owner-girl/owner-girl-full-form/labour/become-general-restaurant-manager-tips-get.md)
+- **Serial 093 (Owner-girl Video)**: [Restaurant Management 101: Lead the Team Effectively](../knowledge/owner-girl/owner-girl-full-form/labour/restaurant-management-101-lead-team-effectively.md)
+- **Serial 100 (Owner-girl Video)**: [PRODUCTIVE Restaurant Staff Tips | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/labour/productive-restaurant-staff-tips-restaurant-management.md)
+- **Serial 102 (Owner-girl Video)**: [Effective Workplace Cell Phone Policy for Restaurant Staff | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/labour/effective-workplace-cell-phone-policy-restaurant.md)
+- **Serial 104 (Owner-girl Video)**: [Restroom Policy for Restaurant Employees| Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/labour/restroom-policy-restaurant-employees-restaurant-management.md)
+- **Serial 106 (Owner-girl Video)**: [5 Effective Staff shortage solutions | How to increase job applicants in your restaurant?](../knowledge/owner-girl/owner-girl-full-form/labour/5-effective-staff-shortage-solutions-increase.md)
+- **Serial 108 (Owner-girl Video)**: [The LAST TIME MANAGEMENT video you need to watch | GET MORE TIME, DO ALL THE THINGS](../knowledge/owner-girl/owner-girl-full-form/labour/last-time-management-video-you-need.md)
+- **Serial 110 (Owner-girl Video)**: [ONBOARDING Restaurant Employees | New Employee orientation](../knowledge/owner-girl/owner-girl-full-form/labour/onboarding-restaurant-employees-new-employee-orientation.md)
+- **Serial 117 (Owner-girl Video)**: [Employee vs Employer mindset | How should a Restaurant Owner Think?](../knowledge/owner-girl/owner-girl-full-form/labour/employee-vs-employer-mindset-should-restaurant.md)
+- **Serial 130 (Owner-girl Video)**: [How restaurant workers stay safe during pandemic | What to do when an employee has COVID-19?](../knowledge/owner-girl/owner-girl-full-form/labour/restaurant-workers-stay-safe-during-pandemic.md)
+- **Serial 144 (Owner-girl Video)**: [HOW to REDUCE Restaurant Wait Time Successfully | Restaurant Manager Tips](../knowledge/owner-girl/owner-girl-full-form/labour/reduce-restaurant-wait-time-successfully-restaurant.md)
+- **Serial 158 (Owner-girl Video)**: [How to INCREASE employee engagement and retention | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/labour/increase-employee-engagement-retention-restaurant-management.md)
+- **Serial 161 (Owner-girl Video)**: [A quick tip to INCREASE your team productivity | Restaurant Management Tip](../knowledge/owner-girl/owner-girl-full-form/labour/quick-tip-increase-team-productivity-restaurant.md)
+- **Serial 165 (Owner-girl Video)**: [The BEST Restaurant Employee Retention Strategy | Restaurant Management](../knowledge/owner-girl/owner-girl-full-form/labour/best-restaurant-employee-retention-strategy-restaurant.md)
+- **Serial 166 (Owner-girl Video)**: [Interview with a Restaurant Owner Entrepreneur](../knowledge/owner-girl/owner-girl-full-form/labour/interview-restaurant-owner-entrepreneur.md)
+- **Serial 183 (Owner-girl Video)**: [My TOP Employee Retention Strategy | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/labour/my-top-employee-retention-strategy-restaurant.md)
+- **Serial 184 (Owner-girl Video)**: [7 Reasons Why Restaurant Employees Quit | Restaurant Management](../knowledge/owner-girl/owner-girl-full-form/labour/7-reasons-restaurant-employees-quit-restaurant.md)
+- **Serial 216 (Owner-girl Video)**: [HOW TO MAKE YOUR RESTAURANT STAFF FEEL VALUED | RESTAURANT MANAGEMENT TIP](../knowledge/owner-girl/owner-girl-full-form/labour/make-restaurant-staff-feel-valued-restaurant.md)
+- **Serial 217 (Owner-girl Video)**: [3 Tips To Becoming A Better RESTAURANT MANAGER | RESTAURANT MANAGEMENT TIP](../knowledge/owner-girl/owner-girl-full-form/labour/3-tips-becoming-better-restaurant-manager.md)
+- **Serial 218 (Owner-girl Video)**: [Restaurant MANAGER Communication Tips | RESTAURANT MANAGEMENT TIP](../knowledge/owner-girl/owner-girl-full-form/labour/restaurant-manager-communication-tips-restaurant-management.md)
+- **Serial 219 (Owner-girl Video)**: [Keep Restaurant Staff ON TASK | RESTAURANT MANAGEMENT TIP](../knowledge/owner-girl/owner-girl-full-form/labour/keep-restaurant-staff-task-restaurant-management.md)
+- **Serial 222 (Owner-girl Video)**: [HOW TO BE A GOOD RESTAURANT MANAGER | RESTAURANT MANAGEMENT TIPS](../knowledge/owner-girl/owner-girl-full-form/labour/be-good-restaurant-manager-restaurant-management.md)
+- **Serial 230 (Owner-girl Video)**: [HOW TO WRITE AN INCIDENT REPORT - Restaurant Management](../knowledge/owner-girl/owner-girl-full-form/labour/write-incident-report-restaurant-management.md)
+- **Serial 231 (Owner-girl Video)**: [3 REASONS WHY TO STOP TEXTING YOUR RESTAURANT STAFF](../knowledge/owner-girl/owner-girl-full-form/labour/3-reasons-stop-texting-restaurant-staff.md)
+- **Serial 236 (Owner-girl Video)**: [SHOULD YOU FIRE A STAFF MEMBER FOR BASHING ANOTHER TEAM MEMBER ONLINE?](../knowledge/owner-girl/owner-girl-full-form/labour/should-you-fire-staff-member-bashing.md)
+- **Serial 252 (Owner-girl Video)**: [Leadership Excellence: Learn to Model Success for Managerial Growth](../knowledge/owner-girl/owner-girl-full-form/labour/leadership-excellence-learn-model-success-managerial.md)
 
-## Marketing (151 entries)
+## Marketing (190 entries)
 
 - **Serial 002**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
 - **Serial 003**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
@@ -798,8 +889,47 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 302 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/marketing/reviews-matter.md) `[restaurant-marketing, email-marketing, review-generation, customer-acquisition]`
 - **Serial 308 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/marketing/sales-vs-marketing-do-you-handle.md) `[restaurant-marketing, email-marketing, review-generation, customer-acquisition]`
 - **Serial 315 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/marketing/much-should-you-spend-marketing-unlock.md) `[restaurant-marketing, email-marketing, review-generation, customer-acquisition]`
+- **Serial 005 (Owner-girl Video)**: [3 RESTAURANT MARKETING Strategies That Actually Work in 2025](../knowledge/owner-girl/owner-girl-full-form/marketing/3-restaurant-marketing-strategies-actually-work.md)
+- **Serial 014 (Owner-girl Video)**: [10 Steps to Master Monthly Restaurant Marketing with AI Power! 🚀](../knowledge/owner-girl/owner-girl-full-form/marketing/10-steps-master-monthly-restaurant-marketing.md)
+- **Serial 015 (Owner-girl Video)**: [ULTIMATE Restaurant Marketing System Assessment for Maximum Profit](../knowledge/owner-girl/owner-girl-full-form/marketing/ultimate-restaurant-marketing-system-assessment-maximum.md)
+- **Serial 018 (Owner-girl Video)**: [TOP Email Marketing Tips using Ai ChatGPT as a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/marketing/top-email-marketing-tips-using-ai.md)
+- **Serial 031 (Owner-girl Video)**: [HOLIDAY Marketing Tips from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/marketing/holiday-marketing-tips-restaurant-owner.md)
+- **Serial 041 (Owner-girl Video)**: [OFFLINE Marketing Tips as a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/marketing/offline-marketing-tips-as-restaurant-owner.md)
+- **Serial 072 (Owner-girl Video)**: [GROW Restaurant Sales Successfully | Restaurant Owner Top Tips](../knowledge/owner-girl/owner-girl-full-form/marketing/grow-restaurant-sales-successfully-restaurant-owner.md)
+- **Serial 074 (Owner-girl Video)**: [TOP Marketing Strategies to Launch a Restaurant | How to Open a Successful Restaurant](../knowledge/owner-girl/owner-girl-full-form/marketing/top-marketing-strategies-launch-restaurant-open.md)
+- **Serial 138 (Owner-girl Video)**: [How to GROW your Restaurant SALES in May | TOP Restaurant Marketing Tips](../knowledge/owner-girl/owner-girl-full-form/marketing/grow-restaurant-sales-may-top-restaurant.md)
+- **Serial 141 (Owner-girl Video)**: [Restaurant Promotion SUCCESS 3 Tips | Effective Restaurant Marketing Tips](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-promotion-success-3-tips-effective.md)
+- **Serial 147 (Owner-girl Video)**: [🍕 Ultimate Restaurant Marketing Planner | April Restaurant Marketing](../knowledge/owner-girl/owner-girl-full-form/marketing/ultimate-restaurant-marketing-planner-april-restaurant.md)
+- **Serial 150 (Owner-girl Video)**: [Restaurant Social Media Strategy DURING CORONA | Restaurant Owner Tip](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-social-media-strategy-during-corona.md)
+- **Serial 159 (Owner-girl Video)**: [RESTAURANT MARKETING PLANNER March edition | FREE Planner](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-marketing-planner-march-edition-free.md)
+- **Serial 171 (Owner-girl Video)**: [Restaurant Marketing Planner 2020 | Restaurant Marketing](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-marketing-planner-2020-restaurant-marketing.md)
+- **Serial 172 (Owner-girl Video)**: [GROW your restaurant sales with Text Marketing | Restaurant Marketing](../knowledge/owner-girl/owner-girl-full-form/marketing/grow-restaurant-sales-text-marketing-restaurant.md)
+- **Serial 174 (Owner-girl Video)**: [Restaurant Social Media Mistakes | Restaurant Marketing](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-social-media-mistakes-restaurant-marketing.md)
+- **Serial 176 (Owner-girl Video)**: [WHAT TO TEXT RESTAURANT CUSTOMERS? Restaurant TEXT Message Marketing Tips | SMS Marketing](../knowledge/owner-girl/owner-girl-full-form/marketing/text-restaurant-customers-restaurant-text-message.md)
+- **Serial 179 (Owner-girl Video)**: [Halloween Marketing Plan and Checklist | Restaurant Marketing Strategy](../knowledge/owner-girl/owner-girl-full-form/marketing/halloween-marketing-plan-checklist-restaurant-marketing.md)
+- **Serial 180 (Owner-girl Video)**: [📲 HOW DOES TEXT MESSAGE MARKETING WORK | SMS Marketing Tips](../knowledge/owner-girl/owner-girl-full-form/marketing/does-text-message-marketing-work-sms.md)
+- **Serial 181 (Owner-girl Video)**: [Activate Your Restaurants Landline for TEXTING](../knowledge/owner-girl/owner-girl-full-form/marketing/activate-restaurants-landline-texting.md)
+- **Serial 182 (Owner-girl Video)**: [Text your Business Landline | Activate Your Landline for Texting](../knowledge/owner-girl/owner-girl-full-form/marketing/text-business-landline-activate-landline-texting.md)
+- **Serial 185 (Owner-girl Video)**: [Unique Restaurant Marketing Idea: effective and affordable](../knowledge/owner-girl/owner-girl-full-form/marketing/unique-restaurant-marketing-idea-effective-affordable.md)
+- **Serial 187 (Owner-girl Video)**: [TEXT MESSAGE MARKETING FOR RESTAURANTS in 2019 | Restaurant Marketing](../knowledge/owner-girl/owner-girl-full-form/marketing/text-message-marketing-restaurants-2019-restaurant.md)
+- **Serial 188 (Owner-girl Video)**: [WHY YOUR SERVERS DON’T UPSELL CONSISTENTLY | Restaurant Marketing Show](../knowledge/owner-girl/owner-girl-full-form/marketing/servers-dont-upsell-consistently-restaurant-marketing.md)
+- **Serial 189 (Owner-girl Video)**: [RESTAURANT MARKETING STRATEGIES TO BRING CUSTOMERS BACK](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-marketing-strategies-bring-customers-back.md)
+- **Serial 190 (Owner-girl Video)**: [The impact of restaurant Upselling | Restaurant Marketing Show](../knowledge/owner-girl/owner-girl-full-form/marketing/impact-restaurant-upselling-restaurant-marketing-show.md)
+- **Serial 191 (Owner-girl Video)**: [RESTAURANT SOCIAL MEDIA MARKETING Tips |  Restaurant Marketing Tip](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-social-media-marketing-tips-restaurant.md)
+- **Serial 194 (Owner-girl Video)**: [RESTAURANT MARKETING NUMBERS TO TRACK | Strategy](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-marketing-numbers-track-strategy.md)
+- **Serial 195 (Owner-girl Video)**: [5 RESTAURANT MARKETING TIPS | SMALL TOWN MARKETING IDEAS](../knowledge/owner-girl/owner-girl-full-form/marketing/5-restaurant-marketing-tips-small-town.md)
+- **Serial 196 (Owner-girl Video)**: [How to Run a Successful Coupon Marketing Campaign | Restaurant Marketing](../knowledge/owner-girl/owner-girl-full-form/marketing/run-successful-coupon-marketing-campaign-restaurant.md)
+- **Serial 199 (Owner-girl Video)**: [HOW TO INCREASE YOUR LUNCH SALES | Restaurant Marketing Ideas](../knowledge/owner-girl/owner-girl-full-form/marketing/increase-lunch-sales-restaurant-marketing-ideas.md)
+- **Serial 202 (Owner-girl Video)**: [VALENTINE'S DAY RESTAURANT PROMOTION - Restaurant Marketing tips](../knowledge/owner-girl/owner-girl-full-form/marketing/valentines-day-restaurant-promotion-restaurant.md)
+- **Serial 204 (Owner-girl Video)**: [Franchise restaurant missing LOCAL marketing strategy - Restaurant Marketing 2019](../knowledge/owner-girl/owner-girl-full-form/marketing/franchise-restaurant-missing-local-marketing-strategy.md)
+- **Serial 206 (Owner-girl Video)**: [SUPER BOWL RESTAURANT MARKETING TRAINING -  Restaurant Marketing tips](../knowledge/owner-girl/owner-girl-full-form/marketing/super-bowl-restaurant-marketing-training.md)
+- **Serial 207 (Owner-girl Video)**: [Chamber of Commerce Benefits  | 10 Reasons why you should JOIN your Chamber of Commerce](../knowledge/owner-girl/owner-girl-full-form/marketing/chamber-commerce-benefits-10-reasons-you.md)
+- **Serial 208 (Owner-girl Video)**: [How to market your restaurant in 2019 Restaurant | Restaurants Marketing](../knowledge/owner-girl/owner-girl-full-form/marketing/market-restaurant-2019-restaurant-restaurants-marketing.md)
+- **Serial 210 (Owner-girl Video)**: [CHEAPEST WAY TO MARKET YOUR  RESTAURANT | Restaurant marketing ideas](../knowledge/owner-girl/owner-girl-full-form/marketing/cheapest-way-market-restaurant-restaurant-marketing.md)
+- **Serial 212 (Owner-girl Video)**: [Restaurant Marketing Strategies: Dominate Your Local Scene by Participating in City Events!](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-marketing-strategies-dominate-local-scene.md)
+- **Serial 247 (Owner-girl Video)**: [BEFORE MARKETING YOUR RESTAURANT | 3 THINGS TO FIX](../knowledge/owner-girl/owner-girl-full-form/marketing/before-marketing-restaurant-3-things-fix.md)
 
-## Menu (120 entries)
+## Menu (124 entries)
 
 - **Serial 014**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
 - **Serial 021**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
@@ -921,8 +1051,12 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 212 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/menu/continue-serve-vegan-options-restaurant-business.md) `[menu-engineering, item-availability, pricing-strategy, vegan-options]`
 - **Serial 213 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/menu/should-you-consider-adding-vegan-options.md) `[menu-engineering, item-availability, pricing-strategy, vegan-options]`
 - **Serial 214 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/menu/should-you-add-vegan-option-restaurant.md) `[menu-engineering, item-availability, pricing-strategy, vegan-options]`
+- **Serial 017 (Owner-girl Video)**: [🔥5 Menu Engineering Secrets | Boost Your Restaurant Sales #menuengineering](../knowledge/owner-girl/owner-girl-full-form/menu/5-menu-engineering-secrets-boost-restaurant.md)
+- **Serial 083 (Owner-girl Video)**: [Menu Engineering Tips | How to price restaurant menu effectively?](../knowledge/owner-girl/owner-girl-full-form/menu/menu-engineering-tips-price-restaurant-menu.md)
+- **Serial 173 (Owner-girl Video)**: [SHOULD YOUR RESTAURANT OFFER BREAKFAST? | Restaurant Marketing Tip](../knowledge/owner-girl/owner-girl-full-form/menu/should-restaurant-offer-breakfast-restaurant-marketing.md)
+- **Serial 197 (Owner-girl Video)**: [RAISE PRICES WITHOUT LOSING CUSTOMERS | Restaurant Marketing](../knowledge/owner-girl/owner-girl-full-form/menu/raise-prices-without-losing-customers-restaurant.md)
 
-## Operations (560 entries)
+## Operations (670 entries)
 
 - **Serial 007**: [Key Information](../knowledge/owner/owner-short-form/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
 - **Serial 012**: [Key Information](../knowledge/owner/owner-short-form/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
@@ -1484,6 +1618,116 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 388 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/would-you-eat-restaurant-dirty-restroom.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
 - **Serial 390 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/turn-around-failing-restaurant-2.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
 - **Serial 394 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/hey-its-healthy-be-little-paranoid.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 001 (Owner-girl Video)**: [Is Owner.com Worth It In 2026? Full Review](../knowledge/owner-girl/owner-girl-full-form/operations/ownercom-worth-it-2026-full-review.md)
+- **Serial 020 (Owner-girl Video)**: [RESTAURANT BUSINESS Plan TOP Tips from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-business-plan-top-tips-restaurant.md)
+- **Serial 021 (Owner-girl Video)**: [WRITE a Business PLAN that Works as a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/operations/write-business-plan-works-as-restaurant.md)
+- **Serial 022 (Owner-girl Video)**: [3 MISTAKES to avoid when Opening a Restaurant from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/operations/3-mistakes-avoid-when-opening-restaurant.md)
+- **Serial 023 (Owner-girl Video)**: [12 WAYS to use AI to GROW YOUR Restaurant SALES from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/operations/12-ways-use-ai-grow-restaurant.md)
+- **Serial 025 (Owner-girl Video)**: [5 Common Restaurant Complaints and How to Handle Them Like a Pro](../knowledge/owner-girl/owner-girl-full-form/operations/5-common-restaurant-complaints-handle-them.md)
+- **Serial 032 (Owner-girl Video)**: [The Secret to Boosting Holiday Profits in Restaurants](../knowledge/owner-girl/owner-girl-full-form/operations/secret-boosting-holiday-profits-restaurants.md)
+- **Serial 034 (Owner-girl Video)**: [Effective RESTAURANT OWNER Tips | Guide to Opening a Restaurant](../knowledge/owner-girl/owner-girl-full-form/operations/effective-restaurant-owner-tips-guide-opening.md)
+- **Serial 035 (Owner-girl Video)**: [5 REASONS WHY RESTAURANTS FAIL | Tips for Restaurant Growth and Success](../knowledge/owner-girl/owner-girl-full-form/operations/5-reasons-restaurants-fail-tips-restaurant.md)
+- **Serial 036 (Owner-girl Video)**: [Boost Your Restaurant Sales this Holiday Season: Insider Strategies](../knowledge/owner-girl/owner-girl-full-form/operations/boost-restaurant-sales-holiday-season-insider.md)
+- **Serial 038 (Owner-girl Video)**: [TOUR Sysco Food Distribution Behind the Scenes with us](../knowledge/owner-girl/owner-girl-full-form/operations/tour-sysco-food-distribution-behind-scenes.md)
+- **Serial 040 (Owner-girl Video)**: [⛔️WARNING: 5 Mistakes to Avoid for Consistent Food Service as a Restaurant owner](../knowledge/owner-girl/owner-girl-full-form/operations/warning-5-mistakes-avoid-consistent-food.md)
+- **Serial 043 (Owner-girl Video)**: [RESTAURANT Call Out No Call No Show Policy | Restaurant Management](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-call-out-no-call-no.md)
+- **Serial 045 (Owner-girl Video)**: [How to FIRE a Customer Nicely | Restaurant Customer Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/fire-customer-nicely-restaurant-customer-management.md)
+- **Serial 046 (Owner-girl Video)**: [Boost Your Restaurant Brand: Get Featured on Local TV Stations Now!](../knowledge/owner-girl/owner-girl-full-form/operations/boost-restaurant-brand-get-featured-local.md)
+- **Serial 047 (Owner-girl Video)**: [3 RESTAURANT OWNER Blind Spots | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/3-restaurant-owner-blind-spots-restaurant.md)
+- **Serial 048 (Owner-girl Video)**: [7 Strategies for Staying Ahead in the Restaurant Industry | Restaurant Management](../knowledge/owner-girl/owner-girl-full-form/operations/7-strategies-staying-ahead-restaurant-industry.md)
+- **Serial 049 (Owner-girl Video)**: [STREAMLINE Your Restaurant Operations | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/streamline-restaurant-operations-restaurant-owner-tips.md)
+- **Serial 053 (Owner-girl Video)**: [Create a Restaurant Inspection Form with these tips | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/create-restaurant-inspection-form-these-tips.md)
+- **Serial 054 (Owner-girl Video)**: [Creating the Perfect Restaurant Atmosphere: Tips and Tricks from a Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/operations/creating-perfect-restaurant-atmosphere-tips-tricks.md)
+- **Serial 055 (Owner-girl Video)**: [How Reviews Drive Restaurant Business Success | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/reviews-drive-restaurant-business-success-restaurant.md)
+- **Serial 057 (Owner-girl Video)**: [Empower Your Year: Lessons in Word of the Year Selection from a Restaurateur](../knowledge/owner-girl/owner-girl-full-form/operations/empower-year-lessons-word-year-selection.md)
+- **Serial 060 (Owner-girl Video)**: [Creating a GRAND Vision for your Restaurant l A Professional StandPoint](../knowledge/owner-girl/owner-girl-full-form/operations/creating-grand-vision-restaurant-l-professional.md)
+- **Serial 062 (Owner-girl Video)**: [Watch this BEFORE Franchising or Buying a Franchise!](../knowledge/owner-girl/owner-girl-full-form/operations/watch-before-franchising-buying-franchise.md)
+- **Serial 065 (Owner-girl Video)**: [5 Effective Tips to handle the STRESS of a NEW Job | Restaurant Owner Advice](../knowledge/owner-girl/owner-girl-full-form/operations/5-effective-tips-handle-stress-new.md)
+- **Serial 068 (Owner-girl Video)**: [How to WORK ON your Restaurant business vs. WORK IN it | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/work-restaurant-business-vs-work-it.md)
+- **Serial 069 (Owner-girl Video)**: [5 Tips to RECESSION Proof your RESTAURANT | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/5-tips-recession-proof-restaurant-restaurant.md)
+- **Serial 070 (Owner-girl Video)**: [FIRED after 13 years working at Starbucks | Restaurant Owner Reaction](../knowledge/owner-girl/owner-girl-full-form/operations/fired-after-13-years-working-starbucks.md)
+- **Serial 071 (Owner-girl Video)**: [Cell Phone at Work Effectively | Restaurant Owner Advice](../knowledge/owner-girl/owner-girl-full-form/operations/cell-phone-work-effectively-restaurant-owner.md)
+- **Serial 073 (Owner-girl Video)**: [5 Ways to HANDLE STRESS of owning a Restaurant Business](../knowledge/owner-girl/owner-girl-full-form/operations/5-ways-handle-stress-owning-restaurant.md)
+- **Serial 075 (Owner-girl Video)**: [5 Restaurant Business Success Tips  | How to run a Successful Restaurant](../knowledge/owner-girl/owner-girl-full-form/operations/5-restaurant-business-success-tips-run.md)
+- **Serial 076 (Owner-girl Video)**: [How These Former Engineers Found Success in the Restaurant Business](../knowledge/owner-girl/owner-girl-full-form/operations/these-former-engineers-found-success-restaurant.md)
+- **Serial 077 (Owner-girl Video)**: [LET'S GO TO PIZZA EXPO | Best Experience at Pizza EXPO Vegas 2022](../knowledge/owner-girl/owner-girl-full-form/operations/lets-go-pizza-expo-best-experience.md)
+- **Serial 078 (Owner-girl Video)**: [Flip Through MODERNIST PIZZA Book Review | Why this is the Best modernist pizza book](../knowledge/owner-girl/owner-girl-full-form/operations/flip-through-modernist-pizza-book-review.md)
+- **Serial 079 (Owner-girl Video)**: [How to expand a restaurant to multiple locations in 3 months](../knowledge/owner-girl/owner-girl-full-form/operations/expand-restaurant-multiple-locations-3-months.md)
+- **Serial 081 (Owner-girl Video)**: [Managing Smoke Breaks for a Safe Workplace | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/managing-smoke-breaks-safe-workplace-restaurant.md)
+- **Serial 090 (Owner-girl Video)**: [SYSTEMATIZE your restaurant business successfully | Restaurant systems](../knowledge/owner-girl/owner-girl-full-form/operations/systematize-restaurant-business-successfully-restaurant-systems.md)
+- **Serial 091 (Owner-girl Video)**: [Restaurant LABOR Shortage TIPS |  Restaurant Owner's Advice](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-labor-shortage-tips-restaurant-owners.md)
+- **Serial 092 (Owner-girl Video)**: [Run a Successful Restaurant Remotely with these 5 steps | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/run-successful-restaurant-remotely-these-5.md)
+- **Serial 094 (Owner-girl Video)**: [Is working 80 hours a week worth it? | How to run a profitable restaurant and manage time](../knowledge/owner-girl/owner-girl-full-form/operations/working-80-hours-week-worth-it.md)
+- **Serial 097 (Owner-girl Video)**: [EARN your Pizza Expo 2021 Trip Easily | Pizza Expo Vegas](../knowledge/owner-girl/owner-girl-full-form/operations/earn-pizza-expo-2021-trip-easily.md)
+- **Serial 098 (Owner-girl Video)**: [FIRE a customer elegantly | Firing a Client](../knowledge/owner-girl/owner-girl-full-form/operations/fire-customer-elegantly-firing-client.md)
+- **Serial 099 (Owner-girl Video)**: [EXCEED Customer Expectations | How to Improve Restaurant Service](../knowledge/owner-girl/owner-girl-full-form/operations/exceed-customer-expectations-improve-restaurant-service.md)
+- **Serial 101 (Owner-girl Video)**: [HOW TO FIRE someone gracefully in less than 3 minutes | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/fire-someone-gracefully-less-than-3.md)
+- **Serial 107 (Owner-girl Video)**: [DELEGATE tasks effectively | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/delegate-tasks-effectively-restaurant-management-tips.md)
+- **Serial 109 (Owner-girl Video)**: [RESTAURANT Partnership Advice | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-partnership-advice-restaurant-management-tips.md)
+- **Serial 111 (Owner-girl Video)**: [4 PERFORMANCE Management Tips | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/4-performance-management-tips-restaurant-management.md)
+- **Serial 112 (Owner-girl Video)**: [OPENING A RESTAURANT Tips | How to Start a Restaurant Successfully](../knowledge/owner-girl/owner-girl-full-form/operations/opening-restaurant-tips-start-restaurant-successfully.md)
+- **Serial 113 (Owner-girl Video)**: [Take Time OFF from your Restaurant | Restaurant Owners Guide to Freedom](../knowledge/owner-girl/owner-girl-full-form/operations/take-time-off-restaurant-restaurant-owners.md)
+- **Serial 115 (Owner-girl Video)**: [Successful Restaurant Business Planning | Q4 Priorities and Projects for a restaurant owner](../knowledge/owner-girl/owner-girl-full-form/operations/successful-restaurant-business-planning-q4-priorities.md)
+- **Serial 118 (Owner-girl Video)**: [ASSESS a Restaurant Opportunity | BUYING A RESTAURANT TIPS](../knowledge/owner-girl/owner-girl-full-form/operations/assess-restaurant-opportunity-buying-restaurant-tips.md)
+- **Serial 119 (Owner-girl Video)**: [COACH Poor Performance | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/operations/coach-poor-performance-restaurant-management-tips.md)
+- **Serial 120 (Owner-girl Video)**: [37 RESTAURANT SYSTEMS | Run a restaurant successfully](../knowledge/owner-girl/owner-girl-full-form/operations/37-restaurant-systems-run-restaurant-successfully.md)
+- **Serial 121 (Owner-girl Video)**: [RESTAURANT OWNER Responsibilities | How to ask for a Raise?](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-owner-responsibilities-ask-raise.md)
+- **Serial 122 (Owner-girl Video)**: [REDUCE Guest Complaints in Your Restaurant](../knowledge/owner-girl/owner-girl-full-form/operations/reduce-guest-complaints-restaurant.md)
+- **Serial 126 (Owner-girl Video)**: [How Local Restaurants Survive Amid the Pandemic | Restaurant Owner Innovative Tips](../knowledge/owner-girl/owner-girl-full-form/operations/local-restaurants-survive-amid-pandemic-restaurant.md)
+- **Serial 131 (Owner-girl Video)**: [How to run a restaurant successfully | Scheduling Software for Restaurant](../knowledge/owner-girl/owner-girl-full-form/operations/run-restaurant-successfully-scheduling-software-restaurant.md)
+- **Serial 132 (Owner-girl Video)**: [BEAT your Restaurant Competition | How to win competition in restaurant business](../knowledge/owner-girl/owner-girl-full-form/operations/beat-restaurant-competition-win-competition-restaurant.md)
+- **Serial 133 (Owner-girl Video)**: [7 Tips to TURN AROUND a Failing restaurant |  Tips for restaurant owners](../knowledge/owner-girl/owner-girl-full-form/operations/7-tips-turn-around-failing-restaurant.md)
+- **Serial 134 (Owner-girl Video)**: [5 TOP Restaurant Management Tips | Restaurant Owner's GUIDE TO FREEDOM](../knowledge/owner-girl/owner-girl-full-form/operations/5-top-restaurant-management-tips-restaurant.md)
+- **Serial 135 (Owner-girl Video)**: [6 Tips to making your JOB POSTINGS Stand Out | Best Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/6-tips-making-job-postings-stand.md)
+- **Serial 136 (Owner-girl Video)**: [CALCULATE Restaurant Break-Even Point in LESS than 5 minutes!](../knowledge/owner-girl/owner-girl-full-form/operations/calculate-restaurant-break-even-point-less-than.md)
+- **Serial 139 (Owner-girl Video)**: [7 Things Restaurants MUST do AFTER the Pandemic Lockdown | Effective Restaurant Sales Tips](../knowledge/owner-girl/owner-girl-full-form/operations/7-things-restaurants-must-do-after.md)
+- **Serial 140 (Owner-girl Video)**: [How this Restaurant is GROWING their Sales in During the Pandemic | Restaurant Sales Tips](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-growing-their-sales-during-pandemic.md)
+- **Serial 143 (Owner-girl Video)**: [10 Tips to craft a SUCCESSFUL Restaurant Meal Kit | Restaurant Owner Advice](../knowledge/owner-girl/owner-girl-full-form/operations/10-tips-craft-successful-restaurant-meal.md)
+- **Serial 145 (Owner-girl Video)**: [Restaurant Owner tips to WIN during pandemic | Restaurant Owner Advice](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-owner-tips-win-during-pandemic.md)
+- **Serial 146 (Owner-girl Video)**: [How to Manage Stress Effectively | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/manage-stress-effectively-restaurant-owner-tips.md)
+- **Serial 148 (Owner-girl Video)**: [How to come back stronger after Corona | Top Restaurant Owner Advice](../knowledge/owner-girl/owner-girl-full-form/operations/come-back-stronger-after-corona-top.md)
+- **Serial 149 (Owner-girl Video)**: [Restaurant Owners Lessons Learned Thanks to Corona | Restaurant Owner Tip](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-owners-lessons-learned-thanks-corona.md)
+- **Serial 151 (Owner-girl Video)**: [Do THIS if your Restaurant is closed to Corona | Restaurant Owner Tip](../knowledge/owner-girl/owner-girl-full-form/operations/do-if-restaurant-closed-corona-restaurant.md)
+- **Serial 152 (Owner-girl Video)**: [Restaurants with Record SALES During Corona | Restaurant Owner Tip](../knowledge/owner-girl/owner-girl-full-form/operations/restaurants-record-sales-during-corona-restaurant.md)
+- **Serial 153 (Owner-girl Video)**: [Restaurant Owner Voice Your Opinion | Restaurant Owner Tip](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-owner-voice-opinion-restaurant-owner.md)
+- **Serial 154 (Owner-girl Video)**: [Crank Up your Restaurants Gratitude Department | Restaurant Owner Tip](../knowledge/owner-girl/owner-girl-full-form/operations/crank-up-restaurants-gratitude-department-restaurant.md)
+- **Serial 155 (Owner-girl Video)**: [5 Tips to NOT Lose Restaurant Sales to Coronavirus | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/5-tips-not-lose-restaurant-sales.md)
+- **Serial 156 (Owner-girl Video)**: [THE KEY to a Restaurant Owners freedom | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/operations/key-restaurant-owners-freedom-restaurant-owner.md)
+- **Serial 160 (Owner-girl Video)**: [When the cat is away, the mice will play | Restaurant Management tip](../knowledge/owner-girl/owner-girl-full-form/operations/when-cat-away-mice-will-play.md)
+- **Serial 162 (Owner-girl Video)**: [WALK purposefully | Restaurant Management Tip](../knowledge/owner-girl/owner-girl-full-form/operations/walk-purposefully-restaurant-management-tip.md)
+- **Serial 164 (Owner-girl Video)**: [80/20 Rule in Your Restaurant | Restaurant Owner](../knowledge/owner-girl/owner-girl-full-form/operations/8020-rule-restaurant-restaurant-owner.md)
+- **Serial 170 (Owner-girl Video)**: [10 PRACTICAL Restaurant Instagram Tips](../knowledge/owner-girl/owner-girl-full-form/operations/10-practical-restaurant-instagram-tips.md)
+- **Serial 175 (Owner-girl Video)**: [3 WAYS TO BE A COMMUNITY LEADER AS A RESTAURANT OWNER](../knowledge/owner-girl/owner-girl-full-form/operations/3-ways-be-community-leader-as.md)
+- **Serial 177 (Owner-girl Video)**: [7 Tips to GROW Your Restaurants Sales out of a Sales Dip | Restaurant Sales Tip](../knowledge/owner-girl/owner-girl-full-form/operations/7-tips-grow-restaurants-sales-out.md)
+- **Serial 178 (Owner-girl Video)**: [Monthly Customer Impact Report](../knowledge/owner-girl/owner-girl-full-form/operations/monthly-customer-impact-report.md)
+- **Serial 186 (Owner-girl Video)**: [How to CHOOSE A RESTAURANT LOCATION | 12 tips to selecting a restaurant location](../knowledge/owner-girl/owner-girl-full-form/operations/choose-restaurant-location-12-tips-selecting.md)
+- **Serial 192 (Owner-girl Video)**: [Disaster Ready: 5 Essential Tips for Restaurant Owners](../knowledge/owner-girl/owner-girl-full-form/operations/disaster-ready-5-essential-tips-restaurant.md)
+- **Serial 198 (Owner-girl Video)**: [Ben E. Keith Food Show | Ben E. Keith Food Distribution](../knowledge/owner-girl/owner-girl-full-form/operations/ben-e-keith-food-show-ben.md)
+- **Serial 200 (Owner-girl Video)**: [HOW TO EXCEED CUSTOMER EXPECTATIONS | 3 tips to get more restaurant 5 star reviews](../knowledge/owner-girl/owner-girl-full-form/operations/exceed-customer-expectations-3-tips-get.md)
+- **Serial 203 (Owner-girl Video)**: [FACEBOOK GROUPS | HOW TO MARKET YOUR RESTAURANT ON FACEBOOK GROUPS](../knowledge/owner-girl/owner-girl-full-form/operations/facebook-groups-market-restaurant-facebook-groups.md)
+- **Serial 205 (Owner-girl Video)**: [RESTAURANT SWOT ANALYSIS - How to conduct a swot analysis for your restaurant](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-swot-analysis-conduct-swot.md)
+- **Serial 209 (Owner-girl Video)**: [Serving a 28' Pizza on KSAT News TV](../knowledge/owner-girl/owner-girl-full-form/operations/serving-28-pizza-ksat-news-tv.md)
+- **Serial 214 (Owner-girl Video)**: [Restaurant Gift Card Program Through Your POS System | Restaurant Owner Q&A](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-gift-card-program-through-pos.md)
+- **Serial 220 (Owner-girl Video)**: [HOW TO MANAGE A RESTAURANT | RESTAURANT MANAGEMENT TIP](../knowledge/owner-girl/owner-girl-full-form/operations/manage-restaurant-restaurant-management-tip.md)
+- **Serial 221 (Owner-girl Video)**: [8 WAYS to INCREASE Restaurants ONLINE ORDERS](../knowledge/owner-girl/owner-girl-full-form/operations/8-ways-increase-restaurants-online-orders.md)
+- **Serial 223 (Owner-girl Video)**: [WAYS TO INCREASE YOUR RESTAURANT SALES AND INFLUENCE](../knowledge/owner-girl/owner-girl-full-form/operations/ways-increase-restaurant-sales-influence.md)
+- **Serial 226 (Owner-girl Video)**: [How to create Restaurant LOYALTY PUNCH Cards](../knowledge/owner-girl/owner-girl-full-form/operations/create-restaurant-loyalty-punch-cards.md)
+- **Serial 227 (Owner-girl Video)**: [Restaurant security and surveillance system | RESTAURANT OWNER CONVERSATIONS](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-security-surveillance-system-restaurant-owner.md)
+- **Serial 229 (Owner-girl Video)**: [REASONS WHY YOU'RE SELLING YOUR RESTAURANT SHORT](../knowledge/owner-girl/owner-girl-full-form/operations/reasons-youre-selling-restaurant-short.md)
+- **Serial 232 (Owner-girl Video)**: [RAMIFICATIONS OF AN UN-BUSSED TABLE](../knowledge/owner-girl/owner-girl-full-form/operations/ramifications-un-bussed-table.md)
+- **Serial 233 (Owner-girl Video)**: [Restaurant Owner Diaries: SOMEONE BROKE INTO OUR RESTAURANT!](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-owner-diaries-someone-broke-into.md)
+- **Serial 235 (Owner-girl Video)**: [RESTAURANT OWNER LIFE: Restaurant Sales Goals, Quarterly Meeting](../knowledge/owner-girl/owner-girl-full-form/operations/restaurant-owner-life-restaurant-sales-goals.md)
+- **Serial 238 (Owner-girl Video)**: [Why Your Customers Should Be Your Friends | Powerful Insights for Small Business Owners](../knowledge/owner-girl/owner-girl-full-form/operations/customers-should-be-friends-powerful-insights.md)
+- **Serial 241 (Owner-girl Video)**: [HOW TO RESPOND TO NEGATIVE AND POSITIVE REVIEWS - should you respond to both?](../knowledge/owner-girl/owner-girl-full-form/operations/respond-negative-positive-reviews-should.md)
+- **Serial 242 (Owner-girl Video)**: [HOW TO RESPOND TO NEGATIVE REVIEWS | 7 STEPS + FREE GUIDE PDF](../knowledge/owner-girl/owner-girl-full-form/operations/respond-negative-reviews-7-steps-free.md)
+- **Serial 244 (Owner-girl Video)**: [WHY CUSTOMERS LEAVE BAD REVIEWS](../knowledge/owner-girl/owner-girl-full-form/operations/customers-leave-bad-reviews.md)
+- **Serial 246 (Owner-girl Video)**: [Cracking the Code: Success Beyond Location in the Restaurant Business](../knowledge/owner-girl/owner-girl-full-form/operations/cracking-code-success-beyond-location-restaurant.md)
+- **Serial 249 (Owner-girl Video)**: [The hard truth about OWNING A RESTAURANT - the hardest part about the restaurant business](../knowledge/owner-girl/owner-girl-full-form/operations/hard-truth-about-owning-restaurant.md)
+- **Serial 251 (Owner-girl Video)**: [A day in the life of a pregnant restaurant owner](../knowledge/owner-girl/owner-girl-full-form/operations/day-life-pregnant-restaurant-owner.md)
+- **Serial 253 (Owner-girl Video)**: [Mastering Mobilization](../knowledge/owner-girl/owner-girl-full-form/operations/mastering-mobilization.md)
+- **Serial 254 (Owner-girl Video)**: [HOW TO INCREASE RESTAURANT SALES | Strategy vs Tactics](../knowledge/owner-girl/owner-girl-full-form/operations/increase-restaurant-sales-strategy-vs-tactics.md)
+- **Serial 256 (Owner-girl Video)**: [How to INCREASE your Restaurant SALES - Is your RESTAURANT SALES DROPPING?](../knowledge/owner-girl/owner-girl-full-form/operations/increase-restaurant-sales-restaurant-sales.md)
+- **Serial 257 (Owner-girl Video)**: [Blooper](../knowledge/owner-girl/owner-girl-full-form/operations/blooper.md)
 
 ## Payments (26 entries)
 
@@ -1569,7 +1813,7 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 109 (Toast Video)**: [Discounts vs Voids in Toast](../knowledge/toast/toast-full-form/promotions/discounts-vs-voids.md)
 - **Serial 308 (Toast Video)**: [How to Make Happy Hour Unforgettable](../knowledge/toast/toast-full-form/promotions/make-happy-hour-unforgettable.md)
 
-## Purchasing (6 entries)
+## Purchasing (9 entries)
 
 - **Serial 536**: [Key Information](../knowledge/owner/owner-short-form/purchasing/sysco-bought-restaurant-depot-heres.md) `[purchasing, supplier-pricing, inventory-sourcing]`
 - **Serial 584**: [Key Information](../knowledge/owner/owner-short-form/purchasing/does-cheese-get-expensive-summer.md) `[purchasing, supplier-pricing, inventory-sourcing]`
@@ -1577,6 +1821,9 @@ Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 039 (Toast Video)**: [Meat Purveyor & Supplier Economics: Partnership Standards with Pat LaFrieda](../knowledge/toast/toast-full-form/purchasing/pat-lafrieda-meat-purveyor-customer-service-standards.md)
 - **Serial 249 (Toast Video)**: [How To Bottle and Sell Your Restaurant's Sauce](../knowledge/toast/toast-full-form/purchasing/bottle-sell-restaurants-sauce.md)
 - **Serial 259 (Toast Video)**: [Chef Brad Wise Doesn’t Want You to Be Intimidated at the Butcher Shop [Family Style S2 E5]](../knowledge/toast/toast-full-form/purchasing/chef-brad-wise-doesnt-want.md)
+- **Serial 080 (Owner-girl Video)**: [How to get the best deals with Suppliers and Distributors | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/purchasing/get-best-deals-suppliers-distributors-restaurant.md)
+- **Serial 224 (Owner-girl Video)**: [How NEVER pay full price to VistaPrint Part 2](../knowledge/owner-girl/owner-girl-full-form/purchasing/never-pay-full-price-vistaprint-part.md)
+- **Serial 225 (Owner-girl Video)**: [How NEVER pay full price to VistaPrint Part 1](../knowledge/owner-girl/owner-girl-full-form/purchasing/never-pay-full-price-vistaprint-part-2.md)
 
 ## Social (4 entries)
 

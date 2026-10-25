@@ -554,3 +554,12 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
   - Target Labor Band: $\text{Labor Cost \%} = \frac{\text{Total Labor Cost}}{\text{Gross Food and Beverage Sales}} \le 28\% \text{ to } 32\%$.
 - **[Food Consistency & Portion Control](../knowledge/owner-girl/owner-girl-short-form/food-cost/can-easily-be-done-fix-food-inconsistency.md)** (Serial 205)
   - Over-portioning Margin Variance: $\text{Margin Loss} = \text{Ingredient Overportion \%} \times \text{COGS Weight} \implies 10\% \text{ protein overportion} = 2\%\text{--}4\% \text{ total margin erosion}$.
+
+## Labor & Operations (Owner-girl)
+
+- **[Labor Control & Shift Staggering](../knowledge/owner-girl/owner-girl-short-form/labour/best-control-restaurant-labor-52-second-video.md)** (Serial 321)
+  - Target Labor Band: $\text{Labor Cost \%} = \frac{\text{Total Labor Cost}}{\text{Gross Food and Beverage Sales}} \le 28\% \text{ to } 32\%$.
+- **[Food Consistency & Portion Control](../knowledge/owner-girl/owner-girl-short-form/food-cost/can-easily-be-done-fix-food-inconsistency.md)** (Serial 205)
+  - Over-portioning Margin Variance: $\text{Margin Loss} = \text{Ingredient Overportion \%} \times \text{COGS Weight} \implies 10\% \text{ protein overportion} = 2\%\text{--}4\% \text{ total margin erosion}$.
+- **[Sales Projections Formula](../knowledge/owner-girl/owner-girl-full-form/forecasting/sales-projections-formula-sales-forecasting.md)** (Serial 006)
+  - Demand Forecasting: $\text{Projected Sales} = \text{Historical Same-Week Baseline} \times (1 + \text{YOY Trend \%}) \pm \text{Event/Holiday Adjustments}$.

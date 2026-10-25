@@ -1449,3 +1449,11 @@ Operational benchmarks, target ratios, percentages, and metrics extracted from v
 - **Checklist Compliance Threshold**: Independent operations running structured station checklists achieve over 95% execution consistency across manager shifts.
 - **Onboarding Retention Impact**: Structured 30-day employee onboarding milestones reduce 90-day frontline restaurant turnover by more than 30%.
 - **High-Volume Delivery Pacing**: Peak staging throughput reaches 100 to 145 pizzas per peak delivery hour without bottle-necking in-house dining.
+
+## Operations, Guest Retention & Culture (Owner-girl)
+
+- **Complaint Resolution Speed**: Resolving customer complaints within 24 hours retains over 70% of dissatisfied diners as long-term repeat guests.
+- **Checklist Compliance Threshold**: Independent operations running structured station checklists achieve over 95% execution consistency across manager shifts.
+- **Onboarding Retention Impact**: Structured 30-day employee onboarding milestones reduce 90-day frontline restaurant turnover by more than 30%.
+- **High-Volume Delivery Pacing**: Peak staging throughput reaches 100 to 145 pizzas per peak delivery hour without bottle-necking in-house dining.
+- **Owner Time Reallocation**: Systematizing restaurant operations reclaims 15 to 20 weekly hours of owner time from frontline firefighting.
