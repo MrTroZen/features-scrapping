@@ -2,9 +2,9 @@
 
 Master catalog of all structured restaurant operational intelligence files in `knowledge/`.
 
-Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts, 247 Owner-girl Videos)
+Total verified entries: **2,238** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts, 247 Owner-girl Videos, 68 Restaurant Boss Shorts, 387 Restaurant Boss Videos)
 
-## Customers (156 entries)
+## Customers (163 entries)
 
 - **Serial 005**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-mobile-apps-retention.md) `[mobile-apps, customer-retention, ordering-habits, direct-ordering]`
 - **Serial 006**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-app-regular-frequency.md) `[mobile-apps, repeat-orders, sales-growth, customer-frequency]`
@@ -162,8 +162,15 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 240 (Owner-girl Video)**: [ORM Strategies That Work: Building Trust in the Digital Age | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/customers/orm-strategies-work-building-trust-digital.md)
 - **Serial 243 (Owner-girl Video)**: [HOW TO GET MORE ONLINE REVIEWS FOR YOUR RESTAURANT](../knowledge/owner-girl/owner-girl-full-form/customers/get-more-online-reviews-restaurant.md)
 - **Serial 245 (Owner-girl Video)**: [Boost Your Restaurant Sales with Online Reviews: A Masterclass in Turning Feedback into Profits!](../knowledge/owner-girl/owner-girl-full-form/customers/boost-restaurant-sales-online-reviews-masterclass.md)
+- **Serial 012 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/customers/restaurants-arent-dying-bad-experiences-are.md) `[customer-retention, guest-experience, service-standards]`
+- **Serial 070 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/customers/are-you-exceeding-guest-expectations.md) `[customer-retention, guest-experience, service-standards]`
+- **Serial 114 (Restaurant Boss Video)**: [Solve Restaurant Guest Complaints](../knowledge/restaurant-boss/restaurant-boss-full-form/customers/solve-restaurant-guest-complaints.md)
+- **Serial 129 (Restaurant Boss Video)**: [Restaurant Staffing:  3 Ways To Improve Customer Service In Your Restaurant This Month](../knowledge/restaurant-boss/restaurant-boss-full-form/customers/restaurant-staffing-3-ways-improve-customer.md)
+- **Serial 204 (Restaurant Boss Video)**: [Is Your Restaurant Team Lacking Hospitality?](../knowledge/restaurant-boss/restaurant-boss-full-form/customers/restaurant-team-lacking-hospitality.md)
+- **Serial 287 (Restaurant Boss Video)**: [How to Handle Fake Restaurant Reviews](../knowledge/restaurant-boss/restaurant-boss-full-form/customers/handle-fake-restaurant-reviews.md)
+- **Serial 313 (Restaurant Boss Video)**: [What Defines Great Restaurant Customer Service](../knowledge/restaurant-boss/restaurant-boss-full-form/customers/defines-great-restaurant-customer-service.md)
 
-## Delivery (30 entries)
+## Delivery (41 entries)
 
 - **Serial 001**: [Key Information](../knowledge/owner/owner-short-form/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
 - **Serial 022**: [Key Information](../knowledge/owner/owner-short-form/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
@@ -195,8 +202,19 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 142 (Owner-girl Video)**: [GROW your Catering Sales with these 7 tips | Effective Restaurant Sales Tips](../knowledge/owner-girl/owner-girl-full-form/delivery/grow-catering-sales-these-7-tips.md)
 - **Serial 157 (Owner-girl Video)**: [REDUCE Order Taking MISTAKES | FOH Manager Tips](../knowledge/owner-girl/owner-girl-full-form/delivery/reduce-order-taking-mistakes-foh-manager.md)
 - **Serial 215 (Owner-girl Video)**: [GROW Your Restaurants DELIVERY Sales | RESTAURANT Marketing TIP](../knowledge/owner-girl/owner-girl-full-form/delivery/grow-restaurants-delivery-sales-restaurant-marketing.md)
+- **Serial 032 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/delivery/are-3rd-party-apps-worth-it.md) `[delivery-operations, marketplace-commissions, ghost-kitchens, online-ordering]`
+- **Serial 041 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/delivery/are-delivery-apps-robbing-restaurants.md) `[delivery-operations, marketplace-commissions, ghost-kitchens, online-ordering]`
+- **Serial 077 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/delivery/1-thing-you-need-know-make.md) `[delivery-operations, marketplace-commissions, ghost-kitchens, online-ordering]`
+- **Serial 030 (Restaurant Boss Video)**: [How to Tackle High Third-Party Delivery Fees (Without Killing Your Profits)](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/tackle-high-third-party-delivery-fees-without.md)
+- **Serial 047 (Restaurant Boss Video)**: [How To Increase Your Presence with Online Ordering](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/increase-presence-online-ordering.md)
+- **Serial 059 (Restaurant Boss Video)**: [How to Incorporate FBO/Jet Catering into Your Restaurant Business](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/incorporate-fbojet-catering-into-restaurant-business.md)
+- **Serial 081 (Restaurant Boss Video)**: [Catapult Your Catering Game: The Ninja Trick for More Contracts](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/catapult-catering-game-ninja-trick-more.md)
+- **Serial 094 (Restaurant Boss Video)**: [4 Ways to Unleash the Power of Ghost Kitchens](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/4-ways-unleash-power-ghost-kitchens.md)
+- **Serial 189 (Restaurant Boss Video)**: [Should I Open a Ghost Kitchen?](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/should-i-open-ghost-kitchen.md)
+- **Serial 190 (Restaurant Boss Video)**: [What is a Ghost Kitchen?](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/ghost-kitchen.md)
+- **Serial 221 (Restaurant Boss Video)**: [Increase Sales with Third Party Delivery Services](../knowledge/restaurant-boss/restaurant-boss-full-form/delivery/increase-sales-third-party-delivery-services.md)
 
-## Finance (134 entries)
+## Finance (164 entries)
 
 - **Serial 039**: [Key Information](../knowledge/owner/owner-short-form/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
 - **Serial 043**: [Key Information](../knowledge/owner/owner-short-form/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
@@ -332,8 +350,38 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 201 (Owner-girl Video)**: [RESTAURANT STARTUP MISTAKES to avoid: How to open a Restaurant](../knowledge/owner-girl/owner-girl-full-form/finance/restaurant-startup-mistakes-avoid-open-restaurant.md)
 - **Serial 248 (Owner-girl Video)**: [5 RESTAURANT STARTUP MISTAKES to AVOID | WHY Restaurants Fail? |](../knowledge/owner-girl/owner-girl-full-form/finance/5-restaurant-startup-mistakes-avoid-restaurants.md)
 - **Serial 255 (Owner-girl Video)**: [RESTAURANT OWNER SALARY | HOW MUCH DOES A RESTAURANT OWNER MAKE?](../knowledge/owner-girl/owner-girl-full-form/finance/restaurant-owner-salary-much-does-restaurant.md)
+- **Serial 008 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/finance/some-restaurant-owners-should-sell-their.md) `[restaurant-finance, business-valuation, cost-control, financial-metrics]`
+- **Serial 021 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/finance/see-restaurants-numbers-seconds.md) `[restaurant-finance, business-valuation, cost-control, financial-metrics]`
+- **Serial 039 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/finance/cash-out-big-restaurant.md) `[restaurant-finance, business-valuation, cost-control, financial-metrics]`
+- **Serial 053 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/finance/lower-restaurant-costs.md) `[restaurant-finance, business-valuation, cost-control, financial-metrics]`
+- **Serial 057 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/finance/overnight-disaster-restaurant-loses-money-fast.md) `[restaurant-finance, business-valuation, cost-control, financial-metrics]`
+- **Serial 001 (Restaurant Boss Video)**: [Why Expansion Might Be Killing Your Restaurant Profits](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/expansion-might-be-killing-restaurant-profits.md)
+- **Serial 012 (Restaurant Boss Video)**: [Why Your Sales Are Down](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/sales-are-down.md)
+- **Serial 029 (Restaurant Boss Video)**: [Restaurant Data Made Simple: Find Hidden Profits Fast](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-data-made-simple-find-hidden.md)
+- **Serial 035 (Restaurant Boss Video)**: [How to sell your restaurant for a premium price](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/sell-restaurant-premium-price.md)
+- **Serial 045 (Restaurant Boss Video)**: [Sell Your Restaurant To Fix It](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/sell-restaurant-fix-it.md)
+- **Serial 079 (Restaurant Boss Video)**: [7 Excuses Restaurant Owners Make that Block Their Financial Growth](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/7-excuses-restaurant-owners-make-block.md)
+- **Serial 083 (Restaurant Boss Video)**: [💣 Financial Wake-Up Call for Restaurant Owners](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/financial-wake-up-call-restaurant-owners.md)
+- **Serial 173 (Restaurant Boss Video)**: [Restaurant Owners and Operators: Do You Know the Difference Between Accounting and KPIs?](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-owners-operators-do-you-know.md)
+- **Serial 174 (Restaurant Boss Video)**: [Restaurant Financials Are Complicated!](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-financials-are-complicated.md)
+- **Serial 269 (Restaurant Boss Video)**: [What is Restaurant Prime Cost](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-prime-cost.md)
+- **Serial 274 (Restaurant Boss Video)**: [Average Restaurant Profit Margin](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/average-restaurant-profit-margin.md)
+- **Serial 275 (Restaurant Boss Video)**: [Restaurant Owner Book Report: Profit First](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-owner-book-report-profit-first.md)
+- **Serial 282 (Restaurant Boss Video)**: [Restaurant Budgets, Taxes & Profits](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-budgets-taxes-profits.md)
+- **Serial 302 (Restaurant Boss Video)**: [Get The Most Out Of Your Restaurant Financials In 2019](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/get-most-out-restaurant-financials-2019.md)
+- **Serial 324 (Restaurant Boss Video)**: [4 Ways To Increase Profit in Draft Beer Sales](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/4-ways-increase-profit-draft-beer.md)
+- **Serial 326 (Restaurant Boss Video)**: [Heat Up Your Restaurant & Bar Profits with Ice Cold Drinks](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/heat-up-restaurant-bar-profits-ice.md)
+- **Serial 339 (Restaurant Boss Video)**: [Restaurant Budgets Made Easy](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-budgets-made-easy.md)
+- **Serial 347 (Restaurant Boss Video)**: [How to Read a Restaurant P&L Statement](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/read-restaurant-pl-statement.md)
+- **Serial 348 (Restaurant Boss Video)**: [Increase Restaurant Profits: Price Value Curve](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/increase-restaurant-profits-price-value-curve.md)
+- **Serial 349 (Restaurant Boss Video)**: [Increase Restaurant Profits: Community Hub](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/increase-restaurant-profits-community-hub.md)
+- **Serial 363 (Restaurant Boss Video)**: [Common Restaurant Financial Myths BUSTED](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/common-restaurant-financial-myths-busted.md)
+- **Serial 369 (Restaurant Boss Video)**: [Use a Budget to Increase Restaurant Profit](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/use-budget-increase-restaurant-profit.md)
+- **Serial 374 (Restaurant Boss Video)**: [2017 Restaurant Profit Goals](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/2017-restaurant-profit-goals.md)
+- **Serial 386 (Restaurant Boss Video)**: [How to Create a Restaurant Budget](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/create-restaurant-budget.md)
+- **Serial 403 (Restaurant Boss Video)**: [Restaurant Start up Mistakes: How to open a Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/restaurant-start-up-mistakes-open-restaurant.md)
 
-## Food Cost (85 entries)
+## Food Cost (103 entries)
 
 - **Serial 036**: [Key Information](../knowledge/owner/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
 - **Serial 045**: [Key Information](../knowledge/owner/owner-short-form/food-cost/gourmet-ramen-economics.md) `[food-cost, ramen, inventory-management, shelf-life, average-check]`
@@ -420,8 +468,26 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 004 (Owner-girl Video)**: [CONTROLLING Restaurant Costs Is Simple If You Focus on This ONE Thing | Cogs Control](../knowledge/owner-girl/owner-girl-full-form/food-cost/controlling-restaurant-costs-simple-if-you.md)
 - **Serial 114 (Owner-girl Video)**: [6 Remarkable Restaurant Portion Control Tips | Restaurant Management Tips](../knowledge/owner-girl/owner-girl-full-form/food-cost/6-remarkable-restaurant-portion-control-tips.md)
 - **Serial 213 (Owner-girl Video)**: [How To Get Rid Of Flies At A Restaurant | Restaurant Owner Q&A](../knowledge/owner-girl/owner-girl-full-form/food-cost/get-rid-flies-restaurant-restaurant-owner.md)
+- **Serial 033 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/food-cost/quick-whats-food-cost.md) `[food-cost, cogs-management, recipe-costing, inflation-defense]`
+- **Serial 044 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/food-cost/restaurants-can-fight-out-control-food.md) `[food-cost, cogs-management, recipe-costing, inflation-defense]`
+- **Serial 047 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/food-cost/discounts-should-affect-chefs.md) `[food-cost, cogs-management, recipe-costing, inflation-defense]`
+- **Serial 062 (Restaurant Boss Video)**: [How to Use the Batch Recipe & Menu Costing Card: Ryan's TRB Restaurant Owners Toolkit Breakdown](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/use-batch-recipe-menu-costing-card.md)
+- **Serial 067 (Restaurant Boss Video)**: [How I Got Accurate Food Costs to Within 0.7% Without Inventory](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/i-got-accurate-food-costs-within.md)
+- **Serial 095 (Restaurant Boss Video)**: [Demystifying Restaurant Financials:  Cost of Goods Sold, Sub-Accounts and Direct Operating Expenses](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/demystifying-restaurant-financials-cost-goods-sold.md)
+- **Serial 136 (Restaurant Boss Video)**: [Restaurant Owners, Operators, Managers: 5 Ways to Lower Food Costs](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/restaurant-owners-operators-managers-5-ways.md)
+- **Serial 143 (Restaurant Boss Video)**: [ClickBACON Update: Restaurant Food Cost, Labor Cost & Prime Cost Software Has Never Been Easier](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/clickbacon-update-restaurant-food-cost-labor.md)
+- **Serial 171 (Restaurant Boss Video)**: [Restaurant Recipe Costing (the easy way!)](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/restaurant-recipe-costing-easy-way.md)
+- **Serial 176 (Restaurant Boss Video)**: [Food Costs Formula: How to Calculate Restaurant Food Cost Percentage (Updated)](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/food-costs-formula-calculate-restaurant-food.md)
+- **Serial 373 (Restaurant Boss Video)**: [CoGS vs Direct Operating Expenses](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/cogs-vs-direct-operating-expenses.md)
+- **Serial 377 (Restaurant Boss Video)**: [Should Labor & Utilities be Included in Restaurant Food Cost](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/should-labor-utilities-be-included-restaurant.md)
+- **Serial 402 (Restaurant Boss Video)**: [Hit Your Restaurants Target Food Cost Every Single Month](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/hit-restaurants-target-food-cost-every.md)
+- **Serial 411 (Restaurant Boss Video)**: [Food Costs Formula: How to Calculate Restaurant Food Cost Percentage](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/food-costs-formula-calculate-restaurant-food-2.md)
+- **Serial 420 (Restaurant Boss Video)**: [Restaurant Owner: Lower Food Cost with a Key Item Inventory Report](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/restaurant-owner-lower-food-cost-key.md)
+- **Serial 426 (Restaurant Boss Video)**: [Restaurant Food Cost Saving Ideas](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/restaurant-food-cost-saving-ideas.md)
+- **Serial 427 (Restaurant Boss Video)**: [Restaurant Food Cost Tip: Food Cost alone is NOT enough!](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/restaurant-food-cost-tip-food-cost.md)
+- **Serial 430 (Restaurant Boss Video)**: [Food Cost & Beverage Cost, does it matter to a restaurant owner?](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/food-cost-beverage-cost-does-it.md)
 
-## Forecasting (6 entries)
+## Forecasting (10 entries)
 
 - **Serial 481**: [Key Information](../knowledge/owner/owner-short-form/forecasting/forecast-restaurant-sales.md) `[sales-forecasting, demand-forecasting, planning]`
 - **Serial 098 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/forecasting/predicting-holiday-restaurant-demand-with-ai.md) `[demand-forecasting, holiday-prep, sales-prediction, prep-planning]`
@@ -429,8 +495,12 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 365 (Toast Video)**: [Staff for the Forecast: Trish Rowley on Toast IQ Team](../knowledge/toast/toast-full-form/forecasting/staff-forecast-trish-rowley-iq.md)
 - **Serial 006 (Owner-girl Video)**: [RESTAURANT SALES Projections Formula | Sales Forecasting](../knowledge/owner-girl/owner-girl-full-form/forecasting/restaurant-sales-projections-formula-sales-forecasting.md)
 - **Serial 234 (Owner-girl Video)**: [PARKINSON'S LAW IN RESTAURANTS](../knowledge/owner-girl/owner-girl-full-form/forecasting/parkinsons-law-restaurants.md)
+- **Serial 149 (Restaurant Boss Video)**: [State of the Restaurant Industry 2022: My Predictions and a Look Back on 2021](../knowledge/restaurant-boss/restaurant-boss-full-form/forecasting/state-restaurant-industry-2022-my-predictions.md)
+- **Serial 188 (Restaurant Boss Video)**: [State of the Restaurant Industry 2021 - Predictions and a look back on 2020.](../knowledge/restaurant-boss/restaurant-boss-full-form/forecasting/state-restaurant-industry-2021-predictions.md)
+- **Serial 252 (Restaurant Boss Video)**: [State of the Restaurant Industry - My Predictions on Where You Should Focus for 2020](../knowledge/restaurant-boss/restaurant-boss-full-form/forecasting/state-restaurant-industry-my-predictions.md)
+- **Serial 332 (Restaurant Boss Video)**: [The Great Restaurant Success Predictor](../knowledge/restaurant-boss/restaurant-boss-full-form/forecasting/great-restaurant-success-predictor.md)
 
-## Inventory (10 entries)
+## Inventory (13 entries)
 
 - **Serial 066 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md) `[inventory-management, par-levels, waste-reduction, ordering-systems]`
 - **Serial 007 (Toast Video)**: [Inventory Control Systems: Sheet-to-Shelf Counting and Stock Variance Prevention](../knowledge/toast/toast-full-form/inventory/restaurant-inventory-nightmares-sheet-to-shelf-counting.md)
@@ -442,8 +512,11 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 285 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/inventory/do-you-hate-it-if-item.md) `[inventory-management, stock-control, par-levels, item-availability]`
 - **Serial 086 (Owner-girl Video)**: [Out of Stock 86 Report and how to COMMUNICATE with guests](../knowledge/owner-girl/owner-girl-full-form/inventory/out-stock-86-report-communicate-guests.md)
 - **Serial 228 (Owner-girl Video)**: [Restaurant Inventory Management: What system do you use for ordering and keeping track of inventory?](../knowledge/owner-girl/owner-girl-full-form/inventory/restaurant-inventory-management-system-do-you.md)
+- **Serial 268 (Restaurant Boss Video)**: [Four Reasons I Don’t Teach Restaurant Inventory](../knowledge/restaurant-boss/restaurant-boss-full-form/inventory/four-reasons-i-dont-teach-restaurant.md)
+- **Serial 322 (Restaurant Boss Video)**: [Restaurant Owner Activity Inventory](../knowledge/restaurant-boss/restaurant-boss-full-form/inventory/restaurant-owner-activity-inventory.md)
+- **Serial 412 (Restaurant Boss Video)**: [How to Lower Your Restaurant Inventory without Software](../knowledge/restaurant-boss/restaurant-boss-full-form/inventory/lower-restaurant-inventory-without-software.md)
 
-## Kitchen (20 entries)
+## Kitchen (30 entries)
 
 - **Serial 554**: [Key Information](../knowledge/owner/owner-short-form/kitchen/kitchen-could-20-annually-heres.md) `[kitchen, kitchen-operations, throughput]`
 - **Serial 565**: [Key Information](../knowledge/owner/owner-short-form/kitchen/pizza-kitchen-isnt-broken-system.md) `[kitchen, kitchen-operations, throughput]`
@@ -465,8 +538,18 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 091 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/kitchen/surviving-restaurant-rollercoaster-tales-kitchen-frontlines.md) `[kitchen-operations, station-throughput, food-prep, order-timing]`
 - **Serial 098 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/kitchen/delivering-joy-beyond-food-mattengas-journey.md) `[kitchen-operations, station-throughput, food-prep, order-timing]`
 - **Serial 386 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/kitchen/kitchen-flow-systematize-it.md) `[kitchen-operations, station-throughput, food-prep, order-timing]`
+- **Serial 071 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/kitchen/does-restaurant-handle-food-allergies.md) `[kitchen-operations, allergy-safety, line-protocol]`
+- **Serial 054 (Restaurant Boss Video)**: [Cooking The Books:  Understanding Restaurant Financials](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/cooking-books-understanding-restaurant-financials.md)
+- **Serial 070 (Restaurant Boss Video)**: [From Home Kitchen to Restaurant Success: Launching Without Breaking The Bank](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/home-kitchen-restaurant-success-launching-without.md)
+- **Serial 183 (Restaurant Boss Video)**: [Restaurant Meme Review: Kitchen Edition](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/restaurant-meme-review-kitchen-edition.md)
+- **Serial 186 (Restaurant Boss Video)**: [How we kept our restaurant clean, organized, and smoking HOT!](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/kept-restaurant-clean-organized-smoking-hot.md)
+- **Serial 207 (Restaurant Boss Video)**: [Are Your Restaurant Cooks Too Slow?](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/are-restaurant-cooks-too-slow.md)
+- **Serial 217 (Restaurant Boss Video)**: [What is the Difference Between a Restaurant Checklist and a Prep Sheet?](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/difference-between-restaurant-checklist-prep-sheet.md)
+- **Serial 308 (Restaurant Boss Video)**: [The Importance of Cleanliness In Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/importance-cleanliness-restaurant.md)
+- **Serial 405 (Restaurant Boss Video)**: [Restaurant Checklist and Prep Sheets](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/restaurant-checklist-prep-sheets.md)
+- **Serial 424 (Restaurant Boss Video)**: [Restaurant Owners Kitchen Checklist and Prep List](../knowledge/restaurant-boss/restaurant-boss-full-form/kitchen/restaurant-owners-kitchen-checklist-prep-list.md)
 
-## Labour (267 entries)
+## Labour (359 entries)
 
 - **Serial 016**: [Key Information](../knowledge/owner/owner-short-form/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
 - **Serial 041**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
@@ -735,8 +818,100 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 231 (Owner-girl Video)**: [3 REASONS WHY TO STOP TEXTING YOUR RESTAURANT STAFF](../knowledge/owner-girl/owner-girl-full-form/labour/3-reasons-stop-texting-restaurant-staff.md)
 - **Serial 236 (Owner-girl Video)**: [SHOULD YOU FIRE A STAFF MEMBER FOR BASHING ANOTHER TEAM MEMBER ONLINE?](../knowledge/owner-girl/owner-girl-full-form/labour/should-you-fire-staff-member-bashing.md)
 - **Serial 252 (Owner-girl Video)**: [Leadership Excellence: Learn to Model Success for Managerial Growth](../knowledge/owner-girl/owner-girl-full-form/labour/leadership-excellence-learn-model-success-managerial.md)
+- **Serial 002 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/communication-strategy-broken.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 003 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/youre-delegating-wrong.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 004 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/phantom-labor-costing-you-thousands.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 009 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/when-do-you-stop-loving-team.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 010 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/his-staff-never-leave.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 013 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/real-reason-restaurant-staff-dont-listen.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 014 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/who-runs-place.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 016 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/team-keeps-letting-you-down.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 017 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/worst-scheduling-habit.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 018 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/stop-waiting-fix-staff-problems.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 035 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/youre-always-short-staffed.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 043 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/should-restaurants-offer-health-insurance.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 045 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/restaurants-can-survive-rising-labor-costs.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 073 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/restaurant-managers-are-not-born-they.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 074 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/do-you-tip-out-support-staff.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 075 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/labour/hard-find-staff.md) `[labor-management, staff-scheduling, team-leadership, delegation]`
+- **Serial 002 (Restaurant Boss Video)**: [How to Run Effective Stand-Up Meetings in Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/run-effective-stand-up-meetings-restaurant.md)
+- **Serial 003 (Restaurant Boss Video)**: [How to Delegate Tasks in Your Restaurant and Actually Have Them Done Right](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/delegate-tasks-restaurant-actually-have-them.md)
+- **Serial 004 (Restaurant Boss Video)**: [Why Your Payroll is Higher Than It Should Be (And How to Fix It)](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/payroll-higher-than-it-should-be.md)
+- **Serial 005 (Restaurant Boss Video)**: [The 3 Questions Your Servers Must Be Able to Answer So You Don’t Lose Sales](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/3-questions-servers-must-be-able.md)
+- **Serial 009 (Restaurant Boss Video)**: [How to Build a Restaurant Team That Runs Without You](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/build-restaurant-team-runs-without-you.md)
+- **Serial 010 (Restaurant Boss Video)**: [What a $4M Independent Restaurant Owner Figured Out About Staff](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/4m-independent-restaurant-owner-figured-out.md)
+- **Serial 013 (Restaurant Boss Video)**: [Why Your Team Doesn’t Listen (And How to Fix It)](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/team-doesnt-listen-fix-it.md)
+- **Serial 014 (Restaurant Boss Video)**: [Why Every Great Restaurant Needs a Conductor](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/every-great-restaurant-needs-conductor.md)
+- **Serial 016 (Restaurant Boss Video)**: [The Reason Your Staff Isn’t Meeting Expectations](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/reason-staff-isnt-meeting-expectations.md)
+- **Serial 018 (Restaurant Boss Video)**: [Why Your Schedule Is Making Staff Hate You](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/schedule-making-staff-hate-you.md)
+- **Serial 019 (Restaurant Boss Video)**: [Stop Ignoring Staff Problems Until It’s Too Late](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/stop-ignoring-staff-problems-until-its.md)
+- **Serial 020 (Restaurant Boss Video)**: [Stop Promoting the Wrong People to Manager](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/stop-promoting-wrong-people-manager.md)
+- **Serial 031 (Restaurant Boss Video)**: [2 Simple Fixes to Build a Stronger Team & Smoother Operations](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/2-simple-fixes-build-stronger-team.md)
+- **Serial 052 (Restaurant Boss Video)**: [What Should Your General Manager REALLY Be Doing?](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/should-general-manager-really-be-doing.md)
+- **Serial 055 (Restaurant Boss Video)**: [How to Hire Your Dream Team Without Breaking the Bank](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/hire-dream-team-without-breaking-bank.md)
+- **Serial 086 (Restaurant Boss Video)**: [Restaurant Servers Are Not Order Takers](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-servers-are-not-order-takers.md)
+- **Serial 091 (Restaurant Boss Video)**: [Overcoming the Restaurant Labor Crisis: How We’re Revolutionizing The Industry](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/overcoming-restaurant-labor-crisis-were-revolutionizing.md)
+- **Serial 100 (Restaurant Boss Video)**: [$210K TO START?!  How This Unsuspecting Competitor Is Luring Potential Employees Away](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/210k-start-unsuspecting-competitor-luring-potential.md)
+- **Serial 107 (Restaurant Boss Video)**: [The Shocking Truth about Restaurant Employee Turnover](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/shocking-truth-about-restaurant-employee-turnover.md)
+- **Serial 108 (Restaurant Boss Video)**: [How To Stop Wasting Time On Fake Restaurant Interviews](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/stop-wasting-time-fake-restaurant-interviews.md)
+- **Serial 117 (Restaurant Boss Video)**: [A Millennial who Loves Working in a Restaurant!](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/millennial-who-loves-working-restaurant.md)
+- **Serial 118 (Restaurant Boss Video)**: [How To Find Restaurant Employees in 2022](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/find-restaurant-employees-2022.md)
+- **Serial 127 (Restaurant Boss Video)**: [How to Train Your New Restaurant Employees for Maximum Productivity](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/train-new-restaurant-employees-maximum-productivity.md)
+- **Serial 128 (Restaurant Boss Video)**: [Raising Prices in your Restaurant: How to Innovate Your Food, Service and Staff](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/raising-prices-restaurant-innovate-food-service.md)
+- **Serial 130 (Restaurant Boss Video)**: [5 Essential Business Books For Restaurant Owners, Operators and Managers](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/5-essential-business-books-restaurant-owners.md)
+- **Serial 135 (Restaurant Boss Video)**: [Restaurant Managers: How to Get People to Beg to Work With You!](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-managers-get-people-beg-work.md)
+- **Serial 140 (Restaurant Boss Video)**: [The Dos & Don’ts of Employee Incentive Programs](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/dos-donts-employee-incentive-programs.md)
+- **Serial 141 (Restaurant Boss Video)**: [Restaurant Labor Cost Tip: Should You Cut Your Restaurant Staff Early?](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-labor-cost-tip-should-you.md)
+- **Serial 142 (Restaurant Boss Video)**: [How to Disagree with Your Restaurant Manager](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/disagree-restaurant-manager.md)
+- **Serial 146 (Restaurant Boss Video)**: [How To Manage a Restaurant: Develop Your Team](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/manage-restaurant-develop-team.md)
+- **Serial 158 (Restaurant Boss Video)**: [Be a Nice Restaurant Manager - It’s Okay!](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/be-nice-restaurant-manager-its.md)
+- **Serial 159 (Restaurant Boss Video)**: [My Best Tip for Hiring and Training Better Staff for Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/my-best-tip-hiring-training-better.md)
+- **Serial 162 (Restaurant Boss Video)**: [Restaurant Employees Don’t Get Paid Enough](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-employees-dont-get-paid-enough.md)
+- **Serial 168 (Restaurant Boss Video)**: [Restaurant Owners & Operators: Read this book to help build the best team, ever!](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-owners-operators-read-book-help.md)
+- **Serial 178 (Restaurant Boss Video)**: [Do You Have Your Manager’s Back?](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/do-you-have-managers-back.md)
+- **Serial 197 (Restaurant Boss Video)**: [Time Management Tips: Eliminating Distractions and Avoiding Time Sucking Vampires](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/time-management-tips-eliminating-distractions-avoiding.md)
+- **Serial 198 (Restaurant Boss Video)**: [Time Management Tips: The Incredible Shrinking Calendar](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/time-management-tips-incredible-shrinking-calendar.md)
+- **Serial 202 (Restaurant Boss Video)**: [Time Management Tips: Why To-Do Lists Don’t Work](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/time-management-tips-to-do-lists-dont.md)
+- **Serial 208 (Restaurant Boss Video)**: [Restaurant Employees When the Parents Are Away the Children Will Play](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-employees-when-parents-are-away.md)
+- **Serial 211 (Restaurant Boss Video)**: [How Your Restaurant Culture Died](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-culture-died.md)
+- **Serial 214 (Restaurant Boss Video)**: [Talent CAN'T Make up for Bad Coaching](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/talent-cant-make-up-bad-coaching.md)
+- **Serial 215 (Restaurant Boss Video)**: [Why Your Staff Hates Restaurant Checklists](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/staff-hates-restaurant-checklists.md)
+- **Serial 219 (Restaurant Boss Video)**: [Are You a Passive Aggressive Restaurant Manager](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/are-you-passive-aggressive-restaurant-manager.md)
+- **Serial 222 (Restaurant Boss Video)**: [RESTAURANT MANAGER TRAINING: Your First Week](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-manager-training-first-week.md)
+- **Serial 223 (Restaurant Boss Video)**: [RESTAURANT MANAGER TRAINING: Interview Tips & How to Get the Job](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-manager-training-interview-tips-get.md)
+- **Serial 224 (Restaurant Boss Video)**: [RESTAURANT MANAGER TRAINING: How to Get Paid More](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-manager-training-get-paid-more.md)
+- **Serial 225 (Restaurant Boss Video)**: [RESTAURANT MANAGER TRAINING: 3 Tips How to Advance to General Manager](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-manager-training-3-tips-advance.md)
+- **Serial 247 (Restaurant Boss Video)**: [Five Steps for Handling Late Restaurant Employees](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/five-steps-handling-late-restaurant-employees.md)
+- **Serial 248 (Restaurant Boss Video)**: [Are Your Restaurant Employees Lazy?](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/are-restaurant-employees-lazy.md)
+- **Serial 270 (Restaurant Boss Video)**: [Three Most Important Things You Need to Know About Your Restaurant Labor Cost](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/three-most-important-things-you-need.md)
+- **Serial 276 (Restaurant Boss Video)**: [Advice for New Kitchen Manager or Restaurant Supervisor](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/advice-new-kitchen-manager-restaurant-supervisor.md)
+- **Serial 277 (Restaurant Boss Video)**: [Your Restaurant Staff is NOT Preventing your Success](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-staff-not-preventing-success.md)
+- **Serial 283 (Restaurant Boss Video)**: [How to Give Restaurant Employee Raises](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/give-restaurant-employee-raises.md)
+- **Serial 284 (Restaurant Boss Video)**: [Judge Restaurant Employee Character in Interview](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/judge-restaurant-employee-character-interview.md)
+- **Serial 290 (Restaurant Boss Video)**: [Restaurant Manager Table Visits](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-manager-table-visits.md)
+- **Serial 293 (Restaurant Boss Video)**: [Build Amazing Restaurant Employees](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/build-amazing-restaurant-employees.md)
+- **Serial 295 (Restaurant Boss Video)**: [Hold your Restaurant Staff Accountable](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/hold-restaurant-staff-accountable.md)
+- **Serial 300 (Restaurant Boss Video)**: [Onboarding Restaurant Employees In 5 Steps](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/onboarding-restaurant-employees-5-steps.md)
+- **Serial 303 (Restaurant Boss Video)**: [Get The Most Out Of Your Restaurant Employees In 2019](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/get-most-out-restaurant-employees-2019.md)
+- **Serial 307 (Restaurant Boss Video)**: [How to Prevent Restaurant Employee Turnover](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/prevent-restaurant-employee-turnover.md)
+- **Serial 321 (Restaurant Boss Video)**: [Find Restaurant Employees Everywhere](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/find-restaurant-employees-everywhere.md)
+- **Serial 336 (Restaurant Boss Video)**: [3 Steps to Hiring Better Quality Restaurant Employees](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/3-steps-hiring-better-quality-restaurant.md)
+- **Serial 343 (Restaurant Boss Video)**: [Restaurant Management Tip: Chunking It Down](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-management-tip-chunking-it-down.md)
+- **Serial 345 (Restaurant Boss Video)**: [How to Structure a Restaurant Employee Review or Evaluation](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/structure-restaurant-employee-review-evaluation.md)
+- **Serial 346 (Restaurant Boss Video)**: [When Your Restaurant Manager Does Not Complete An Assigned Task](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/when-restaurant-manager-does-not-complete.md)
+- **Serial 357 (Restaurant Boss Video)**: [Should you Fire your Restaurant Staff or your Restaurant Managers](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/should-you-fire-restaurant-staff-restaurant.md)
+- **Serial 359 (Restaurant Boss Video)**: [How to Earn Respect from your Restaurant Staff](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/earn-respect-restaurant-staff.md)
+- **Serial 362 (Restaurant Boss Video)**: [Fire Every Single One of Your Restaraunt Employees](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/fire-every-single-one-restaraunt-employees.md)
+- **Serial 372 (Restaurant Boss Video)**: [How Well Should you Train Restaurant Employees](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/well-should-you-train-restaurant-employees.md)
+- **Serial 375 (Restaurant Boss Video)**: [What Happened to Your Restaurant Culture](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/happened-restaurant-culture.md)
+- **Serial 378 (Restaurant Boss Video)**: [Why Your Restaurant Staff Just Doesn't Get It](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-staff-just-doesnt-get-it.md)
+- **Serial 387 (Restaurant Boss Video)**: [What to do when Restaurant Employees Hate Each Other](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/do-when-restaurant-employees-hate-each.md)
+- **Serial 396 (Restaurant Boss Video)**: [What is the Role of a Restaurant Manager](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/role-restaurant-manager.md)
+- **Serial 398 (Restaurant Boss Video)**: [5 Step Restaurant Employee Training Model](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/5-step-restaurant-employee-training-model.md)
+- **Serial 432 (Restaurant Boss Video)**: [Restaurant Owner Employee Management Tip: Will your Employees Go to War for You?](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-owner-employee-management-tip-will.md)
+- **Serial 433 (Restaurant Boss Video)**: [Restaurant Owner Labor Cost Tip: DO THIS, and you can be in Hawaii next year...](../knowledge/restaurant-boss/restaurant-boss-full-form/labour/restaurant-owner-labor-cost-tip-do.md)
 
-## Marketing (190 entries)
+## Marketing (221 entries)
 
 - **Serial 002**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
 - **Serial 003**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
@@ -928,8 +1103,39 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 210 (Owner-girl Video)**: [CHEAPEST WAY TO MARKET YOUR  RESTAURANT | Restaurant marketing ideas](../knowledge/owner-girl/owner-girl-full-form/marketing/cheapest-way-market-restaurant-restaurant-marketing.md)
 - **Serial 212 (Owner-girl Video)**: [Restaurant Marketing Strategies: Dominate Your Local Scene by Participating in City Events!](../knowledge/owner-girl/owner-girl-full-form/marketing/restaurant-marketing-strategies-dominate-local-scene.md)
 - **Serial 247 (Owner-girl Video)**: [BEFORE MARKETING YOUR RESTAURANT | 3 THINGS TO FIX](../knowledge/owner-girl/owner-girl-full-form/marketing/before-marketing-restaurant-3-things-fix.md)
+- **Serial 007 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/marketing/become-instant-go-to-spot-neighborhood.md) `[restaurant-marketing, local-seo, google-maps, brand-positioning]`
+- **Serial 019 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/marketing/restaurant-promotion-mistake.md) `[restaurant-marketing, local-seo, google-maps, brand-positioning]`
+- **Serial 020 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/marketing/difference-between-brand-branding.md) `[restaurant-marketing, local-seo, google-maps, brand-positioning]`
+- **Serial 027 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/marketing/overlooked-goldmine-restaurants-apple-maps.md) `[restaurant-marketing, local-seo, google-maps, brand-positioning]`
+- **Serial 028 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/marketing/customers-never-leave-google.md) `[restaurant-marketing, local-seo, google-maps, brand-positioning]`
+- **Serial 029 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/marketing/google-maps-profile-new-homepage.md) `[restaurant-marketing, local-seo, google-maps, brand-positioning]`
+- **Serial 007 (Restaurant Boss Video)**: [How to Become the Go-To Restaurant in Your Neighborhood](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/become-go-to-restaurant-neighborhood.md)
+- **Serial 021 (Restaurant Boss Video)**: [Why Your Restaurant Brand Isn’t What You Think It Is](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-brand-isnt-you-think-it.md)
+- **Serial 027 (Restaurant Boss Video)**: [Google Maps Marketing for Restaurants  @getmaplabs](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/google-maps-marketing-restaurants-getmaplabs.md)
+- **Serial 028 (Restaurant Boss Video)**: [How One Pizzeria Exploited Its Uniqueness—and Went Viral](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/one-pizzeria-exploited-its-uniquenessand-went.md)
+- **Serial 032 (Restaurant Boss Video)**: [Why Some Restaurants Have Lines Out the Door (and Others Stay Empty)](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/some-restaurants-have-lines-out-door.md)
+- **Serial 037 (Restaurant Boss Video)**: [Lessons for Restaurant Owners from Multi Brand Companies](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/lessons-restaurant-owners-multi-brand-companies.md)
+- **Serial 040 (Restaurant Boss Video)**: [My Favorite Holiday Restaurant Promotions](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/my-favorite-holiday-restaurant-promotions.md)
+- **Serial 066 (Restaurant Boss Video)**: [3 Things Better Than Restaurant Marketing](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/3-things-better-than-restaurant-marketing.md)
+- **Serial 164 (Restaurant Boss Video)**: [How to eliminate Hope & Pray from your marketing strategy.](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/eliminate-hope-pray-marketing-strategy.md)
+- **Serial 206 (Restaurant Boss Video)**: [5 Restaurant Brand Commitments](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/5-restaurant-brand-commitments.md)
+- **Serial 288 (Restaurant Boss Video)**: [Restaurant Marketing Number One Tip](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-marketing-number-one-tip.md)
+- **Serial 296 (Restaurant Boss Video)**: [Restaurant Social Media for 2019](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-social-media-2019.md)
+- **Serial 344 (Restaurant Boss Video)**: [Restaurant Marketing Tip: Did You Do It?](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-marketing-tip-did-you-do.md)
+- **Serial 380 (Restaurant Boss Video)**: [Restaurant Marketing in 3 Steps](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-marketing-3-steps.md)
+- **Serial 381 (Restaurant Boss Video)**: [Restaurant Halloween Marketing Idea](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-halloween-marketing-idea.md)
+- **Serial 407 (Restaurant Boss Video)**: [Restaurant Marketing Ideas: Double Restaurant Profits](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-marketing-ideas-double-restaurant-profits.md)
+- **Serial 408 (Restaurant Boss Video)**: [Restaurant Marketing Ideas - 3 Simple Tips for Creating Raving Fan Customers](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-marketing-ideas-3-simple.md)
+- **Serial 417 (Restaurant Boss Video)**: [Instagram for Restaurants Webinar](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/instagram-restaurants-webinar.md)
+- **Serial 418 (Restaurant Boss Video)**: [How to Set Up and use Instagram for Business](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/set-up-use-instagram-business.md)
+- **Serial 419 (Restaurant Boss Video)**: [Restaurant Holiday Marketing Best Practices](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-holiday-marketing-best-practices.md)
+- **Serial 422 (Restaurant Boss Video)**: [Instagram for your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/instagram-restaurant.md)
+- **Serial 423 (Restaurant Boss Video)**: [Restaurant Marketing: Halloween Restaurant Strategy](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-marketing-halloween-restaurant-strategy.md)
+- **Serial 425 (Restaurant Boss Video)**: [Restaurant Marketing [Define your Restaurant Brand]](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-marketing-define-restaurant-brand.md)
+- **Serial 431 (Restaurant Boss Video)**: [Restaurant Owner Marketing Tip: Get more Customers](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-owner-marketing-tip-get-more.md)
+- **Serial 434 (Restaurant Boss Video)**: [Restaurant Owner Marketing Tip: How do you know if customers want what you are serving?](../knowledge/restaurant-boss/restaurant-boss-full-form/marketing/restaurant-owner-marketing-tip-do-you.md)
 
-## Menu (124 entries)
+## Menu (144 entries)
 
 - **Serial 014**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
 - **Serial 021**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
@@ -1055,8 +1261,28 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 083 (Owner-girl Video)**: [Menu Engineering Tips | How to price restaurant menu effectively?](../knowledge/owner-girl/owner-girl-full-form/menu/menu-engineering-tips-price-restaurant-menu.md)
 - **Serial 173 (Owner-girl Video)**: [SHOULD YOUR RESTAURANT OFFER BREAKFAST? | Restaurant Marketing Tip](../knowledge/owner-girl/owner-girl-full-form/menu/should-restaurant-offer-breakfast-restaurant-marketing.md)
 - **Serial 197 (Owner-girl Video)**: [RAISE PRICES WITHOUT LOSING CUSTOMERS | Restaurant Marketing](../knowledge/owner-girl/owner-girl-full-form/menu/raise-prices-without-losing-customers-restaurant.md)
+- **Serial 006 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/menu/youre-losing-customers-menu.md) `[menu-engineering, menu-design, item-profitability, sku-reduction]`
+- **Serial 022 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/menu/menu-problem.md) `[menu-engineering, menu-design, item-profitability, sku-reduction]`
+- **Serial 030 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/menu/people-dont-come-menu.md) `[menu-engineering, menu-design, item-profitability, sku-reduction]`
+- **Serial 049 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/menu/menu-mistakes.md) `[menu-engineering, menu-design, item-profitability, sku-reduction]`
+- **Serial 050 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/menu/specialized-menu-cost-savings.md) `[menu-engineering, menu-design, item-profitability, sku-reduction]`
+- **Serial 051 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/menu/online-ordering-isnt-menu.md) `[menu-engineering, menu-design, item-profitability, sku-reduction]`
+- **Serial 006 (Restaurant Boss Video)**: [Stop Overcomplicating Your Restaurant Menu (You're Losing Customers)](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/stop-overcomplicating-restaurant-menu-youre-losing.md)
+- **Serial 061 (Restaurant Boss Video)**: [Implement Surge Pricing in Your Restaurant Wendy's Style](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/implement-surge-pricing-restaurant-wendys-style.md)
+- **Serial 088 (Restaurant Boss Video)**: [How To Implement A New Menu](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/implement-new-menu.md)
+- **Serial 093 (Restaurant Boss Video)**: [Before Raising your Restaurant Menu Prices...](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/before-raising-restaurant-menu-prices.md)
+- **Serial 112 (Restaurant Boss Video)**: [Simplify Your Restaurant Menu](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/simplify-restaurant-menu.md)
+- **Serial 137 (Restaurant Boss Video)**: [How to Manage a Restaurant: Menu Design](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/manage-restaurant-menu-design.md)
+- **Serial 199 (Restaurant Boss Video)**: [Setup Raydiant Digital Signage and Digital Menu for Restaurants](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/setup-raydiant-digital-signage-digital-menu.md)
+- **Serial 273 (Restaurant Boss Video)**: [How to Roll Out a New Restaurant Menu](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/roll-out-new-restaurant-menu.md)
+- **Serial 311 (Restaurant Boss Video)**: [How to Cost Options on Your Menu](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/cost-options-menu.md)
+- **Serial 331 (Restaurant Boss Video)**: [Restaurant Menu Matrix Dilemma](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/restaurant-menu-matrix-dilemma.md)
+- **Serial 351 (Restaurant Boss Video)**: [How Often Should you Update your Restaurant Menu](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/often-should-you-update-restaurant-menu.md)
+- **Serial 355 (Restaurant Boss Video)**: [How to Price Restaurant Menu Items](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/price-restaurant-menu-items.md)
+- **Serial 368 (Restaurant Boss Video)**: [2 Tools for a More Profitable Restaurant Menu](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/2-tools-more-profitable-restaurant-menu.md)
+- **Serial 406 (Restaurant Boss Video)**: [What is Menu Engineering](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/menu-engineering.md)
 
-## Operations (670 entries)
+## Operations (889 entries)
 
 - **Serial 007**: [Key Information](../knowledge/owner/owner-short-form/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
 - **Serial 012**: [Key Information](../knowledge/owner/owner-short-form/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
@@ -1728,8 +1954,227 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 254 (Owner-girl Video)**: [HOW TO INCREASE RESTAURANT SALES | Strategy vs Tactics](../knowledge/owner-girl/owner-girl-full-form/operations/increase-restaurant-sales-strategy-vs-tactics.md)
 - **Serial 256 (Owner-girl Video)**: [How to INCREASE your Restaurant SALES - Is your RESTAURANT SALES DROPPING?](../knowledge/owner-girl/owner-girl-full-form/operations/increase-restaurant-sales-restaurant-sales.md)
 - **Serial 257 (Owner-girl Video)**: [Blooper](../knowledge/owner-girl/owner-girl-full-form/operations/blooper.md)
+- **Serial 001 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/before-you-open-next-restaurant.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 005 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/stop-saying-everything-great.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 011 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/sometimes-you-have-start-over.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 015 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/are-you-still-running-restaurant-like.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 023 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/robot-servers-5-ways.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 024 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/3-harsh-truths-restaurant-owners-cant.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 025 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/3-reasons-youre-missing-whats-right.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 026 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/3-restaurant-fixes-you-can-use.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 034 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/make-restaurant-run-smoother.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 036 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/restaurant-so-empty.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 037 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/no-ones-coming-save-restaurant.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 038 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/day-1-restaurant-soft-opening.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 046 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/simple-audit-speed-service.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 052 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/restaurants-arent-hard.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 054 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/stop-complicating-everything.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 055 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/i-want-sell-my-restaurant.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 056 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/restaurant-rundown-episode-4-flat-iron.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 058 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/hate-checklists.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 062 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/when-should-you-stop-scaling.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 063 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/more-not-always-better.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 067 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/make-point-make-difference.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 068 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/if-you-do-nothing-you-will.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 069 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/operations/do-you-ask-enough-questions.md) `[restaurant-operations, standard-operating-procedures, management-systems]`
+- **Serial 011 (Restaurant Boss Video)**: [How to Know When It’s Time to Quit](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/know-when-its-time-quit.md)
+- **Serial 015 (Restaurant Boss Video)**: [The Old-School Restaurant Advice That’s Quietly Holding You Back](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/old-school-restaurant-advice-thats-quietly-holding.md)
+- **Serial 023 (Restaurant Boss Video)**: [Bearly Human: The Robot Revolution in Restaurants](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/bearly-human-robot-revolution-restaurants.md)
+- **Serial 024 (Restaurant Boss Video)**: [State of the Restaurant Industry 2025: What Restaurant Owners Need to Know Now](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/state-restaurant-industry-2025-restaurant-owners.md)
+- **Serial 025 (Restaurant Boss Video)**: [Why Most Restaurant Owners Miss the Opportunities Right in Front of Them](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/most-restaurant-owners-miss-opportunities-right.md)
+- **Serial 026 (Restaurant Boss Video)**: [Steal These 3 Restaurant Fixes](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/steal-these-3-restaurant-fixes.md)
+- **Serial 033 (Restaurant Boss Video)**: [No One’s Coming to Fix Your Struggling Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/no-ones-coming-fix-struggling-restaurant.md)
+- **Serial 034 (Restaurant Boss Video)**: [​​How to Launch a Restaurant in 3 Days: Soft Opening Strategy That Actually Works](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/launch-restaurant-3-days-soft-opening.md)
+- **Serial 036 (Restaurant Boss Video)**: [7 Biggest Challenges Restaurants Face in 2025 (And How to Survive)](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/7-biggest-challenges-restaurants-face-2025.md)
+- **Serial 038 (Restaurant Boss Video)**: [How To Increase Speed Of Service](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/increase-speed-service.md)
+- **Serial 039 (Restaurant Boss Video)**: [How To Do Restaurant Discounts Properly](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/do-restaurant-discounts-properly.md)
+- **Serial 041 (Restaurant Boss Video)**: [5 Things You Can Learn From The EATertainment Industry Struggles](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/5-things-you-can-learn-eatertainment.md)
+- **Serial 042 (Restaurant Boss Video)**: [Restaurant Rundown Epi. 5:  DeSano Pizza](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-rundown-epi-5-desano-pizza.md)
+- **Serial 043 (Restaurant Boss Video)**: [Would You Change This to Improve Your Restaurant?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/would-you-change-improve-restaurant.md)
+- **Serial 044 (Restaurant Boss Video)**: [Small Restaurant Tech Improvements, Big Results](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/small-restaurant-tech-improvements-big-results.md)
+- **Serial 046 (Restaurant Boss Video)**: [Restaurant Rundown: A Deep Dive Analysis of Flat Iron Steak](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-rundown-deep-dive-analysis-flat.md)
+- **Serial 048 (Restaurant Boss Video)**: [Your Restaurant Model Is Broken](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-model-broken.md)
+- **Serial 049 (Restaurant Boss Video)**: [Restaurant Rundown: A Deep Dive Analysis of Fajita Pete’s](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-rundown-deep-dive-analysis-fajita.md)
+- **Serial 050 (Restaurant Boss Video)**: [For The Love of Checklists](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/love-checklists.md)
+- **Serial 051 (Restaurant Boss Video)**: [Tips For Seasonal Restaurants](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/tips-seasonal-restaurants.md)
+- **Serial 053 (Restaurant Boss Video)**: [Chili’s Core 4 and The Taco Bell Model](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/chilis-core-4-taco-bell-model.md)
+- **Serial 056 (Restaurant Boss Video)**: [Restaurant Rundown: A Deep Dive Analysis of Mandolas](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-rundown-deep-dive-analysis-mandolas.md)
+- **Serial 057 (Restaurant Boss Video)**: [How to Use The Concept Development Workbook: Ryan's TRB Restaurant Owners Toolkit Breakdown](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/use-concept-development-workbook-ryans-trb.md)
+- **Serial 058 (Restaurant Boss Video)**: [Chick-fil-A's Pizza Gambit: A Lesson in Staying Focused](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/chick-fil-as-pizza-gambit-lesson-staying-focused.md)
+- **Serial 060 (Restaurant Boss Video)**: [Restaurant Rundown: A Deep Dive Analysis of Hawaiian Bros](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-rundown-deep-dive-analysis-hawaiian.md)
+- **Serial 063 (Restaurant Boss Video)**: [How to Promote the Right People in Your Restaurant for Growth](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/promote-right-people-restaurant-growth.md)
+- **Serial 064 (Restaurant Boss Video)**: [How Community Partnerships Increase Restaurant Sales](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/community-partnerships-increase-restaurant-sales.md)
+- **Serial 065 (Restaurant Boss Video)**: [The Real Reasons Your Restaurant Customers Buy](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/real-reasons-restaurant-customers-buy.md)
+- **Serial 068 (Restaurant Boss Video)**: [How To Start Creating Restaurant Systems](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/start-creating-restaurant-systems.md)
+- **Serial 069 (Restaurant Boss Video)**: [Should You Use Premade “Convenience” Foods In Your Restaurant?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/should-you-use-premade-convenience-foods.md)
+- **Serial 071 (Restaurant Boss Video)**: [Pizza Hut's pivot: What their layoffs mean for your restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/pizza-huts-pivot-their-layoffs-mean.md)
+- **Serial 072 (Restaurant Boss Video)**: [How to Use The Project Planner: Ryan's TRB Restaurant Owners Toolkit Breakdown](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/use-project-planner-ryans-trb-restaurant.md)
+- **Serial 073 (Restaurant Boss Video)**: [Festive Cheers & Merry Growth-mas! 🎄](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/festive-cheers-merry-growth-mas.md)
+- **Serial 074 (Restaurant Boss Video)**: [Properly Upsell and Increase your Restaurant Check Average](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/properly-upsell-increase-restaurant-check-average.md)
+- **Serial 075 (Restaurant Boss Video)**: [Fast and Free - A Bounce-Back Strategy You Can Implement in Your Restaurant Today](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/fast-free-bounce-back-strategy-you.md)
+- **Serial 077 (Restaurant Boss Video)**: [How to Maintain a Steady Stream of Customers for Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/maintain-steady-stream-customers-restaurant.md)
+- **Serial 078 (Restaurant Boss Video)**: [Attract More Customers: Unleash Your Inner Restaurant Marketer](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/attract-more-customers-unleash-inner-restaurant.md)
+- **Serial 080 (Restaurant Boss Video)**: [Maximizing Restaurant Efficiency: Small Changes, Big Impact](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/maximizing-restaurant-efficiency-small-changes-big.md)
+- **Serial 082 (Restaurant Boss Video)**: [How Senate Bill 799 Could Hurt Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/senate-bill-799-could-hurt-restaurant.md)
+- **Serial 084 (Restaurant Boss Video)**: [Stop Fixing Your Restaurant’s Problems](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/stop-fixing-restaurants-problems.md)
+- **Serial 085 (Restaurant Boss Video)**: [Master the 'Bounce Back' Strategy: Turn Newbies into Lifelong Fans!](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/master-bounce-back-strategy-turn-newbies.md)
+- **Serial 087 (Restaurant Boss Video)**: [Don't Let Your Restaurant Run You - How To Overcome Challenges Like a Pro](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/dont-let-restaurant-run-you.md)
+- **Serial 089 (Restaurant Boss Video)**: [Behind The Scenes Of The 2023 National Restaurant Association Show](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/behind-scenes-2023-national-restaurant-association.md)
+- **Serial 090 (Restaurant Boss Video)**: [Raising the Bar: Embracing Daily Practice to Elevate Your Restaurant's Success](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/raising-bar-embracing-daily-practice-elevate.md)
+- **Serial 092 (Restaurant Boss Video)**: [Why You Can’t Just Be Better Than Other Restaurants](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/you-cant-just-be-better-than.md)
+- **Serial 096 (Restaurant Boss Video)**: [How to Handle the Pressure of Working or Owning a Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/handle-pressure-working-owning-restaurant.md)
+- **Serial 097 (Restaurant Boss Video)**: [Restaurant Cashflow Quadrants: How to Stop Working So Hard and Start Making More Money](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-cashflow-quadrants-stop-working-so.md)
+- **Serial 098 (Restaurant Boss Video)**: [Anti-Authority Restaurant Owner](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/anti-authority-restaurant-owner.md)
+- **Serial 099 (Restaurant Boss Video)**: [Sharpen Your Knife: How to Survive and Thrive in a Tough Economy](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/sharpen-knife-survive-thrive-tough-economy.md)
+- **Serial 101 (Restaurant Boss Video)**: [The Secret to Building a Successful Restaurant (And It's Not What You Think!)](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/secret-building-successful-restaurant-its-not.md)
+- **Serial 102 (Restaurant Boss Video)**: [How To Beat Your Restaurant Competition And Run A Thriving Business](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/beat-restaurant-competition-run-thriving-business.md)
+- **Serial 103 (Restaurant Boss Video)**: [Create Your Winning 2023 Restaurant Plan](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/create-winning-2023-restaurant-plan.md)
+- **Serial 104 (Restaurant Boss Video)**: [The Death of Boring Restaurants: How to Spice Up Your Business and Attract More Customers](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/death-boring-restaurants-spice-up-business.md)
+- **Serial 105 (Restaurant Boss Video)**: [Are Restaurant Robots Taking Over Jobs?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/are-restaurant-robots-taking-over-jobs.md)
+- **Serial 106 (Restaurant Boss Video)**: [3 Things Missing From Your Restaurant Business](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/3-things-missing-restaurant-business.md)
+- **Serial 109 (Restaurant Boss Video)**: [The Economy is Changing - Restaurants Get Ready!](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/economy-changing-restaurants-get-ready.md)
+- **Serial 110 (Restaurant Boss Video)**: [Small Restaurants Need to Focus on Increase Revenue Not Decreasing Expenses](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/small-restaurants-need-focus-increase-revenue.md)
+- **Serial 111 (Restaurant Boss Video)**: [The Scariest Thing about Your Restaurant This Year](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/scariest-thing-about-restaurant-year.md)
+- **Serial 113 (Restaurant Boss Video)**: [Restaurants Need to Step it Up](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurants-need-step-it-up.md)
+- **Serial 115 (Restaurant Boss Video)**: [How California is Trying to get Restaurant Minimum Wage Increased Even Higher](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/california-trying-get-restaurant-minimum-wage.md)
+- **Serial 116 (Restaurant Boss Video)**: [Restaurant Food Expectations](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-food-expectations.md)
+- **Serial 119 (Restaurant Boss Video)**: [RESTAURANT CASE STUDY: SCALE and GROW your RESTAURANT with SYSTEMS](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-case-study-scale-grow-restaurant.md)
+- **Serial 126 (Restaurant Boss Video)**: [Agave & Rye Restaurant Boss Case Study](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/agave-rye-restaurant-boss-case-study.md)
+- **Serial 131 (Restaurant Boss Video)**: [Becoming The Restaurant Boss: The Struggles, Overwhelm and Successes](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/becoming-restaurant-boss-struggles-overwhelm-successes.md)
+- **Serial 132 (Restaurant Boss Video)**: [3 Reasons No One Wants To Work in Restaurants](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/3-reasons-no-one-wants-work.md)
+- **Serial 133 (Restaurant Boss Video)**: [What Restaurateurs NEED To Know About Their Finances](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurateurs-need-know-about-their-finances.md)
+- **Serial 134 (Restaurant Boss Video)**: [SCALE Your Restaurant Using These Proven 9 Accelerators](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/scale-restaurant-using-these-proven-9.md)
+- **Serial 138 (Restaurant Boss Video)**: [How to Manage a Restaurant: Understanding the Most Important Numbers](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/manage-restaurant-understanding-most-important-numbers.md)
+- **Serial 139 (Restaurant Boss Video)**: [How to Manage a Restaurant: What Your Day SHOULD Look Like](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/manage-restaurant-day-should-look-like.md)
+- **Serial 144 (Restaurant Boss Video)**: [The Important Role Checklists Have Played in This Hotel Operator’s Success](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/important-role-checklists-have-played-hotel.md)
+- **Serial 145 (Restaurant Boss Video)**: [Winning the Mental Game: How This Restaurant Owner Found the Strength to Have her BEST Year Ever](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/winning-mental-game-restaurant-owner-found.md)
+- **Serial 147 (Restaurant Boss Video)**: [How To Manage a Restaurant: Create Systems](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/manage-restaurant-create-systems.md)
+- **Serial 148 (Restaurant Boss Video)**: [How to Manage a Restaurant: The Basics](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/manage-restaurant-basics.md)
+- **Serial 150 (Restaurant Boss Video)**: [The Restaurant Industry has Changed FOREVER!](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-industry-has-changed-forever.md)
+- **Serial 151 (Restaurant Boss Video)**: [Why your restaurant should be using Limited Time Offers (LTOs)](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-should-be-using-limited-time.md)
+- **Serial 152 (Restaurant Boss Video)**: [6 Things You Must Have in Your Restaurant in 2022](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/6-things-you-must-have-restaurant.md)
+- **Serial 153 (Restaurant Boss Video)**: [How to Measure Your Restaurant’s End of Year Performance](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/measure-restaurants-end-year-performance.md)
+- **Serial 154 (Restaurant Boss Video)**: [Setting Goals for Your Restaurant in 2022 (and beyond)](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/setting-goals-restaurant-2022-beyond.md)
+- **Serial 155 (Restaurant Boss Video)**: [Restaurant Owners & Operators: Find Out Why This Restaurant Has NO Help Wanted Signs](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-operators-find-out-restaurant.md)
+- **Serial 156 (Restaurant Boss Video)**: [The Difference Between big GOALS & big DREAMS](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/difference-between-big-goals-big-dreams.md)
+- **Serial 157 (Restaurant Boss Video)**: [Make It Happen in YOUR Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/make-it-happen-restaurant.md)
+- **Serial 160 (Restaurant Boss Video)**: [Restaurant Owners & Operators: Are you carrying too heavy a load?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-operators-are-you-carrying.md)
+- **Serial 163 (Restaurant Boss Video)**: [Restaurant Owners & Operators: Are you making things more difficult than they need to be?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-operators-are-you-making.md)
+- **Serial 165 (Restaurant Boss Video)**: [Escaping restaurant burnout: How this restaurant owner found success again](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/escaping-restaurant-burnout-restaurant-owner-found.md)
+- **Serial 169 (Restaurant Boss Video)**: [State of the Restaurant Industry: EMERGENCY UPDATE](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/state-restaurant-industry-emergency-update.md)
+- **Serial 170 (Restaurant Boss Video)**: [Restaurant Owners: Don't Franchise Your Restaurant or Buy a Restaurant Franchise!](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-dont-franchise-restaurant-buy.md)
+- **Serial 172 (Restaurant Boss Video)**: [The RIGHT Systems, Processes, and Procedures Saved this Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/right-systems-processes-procedures-saved-restaurant.md)
+- **Serial 175 (Restaurant Boss Video)**: [Restaurant Owners and Operators: Are New Ideas Killing Your Restaurant?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-operators-are-new-ideas.md)
+- **Serial 179 (Restaurant Boss Video)**: [6 Reasons You Shouldn't Compare Yourself To Another Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/6-reasons-you-shouldnt-compare-yourself.md)
+- **Serial 180 (Restaurant Boss Video)**: [Restaurant Owners and Operators: My Best Strategies for Recovery from the Pandemic](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-operators-my-best-strategies.md)
+- **Serial 181 (Restaurant Boss Video)**: [Order of Operations in Restaurants](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/order-operations-restaurants.md)
+- **Serial 182 (Restaurant Boss Video)**: [Every Restaurant Owner Needs to Read This Book](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/every-restaurant-owner-needs-read-book.md)
+- **Serial 184 (Restaurant Boss Video)**: [We spent two days planning for Restaurant Growth in 2021!](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/spent-two-days-planning-restaurant-growth.md)
+- **Serial 185 (Restaurant Boss Video)**: [How This Guy Operates 3 Restaurants out of One Location](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/guy-operates-3-restaurants-out-one.md)
+- **Serial 187 (Restaurant Boss Video)**: [Is this the Best BBQ in the Texas Hill Country?  Inside Louie Mueller Barbecue.](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/best-bbq-texas-hill-country-inside.md)
+- **Serial 191 (Restaurant Boss Video)**: [CASE STUDY: Owner Opens 5 Restaurant Locations in Less Than 3 Years](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/case-study-owner-opens-5-restaurant.md)
+- **Serial 192 (Restaurant Boss Video)**: [When Will Restaurants Return to Normal?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/when-will-restaurants-return-normal.md)
+- **Serial 193 (Restaurant Boss Video)**: [Save Time & Money with a Properly Built Restaurant Order Guide](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/save-time-money-properly-built-restaurant.md)
+- **Serial 195 (Restaurant Boss Video)**: [Getting Along with Restaurant Co-Workers](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/getting-along-restaurant-co-workers.md)
+- **Serial 196 (Restaurant Boss Video)**: [How to Safely Reopen Your Restaurant During COVID](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/safely-reopen-restaurant-during-covid.md)
+- **Serial 200 (Restaurant Boss Video)**: [Tips for the Best Way to Use Your Calendar](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/tips-best-way-use-calendar.md)
+- **Serial 201 (Restaurant Boss Video)**: [Urgent and Important Tasks: Why Does it Matter?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/urgent-important-tasks-does-it-matter.md)
+- **Serial 203 (Restaurant Boss Video)**: [How to Get Unstuck](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/get-unstuck.md)
+- **Serial 205 (Restaurant Boss Video)**: [Better Organize Your Restaurant Office](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/better-organize-restaurant-office.md)
+- **Serial 209 (Restaurant Boss Video)**: [Why Restaurant Checklist Should NOT Have Signatures](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-checklist-should-not-have-signatures.md)
+- **Serial 210 (Restaurant Boss Video)**: [Why Digital Restaurant Checklists Suck](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/digital-restaurant-checklists-suck.md)
+- **Serial 212 (Restaurant Boss Video)**: [Your Restaurant is Either Green and Growing or Ripe and Rotten](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-either-green-growing-ripe-rotten.md)
+- **Serial 213 (Restaurant Boss Video)**: [What Is the New Modern Restaurant?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/new-modern-restaurant.md)
+- **Serial 216 (Restaurant Boss Video)**: [How to Properly Manage Your Restaurant Checklists](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/properly-manage-restaurant-checklists.md)
+- **Serial 218 (Restaurant Boss Video)**: [How to Create an Effective Restaurant Checklist](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/create-effective-restaurant-checklist.md)
+- **Serial 220 (Restaurant Boss Video)**: [Help your Local restaurant during Covid Corona Virus](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/help-local-restaurant-during-covid-corona.md)
+- **Serial 245 (Restaurant Boss Video)**: [Does Your Restaurant Suffer From a Lack of Professionalism?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/does-restaurant-suffer-lack-professionalism.md)
+- **Serial 246 (Restaurant Boss Video)**: [What Are You Willing to Do to Get What You Want?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/are-you-willing-do-get-you.md)
+- **Serial 249 (Restaurant Boss Video)**: [How to Do Your Job Better!](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/do-job-better.md)
+- **Serial 250 (Restaurant Boss Video)**: [Do the things that matter the most to your restaurant!](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/do-things-matter-most-restaurant.md)
+- **Serial 251 (Restaurant Boss Video)**: [What will you be doing 20 years from now?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/will-you-be-doing-20-years.md)
+- **Serial 265 (Restaurant Boss Video)**: [Restaurant Problems, NOT Solutions](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-problems-not-solutions.md)
+- **Serial 266 (Restaurant Boss Video)**: [Two Simple Rules to Live By In the Restaurant Business](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/two-simple-rules-live-by-restaurant.md)
+- **Serial 267 (Restaurant Boss Video)**: [What Were You Doing, When Your Restaurant Was Doing Well?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/were-you-doing-when-restaurant-was.md)
+- **Serial 271 (Restaurant Boss Video)**: [Six Most Important Things You Need to Know About Your Restaurant Food](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/six-most-important-things-you-need.md)
+- **Serial 272 (Restaurant Boss Video)**: [SCALE my Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/scale-my-restaurant.md)
+- **Serial 278 (Restaurant Boss Video)**: [Restaurant Owners Path to Success](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-path-success.md)
+- **Serial 279 (Restaurant Boss Video)**: [Do you Love your Restaurant Guests](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/do-you-love-restaurant-guests.md)
+- **Serial 280 (Restaurant Boss Video)**: [The 5 Problems with your Restaurant Checklists](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/5-problems-restaurant-checklists.md)
+- **Serial 281 (Restaurant Boss Video)**: [A Day in the Life of a Restaurant Owner](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/day-life-restaurant-owner.md)
+- **Serial 285 (Restaurant Boss Video)**: [Jealous About Restaurant Competition](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/jealous-about-restaurant-competition.md)
+- **Serial 286 (Restaurant Boss Video)**: [The Avocado Principles](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/avocado-principles.md)
+- **Serial 289 (Restaurant Boss Video)**: [How to Market a Restaurant Opening](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/market-restaurant-opening.md)
+- **Serial 291 (Restaurant Boss Video)**: [Establishing Better Business Owner Routines](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/establishing-better-business-owner-routines.md)
+- **Serial 292 (Restaurant Boss Video)**: [Your Vision for Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/vision-restaurant.md)
+- **Serial 297 (Restaurant Boss Video)**: [Restaurant Owner’s Book Report: Deep Work by Cal Newport](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-book-report-deep-work.md)
+- **Serial 298 (Restaurant Boss Video)**: [How To Get Promoted In Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/get-promoted-restaurant.md)
+- **Serial 299 (Restaurant Boss Video)**: [Restaurant Owners What Would Happen If](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-would-happen-if.md)
+- **Serial 301 (Restaurant Boss Video)**: [Restaurant Owner and Operator Goals](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owner-operator-goals.md)
+- **Serial 304 (Restaurant Boss Video)**: [State Of The Restaurant Industry 2019](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/state-restaurant-industry-2019.md)
+- **Serial 305 (Restaurant Boss Video)**: [Restaurant Owner Book Report: The 4 Disciplines of Execution](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owner-book-report-4-disciplines.md)
+- **Serial 309 (Restaurant Boss Video)**: [Restaurant Owners Book Report The E Myth](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-book-report-e-myth.md)
+- **Serial 312 (Restaurant Boss Video)**: [The Best Way to Exceed Your Restaurant Guests Expectations](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/best-way-exceed-restaurant-guests-expectations.md)
+- **Serial 314 (Restaurant Boss Video)**: [Three Lessons Restaurant Owners need from Chick Fil A](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/three-lessons-restaurant-owners-need-chick.md)
+- **Serial 315 (Restaurant Boss Video)**: [Restaurant Owner Book Report: What Got You Here Won't Get you There](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owner-book-report-got-you.md)
+- **Serial 316 (Restaurant Boss Video)**: [Three Things About Good Ideas](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/three-things-about-good-ideas.md)
+- **Serial 317 (Restaurant Boss Video)**: [Restaurant Competetive Advantage Part 2](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-competetive-advantage-part-2.md)
+- **Serial 318 (Restaurant Boss Video)**: [Restaurant Competitive Advantage Part 1](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-competitive-advantage-part-1.md)
+- **Serial 319 (Restaurant Boss Video)**: [Drive More Restaurant Business](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/drive-more-restaurant-business.md)
+- **Serial 320 (Restaurant Boss Video)**: [An Important Truth About Restaurant Real Estate](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/important-truth-about-restaurant-real-estate.md)
+- **Serial 323 (Restaurant Boss Video)**: [Books All Restaurant Owners Need to Read: The One Thing](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/books-all-restaurant-owners-need-read.md)
+- **Serial 325 (Restaurant Boss Video)**: [How To Lower Your Restaurant & Bar Bottled Beer Cost](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/lower-restaurant-bar-bottled-beer-cost.md)
+- **Serial 327 (Restaurant Boss Video)**: [Restaurant Owners & Operators: This is the RIGHT Way to Answer Your Restaurant Phone](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-operators-right-way-answer.md)
+- **Serial 328 (Restaurant Boss Video)**: [Peter Principle: Restaurant Owner’s Glass Ceiling](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/peter-principle-restaurant-owners-glass-ceiling.md)
+- **Serial 329 (Restaurant Boss Video)**: [Restaurant Customers Come Back More Often](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-customers-come-back-more-often.md)
+- **Serial 330 (Restaurant Boss Video)**: [Loyalty or Membership](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/loyalty-membership.md)
+- **Serial 333 (Restaurant Boss Video)**: [Restaurant Owners Guide Pareto Principle](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-guide-pareto-principle.md)
+- **Serial 334 (Restaurant Boss Video)**: [The 4 Restaurant Growth Levers](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/4-restaurant-growth-levers.md)
+- **Serial 337 (Restaurant Boss Video)**: [Restaurant Mission Statements](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-mission-statements.md)
+- **Serial 338 (Restaurant Boss Video)**: [Restaurant Owners: 6 Ways to Achieve your Goals](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-6-ways-achieve-goals.md)
+- **Serial 340 (Restaurant Boss Video)**: [Stay Motivated in Your Restaurant Part 3](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/stay-motivated-restaurant-part-3.md)
+- **Serial 341 (Restaurant Boss Video)**: [Stay Motivated in Your Restaurant Part 2](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/stay-motivated-restaurant-part-2.md)
+- **Serial 342 (Restaurant Boss Video)**: [Stay Motivated in Your Restaurant Part 1](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/stay-motivated-restaurant-part-1.md)
+- **Serial 350 (Restaurant Boss Video)**: [Visualize the Leaks in your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/visualize-leaks-restaurant.md)
+- **Serial 352 (Restaurant Boss Video)**: [What it Takes to be the Best Restaurant Part 3](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/it-takes-be-best-restaurant-part.md)
+- **Serial 353 (Restaurant Boss Video)**: [What it Takes to be the Best Restaurant Part 2](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/it-takes-be-best-restaurant-part-2.md)
+- **Serial 354 (Restaurant Boss Video)**: [What it Takes to be the Best Restaurant Part 1](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/it-takes-be-best-restaurant-part-3.md)
+- **Serial 356 (Restaurant Boss Video)**: [Restaurant Lessons from a Furniture Store](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-lessons-furniture-store.md)
+- **Serial 358 (Restaurant Boss Video)**: [Sometimes Running a Restaurant is NOT Fun](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/sometimes-running-restaurant-not-fun.md)
+- **Serial 360 (Restaurant Boss Video)**: [Identify 10 Restaurant Competitors](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/identify-10-restaurant-competitors.md)
+- **Serial 361 (Restaurant Boss Video)**: [The Customer Is Not Always Right](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/customer-not-always-right.md)
+- **Serial 364 (Restaurant Boss Video)**: [Your Restaurant Needs a Scoreboard](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-needs-scoreboard.md)
+- **Serial 365 (Restaurant Boss Video)**: [5 Core Elements of a great Restaurant Checklist](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/5-core-elements-great-restaurant-checklist.md)
+- **Serial 366 (Restaurant Boss Video)**: [Restaurant Quality Spiral](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-quality-spiral.md)
+- **Serial 367 (Restaurant Boss Video)**: [3 Things you can do Today for a Better Restaurant Tomorrow](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/3-things-you-can-do-today.md)
+- **Serial 370 (Restaurant Boss Video)**: [OMG Everything is Important in Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/omg-everything-important-restaurant.md)
+- **Serial 371 (Restaurant Boss Video)**: [Is Luck Important to Restaurant Success](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/luck-important-restaurant-success.md)
+- **Serial 376 (Restaurant Boss Video)**: [The #1 Tool to Grow Your Restaurant Business](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/tool-grow-restaurant-business.md)
+- **Serial 379 (Restaurant Boss Video)**: [Eliminate Luck From Great Restaurant Service](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/eliminate-luck-great-restaurant-service.md)
+- **Serial 382 (Restaurant Boss Video)**: [Get All Fired Up With Inspiration for Your Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/get-all-fired-up-inspiration-restaurant.md)
+- **Serial 383 (Restaurant Boss Video)**: [Don't Argue About What Happened In Your Restaurant, Only The How And Why!](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/dont-argue-about-happened-restaurant-only.md)
+- **Serial 384 (Restaurant Boss Video)**: [Celebrate the Small Victories in Your Restaurant Business](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/celebrate-small-victories-restaurant-business.md)
+- **Serial 385 (Restaurant Boss Video)**: [How to Be Everything to Everybody at Your Restaurant and At Home](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/be-everything-everybody-restaurant-home.md)
+- **Serial 388 (Restaurant Boss Video)**: [Compete with your Restaurant Competitors](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/compete-restaurant-competitors.md)
+- **Serial 389 (Restaurant Boss Video)**: [Dig In and Get to Work](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/dig-get-work.md)
+- **Serial 390 (Restaurant Boss Video)**: [6 Biggest Restaurant Owner Mistakes - Part 2](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/6-biggest-restaurant-owner-mistakes.md)
+- **Serial 391 (Restaurant Boss Video)**: [6 Biggest Restaurant Owners Mistakes - Part 1](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/6-biggest-restaurant-owners-mistakes.md)
+- **Serial 392 (Restaurant Boss Video)**: [How to Handle Cash in your Restaurant - Part 2](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/handle-cash-restaurant-part-2.md)
+- **Serial 393 (Restaurant Boss Video)**: [How to Handle Cash in your Restaurant - Part 1](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/handle-cash-restaurant-part-1.md)
+- **Serial 394 (Restaurant Boss Video)**: [Fail to Plan your Restaurant is a Plan to Fail: The Tale of Two Mexican Restaurants](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/fail-plan-restaurant-plan-fail-tale.md)
+- **Serial 395 (Restaurant Boss Video)**: [How to Setup Your Restaurant Accounts](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/setup-restaurant-accounts.md)
+- **Serial 397 (Restaurant Boss Video)**: [Should You Close Your Restaurant Early on Slow Days?](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/should-you-close-restaurant-early-slow.md)
+- **Serial 399 (Restaurant Boss Video)**: [Perfect Restaurant Meeting](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/perfect-restaurant-meeting.md)
+- **Serial 400 (Restaurant Boss Video)**: [How to Avoid The Stress and Overwhelm of Owning a Restaurant](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/avoid-stress-overwhelm-owning-restaurant.md)
+- **Serial 401 (Restaurant Boss Video)**: [Restaurant Owners & Operators: Boost Your Restaurant in 90 Days](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owners-operators-boost-restaurant-90.md)
+- **Serial 409 (Restaurant Boss Video)**: [The Ultimate Restaurant Success Formula](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/ultimate-restaurant-success-formula.md)
+- **Serial 410 (Restaurant Boss Video)**: [Affordable Care Act for Restaurants](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/affordable-care-act-restaurants.md)
+- **Serial 413 (Restaurant Boss Video)**: [Restaurant Owner and Restaurant Consulting Tips: Executing Your Vision](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owner-restaurant-consulting-tips-executing.md)
+- **Serial 414 (Restaurant Boss Video)**: [Restaurant Bootcamp Weekend](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-bootcamp-weekend.md)
+- **Serial 421 (Restaurant Boss Video)**: [Charlie Trotter Restaurant Owner Lesson in Life](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/charlie-trotter-restaurant-owner-lesson-life.md)
+- **Serial 429 (Restaurant Boss Video)**: [Restaurant Owner: Restaurant Managemnet Success Tip](../knowledge/restaurant-boss/restaurant-boss-full-form/operations/restaurant-owner-restaurant-managemnet-success-tip.md)
 
-## Payments (26 entries)
+## Payments (35 entries)
 
 - **Serial 450**: [Key Information](../knowledge/owner/owner-short-form/payments/restaurant-payroll-got-expensive.md) `[payments, transaction-fees]`
 - **Serial 519**: [Key Information](../knowledge/owner/owner-short-form/payments/whats-tip-pool-it-right.md) `[payments, transaction-fees, cash-flow, tipping]`
@@ -1757,6 +2202,15 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 246 (Toast Video)**: [Taking Toast Gift Cards as Payment](../knowledge/toast/toast-full-form/payments/taking-gift-cards-as-payment.md)
 - **Serial 247 (Toast Video)**: [Checking & Adjusting the Balance of a Toast Gift Card](../knowledge/toast/toast-full-form/payments/checking-adjusting-balance-gift-card.md)
 - **Serial 296 (Toast Video)**: [How Restaurants Can Make More Money With Gift Cards](../knowledge/toast/toast-full-form/payments/restaurants-can-make-more-money.md)
+- **Serial 040 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/payments/excessive-service-charges-tipping.md) `[payments, credit-card-fees, tip-pooling, gift-cards]`
+- **Serial 042 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/payments/stop-passing-credit-card-fees.md) `[payments, credit-card-fees, tip-pooling, gift-cards]`
+- **Serial 048 (Restaurant Boss Short)**: [Key Information](../knowledge/restaurant-boss/restaurant-boss-short-form/payments/gift-card-promo-mistakes.md) `[payments, credit-card-fees, tip-pooling, gift-cards]`
+- **Serial 008 (Restaurant Boss Video)**: [Your Restaurant's Success Depends on This ONE Position (And It's Not the Chef)](../knowledge/restaurant-boss/restaurant-boss-full-form/payments/restaurants-success-depends-one-position-its.md)
+- **Serial 166 (Restaurant Boss Video)**: [Restaurant Fair Wage Service Fees: The Restaurant Boss Response](../knowledge/restaurant-boss/restaurant-boss-full-form/payments/restaurant-fair-wage-service-fees-restaurant.md)
+- **Serial 167 (Restaurant Boss Video)**: [Restaurant Fair Wage Service Fees: are they in your future?](../knowledge/restaurant-boss/restaurant-boss-full-form/payments/restaurant-fair-wage-service-fees-are.md)
+- **Serial 294 (Restaurant Boss Video)**: [Create a Positive Restaurant Culture](../knowledge/restaurant-boss/restaurant-boss-full-form/payments/create-positive-restaurant-culture.md)
+- **Serial 306 (Restaurant Boss Video)**: [How to Pick a Restaurant POS System](../knowledge/restaurant-boss/restaurant-boss-full-form/payments/pick-restaurant-pos-system.md)
+- **Serial 310 (Restaurant Boss Video)**: [How to Setup Combo Meals in Your POS System](../knowledge/restaurant-boss/restaurant-boss-full-form/payments/setup-combo-meals-pos-system.md)
 
 ## Promotions (52 entries)
 
@@ -1813,7 +2267,7 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 109 (Toast Video)**: [Discounts vs Voids in Toast](../knowledge/toast/toast-full-form/promotions/discounts-vs-voids.md)
 - **Serial 308 (Toast Video)**: [How to Make Happy Hour Unforgettable](../knowledge/toast/toast-full-form/promotions/make-happy-hour-unforgettable.md)
 
-## Purchasing (9 entries)
+## Purchasing (10 entries)
 
 - **Serial 536**: [Key Information](../knowledge/owner/owner-short-form/purchasing/sysco-bought-restaurant-depot-heres.md) `[purchasing, supplier-pricing, inventory-sourcing]`
 - **Serial 584**: [Key Information](../knowledge/owner/owner-short-form/purchasing/does-cheese-get-expensive-summer.md) `[purchasing, supplier-pricing, inventory-sourcing]`
@@ -1824,6 +2278,7 @@ Total verified entries: **1,783** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 080 (Owner-girl Video)**: [How to get the best deals with Suppliers and Distributors | Restaurant Owner Tips](../knowledge/owner-girl/owner-girl-full-form/purchasing/get-best-deals-suppliers-distributors-restaurant.md)
 - **Serial 224 (Owner-girl Video)**: [How NEVER pay full price to VistaPrint Part 2](../knowledge/owner-girl/owner-girl-full-form/purchasing/never-pay-full-price-vistaprint-part.md)
 - **Serial 225 (Owner-girl Video)**: [How NEVER pay full price to VistaPrint Part 1](../knowledge/owner-girl/owner-girl-full-form/purchasing/never-pay-full-price-vistaprint-part-2.md)
+- **Serial 177 (Restaurant Boss Video)**: [Should you have multiple broadline distributors?](../knowledge/restaurant-boss/restaurant-boss-full-form/purchasing/should-you-have-multiple-broadline-distributors.md)
 
 ## Social (4 entries)
 

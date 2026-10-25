@@ -563,3 +563,15 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
   - Over-portioning Margin Variance: $\text{Margin Loss} = \text{Ingredient Overportion \%} \times \text{COGS Weight} \implies 10\% \text{ protein overportion} = 2\%\text{--}4\% \text{ total margin erosion}$.
 - **[Sales Projections Formula](../knowledge/owner-girl/owner-girl-full-form/forecasting/sales-projections-formula-sales-forecasting.md)** (Serial 006)
   - Demand Forecasting: $\text{Projected Sales} = \text{Historical Same-Week Baseline} \times (1 + \text{YOY Trend \%}) \pm \text{Event/Holiday Adjustments}$.
+
+## Prime Cost & Economics (The Restaurant Boss)
+
+- **[Prime Cost Calculation](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/prime-cost-numbers-that-matter.md)**
+  - Prime Cost Formula: $\text{Prime Cost \%} = \frac{\text{Total COGS} + \text{Total Labor (Hourly + Mgmt + Taxes)}}{\text{Gross Food \& Beverage Sales}}$.
+  - Maximum Healthy Threshold: $\text{Prime Cost} \le 55\% \text{ to } 60\%$.
+- **[Theoretical vs Actual Food Cost Variance](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/hit-restaurants-target-food-cost-every.md)**
+  - Inventory Depletion Gap: $\text{Food Cost Variance} = \text{Actual Food Usage (Starting Inv + Purchases - Ending Inv)} - \text{Theoretical Food Consumption (POS Mix)}$.
+  - Allowable Target Variance: $\le 1.5\% \text{ to } 2.0\% \text{ of sales}$.
+- **[Menu Item Contribution Margin Matrix](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/restaurant-menu-matrix-dilemma.md)**
+  - Contribution Margin Dollars: $\text{Contribution Margin} = \text{Selling Price} - \text{Portion Recipe Cost}$.
+  - Optimization Goal: Maximize total dollars contributed rather than solely minimizing percentage food cost.

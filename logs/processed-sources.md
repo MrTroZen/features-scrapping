@@ -150,3 +150,29 @@ Audit trail of ingested content channels and processing runs for Qavyo Restauran
   - 3 Short clips (< 60s) uploaded to videos tab
 - **Quality Check Status:** 100% Pass (247/247 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
+
+## 7. The Restaurant Boss YouTube Shorts Collection
+
+- **Source Channel:** [@Therestaurantboss](https://www.youtube.com/@Therestaurantboss/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/restaurant-boss-shorts.csv`](../sources/youtube-lists/restaurant-boss-shorts.csv)
+- **Total Cataloged Shorts:** 77
+- **Total Substantive Dossiers Ingested:** 68 across 10 categories in `knowledge/restaurant-boss/restaurant-boss-short-form/`
+- **Total Triaged / Skipped:** 9 per AGENTS.md Rule 8
+  - Promotional book promotions, webinar invites, milestone clips, and personal lifestyle topics
+- **Quality Check Status:** 100% Pass (68/68 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
+
+## 8. The Restaurant Boss YouTube Long-Form Video Collection
+
+- **Source Channel:** [@Therestaurantboss](https://www.youtube.com/@Therestaurantboss/videos)
+- **Tracking Registry:** [`sources/youtube-lists/restaurant-boss-videos.csv`](../sources/youtube-lists/restaurant-boss-videos.csv)
+- **Total Cataloged Videos:** 434
+- **Total Substantive Dossiers Ingested:** 387 across 13 categories in `knowledge/restaurant-boss/restaurant-boss-full-form/`
+- **Total Triaged / Skipped:** 47 per AGENTS.md Rule 8
+  - 31 Software UI screen tutorials (clickBACON Ninja Tips & Wizards)
+  - 7 Client video testimonials & case-study clips
+  - 7 Promotional product teasers, giveaways, and channel trailers
+  - 1 Holiday greeting clip
+  - 1 Short clip (< 60s) uploaded to videos tab
+- **Quality Check Status:** 100% Pass (387/387 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete

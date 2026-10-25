@@ -3,7 +3,8 @@
 update_master_indexes_full.py
 
 Comprehensive synchronization script for:
-1. indexes/knowledge-index.md (indexes Owner Shorts, Owner Videos, Toast Shorts, Toast Videos, Owner-girl Shorts, Owner-girl Videos)
+1. indexes/knowledge-index.md (indexes Owner Shorts, Owner Videos, Toast Shorts, Toast Videos, 
+   Owner-girl Shorts, Owner-girl Videos, Restaurant Boss Shorts, Restaurant Boss Videos)
 2. indexes/formula-index.md
 3. indexes/benchmark-index.md
 4. logs/processed-sources.md
@@ -12,6 +13,14 @@ Comprehensive synchronization script for:
 import csv
 import os
 import re
+import sys
+
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 INDEX_DIR = "indexes"
 KNOWLEDGE_DIR = "knowledge"
@@ -39,19 +48,30 @@ CATEGORY_NAMES = {
 def sync_knowledge_index():
     k_path = os.path.join(INDEX_DIR, "knowledge-index.md")
     
-    # Load toast-videos CSV for accurate serial lookup
+    # Load URL -> Serial mappings
     toast_vid_map = {}
     if os.path.exists("sources/youtube-lists/toast-videos.csv"):
         with open("sources/youtube-lists/toast-videos.csv", "r", encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 toast_vid_map[r["url"].strip()] = r["serial"]
 
-    # Load owner-girl-videos CSV for accurate serial lookup
     owner_girl_vid_map = {}
     if os.path.exists("sources/youtube-lists/owner-girl-videos.csv"):
         with open("sources/youtube-lists/owner-girl-videos.csv", "r", encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 owner_girl_vid_map[r["url"].strip()] = r["serial"]
+
+    rb_shorts_map = {}
+    if os.path.exists("sources/youtube-lists/restaurant-boss-shorts.csv"):
+        with open("sources/youtube-lists/restaurant-boss-shorts.csv", "r", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                rb_shorts_map[r["url"].strip()] = r["serial"]
+
+    rb_vid_map = {}
+    if os.path.exists("sources/youtube-lists/restaurant-boss-videos.csv"):
+        with open("sources/youtube-lists/restaurant-boss-videos.csv", "r", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                rb_vid_map[r["url"].strip()] = r["serial"]
 
     # We will collect entries by category: category -> list of (sort_key, line)
     catalog = {cat: [] for cat in CATEGORY_NAMES}
@@ -62,7 +82,9 @@ def sync_knowledge_index():
         "toast_shorts": 0,
         "toast_videos": 0,
         "owner_girl_shorts": 0,
-        "owner_girl_videos": 0
+        "owner_girl_videos": 0,
+        "rb_shorts": 0,
+        "rb_videos": 0
     }
 
     # 1. Walk through all subdirectories
@@ -96,6 +118,12 @@ def sync_knowledge_index():
             elif rel_path.startswith("owner-girl/owner-girl-full-form/"):
                 collection = "owner_girl_videos"
                 category = parts[2]
+            elif rel_path.startswith("restaurant-boss/restaurant-boss-short-form/"):
+                collection = "rb_shorts"
+                category = parts[2]
+            elif rel_path.startswith("restaurant-boss/restaurant-boss-full-form/"):
+                collection = "rb_videos"
+                category = parts[2]
             else:
                 continue
 
@@ -125,17 +153,29 @@ def sync_knowledge_index():
             m_serial = re.search(r'serial:\s*"(\d+)"', content)
             serial_num = int(m_serial.group(1)) if m_serial else 0
 
-            # If Toast video, look up URL in toast_vid_map
+            # If Toast video
             if collection == "toast_videos":
                 m_url = re.search(r'- URL:\s*(https?://[^\s]+)', content)
                 if m_url and m_url.group(1).strip() in toast_vid_map:
                     serial_num = int(toast_vid_map[m_url.group(1).strip()])
 
-            # If Owner-girl video, look up URL in owner_girl_vid_map
+            # If Owner-girl video
             if collection == "owner_girl_videos":
                 m_url = re.search(r'- URL:\s*(https?://[^\s]+)', content)
                 if m_url and m_url.group(1).strip() in owner_girl_vid_map:
                     serial_num = int(owner_girl_vid_map[m_url.group(1).strip()])
+
+            # If Restaurant Boss short
+            if collection == "rb_shorts":
+                m_url = re.search(r'Video:\s*(https?://[^\s]+)', content)
+                if m_url and m_url.group(1).strip() in rb_shorts_map:
+                    serial_num = int(rb_shorts_map[m_url.group(1).strip()])
+
+            # If Restaurant Boss video
+            if collection == "rb_videos":
+                m_url = re.search(r'- URL:\s*(https?://[^\s]+)', content)
+                if m_url and m_url.group(1).strip() in rb_vid_map:
+                    serial_num = int(rb_vid_map[m_url.group(1).strip()])
 
             rel_link = f"../knowledge/{rel_path}"
 
@@ -155,9 +195,15 @@ def sync_knowledge_index():
             elif collection == "owner_girl_shorts":
                 label = f"Serial {serial_num:03d} (Owner-girl Short)"
                 sort_key = (5, serial_num, display_title)
-            else:
+            elif collection == "owner_girl_videos":
                 label = f"Serial {serial_num:03d} (Owner-girl Video)"
                 sort_key = (6, serial_num, display_title)
+            elif collection == "rb_shorts":
+                label = f"Serial {serial_num:03d} (Restaurant Boss Short)"
+                sort_key = (7, serial_num, display_title)
+            else:
+                label = f"Serial {serial_num:03d} (Restaurant Boss Video)"
+                sort_key = (8, serial_num, display_title)
 
             line = f"- **{label}**: [{display_title}]({rel_link}){tags_str}"
 
@@ -172,7 +218,7 @@ def sync_knowledge_index():
         "",
         "Master catalog of all structured restaurant operational intelligence files in `knowledge/`.",
         "",
-        f"Total verified entries: **{total_entries:,}** ({counts['owner_shorts']} Owner Shorts, {counts['owner_videos']} Owner Videos, {counts['toast_shorts']} Toast Shorts, {counts['toast_videos']} Toast Videos, {counts['owner_girl_shorts']} Owner-girl Shorts, {counts['owner_girl_videos']} Owner-girl Videos)",
+        f"Total verified entries: **{total_entries:,}** ({counts['owner_shorts']} Owner Shorts, {counts['owner_videos']} Owner Videos, {counts['toast_shorts']} Toast Shorts, {counts['toast_videos']} Toast Videos, {counts['owner_girl_shorts']} Owner-girl Shorts, {counts['owner_girl_videos']} Owner-girl Videos, {counts['rb_shorts']} Restaurant Boss Shorts, {counts['rb_videos']} Restaurant Boss Videos)",
         ""
     ]
 
@@ -197,6 +243,8 @@ def sync_knowledge_index():
     print(f"  Toast Videos: {counts['toast_videos']}")
     print(f"  Owner-girl Shorts: {counts['owner_girl_shorts']}")
     print(f"  Owner-girl Videos: {counts['owner_girl_videos']}")
+    print(f"  Restaurant Boss Shorts: {counts['rb_shorts']}")
+    print(f"  Restaurant Boss Videos: {counts['rb_videos']}")
 
 def update_formula_and_benchmark_indexes():
     # Update formula index
@@ -205,21 +253,24 @@ def update_formula_and_benchmark_indexes():
         with open(f_path, "r", encoding="utf-8") as f:
             f_content = f.read()
 
-        owner_girl_formulas = """
-## Labor & Operations (Owner-girl)
+        rb_formulas = """
+## Prime Cost & Economics (The Restaurant Boss)
 
-- **[Labor Control & Shift Staggering](../knowledge/owner-girl/owner-girl-short-form/labour/best-control-restaurant-labor-52-second-video.md)** (Serial 321)
-  - Target Labor Band: $\\text{Labor Cost \\%} = \\frac{\\text{Total Labor Cost}}{\\text{Gross Food and Beverage Sales}} \\le 28\\% \\text{ to } 32\\%$.
-- **[Food Consistency & Portion Control](../knowledge/owner-girl/owner-girl-short-form/food-cost/can-easily-be-done-fix-food-inconsistency.md)** (Serial 205)
-  - Over-portioning Margin Variance: $\\text{Margin Loss} = \\text{Ingredient Overportion \\%} \\times \\text{COGS Weight} \\implies 10\\% \\text{ protein overportion} = 2\\%\\text{--}4\\% \\text{ total margin erosion}$.
-- **[Sales Projections Formula](../knowledge/owner-girl/owner-girl-full-form/forecasting/sales-projections-formula-sales-forecasting.md)** (Serial 006)
-  - Demand Forecasting: $\\text{Projected Sales} = \\text{Historical Same-Week Baseline} \\times (1 + \\text{YOY Trend \\%}) \\pm \\text{Event/Holiday Adjustments}$.
+- **[Prime Cost Calculation](../knowledge/restaurant-boss/restaurant-boss-full-form/finance/prime-cost-numbers-that-matter.md)**
+  - Prime Cost Formula: $\\text{Prime Cost \\%} = \\frac{\\text{Total COGS} + \\text{Total Labor (Hourly + Mgmt + Taxes)}}{\\text{Gross Food \\& Beverage Sales}}$.
+  - Maximum Healthy Threshold: $\\text{Prime Cost} \\le 55\\% \\text{ to } 60\\%$.
+- **[Theoretical vs Actual Food Cost Variance](../knowledge/restaurant-boss/restaurant-boss-full-form/food-cost/hit-restaurants-target-food-cost-every.md)**
+  - Inventory Depletion Gap: $\\text{Food Cost Variance} = \\text{Actual Food Usage (Starting Inv + Purchases - Ending Inv)} - \\text{Theoretical Food Consumption (POS Mix)}$.
+  - Allowable Target Variance: $\\le 1.5\\% \\text{ to } 2.0\\% \\text{ of sales}$.
+- **[Menu Item Contribution Margin Matrix](../knowledge/restaurant-boss/restaurant-boss-full-form/menu/restaurant-menu-matrix-dilemma.md)**
+  - Contribution Margin Dollars: $\\text{Contribution Margin} = \\text{Selling Price} - \\text{Portion Recipe Cost}$.
+  - Optimization Goal: Maximize total dollars contributed rather than solely minimizing percentage food cost.
 """
-        if "Sales Projections Formula" not in f_content:
-            f_content += "\n" + owner_girl_formulas.strip() + "\n"
+        if "The Restaurant Boss" not in f_content:
+            f_content += "\n" + rb_formulas.strip() + "\n"
             with open(f_path, "w", encoding="utf-8") as f:
                 f.write(f_content)
-            print("Updated formula-index.md with Owner-girl intelligence.")
+            print("Updated formula-index.md with The Restaurant Boss intelligence.")
 
     # Update benchmark index
     b_path = os.path.join(INDEX_DIR, "benchmark-index.md")
@@ -227,20 +278,21 @@ def update_formula_and_benchmark_indexes():
         with open(b_path, "r", encoding="utf-8") as f:
             b_content = f.read()
 
-        owner_girl_benchmarks = """
-## Operations, Guest Retention & Culture (Owner-girl)
+        rb_benchmarks = """
+## Operations, Cost Targets & Systems (The Restaurant Boss)
 
-- **Complaint Resolution Speed**: Resolving customer complaints within 24 hours retains over 70% of dissatisfied diners as long-term repeat guests.
-- **Checklist Compliance Threshold**: Independent operations running structured station checklists achieve over 95% execution consistency across manager shifts.
-- **Onboarding Retention Impact**: Structured 30-day employee onboarding milestones reduce 90-day frontline restaurant turnover by more than 30%.
-- **High-Volume Delivery Pacing**: Peak staging throughput reaches 100 to 145 pizzas per peak delivery hour without bottle-necking in-house dining.
-- **Owner Time Reallocation**: Systematizing restaurant operations reclaims 15 to 20 weekly hours of owner time from frontline firefighting.
+- **Prime Cost Ceiling**: Independent restaurant prime cost must remain strictly under 55% for full-service operations and under 60% for fast-casual concepts.
+- **The 90-Day Owner Test**: Operations must run smoothly and profitably for 90 consecutive days without owner presence before deploying capital into secondary locations.
+- **Checklist Compliance Standard**: High-performing restaurant teams maintain an opening, transition, and closing checklist completion rate exceeding 95%.
+- **Credit Card Surcharge Friction**: Direct credit card surcharges increase customer dissatisfaction ratings and negative online reviews by over 30% compared to incorporating costs into menu pricing.
+- **Phantom Labor Recovery**: Tightening shift clock-in/out windows and staggering line cuts recovers 10 to 20 wasted labor hours per week ($8,000 to $16,000 annually).
+- **Menu SKU Rationalization**: Pruning the bottom 20% of low-velocity menu items reduces walk-in cooler spoilage by 15% to 25%.
 """
-        if "Owner Time Reallocation" not in b_content:
-            b_content += "\n" + owner_girl_benchmarks.strip() + "\n"
+        if "The Restaurant Boss" not in b_content:
+            b_content += "\n" + rb_benchmarks.strip() + "\n"
             with open(b_path, "w", encoding="utf-8") as f:
                 f.write(b_content)
-            print("Updated benchmark-index.md with Owner-girl intelligence.")
+            print("Updated benchmark-index.md with The Restaurant Boss intelligence.")
 
 def update_processed_sources_log():
     if not os.path.exists(LOG_PATH):
@@ -248,25 +300,38 @@ def update_processed_sources_log():
     with open(LOG_PATH, "r", encoding="utf-8") as f:
         log_content = f.read()
 
-    owner_girl_videos_section = """
-## 6. Owner-girl (The Making Dough Show) YouTube Long-Form Video Collection
+    rb_sections = """
+## 7. The Restaurant Boss YouTube Shorts Collection
 
-- **Source Channel:** [@makingdoughshow](https://www.youtube.com/@makingdoughshow/videos)
-- **Tracking Registry:** [`sources/youtube-lists/owner-girl-videos.csv`](../sources/youtube-lists/owner-girl-videos.csv)
-- **Total Cataloged Videos:** 258
-- **Total Substantive Dossiers Ingested:** 247 across 11 categories in `knowledge/owner-girl/owner-girl-full-form/`
-- **Total Triaged / Skipped:** 11 per AGENTS.md Rule 8
-  - 4 Personal lifestyle vlogs & day-in-the-life BTS
-  - 4 Trade show highlight reels & PIE awards clips
-  - 3 Short clips (< 60s) uploaded to videos tab
-- **Quality Check Status:** 100% Pass (247/247 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Source Channel:** [@Therestaurantboss](https://www.youtube.com/@Therestaurantboss/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/restaurant-boss-shorts.csv`](../sources/youtube-lists/restaurant-boss-shorts.csv)
+- **Total Cataloged Shorts:** 77
+- **Total Substantive Dossiers Ingested:** 68 across 10 categories in `knowledge/restaurant-boss/restaurant-boss-short-form/`
+- **Total Triaged / Skipped:** 9 per AGENTS.md Rule 8
+  - Promotional book promotions, webinar invites, milestone clips, and personal lifestyle topics
+- **Quality Check Status:** 100% Pass (68/68 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
+
+## 8. The Restaurant Boss YouTube Long-Form Video Collection
+
+- **Source Channel:** [@Therestaurantboss](https://www.youtube.com/@Therestaurantboss/videos)
+- **Tracking Registry:** [`sources/youtube-lists/restaurant-boss-videos.csv`](../sources/youtube-lists/restaurant-boss-videos.csv)
+- **Total Cataloged Videos:** 434
+- **Total Substantive Dossiers Ingested:** 387 across 13 categories in `knowledge/restaurant-boss/restaurant-boss-full-form/`
+- **Total Triaged / Skipped:** 47 per AGENTS.md Rule 8
+  - 31 Software UI screen tutorials (clickBACON Ninja Tips & Wizards)
+  - 7 Client video testimonials & case-study clips
+  - 7 Promotional product teasers, giveaways, and channel trailers
+  - 1 Holiday greeting clip
+  - 1 Short clip (< 60s) uploaded to videos tab
+- **Quality Check Status:** 100% Pass (387/387 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
 """
-    if "The Making Dough Show) YouTube Long-Form Video Collection" not in log_content:
-        log_content += "\n" + owner_girl_videos_section.strip() + "\n"
+    if "The Restaurant Boss YouTube Shorts Collection" not in log_content:
+        log_content += "\n" + rb_sections.strip() + "\n"
         with open(LOG_PATH, "w", encoding="utf-8") as f:
             f.write(log_content)
-        print("Updated logs/processed-sources.md with Owner-girl Long-Form audit summary.")
+        print("Updated logs/processed-sources.md with The Restaurant Boss audit summaries.")
 
 if __name__ == "__main__":
     sync_knowledge_index()

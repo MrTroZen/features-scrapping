@@ -1457,3 +1457,12 @@ Operational benchmarks, target ratios, percentages, and metrics extracted from v
 - **Onboarding Retention Impact**: Structured 30-day employee onboarding milestones reduce 90-day frontline restaurant turnover by more than 30%.
 - **High-Volume Delivery Pacing**: Peak staging throughput reaches 100 to 145 pizzas per peak delivery hour without bottle-necking in-house dining.
 - **Owner Time Reallocation**: Systematizing restaurant operations reclaims 15 to 20 weekly hours of owner time from frontline firefighting.
+
+## Operations, Cost Targets & Systems (The Restaurant Boss)
+
+- **Prime Cost Ceiling**: Independent restaurant prime cost must remain strictly under 55% for full-service operations and under 60% for fast-casual concepts.
+- **The 90-Day Owner Test**: Operations must run smoothly and profitably for 90 consecutive days without owner presence before deploying capital into secondary locations.
+- **Checklist Compliance Standard**: High-performing restaurant teams maintain an opening, transition, and closing checklist completion rate exceeding 95%.
+- **Credit Card Surcharge Friction**: Direct credit card surcharges increase customer dissatisfaction ratings and negative online reviews by over 30% compared to incorporating costs into menu pricing.
+- **Phantom Labor Recovery**: Tightening shift clock-in/out windows and staggering line cuts recovers 10 to 20 wasted labor hours per week ($8,000 to $16,000 annually).
+- **Menu SKU Rationalization**: Pruning the bottom 20% of low-velocity menu items reduces walk-in cooler spoilage by 15% to 25%.
