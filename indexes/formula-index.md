@@ -589,3 +589,10 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
   - Cheese Portion Loss: $\text{Margin Loss} = \frac{\text{Overtopping Ounces}}{\text{Standard Recipe Ounces}} \times \text{Cheese Spend \%} \implies 1\text{ oz overtopping} = 2.5\%\text{--}4.0\% \text{ total net profit erosion}$.
 - **[Micro-Footprint Revenue Density](../knowledge/smart-pizza/smart-pizza-full-form/finance/i-studied-15m-pizza-shop-heres.md)**
   - Sales Density: $\text{Revenue per Sq Ft} = \frac{\text{Annual Gross Pizza Sales}}{\text{Usable Kitchen \& Counter Area (sq ft)}} \implies \$1,500\text{--}\$3,200/\text{sq ft in compact takeout operations}$.
+
+## Restaurant Marketing ROI & Customer Database Economics (Matt Plapp)
+
+- **[Customer Acquisition Cost to Lifetime Value (CAC:LTV)](../knowledge/matt-plapp/matt-plapp-full-form/finance/restaurant-marketing-works-chapter-2.md)**
+  - CAC:LTV Ratio: $\text{LTV:CAC Ratio} = \frac{\text{Annual Spend} \times \text{Avg Lifespan (yrs)}}{\text{Blended Ad Spend per Captured Lead}} \implies \frac{\$1,200}{\$2.50} \approx 480\times \text{ lifetime revenue leverage}$.
+- **[Red Envelope Mystery Bounce-Back Campaign ROI](../knowledge/matt-plapp/matt-plapp-full-form/promotions/run-halloween-social-media-contest-restaurant.md)**
+  - Campaign ROI: $\text{Campaign ROI} = \frac{(\text{Redeemed Guest Tickets} \times \text{Avg Check}) - (\text{Print Cost} + \text{Item COGS})}{\text{Total Campaign Investment}} \implies 800\%\text{--}1,500\% \text{ net ROI across Q1}$.

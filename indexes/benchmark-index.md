@@ -1482,3 +1482,11 @@ Operational benchmarks, target ratios, percentages, and metrics extracted from v
 - **Pre-Order Sell-Out Model Efficiency**: Capping daily batch production (100 to 150 pies) achieves 0% end-of-day dough scrap and predictable labor schedules.
 - **Impingement Conveyor Oven Capacity**: Double-stack commercial conveyor ovens bake 80 to 120 sixteen-inch pizzas per hour at a steady 5.5-minute belt speed.
 - **VIP SMS Text Marketing Conversion**: Direct-to-consumer VIP text clubs achieve 95%+ open rates and drive 10% to 18% same-day order conversion for mid-week specials.
+
+## Restaurant Marketing ROI, Database Scale & VIP Retention (Matt Plapp)
+
+- **Owned Customer Database Value**: An active, first-party database of 5,000 verified local diners generates $40,000 to $80,000 in tracked annual incremental repeat sales.
+- **Target Customer Acquisition Cost (CAC)**: Hyper-local paid digital lead funnels acquire verified customer names, emails, and mobile numbers for $1.50 to $3.50.
+- **Red Envelope January Redemption Rate**: Holiday mystery envelope promotions achieve 20% to 35% in-store redemption rates during slow January weeks, generating $15,000 to $40,000 in bridge revenue.
+- **VIP Birthday Club Party Spend**: Registered VIP birthday tables average 4.2 dining guests with an average party check of $85 to $140.
+- **Direct SMS Text Message Engagement**: Automated conversational SMS marketing broadcasts achieve 95%+ open rates and 12% to 20% same-week redemption rates when paired with high-value item offers.

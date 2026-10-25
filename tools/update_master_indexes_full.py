@@ -5,7 +5,8 @@ update_master_indexes_full.py
 Comprehensive synchronization script for:
 1. indexes/knowledge-index.md (indexes Owner Shorts, Owner Videos, Toast Shorts, Toast Videos, 
    Owner-girl Shorts, Owner-girl Videos, Restaurant Boss Shorts, Restaurant Boss Videos,
-   Wilson F&B Shorts, Wilson F&B Videos, Smart Pizza Shorts, Smart Pizza Videos)
+   Wilson F&B Shorts, Wilson F&B Videos, Smart Pizza Shorts, Smart Pizza Videos,
+   Matt Plapp Shorts, Matt Plapp Videos)
 2. indexes/formula-index.md
 3. indexes/benchmark-index.md
 4. logs/processed-sources.md
@@ -28,6 +29,11 @@ KNOWLEDGE_DIR = "knowledge"
 LOG_PATH = os.path.join("logs", "processed-sources.md")
 
 CATEGORY_NAMES = {
+    "accounting": "Accounting",
+    "analytics": "Analytics",
+    "bar-beverage": "Bar & Beverage",
+    "compliance": "Compliance",
+    "cost-control": "Cost Control",
     "customers": "Customers",
     "delivery": "Delivery",
     "finance": "Finance",
@@ -39,11 +45,13 @@ CATEGORY_NAMES = {
     "marketing": "Marketing",
     "menu": "Menu",
     "operations": "Operations",
+    "ordering": "Ordering",
     "other": "Other",
     "payments": "Payments",
     "promotions": "Promotions",
     "purchasing": "Purchasing",
-    "social": "Social"
+    "social": "Social",
+    "technology": "Technology"
 }
 
 def sync_knowledge_index():
@@ -98,6 +106,18 @@ def sync_knowledge_index():
             for r in csv.DictReader(f):
                 sp_vid_map[r["url"].strip()] = r["serial"]
 
+    plapp_shorts_map = {}
+    if os.path.exists("sources/youtube-lists/matt-plapp-shorts.csv"):
+        with open("sources/youtube-lists/matt-plapp-shorts.csv", "r", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                plapp_shorts_map[r["url"].strip()] = r["serial"]
+
+    plapp_vid_map = {}
+    if os.path.exists("sources/youtube-lists/matt-plapp-videos.csv"):
+        with open("sources/youtube-lists/matt-plapp-videos.csv", "r", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                plapp_vid_map[r["url"].strip()] = r["serial"]
+
     # We will collect entries by category: category -> list of (sort_key, line)
     catalog = {cat: [] for cat in CATEGORY_NAMES}
 
@@ -113,7 +133,9 @@ def sync_knowledge_index():
         "wilson_shorts": 0,
         "wilson_videos": 0,
         "sp_shorts": 0,
-        "sp_videos": 0
+        "sp_videos": 0,
+        "plapp_shorts": 0,
+        "plapp_videos": 0
     }
 
     # 1. Walk through all subdirectories
@@ -165,6 +187,12 @@ def sync_knowledge_index():
             elif rel_path.startswith("smart-pizza/smart-pizza-full-form/"):
                 collection = "sp_videos"
                 category = parts[2]
+            elif rel_path.startswith("matt-plapp/matt-plapp-short-form/"):
+                collection = "plapp_shorts"
+                category = parts[2]
+            elif rel_path.startswith("matt-plapp/matt-plapp-full-form/"):
+                collection = "plapp_videos"
+                category = parts[2]
             else:
                 continue
 
@@ -178,7 +206,11 @@ def sync_knowledge_index():
             m_h1 = re.search(r'^#\s+(.+)$', content, re.M)
             title = m_h1.group(1).strip() if m_h1 else fname[:-3]
             display_title = title
-            for prefix in ["Restaurant Operational Intelligence: ", "Pizzeria Operational Intelligence: "]:
+            for prefix in [
+                "Restaurant Operational Intelligence: ",
+                "Pizzeria Operational Intelligence: ",
+                "Restaurant Marketing Intelligence: "
+            ]:
                 if display_title.startswith(prefix):
                     display_title = display_title.replace(prefix, "")
 
@@ -236,6 +268,16 @@ def sync_knowledge_index():
                 if m_url and m_url.group(1).strip() in sp_vid_map:
                     serial_num = int(sp_vid_map[m_url.group(1).strip()])
 
+            elif collection == "plapp_shorts":
+                m_url = re.search(r'Video:\s*(https?://[^\s]+)', content)
+                if m_url and m_url.group(1).strip() in plapp_shorts_map:
+                    serial_num = int(plapp_shorts_map[m_url.group(1).strip()])
+
+            elif collection == "plapp_videos":
+                m_url = re.search(r'- URL:\s*(https?://[^\s]+)', content)
+                if m_url and m_url.group(1).strip() in plapp_vid_map:
+                    serial_num = int(plapp_vid_map[m_url.group(1).strip()])
+
             rel_link = f"../knowledge/{rel_path}"
 
             # Format line
@@ -272,9 +314,15 @@ def sync_knowledge_index():
             elif collection == "sp_shorts":
                 label = f"Serial {serial_num:03d} (Smart Pizza Short)"
                 sort_key = (11, serial_num, display_title)
-            else:
+            elif collection == "sp_videos":
                 label = f"Serial {serial_num:03d} (Smart Pizza Video)"
                 sort_key = (12, serial_num, display_title)
+            elif collection == "plapp_shorts":
+                label = f"Serial {serial_num:03d} (Matt Plapp Short)"
+                sort_key = (13, serial_num, display_title)
+            else:
+                label = f"Serial {serial_num:03d} (Matt Plapp Video)"
+                sort_key = (14, serial_num, display_title)
 
             line = f"- **{label}**: [{display_title}]({rel_link}){tags_str}"
 
@@ -289,7 +337,7 @@ def sync_knowledge_index():
         "",
         "Master catalog of all structured restaurant operational intelligence files in `knowledge/`.",
         "",
-        f"Total verified entries: **{total_entries:,}** ({counts['owner_shorts']} Owner Shorts, {counts['owner_videos']} Owner Videos, {counts['toast_shorts']} Toast Shorts, {counts['toast_videos']} Toast Videos, {counts['owner_girl_shorts']} Owner-girl Shorts, {counts['owner_girl_videos']} Owner-girl Videos, {counts['rb_shorts']} Restaurant Boss Shorts, {counts['rb_videos']} Restaurant Boss Videos, {counts['wilson_shorts']} Wilson F&B Shorts, {counts['wilson_videos']} Wilson F&B Videos, {counts['sp_shorts']} Smart Pizza Shorts, {counts['sp_videos']} Smart Pizza Videos)",
+        f"Total verified entries: **{total_entries:,}** ({counts['owner_shorts']} Owner Shorts, {counts['owner_videos']} Owner Videos, {counts['toast_shorts']} Toast Shorts, {counts['toast_videos']} Toast Videos, {counts['owner_girl_shorts']} Owner-girl Shorts, {counts['owner_girl_videos']} Owner-girl Videos, {counts['rb_shorts']} Restaurant Boss Shorts, {counts['rb_videos']} Restaurant Boss Videos, {counts['wilson_shorts']} Wilson F&B Shorts, {counts['wilson_videos']} Wilson F&B Videos, {counts['sp_shorts']} Smart Pizza Shorts, {counts['sp_videos']} Smart Pizza Videos, {counts['plapp_shorts']} Matt Plapp Shorts, {counts['plapp_videos']} Matt Plapp Videos)",
         ""
     ]
 
@@ -308,8 +356,8 @@ def sync_knowledge_index():
         f.write("\n".join(out).strip() + "\n")
 
     print(f"Updated knowledge-index.md: Total {total_entries} entries across {len(catalog)} categories.")
-    print(f"  Smart Pizza Shorts: {counts['sp_shorts']}")
-    print(f"  Smart Pizza Videos: {counts['sp_videos']}")
+    print(f"  Matt Plapp Shorts: {counts['plapp_shorts']}")
+    print(f"  Matt Plapp Videos: {counts['plapp_videos']}")
 
 def update_formula_and_benchmark_indexes():
     # Update formula index
@@ -318,19 +366,19 @@ def update_formula_and_benchmark_indexes():
         with open(f_path, "r", encoding="utf-8") as f:
             f_content = f.read()
 
-        sp_formulas = """
-## Pizzeria Economics & Dough Management (Smart Pizza Marketing)
+        plapp_formulas = """
+## Restaurant Marketing ROI & Customer Database Economics (Matt Plapp)
 
-- **[Pizzeria COGS & Cheese Portion Margin Variance](../knowledge/smart-pizza/smart-pizza-full-form/food-cost/they-sell-1000-cheesesteaks-night-but.md)**
-  - Cheese Portion Loss: $\\text{Margin Loss} = \\frac{\\text{Overtopping Ounces}}{\\text{Standard Recipe Ounces}} \\times \\text{Cheese Spend \\%} \\implies 1\\text{ oz overtopping} = 2.5\\%\\text{--}4.0\\% \\text{ total net profit erosion}$.
-- **[Micro-Footprint Revenue Density](../knowledge/smart-pizza/smart-pizza-full-form/finance/i-studied-15m-pizza-shop-heres.md)**
-  - Sales Density: $\\text{Revenue per Sq Ft} = \\frac{\\text{Annual Gross Pizza Sales}}{\\text{Usable Kitchen \\& Counter Area (sq ft)}} \\implies \\$1,500\\text{--}\\$3,200/\\text{sq ft in compact takeout operations}$.
+- **[Customer Acquisition Cost to Lifetime Value (CAC:LTV)](../knowledge/matt-plapp/matt-plapp-full-form/finance/restaurant-marketing-works-chapter-2.md)**
+  - CAC:LTV Ratio: $\\text{LTV:CAC Ratio} = \\frac{\\text{Annual Spend} \\times \\text{Avg Lifespan (yrs)}}{\\text{Blended Ad Spend per Captured Lead}} \\implies \\frac{\\$1,200}{\\$2.50} \\approx 480\\times \\text{ lifetime revenue leverage}$.
+- **[Red Envelope Mystery Bounce-Back Campaign ROI](../knowledge/matt-plapp/matt-plapp-full-form/promotions/run-halloween-social-media-contest-restaurant.md)**
+  - Campaign ROI: $\\text{Campaign ROI} = \\frac{(\\text{Redeemed Guest Tickets} \\times \\text{Avg Check}) - (\\text{Print Cost} + \\text{Item COGS})}{\\text{Total Campaign Investment}} \\implies 800\\%\\text{--}1,500\\% \\text{ net ROI across Q1}$.
 """
-        if "Smart Pizza Marketing" not in f_content:
-            f_content += "\n" + sp_formulas.strip() + "\n"
+        if "Matt Plapp" not in f_content:
+            f_content += "\n" + plapp_formulas.strip() + "\n"
             with open(f_path, "w", encoding="utf-8") as f:
                 f.write(f_content)
-            print("Updated formula-index.md with Smart Pizza Marketing intelligence.")
+            print("Updated formula-index.md with Matt Plapp intelligence.")
 
     # Update benchmark index
     b_path = os.path.join(INDEX_DIR, "benchmark-index.md")
@@ -338,20 +386,20 @@ def update_formula_and_benchmark_indexes():
         with open(b_path, "r", encoding="utf-8") as f:
             b_content = f.read()
 
-        sp_benchmarks = """
-## Pizzeria Operations, Oven Throughput & SMS Marketing (Smart Pizza Marketing)
+        plapp_benchmarks = """
+## Restaurant Marketing ROI, Database Scale & VIP Retention (Matt Plapp)
 
-- **Pizzeria Food Cost Ceiling**: High-performing independent pizzerias maintain total COGS strictly between 22% and 28% of gross pizza sales.
-- **Micro-Footprint Takeout Density**: Compact 200 to 800 sq ft pizzerias generate $1.5M to $3.0M annually ($1,500+ per sq ft) by eliminating dining room overhead.
-- **Pre-Order Sell-Out Model Efficiency**: Capping daily batch production (100 to 150 pies) achieves 0% end-of-day dough scrap and predictable labor schedules.
-- **Impingement Conveyor Oven Capacity**: Double-stack commercial conveyor ovens bake 80 to 120 sixteen-inch pizzas per hour at a steady 5.5-minute belt speed.
-- **VIP SMS Text Marketing Conversion**: Direct-to-consumer VIP text clubs achieve 95%+ open rates and drive 10% to 18% same-day order conversion for mid-week specials.
+- **Owned Customer Database Value**: An active, first-party database of 5,000 verified local diners generates $40,000 to $80,000 in tracked annual incremental repeat sales.
+- **Target Customer Acquisition Cost (CAC)**: Hyper-local paid digital lead funnels acquire verified customer names, emails, and mobile numbers for $1.50 to $3.50.
+- **Red Envelope January Redemption Rate**: Holiday mystery envelope promotions achieve 20% to 35% in-store redemption rates during slow January weeks, generating $15,000 to $40,000 in bridge revenue.
+- **VIP Birthday Club Party Spend**: Registered VIP birthday tables average 4.2 dining guests with an average party check of $85 to $140.
+- **Direct SMS Text Message Engagement**: Automated conversational SMS marketing broadcasts achieve 95%+ open rates and 12% to 20% same-week redemption rates when paired with high-value item offers.
 """
-        if "Smart Pizza Marketing" not in b_content:
-            b_content += "\n" + sp_benchmarks.strip() + "\n"
+        if "Matt Plapp" not in b_content:
+            b_content += "\n" + plapp_benchmarks.strip() + "\n"
             with open(b_path, "w", encoding="utf-8") as f:
                 f.write(b_content)
-            print("Updated benchmark-index.md with Smart Pizza Marketing intelligence.")
+            print("Updated benchmark-index.md with Matt Plapp intelligence.")
 
 def update_processed_sources_log():
     if not os.path.exists(LOG_PATH):
@@ -359,34 +407,37 @@ def update_processed_sources_log():
     with open(LOG_PATH, "r", encoding="utf-8") as f:
         log_content = f.read()
 
-    sp_sections = """
-## 11. Smart Pizza Marketing YouTube Shorts Collection
+    plapp_sections = """
+## 13. Matt Plapp YouTube Shorts Collection
 
-- **Source Channel:** [@Smartpizzamarketing](https://www.youtube.com/@Smartpizzamarketing/shorts)
-- **Tracking Registry:** [`sources/youtube-lists/smart-pizza-shorts.csv`](../sources/youtube-lists/smart-pizza-shorts.csv)
-- **Total Cataloged Shorts:** 157
-- **Total Substantive Dossiers Ingested:** 120 across 9 categories in `knowledge/smart-pizza/smart-pizza-short-form/`
-- **Total Triaged / Skipped:** 37 per AGENTS.md Rule 8
-  - 33 5-second podcast bloopers, laughing cuts, and inside-joke meme reaction snippets
-  - 4 Untitled/date-only clips and channel announcement teasers
-- **Quality Check Status:** 100% Pass (120/120 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Source Channel:** [@matt_plapp](https://www.youtube.com/@matt_plapp/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/matt-plapp-shorts.csv`](../sources/youtube-lists/matt-plapp-shorts.csv)
+- **Total Cataloged Shorts:** 1,257
+- **Total Substantive Dossiers Ingested:** 1,254 across 8 categories in `knowledge/matt-plapp/matt-plapp-short-form/`
+- **Total Triaged / Skipped:** 3 per AGENTS.md Rule 8
+  - 1 golf challenge clip
+  - 1 automotive dealership story clip
+  - 1 RV & boat dealer lead clip
+- **Quality Check Status:** 100% Pass (1,254/1,254 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
 
-## 12. Smart Pizza Marketing YouTube Long-Form Video Collection
+## 14. Matt Plapp YouTube Long-Form Video Collection
 
-- **Source Channel:** [@Smartpizzamarketing](https://www.youtube.com/@Smartpizzamarketing/videos)
-- **Tracking Registry:** [`sources/youtube-lists/smart-pizza-videos.csv`](../sources/youtube-lists/smart-pizza-videos.csv)
-- **Total Cataloged Videos:** 122
-- **Total Substantive Dossiers Ingested:** 122 across 9 categories in `knowledge/smart-pizza/smart-pizza-full-form/`
-- **Total Triaged / Skipped:** 0
-- **Quality Check Status:** 100% Pass (122/122 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Source Channel:** [@matt_plapp](https://www.youtube.com/@matt_plapp/videos)
+- **Tracking Registry:** [`sources/youtube-lists/matt-plapp-videos.csv`](../sources/youtube-lists/matt-plapp-videos.csv)
+- **Total Cataloged Videos:** 907
+- **Total Substantive Dossiers Ingested:** 846 across 8 categories in `knowledge/matt-plapp/matt-plapp-full-form/`
+- **Total Triaged / Skipped:** 61 per AGENTS.md Rule 8
+  - 58 teaser and short announcement clips under 60 seconds
+  - 3 automotive/boat/RV dealership and audit clips
+- **Quality Check Status:** 100% Pass (846/846 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
 """
-    if "Smart Pizza Marketing YouTube Shorts Collection" not in log_content:
-        log_content += "\n" + sp_sections.strip() + "\n"
+    if "Matt Plapp YouTube Shorts Collection" not in log_content:
+        log_content += "\n" + plapp_sections.strip() + "\n"
         with open(LOG_PATH, "w", encoding="utf-8") as f:
             f.write(log_content)
-        print("Updated logs/processed-sources.md with Smart Pizza Marketing audit summaries.")
+        print("Updated logs/processed-sources.md with Matt Plapp audit summaries.")
 
 if __name__ == "__main__":
     sync_knowledge_index()

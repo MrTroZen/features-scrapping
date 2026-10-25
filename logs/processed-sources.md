@@ -225,3 +225,28 @@ Audit trail of ingested content channels and processing runs for Qavyo Restauran
 - **Total Triaged / Skipped:** 0
 - **Quality Check Status:** 100% Pass (122/122 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
+
+## 13. Matt Plapp YouTube Shorts Collection
+
+- **Source Channel:** [@matt_plapp](https://www.youtube.com/@matt_plapp/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/matt-plapp-shorts.csv`](../sources/youtube-lists/matt-plapp-shorts.csv)
+- **Total Cataloged Shorts:** 1,257
+- **Total Substantive Dossiers Ingested:** 1,254 across 8 categories in `knowledge/matt-plapp/matt-plapp-short-form/`
+- **Total Triaged / Skipped:** 3 per AGENTS.md Rule 8
+  - 1 golf challenge clip
+  - 1 automotive dealership story clip
+  - 1 RV & boat dealer lead clip
+- **Quality Check Status:** 100% Pass (1,254/1,254 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
+
+## 14. Matt Plapp YouTube Long-Form Video Collection
+
+- **Source Channel:** [@matt_plapp](https://www.youtube.com/@matt_plapp/videos)
+- **Tracking Registry:** [`sources/youtube-lists/matt-plapp-videos.csv`](../sources/youtube-lists/matt-plapp-videos.csv)
+- **Total Cataloged Videos:** 907
+- **Total Substantive Dossiers Ingested:** 846 across 8 categories in `knowledge/matt-plapp/matt-plapp-full-form/`
+- **Total Triaged / Skipped:** 61 per AGENTS.md Rule 8
+  - 58 teaser and short announcement clips under 60 seconds
+  - 3 automotive/boat/RV dealership and audit clips
+- **Quality Check Status:** 100% Pass (846/846 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
