@@ -2,9 +2,9 @@
 
 Master catalog of all structured restaurant operational intelligence files in `knowledge/`.
 
-Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos)
+Total verified entries: **1,536** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts)
 
-## Customers (106 entries)
+## Customers (136 entries)
 
 - **Serial 005**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-mobile-apps-retention.md) `[mobile-apps, customer-retention, ordering-habits, direct-ordering]`
 - **Serial 006**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-app-regular-frequency.md) `[mobile-apps, repeat-orders, sales-growth, customer-frequency]`
@@ -112,8 +112,38 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 029 (Toast Video)**: [Guest Recovery Systems: Real-Time Tableside Feedback and Review Defense](../knowledge/toast/toast-full-form/customers/real-time-guest-feedback-recovery-suviche.md)
 - **Serial 120 (Toast Video)**: [Events & Unique Customer Experiences with All Day Baby [Family Style S1 E2]](../knowledge/toast/toast-full-form/customers/events-unique-customer-experiences-all.md)
 - **Serial 258 (Toast Video)**: [At Tahini, Consistent Quality and Warm Hospitality Keep Guests Coming Back [Family Style S2 E4]](../knowledge/toast/toast-full-form/customers/tahini-consistent-quality-warm-hospitality.md)
+- **Serial 064 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/customer-service-101-codys-role-play.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 092 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/secret-customer-coming-back-restaurant.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 105 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/ever-encountered-customer-like-her-restaurant.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 109 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/laughing-jokes-didnt-hear-part-restaurant.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 127 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/fire-customer-restaurant-business.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 134 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/have-you-had-kind-customer-restaurant.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 177 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/strategy-creating-great-customer-experience-during.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 179 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/shocking-truth-about-restaurant-customers-during.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 180 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/achieving-customer-satisfaction-my-restaurant-during.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 220 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/intentional-atmosphere-design-does-it-affect.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 232 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/refuse-abusive-restaurant-customer-courtesy.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 233 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/proactively-contact-restaurant-customer-fraudulent-abusive.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 234 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/while-view-customers-as-boss-are.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 235 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/online-discounts-promo-codes-are-vulnerable.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 236 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/have-you-tried-firing-customer-restaurant.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 249 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/do-you-deal-rude-angry-customers.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 250 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/do-implement-texas-hospitality-as-part.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 287 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/secret-repeated-restaurant-customers-isnt-always.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 289 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/restaurant-atmosphere-can-affect-dining-experience.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 291 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/use-intentional-design-make-customers-feel.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 293 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/creating-good-restaurant-atmosphere-costly-do.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 305 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/customer-cussing-face-do-you-react.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 359 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/important-value-you-must-know-hand.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 377 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/friendliness-important-customer-service-achieve-it.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 378 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/no-1-reason-customer-complaints-restaurants.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 379 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/giving-value-customers-build-ideal-company.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 389 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/best-way-reduce-guest-complaints.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 391 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/avoid-poor-handling-customer-concerns.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 392 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/improve-restaurant-customer-service.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
+- **Serial 393 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/customers/you-need-know-if-you-want.md) `[customer-retention, guest-complaints, service-recovery, hospitality-standards]`
 
-## Delivery (25 entries)
+## Delivery (26 entries)
 
 - **Serial 001**: [Key Information](../knowledge/owner/owner-short-form/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
 - **Serial 022**: [Key Information](../knowledge/owner/owner-short-form/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
@@ -140,8 +170,9 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 239 (Toast Video)**: [Get Started with Toast Online Ordering](../knowledge/toast/toast-full-form/delivery/get-started-online-ordering.md)
 - **Serial 240 (Toast Video)**: [Assign Servers to Orders and Tables When Using Toast Mobile Order & Pay](../knowledge/toast/toast-full-form/delivery/assign-servers-orders-tables-when.md)
 - **Serial 288 (Toast Video)**: [Turning Takeout into Loyalty: How Burger 25 Grows with Toast Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/turning-takeout-into-loyalty-burger.md)
+- **Serial 037 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/delivery/restaurant-hustle-145-pizzas-delivered-one.md) `[delivery-operations, catering-logistics, order-volume, speed-of-fulfillment]`
 
-## Finance (118 entries)
+## Finance (127 entries)
 
 - **Serial 039**: [Key Information](../knowledge/owner/owner-short-form/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
 - **Serial 043**: [Key Information](../knowledge/owner/owner-short-form/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
@@ -261,8 +292,17 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 205 (Toast Video)**: [Ch. 1: Creating a More Profitable Future | Complete Guide To: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/finance/ch-1-creating-more-profitable.md)
 - **Serial 212 (Toast Video)**: [How The Dough Joe expanded its footprint with Toast Capital Loans](../knowledge/toast/toast-full-form/finance/dough-joe-expanded-its-footprint.md)
 - **Serial 257 (Toast Video)**: [Second Place Means More Cash Towards the Bottom Line at Craveworthy Kitchen [Family Style S2 E2]](../knowledge/toast/toast-full-form/finance/second-place-means-more-cash.md)
+- **Serial 002 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/solve-unprofitable-problems-first.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 074 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/cash-mismanagement-sinking-restaurant.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 129 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/creating-detailed-financial-projection-restaurant-business.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 161 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/restaurant-business-start-up-cost-inclusions.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 166 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/stick-budget-restaurant-business.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 237 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/do-you-assess-cash-management-system.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 238 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/hidden-dangers-cash-management-restaurant-industry.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 253 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/do-you-disclose-sales-number-staff.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
+- **Serial 296 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/finance/can-you-control-restaurants-profitability.md) `[restaurant-finance, cash-controls, financial-projections, unit-economics]`
 
-## Food Cost (80 entries)
+## Food Cost (82 entries)
 
 - **Serial 036**: [Key Information](../knowledge/owner/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
 - **Serial 045**: [Key Information](../knowledge/owner/owner-short-form/food-cost/gourmet-ramen-economics.md) `[food-cost, ramen, inventory-management, shelf-life, average-check]`
@@ -344,6 +384,8 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 016 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/food-cost/friends-dont-let-friends-eat.md) `[food-cost, ingredient-cost, kitchen-efficiency, margins]`
 - **Serial 087 (Toast Video)**: [Get Started with xtraCHEF - Inventory](../knowledge/toast/toast-full-form/food-cost/get-started-xtrachef-inventory.md)
 - **Serial 315 (Toast Video)**: [Restaurant Inventory Management: How to Calculate & Use PAR Levels to Reduce Food Waste](../knowledge/toast/toast-full-form/food-cost/restaurant-inventory-management-calculate-use.md)
+- **Serial 045 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/food-cost/when-recipe-book-speaks-another-language.md) `[food-cost, recipe-consistency, portion-control, cogs-management]`
+- **Serial 205 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/food-cost/can-easily-be-done-fix-food.md) `[food-cost, recipe-consistency, portion-control, cogs-management]`
 
 ## Forecasting (4 entries)
 
@@ -352,7 +394,7 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 111 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/forecasting/predictive-shift-flagging-before-rushes-occur.md) `[shift-prediction, rush-management, demand-forecasting, labor-optimization]`
 - **Serial 365 (Toast Video)**: [Staff for the Forecast: Trish Rowley on Toast IQ Team](../knowledge/toast/toast-full-form/forecasting/staff-forecast-trish-rowley-iq.md)
 
-## Inventory (6 entries)
+## Inventory (8 entries)
 
 - **Serial 066 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md) `[inventory-management, par-levels, waste-reduction, ordering-systems]`
 - **Serial 007 (Toast Video)**: [Inventory Control Systems: Sheet-to-Shelf Counting and Stock Variance Prevention](../knowledge/toast/toast-full-form/inventory/restaurant-inventory-nightmares-sheet-to-shelf-counting.md)
@@ -360,8 +402,10 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 009 (Toast Video)**: [Inventory Loss Prevention: Kitchen Waste Logging and Bar Variance Control](../knowledge/toast/toast-full-form/inventory/restaurant-inventory-nightmares-waste-logs-and-theft.md)
 - **Serial 013 (Toast Video)**: [Pizzeria Operations: Crust Yields, High-Cost Toppings, and POS Inventory Integration](../knowledge/toast/toast-full-form/inventory/artisan-pizza-dough-and-topping-inventory-control.md)
 - **Serial 158 (Toast Video)**: [Simplifying Retail Inventory and Operations with Toast Retail](../knowledge/toast/toast-full-form/inventory/simplifying-retail-inventory-operations-retail.md)
+- **Serial 168 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/inventory/skillset-must-have-restaurant-business-inventory.md) `[inventory-management, stock-control, par-levels, item-availability]`
+- **Serial 285 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/inventory/do-you-hate-it-if-item.md) `[inventory-management, stock-control, par-levels, item-availability]`
 
-## Kitchen (17 entries)
+## Kitchen (20 entries)
 
 - **Serial 554**: [Key Information](../knowledge/owner/owner-short-form/kitchen/kitchen-could-20-annually-heres.md) `[kitchen, kitchen-operations, throughput]`
 - **Serial 565**: [Key Information](../knowledge/owner/owner-short-form/kitchen/pizza-kitchen-isnt-broken-system.md) `[kitchen, kitchen-operations, throughput]`
@@ -380,8 +424,11 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 114 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/just-keep-swimming-rush-hour.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
 - **Serial 026 (Toast Video)**: [Kitchen Display Systems (KDS): Line Station Routing, Ticket Timers, and Expo Velocity](../knowledge/toast/toast-full-form/kitchen/casa-del-barco-kitchen-display-system-optimization.md)
 - **Serial 143 (Toast Video)**: [Navigate your Toast Kitchen Display Screen](../knowledge/toast/toast-full-form/kitchen/navigate-kitchen-display-screen.md)
+- **Serial 091 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/kitchen/surviving-restaurant-rollercoaster-tales-kitchen-frontlines.md) `[kitchen-operations, station-throughput, food-prep, order-timing]`
+- **Serial 098 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/kitchen/delivering-joy-beyond-food-mattengas-journey.md) `[kitchen-operations, station-throughput, food-prep, order-timing]`
+- **Serial 386 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/kitchen/kitchen-flow-systematize-it.md) `[kitchen-operations, station-throughput, food-prep, order-timing]`
 
-## Labour (98 entries)
+## Labour (214 entries)
 
 - **Serial 016**: [Key Information](../knowledge/owner/owner-short-form/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
 - **Serial 041**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
@@ -481,8 +528,124 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 255 (Toast Video)**: [m.henry Cuts Payroll Stress and Gains Time Back with Toast](../knowledge/toast/toast-full-form/labour/mhenry-cuts-payroll-stress-gains.md)
 - **Serial 349 (Toast Video)**: [Team Tools Built for the Rush | Toast IQ Team](../knowledge/toast/toast-full-form/labour/team-tools-built-rush-iq.md)
 - **Serial 361 (Toast Video)**: [Can AI Build Your Restaurant Staff Schedule? Toast IQ Team](../knowledge/toast/toast-full-form/labour/can-ai-build-restaurant-staff.md)
+- **Serial 021 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/leadership-passion-pizza-5-years-gm.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 027 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/trust-process-training-passion-perfection.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 048 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/restaurant-staff-struggles-finding-right-spot.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 051 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/staff-secret-ingredient-success.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 056 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/thriving-under-pressure-mattengas-pizzeria-team.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 061 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/community-team-pizza-mattengas-journey.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 075 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/embracing-main-role-manager-restaurant-owner.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 076 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/stay-cool-under-pressure-top-tip.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 082 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/planning-success-vital-role-team-training.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 083 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/team-overcomes-restaurant-challenges-together.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 096 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/teamwork-important-kitchen.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 107 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/team-harmonys-pizza-warming-secrets.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 108 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/were-ready-make-some-dough-awesome.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 116 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/employees-react-busiest-day-restaurant-fear.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 122 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/being-objective-can-kill-laziness-team.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 126 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/leaders-lets-talk-about-speed-service.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 137 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/main-cause-managers-stress-restaurant-business.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 138 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/operational-excellence-critical-restaurant-managers.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 140 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/be-great-manager-during-shift-etiquette.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 142 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/successful-leaders-always-speak-up.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 144 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/when-show-empathy-team-members-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 145 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/shocking-truth-feedbacks-workplace.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 148 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/would-you-explain-it-team-member.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 149 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/dear-managers-they-wont-like-you.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 150 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/would-you-handle-slow-team-member.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 151 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/real-managers-handle-top-priorities-like.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 153 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/dont-consider-yourself-leader-if-you.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 163 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/control-labor-restaurant-business-aggressively.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 182 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/event-catering-tip-holiday-season.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 183 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/consider-having-scheduling-platforms-restaurant-business.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 185 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/start-hiring-staff-during-holiday-season.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 186 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/start-cross-training-today-restaurant-business.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 187 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/flexible-are-you-as-restaurant-manager.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 190 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/handle-staffing-challenges-during-holidays-do.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 191 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/one-hardest-conversations-you-made-team.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 193 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/acknowledge-team-members-do-you-do.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 194 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/top-skill-manager-needs-master.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 195 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/should-manager-react-his-teams-feedback.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 196 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/should-new-restaurant-manager-assess-his.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 197 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-strategically-build-relationship-as.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 199 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/create-systematic-improvements-restaurant-business-as.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 200 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-not-compare-dictate-tip-new.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 201 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/are-you-new-manager-do-you.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 207 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-set-expectations-consistency-within.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 209 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/background-checks-are-important-hiring-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 215 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-control-restaurants-labor-whats.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 216 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/should-manager-be-masterful.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 217 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/often-do-you-communicate-call-out-policy.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 218 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/effective-shift-scheduling-does-it-affect.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 221 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-need-have-call-out-policy.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 222 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-implement-call-out-policy-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 223 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-need-have-call-out-policy-2.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 225 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-tolerate-disrespect-business-do.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 226 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/correlation-giving-perspective-gaining-respect-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 228 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/way-speaking-earns-respect-restaurant-staff.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 229 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/self-respect-more-important-than-earned-respect.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 230 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-earn-respect-team-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 243 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/manager-should-handle-people-without-experience.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 244 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/restaurant-manager-glue-holds-it-all.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 248 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/add-training-restaurants-accountability-chart.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 251 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/you-need-accountability-chart-workplace.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 252 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/new-job-handle-stress.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 254 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-deal-different-personalities-workplace.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 255 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-fix-confusion-arguments-workplace.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 256 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/most-restaurant-staff-not-aware.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 259 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/shift-perspective-negative-positive-workplace.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 264 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/best-easiest-way-control-labor-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 269 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/build-strong-team.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 272 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/things-you-need-list-restaurant-inspection.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 273 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/right-way-treat-new-employees-day.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 275 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/another-tip-employee-onboarding-you-must.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 276 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/manager-need-not-complain.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 277 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/another-important-thing-employee-onboarding-you.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 278 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/are-you-manager-makes-you-outstanding.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 279 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/are-you-new-hire-are-you.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 280 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/individual-behaviors-influence-team-dynamics-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 281 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/makes-you-good-manager.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 282 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-implement-restroom-policies-workplace.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 284 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/best-tips-making-restaurant-policies.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 286 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/best-tips-busy-restaurant-owners-creating.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 290 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/having-people-who-are-hard-manage.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 292 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/employees-are-unproductive-work.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 295 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/leader-must-be-team-succeed.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 298 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/manager-as-glue.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 299 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/managerial-success-tips-l-power-developing.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 307 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/stop-staff-stress.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 311 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/protect-employees-protect-business-top-hr.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 312 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/accountability-chart-does-it-help-resolving.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 313 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/do-you-handle-stress-new-job.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 320 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/war-meeting-it-must-workplace.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 321 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/best-control-restaurant-labor-52-second-video.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 324 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/secret-scaling-leadership-not-secret.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 325 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/embracing-mistakes-coaching-slips-help-you.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 328 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/shifting-team-positive-perspective-leaders-top.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 329 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/keeping-morale-high-when-going-gets.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 331 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/missing-chapter-most-leadership-books-you.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 342 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/video-footage-important-creating-incident-report.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 343 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/3-top-tips-mental-wellbeing-achieve.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 345 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/being-objective-important-writing-incident-report.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 347 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/keep-employee-so-simple-but-often.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 348 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/biggest-mistake-make-career-development-avoid.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 349 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/most-crucial-stage-employee-work.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 350 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/2-simple-steps-assessing-employee-experience.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 351 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/recognize-situations-need-incident-report.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 352 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/employee-experience-vs-company-culture-defined.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 364 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/being-objective-important-workplace.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 365 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/stop-arguments-quickly.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 367 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/conduct-effective-one-on-one-meeting-employees.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 368 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/leadership-like-playing-tennis-work.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 369 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/build-strong-team-work.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 370 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/be-good-restaurant-manager.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 371 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/control-labor-restaurant-business.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 374 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/tip-recession-proof-restaurant-business.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 380 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/achieve-good-team-performance-train-peoples.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 382 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/stop-being-emotional-when-dealing-employee.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
+- **Serial 384 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/labour/quick-tip-improve-customer-service-restaurant.md) `[labor-management, staff-training, employee-retention, workplace-culture]`
 
-## Marketing (146 entries)
+## Marketing (151 entries)
 
 - **Serial 002**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
 - **Serial 003**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
@@ -630,8 +793,13 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 363 (Toast Video)**: [Busier Afternoons: Lorena Nunez on Toast IQ Grow](../knowledge/toast/toast-full-form/marketing/busier-afternoons-lorena-nunez-iq.md)
 - **Serial 366 (Toast Video)**: [Your Gut, Backed by Data: Mary Kate Milway on Toast IQ Grow](../knowledge/toast/toast-full-form/marketing/gut-backed-by-data-mary.md)
 - **Serial 367 (Toast Video)**: [Leave the Emails to Us: Monica Kalousek on Toast IQ Grow](../knowledge/toast/toast-full-form/marketing/leave-emails-us-monica-kalousek.md)
+- **Serial 034 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/marketing/sales-strategy-needs-more-email-than.md) `[restaurant-marketing, email-marketing, review-generation, customer-acquisition]`
+- **Serial 301 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/marketing/get-more-customer-reviews.md) `[restaurant-marketing, email-marketing, review-generation, customer-acquisition]`
+- **Serial 302 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/marketing/reviews-matter.md) `[restaurant-marketing, email-marketing, review-generation, customer-acquisition]`
+- **Serial 308 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/marketing/sales-vs-marketing-do-you-handle.md) `[restaurant-marketing, email-marketing, review-generation, customer-acquisition]`
+- **Serial 315 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/marketing/much-should-you-spend-marketing-unlock.md) `[restaurant-marketing, email-marketing, review-generation, customer-acquisition]`
 
-## Menu (116 entries)
+## Menu (120 entries)
 
 - **Serial 014**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
 - **Serial 021**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
@@ -749,8 +917,12 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 221 (Toast Video)**: [Chef Sebastián Vargas Joins Sophia Roe for Signature Dish Ep. 4](../knowledge/toast/toast-full-form/menu/chef-sebastin-vargas-joins-sophia.md)
 - **Serial 228 (Toast Video)**: [Chef Chris Mauricio joins @iamsophiaroe.1959  for the Signature Dish Season Finale](../knowledge/toast/toast-full-form/menu/chef-chris-mauricio-joins-iamsophiaroe1959.md)
 - **Serial 306 (Toast Video)**: [What Makes a Burger Menu Special?](../knowledge/toast/toast-full-form/menu/makes-burger-menu-special.md)
+- **Serial 211 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/menu/start-having-vegan-options-restaurant-business.md) `[menu-engineering, item-availability, pricing-strategy, vegan-options]`
+- **Serial 212 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/menu/continue-serve-vegan-options-restaurant-business.md) `[menu-engineering, item-availability, pricing-strategy, vegan-options]`
+- **Serial 213 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/menu/should-you-consider-adding-vegan-options.md) `[menu-engineering, item-availability, pricing-strategy, vegan-options]`
+- **Serial 214 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/menu/should-you-add-vegan-option-restaurant.md) `[menu-engineering, item-availability, pricing-strategy, vegan-options]`
 
-## Operations (419 entries)
+## Operations (560 entries)
 
 - **Serial 007**: [Key Information](../knowledge/owner/owner-short-form/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
 - **Serial 012**: [Key Information](../knowledge/owner/owner-short-form/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
@@ -1171,6 +1343,147 @@ Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 360 (Toast Video)**: [Toast IQ Agents for Restaurant Owners Who Wear Every Hat](../knowledge/toast/toast-full-form/operations/iq-agents-restaurant-owners-who.md)
 - **Serial 364 (Toast Video)**: [Real Data, Friendly Competition: Trish Rowley on Toast IQ Team](../knowledge/toast/toast-full-form/operations/real-data-friendly-competition-trish.md)
 - **Serial 368 (Toast Video)**: [When the Music Stops, Service Doesn’t: Asma Khan’s Darjeeling Express](../knowledge/toast/toast-full-form/operations/when-music-stops-service-doesnt.md)
+- **Serial 004 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/real-challenge-working-pizzeria.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 012 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/secret-perfect-slice.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 020 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/every-great-restaurant-starts-clear-vision.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 022 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/hard-work-smiles-little-compliment-goes.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 024 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/pizza-passion-purpose-3-ps-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 025 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/morning-chaos-decoding-first-order-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 028 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/game-changer-you-cant-afford-ignore.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 029 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/handling-pressure-real-deal-after-making.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 030 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/restaurant-planning-101-far-ahead-should.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 036 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/weekly-assessments-could-save-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 041 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/dinner-rush-mission-impossible-keep-cool.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 058 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/restaurant-ruckus-keeping-cool-under-pressure.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 071 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/tale-two-work-cultures-mattengas-happy.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 079 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/secret-sauce-behind-mattengas-pizzeria-success.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 086 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/insights-entrepreneurs-small-business-owners-uncover.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 088 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/unity-made-masterpiece.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 094 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/pizza-expo-sampling-connecting-cherishing-unforgettable.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 099 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/join-kiera-as-she-takes-pizza.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 106 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/pizza-happiness-ultimate-combo.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 114 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/had-jam-packed-couple-days-last-week.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 121 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/100-fact-restaurant-business-do-you.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 123 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/mentality-monday-starting-shift-some-motivation.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 124 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/say-no-avoid-overspending-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 125 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/are-extremely-grateful-work-some-amazing.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 128 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/while-theres-no-need-new-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 130 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/important-step-opening-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 131 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/opening-restaurant-like-boxing-you-need.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 132 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/business-plan-must-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 133 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/whats-top-priority-opening-restaurant-heres.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 135 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/big-common-mistake-opening-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 136 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/greatest-fear-opening-restaurant-endure-it.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 139 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/10000-day-serving-food-out-pizza.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 141 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/restaurant-work-so-hard-so-fun.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 143 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/drive-ego-terrible-idea.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 146 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/going-work-bad-mood-manage-day.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 147 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/who-more-skillful-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 152 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/be-best-worst-day.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 154 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/first-thing-you-need-know-about.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 155 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/handling-life-threatening-food-allergies-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 156 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/restaurant-standards-get-lower-lower-fix.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 157 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/important-communicating-business-philosphy-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 158 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/discovered-first-pizza-fest-san-antonio.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 159 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/many-plates-you-need-before-opening.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 160 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/allocating-operational-cost-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 162 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/business-math.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 164 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/handling-vendor-negotiations-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 165 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/much-local-restaurant-start-up-cost.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 167 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/while-many-restaurants-fail-one-can.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 169 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/lamborghini-theory-restaurant-business-it-fails.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 170 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/restaurant-failing.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 171 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/would-you-handle-situation-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 172 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/first-reason-restaurants-fail.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 173 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/stress-closing-restaurant-due-failure.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 174 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/restaurants-fail.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 175 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/stand-out-among-hundreds-restaurant-businesses.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 176 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/boosting-sales-through-cultural-relevance-holidays.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 178 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/increase-restaurant-sales-seasonal-specials.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 181 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/food-more-than-food-proper-mindset.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 184 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/lean-technology-specially-during-holidays-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 188 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/overcommunication-becomes-key-restaurant-success-holidays.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 189 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/planning-early-holidays-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 192 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/measure-hard-skills-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 198 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/be-seen-book-review-by-jen.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 202 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/are-some-people-not-getting-promoted.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 203 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/does-memo-help-providing-food-consistency.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 204 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/do-visuals-play-vital-role-restaurants.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 206 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/do-you-handle-food-consistency-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 208 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/providing-food-consistency-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 210 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/do-you-make-plan-actually-work.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 219 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/are-you-ok-people-knowing-much.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 224 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/often-do-you-deal-no-call-no-show.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 227 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/communicate-perspective-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 231 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/being-good-playing-tennis-plus-point.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 239 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/uncover-blind-spot-as-restaurant-owner.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 240 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/streamline-restaurant-operations.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 241 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/whats-20-thats-gonna-have-80.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 242 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/2-things-you-need-ask-yourself.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 245 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/adding-goods-section-restaurants-accountability-chart.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 246 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/manage-biggest-asset-pain-restaurants-accountability.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 247 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/add-policies-procedures-restaurant-accountability-chart.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 258 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/most-common-habit-unsuccessful-people.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 260 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/business-man-mind-should-work.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 261 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/make-judgment-knowing-people-are-relatively.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 262 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/does-work-smart-actually-means-work.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 263 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/5-things-consider-before-franchising.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 266 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/when-asking-more-questions-better-than.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 267 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/while-inflation-hits-hard-first-thing.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 268 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/catch-thief-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 270 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/achieve-consistency-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 271 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/effective-way-communicating-trainees.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 274 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/measure-guest-experience-using-inspection-form.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 283 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/power-positive-scripting-delivering-bad-news.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 294 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/are-you-boss-lesson-you-should.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 297 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/screwed-up-big-time-restaurant-owner.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 300 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/control-cost.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 303 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/words-body-language-affects-incident.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 304 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/stick-script.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 306 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/government-as-source-stress-business-do.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 309 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/stress-restaurant-industry-best-ways-handle.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 310 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/maintain-restaurants-food-quality-despite-recession.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 314 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/improve-communication-ensure-smooth-transition-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 316 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/top-company-policies-you-need-implemet.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 317 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/planning-technique-effective-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 319 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/age-just-number-my-67-year-old-inspiration.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 322 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/advantage-mothers-owning-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 323 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/supercharge-business-productivity-watch-60-second.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 326 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/logbook-takes-spot-performance-management.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 327 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/power-verbal-warnings-unlocking-secret-performance.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 330 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/mastering-can-do-attitude-secret-entrepreneurial-success.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 332 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/do-solve-greatest-challenge-people-among.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 334 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/can-you-work-effectively-strangers-yes.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 335 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/while-people-are-biased-do-you.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 336 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/essential-business-closed-1-2pm-restaurant-owner.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 337 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/over-committing-good-you.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 338 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/2023-can-be-best-year.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 339 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/beware-words-actions-specially-during-incident.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 340 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/prioritize-things-when-everything-just-equally.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 341 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/role-changes-cope-up-these-challenge.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 344 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/combined-astronomy-statistics-make-grand-vision.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 346 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/passion-vs-profession-l-they-affect.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 353 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/must-watch-50-seconds-guide-franchise-beginners.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 354 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/55-seconds-guide-franchise-beginners.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 355 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/1-minute-beginners-guide-franchising.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 356 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/watch-before-franchising-subscribe-more.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 357 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/survive-threat-recession-during-pandemic-picture.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 358 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/believe-it-not-you-do-not.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 360 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/stop-toxic-behavior-work.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 361 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/difference-between-working-smart-vs-working.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 362 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/making-mistakes-good-you.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 366 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/are-you-forgetful-heres-you-need.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 372 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/add-them-hr-calendar-execute-them.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 373 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/actually-work-business-vs-work-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 375 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/restaurant-owner-reacts-starbucks-viral-video.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 376 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/hardest-truth-about-owning-restaurant-business.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 381 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/set-clear-boundaries-business-partnership-it.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 383 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/determine-good-business-partner.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 385 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/turn-around-failing-restaurant.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 387 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/are-you-learning-mistakes.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 388 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/would-you-eat-restaurant-dirty-restroom.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 390 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/turn-around-failing-restaurant-2.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
+- **Serial 394 (Owner-girl Short)**: [Key Information](../knowledge/owner-girl/owner-girl-short-form/operations/hey-its-healthy-be-little-paranoid.md) `[restaurant-operations, management-systems, sop-execution, owner-mindset]`
 
 ## Payments (26 entries)
 

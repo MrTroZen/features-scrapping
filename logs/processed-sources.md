@@ -125,3 +125,15 @@ Audit trail of ingested content channels and processing runs for Qavyo Restauran
   - 15 Generic hardware assembly and cabling manuals
 - **Quality Check Status:** 100% Pass (314/314 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
+
+## 5. Owner-girl (The Making Dough Show) YouTube Shorts Collection
+
+- **Source Channel:** [@makingdoughshow](https://www.youtube.com/@makingdoughshow/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/owner-girl-shorts.csv`](../sources/youtube-lists/owner-girl-shorts.csv)
+- **Total Cataloged Shorts:** 394
+- **Total Substantive Dossiers Ingested:** 313 across categories in `knowledge/owner-girl/owner-girl-short-form/`
+- **Total Triaged / Skipped:** 81 per AGENTS.md Rule 8
+  - 72 Social entertainment, team dance, kitchen comedy, holiday greetings, and local community PR
+  - 9 Generic motivational platitudes without concrete restaurant operational methods
+- **Quality Check Status:** 100% Pass (313/313 files verified for frontmatter, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete

@@ -547,3 +547,10 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
 
 - **[Understanding PAR Levels for Restaurant Inventory Management](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md)** (Serial 066)
   - Dynamic PAR Level: $\text{PAR} = (\text{Average Daily Usage} \times \text{Lead Time Days}) + \text{Safety Buffer Stock}$.
+
+## Labor & Operations (Owner-girl)
+
+- **[Labor Control & Shift Staggering](../knowledge/owner-girl/owner-girl-short-form/labour/best-control-restaurant-labor-52-second-video.md)** (Serial 321)
+  - Target Labor Band: $\text{Labor Cost \%} = \frac{\text{Total Labor Cost}}{\text{Gross Food and Beverage Sales}} \le 28\% \text{ to } 32\%$.
+- **[Food Consistency & Portion Control](../knowledge/owner-girl/owner-girl-short-form/food-cost/can-easily-be-done-fix-food-inconsistency.md)** (Serial 205)
+  - Over-portioning Margin Variance: $\text{Margin Loss} = \text{Ingredient Overportion \%} \times \text{COGS Weight} \implies 10\% \text{ protein overportion} = 2\%\text{--}4\% \text{ total margin erosion}$.

@@ -3,7 +3,7 @@
 update_master_indexes_full.py
 
 Comprehensive synchronization script for:
-1. indexes/knowledge-index.md (indexes all Owner Shorts, Owner Videos, Toast Shorts, Toast Videos)
+1. indexes/knowledge-index.md (indexes Owner Shorts, Owner Videos, Toast Shorts, Toast Videos, Owner-girl Shorts, Owner-girl Videos)
 2. indexes/formula-index.md
 3. indexes/benchmark-index.md
 4. logs/processed-sources.md
@@ -41,9 +41,10 @@ def sync_knowledge_index():
     
     # Load toast-videos CSV for accurate serial lookup
     toast_vid_map = {}
-    with open("sources/youtube-lists/toast-videos.csv", "r", encoding="utf-8") as f:
-        for r in csv.DictReader(f):
-            toast_vid_map[r["url"].strip()] = r["serial"]
+    if os.path.exists("sources/youtube-lists/toast-videos.csv"):
+        with open("sources/youtube-lists/toast-videos.csv", "r", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                toast_vid_map[r["url"].strip()] = r["serial"]
 
     # We will collect entries by category: category -> list of (sort_key, line)
     catalog = {cat: [] for cat in CATEGORY_NAMES}
@@ -52,7 +53,9 @@ def sync_knowledge_index():
         "owner_shorts": 0,
         "owner_videos": 0,
         "toast_shorts": 0,
-        "toast_videos": 0
+        "toast_videos": 0,
+        "owner_girl_shorts": 0,
+        "owner_girl_videos": 0
     }
 
     # 1. Walk through all subdirectories
@@ -80,6 +83,12 @@ def sync_knowledge_index():
             elif rel_path.startswith("toast/toast-full-form/"):
                 collection = "toast_videos"
                 category = parts[2]
+            elif rel_path.startswith("owner-girl/owner-girl-short-form/"):
+                collection = "owner_girl_shorts"
+                category = parts[2]
+            elif rel_path.startswith("owner-girl/owner-girl-full-form/"):
+                collection = "owner_girl_videos"
+                category = parts[2]
             else:
                 continue
 
@@ -92,10 +101,14 @@ def sync_knowledge_index():
             # Extract title
             m_h1 = re.search(r'^#\s+(.+)$', content, re.M)
             title = m_h1.group(1).strip() if m_h1 else fname[:-3]
-            # Strip redundant prefix for concise listing
             display_title = title
             if display_title.startswith("Restaurant Operational Intelligence: "):
                 display_title = display_title.replace("Restaurant Operational Intelligence: ", "")
+
+            # If short-form frontmatter has title
+            m_fm_title = re.search(r'title:\s*"([^"]+)"', content)
+            if m_fm_title and not m_h1:
+                display_title = m_fm_title.group(1).strip()
 
             # Extract tags if available
             m_tags = re.search(r'tags:\s*\[([^\]]+)\]', content)
@@ -123,9 +136,15 @@ def sync_knowledge_index():
             elif collection == "toast_shorts":
                 label = f"Serial {serial_num:03d} (Toast Short)"
                 sort_key = (3, serial_num, display_title)
-            else:
+            elif collection == "toast_videos":
                 label = f"Serial {serial_num:03d} (Toast Video)"
                 sort_key = (4, serial_num, display_title)
+            elif collection == "owner_girl_shorts":
+                label = f"Serial {serial_num:03d} (Owner-girl Short)"
+                sort_key = (5, serial_num, display_title)
+            else:
+                label = f"Serial {serial_num:03d} (Owner-girl Video)"
+                sort_key = (6, serial_num, display_title)
 
             line = f"- **{label}**: [{display_title}]({rel_link}){tags_str}"
 
@@ -140,7 +159,7 @@ def sync_knowledge_index():
         "",
         "Master catalog of all structured restaurant operational intelligence files in `knowledge/`.",
         "",
-        f"Total verified entries: **{total_entries:,}** ({counts['owner_shorts']} Owner Shorts, {counts['owner_videos']} Owner Videos, {counts['toast_shorts']} Toast Shorts, {counts['toast_videos']} Toast Videos)",
+        f"Total verified entries: **{total_entries:,}** ({counts['owner_shorts']} Owner Shorts, {counts['owner_videos']} Owner Videos, {counts['toast_shorts']} Toast Shorts, {counts['toast_videos']} Toast Videos, {counts['owner_girl_shorts']} Owner-girl Shorts)",
         ""
     ]
 
@@ -163,6 +182,7 @@ def sync_knowledge_index():
     print(f"  Owner Videos: {counts['owner_videos']}")
     print(f"  Toast Shorts: {counts['toast_shorts']}")
     print(f"  Toast Videos: {counts['toast_videos']}")
+    print(f"  Owner-girl Shorts: {counts['owner_girl_shorts']}")
 
 def update_formula_and_benchmark_indexes():
     # Update formula index
@@ -171,27 +191,19 @@ def update_formula_and_benchmark_indexes():
         with open(f_path, "r", encoding="utf-8") as f:
             f_content = f.read()
 
-        toast_full_formulas = """
-## Delivery Economics (Toast Long-Form)
+        owner_girl_formulas = """
+## Labor & Operations (Owner-girl)
 
-- **[Trapper's Sushi Commission Savings](../knowledge/toast/toast-full-form/delivery/trappers-sushi-25k-commission-savings-direct-ordering.md)** (Serial 007)
-  - Direct Channel Savings: $\\text{Commission Savings} = \\text{Gross Marketplace Sales} \\times 0.25 - \\text{Flat Direct Dispatch Fees}$.
-
-## Finance & Prime Cost (Toast Long-Form)
-
-- **[Snappy Patty's Profitability and Labor Control](../knowledge/toast/toast-full-form/finance/snappy-pattys-profitability-and-labor-control.md)** (Serial 001)
-  - Prime Cost Threshold: $\\text{Prime Cost} = \\text{COGS} + \\text{Total Labor} \\le 55\\% \\text{ to } 60\\% \\text{ of Gross Revenue}$.
-
-## Inventory & Stock Control (Toast Long-Form)
-
-- **[Understanding PAR Levels for Restaurant Inventory Management](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md)** (Serial 066)
-  - Dynamic PAR Level: $\\text{PAR} = (\\text{Average Daily Usage} \\times \\text{Lead Time Days}) + \\text{Safety Buffer Stock}$.
+- **[Labor Control & Shift Staggering](../knowledge/owner-girl/owner-girl-short-form/labour/best-control-restaurant-labor-52-second-video.md)** (Serial 321)
+  - Target Labor Band: $\\text{Labor Cost \\%} = \\frac{\\text{Total Labor Cost}}{\\text{Gross Food and Beverage Sales}} \\le 28\\% \\text{ to } 32\\%$.
+- **[Food Consistency & Portion Control](../knowledge/owner-girl/owner-girl-short-form/food-cost/can-easily-be-done-fix-food-inconsistency.md)** (Serial 205)
+  - Over-portioning Margin Variance: $\\text{Margin Loss} = \\text{Ingredient Overportion \\%} \\times \\text{COGS Weight} \\implies 10\\% \\text{ protein overportion} = 2\\%\\text{--}4\\% \\text{ total margin erosion}$.
 """
-        if "Snappy Patty's Profitability and Labor Control" not in f_content:
-            f_content += "\n" + toast_full_formulas.strip() + "\n"
+        if "Labor Control & Shift Staggering" not in f_content:
+            f_content += "\n" + owner_girl_formulas.strip() + "\n"
             with open(f_path, "w", encoding="utf-8") as f:
                 f.write(f_content)
-            print("Updated formula-index.md with Toast long-form intelligence.")
+            print("Updated formula-index.md with Owner-girl intelligence.")
 
     # Update benchmark index
     b_path = os.path.join(INDEX_DIR, "benchmark-index.md")
@@ -199,19 +211,19 @@ def update_formula_and_benchmark_indexes():
         with open(b_path, "r", encoding="utf-8") as f:
             b_content = f.read()
 
-        toast_full_benchmarks = """
-## Operations & Table Turnaround (Toast Long-Form)
+        owner_girl_benchmarks = """
+## Operations, Guest Retention & Culture (Owner-girl)
 
-- **Tableside Checkout Turnover Velocity**: Reduces table settlement dwell times from 8–12 minutes down to under 2 minutes per table.
-- **Order Transcription Comp Reduction**: Direct digital order transmission to KDS cuts kitchen transcription errors and food comps by over 50%.
-- **Third-Party Commission Elimination**: Direct digital ordering captures 20% to 30% gross order margin otherwise lost to marketplace commissions.
-- **Labor Scheduling Variance**: Aligning hourly labor rosters against hourly POS forecast curves saves 3% to 5% in payroll expenditure.
+- **Complaint Resolution Speed**: Resolving customer complaints within 24 hours retains over 70% of dissatisfied diners as long-term repeat guests.
+- **Checklist Compliance Threshold**: Independent operations running structured station checklists achieve over 95% execution consistency across manager shifts.
+- **Onboarding Retention Impact**: Structured 30-day employee onboarding milestones reduce 90-day frontline restaurant turnover by more than 30%.
+- **High-Volume Delivery Pacing**: Peak staging throughput reaches 100 to 145 pizzas per peak delivery hour without bottle-necking in-house dining.
 """
-        if "Tableside Checkout Turnover Velocity" not in b_content:
-            b_content += "\n" + toast_full_benchmarks.strip() + "\n"
+        if "Complaint Resolution Speed" not in b_content:
+            b_content += "\n" + owner_girl_benchmarks.strip() + "\n"
             with open(b_path, "w", encoding="utf-8") as f:
                 f.write(b_content)
-            print("Updated benchmark-index.md with Toast long-form intelligence.")
+            print("Updated benchmark-index.md with Owner-girl intelligence.")
 
 def update_processed_sources_log():
     if not os.path.exists(LOG_PATH):
@@ -219,26 +231,24 @@ def update_processed_sources_log():
     with open(LOG_PATH, "r", encoding="utf-8") as f:
         log_content = f.read()
 
-    toast_long_form_section = """
-## 4. Toast, Inc. YouTube Long-Form Video Collection
+    owner_girl_shorts_section = """
+## 5. Owner-girl (The Making Dough Show) YouTube Shorts Collection
 
-- **Source Channel:** [@Toasttab](https://www.youtube.com/@Toasttab/videos)
-- **Tracking Registry:** [`sources/youtube-lists/toast-videos.csv`](../sources/youtube-lists/toast-videos.csv)
-- **Total Cataloged Videos:** 370
-- **Total Substantive Dossiers Ingested:** 314 across 14 categories in `knowledge/toast/toast-full-form/`
-- **Total Triaged / Skipped:** 56 per AGENTS.md Rule 8
-  - 19 Corporate PR / Charity / Volunteer campaigns
-  - 3 Commercial TV cutdowns (15s/30s ad cutdowns)
-  - 19 Short promotional snippets and marketing slogans (<= 45s)
-  - 15 Generic hardware assembly and cabling manuals
-- **Quality Check Status:** 100% Pass (314/314 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Source Channel:** [@makingdoughshow](https://www.youtube.com/@makingdoughshow/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/owner-girl-shorts.csv`](../sources/youtube-lists/owner-girl-shorts.csv)
+- **Total Cataloged Shorts:** 394
+- **Total Substantive Dossiers Ingested:** 313 across categories in `knowledge/owner-girl/owner-girl-short-form/`
+- **Total Triaged / Skipped:** 81 per AGENTS.md Rule 8
+  - 72 Social entertainment, team dance, kitchen comedy, holiday greetings, and local community PR
+  - 9 Generic motivational platitudes without concrete restaurant operational methods
+- **Quality Check Status:** 100% Pass (313/313 files verified for frontmatter, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
 """
-    if "Toast, Inc. YouTube Long-Form Video Collection" not in log_content:
-        log_content += "\n" + toast_long_form_section.strip() + "\n"
+    if "The Making Dough Show) YouTube Shorts Collection" not in log_content:
+        log_content += "\n" + owner_girl_shorts_section.strip() + "\n"
         with open(LOG_PATH, "w", encoding="utf-8") as f:
             f.write(log_content)
-        print("Updated logs/processed-sources.md with Toast Long-Form collection audit summary.")
+        print("Updated logs/processed-sources.md with Owner-girl Shorts audit summary.")
 
 if __name__ == "__main__":
     sync_knowledge_index()
