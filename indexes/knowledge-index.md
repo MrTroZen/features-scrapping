@@ -2,9 +2,9 @@
 
 Master catalog of all structured restaurant operational intelligence files in `knowledge/`.
 
-Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts, 247 Owner-girl Videos, 68 Restaurant Boss Shorts, 387 Restaurant Boss Videos, 198 Wilson F&B Shorts, 403 Wilson F&B Videos)
+Total verified entries: **3,081** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos, 313 Owner-girl Shorts, 247 Owner-girl Videos, 68 Restaurant Boss Shorts, 387 Restaurant Boss Videos, 198 Wilson F&B Shorts, 403 Wilson F&B Videos, 120 Smart Pizza Shorts, 122 Smart Pizza Videos)
 
-## Customers (209 entries)
+## Customers (211 entries)
 
 - **Serial 005**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-mobile-apps-retention.md) `[mobile-apps, customer-retention, ordering-habits, direct-ordering]`
 - **Serial 006**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-app-regular-frequency.md) `[mobile-apps, repeat-orders, sales-growth, customer-frequency]`
@@ -215,8 +215,10 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 312 (Wilson F&B Video)**: [8 Must Have Items On Your Restaurant Website To ATTRACT 50% More Customers | Restaurant Marketing](../knowledge/wilson-fb/wilson-fb-full-form/customers/8-must-have-items-restaurant-website.md)
 - **Serial 384 (Wilson F&B Video)**: [Acquire Customers And Market Your Business | $0 – $1M EP. 9](../knowledge/wilson-fb/wilson-fb-full-form/customers/acquire-customers-market-business-0-1m.md)
 - **Serial 400 (Wilson F&B Video)**: [6 Core Values: Fun Experience](../knowledge/wilson-fb/wilson-fb-full-form/customers/6-core-values-fun-experience.md)
+- **Serial 116 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/customers/stop-asking-people-do-things-free.md) `[customer-experience, guest-retention, service-standards, community-loyalty]`
+- **Serial 087 (Smart Pizza Video)**: [No Pizza Making Experience To $2 Million/yr](../knowledge/smart-pizza/smart-pizza-full-form/customers/no-pizza-making-experience-2-millionyr.md)
 
-## Delivery (69 entries)
+## Delivery (75 entries)
 
 - **Serial 001**: [Key Information](../knowledge/owner/owner-short-form/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
 - **Serial 022**: [Key Information](../knowledge/owner/owner-short-form/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
@@ -287,8 +289,14 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 313 (Wilson F&B Video)**: [UBER BUYING GRUBHUB?? What It Means For Restaurant Owners, Food Delivery, & Cloud Kitchens...](../knowledge/wilson-fb/wilson-fb-full-form/delivery/uber-buying-grubhub-it-means-restaurant.md)
 - **Serial 315 (Wilson F&B Video)**: [Cloud Kitchens VS. Dine-In Restaurants: Which is better? | Ghost Kitchen/Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/cloud-kitchens-vs-dine-in-restaurants-which.md)
 - **Serial 332 (Wilson F&B Video)**: [What are Cloud Kitchens and Ghost Kitchens? ($70B Opportunity) | Restaurant Management 2022](../knowledge/wilson-fb/wilson-fb-full-form/delivery/are-cloud-kitchens-ghost-kitchens-70b.md)
+- **Serial 018 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/delivery/best-pizza-ive-had-out-conveyor.md) `[delivery-operations, third-party-apps, delivery-first, catering-fulfillment]`
+- **Serial 110 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/delivery/future-pizza-delivery.md) `[delivery-operations, third-party-apps, delivery-first, catering-fulfillment]`
+- **Serial 113 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/delivery/he-used-uber-deliver-pizza-before.md) `[delivery-operations, third-party-apps, delivery-first, catering-fulfillment]`
+- **Serial 010 (Smart Pizza Video)**: [Why Pizza Shops Struggle With DoorDash and Third-Party Delivery](../knowledge/smart-pizza/smart-pizza-full-form/delivery/pizza-shops-struggle-doordash-third-party-delivery.md)
+- **Serial 111 (Smart Pizza Video)**: [Create Your Own Frozen Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/delivery/create-own-frozen-pizza-business.md)
+- **Serial 112 (Smart Pizza Video)**: [Starting a Frozen Pizza Business w/ La Rossi Pizza](../knowledge/smart-pizza/smart-pizza-full-form/delivery/starting-frozen-pizza-business-w-la.md)
 
-## Finance (222 entries)
+## Finance (242 entries)
 
 - **Serial 039**: [Key Information](../knowledge/owner/owner-short-form/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
 - **Serial 043**: [Key Information](../knowledge/owner/owner-short-form/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
@@ -512,8 +520,28 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 349 (Wilson F&B Video)**: [How Much Does it Cost to Start a Restaurant (+5 Money-Saving Tips) | Restaurant Management Tips 2022](../knowledge/wilson-fb/wilson-fb-full-form/finance/much-does-it-cost-start-restaurant.md)
 - **Serial 383 (Wilson F&B Video)**: [Opening Up A Franchise | $0 – $1M EP. 10](../knowledge/wilson-fb/wilson-fb-full-form/finance/opening-up-franchise-0-1m-ep.md)
 - **Serial 447 (Wilson F&B Video)**: [How To Raise Money](../knowledge/wilson-fb/wilson-fb-full-form/finance/raise-money.md)
+- **Serial 002 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/finance/can-you-do-23-million-year.md) `[restaurant-finance, lease-negotiations, start-up-capital, revenue-milestones]`
+- **Serial 032 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/finance/i-left-my-finance-career-pursue.md) `[restaurant-finance, lease-negotiations, start-up-capital, revenue-milestones]`
+- **Serial 039 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/finance/real-cost-opening-restaurant-they-dont.md) `[restaurant-finance, lease-negotiations, start-up-capital, revenue-milestones]`
+- **Serial 053 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/finance/its-so-important-come-up-customers.md) `[restaurant-finance, lease-negotiations, start-up-capital, revenue-milestones]`
+- **Serial 103 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/finance/these-reheating-pizza-vids-hit-different.md) `[restaurant-finance, lease-negotiations, start-up-capital, revenue-milestones]`
+- **Serial 139 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/finance/makes-business-different.md) `[restaurant-finance, lease-negotiations, start-up-capital, revenue-milestones]`
+- **Serial 001 (Smart Pizza Video)**: [What Landlords Won't Tell You About Pizza Shop Leases](../knowledge/smart-pizza/smart-pizza-full-form/finance/landlords-wont-tell-you-about-pizza.md)
+- **Serial 006 (Smart Pizza Video)**: [I Worked the Line at a Pizza Shop That Does $15K Fridays](../knowledge/smart-pizza/smart-pizza-full-form/finance/i-worked-line-pizza-shop-does.md)
+- **Serial 012 (Smart Pizza Video)**: [These 3 Pizza Shop Models Will DOMINATE 2026 (Before You Sign a Lease, Watch This)](../knowledge/smart-pizza/smart-pizza-full-form/finance/these-3-pizza-shop-models-will.md)
+- **Serial 014 (Smart Pizza Video)**: [The Pizza Shop Blueprint: How to Make Money and Have a Life](../knowledge/smart-pizza/smart-pizza-full-form/finance/pizza-shop-blueprint-make-money-have.md)
+- **Serial 017 (Smart Pizza Video)**: [The $0 Debt Strategy That Launched a 100-Pizza-a-Day Business](../knowledge/smart-pizza/smart-pizza-full-form/finance/0-debt-strategy-launched-100-pizza-a-day-business.md)
+- **Serial 020 (Smart Pizza Video)**: [He Sells Out Before Opening: The $500K/Year Pizza Shop Model](../knowledge/smart-pizza/smart-pizza-full-form/finance/he-sells-out-before-opening-500kyear.md)
+- **Serial 022 (Smart Pizza Video)**: [What I Learned From Visiting a $3 Million Pizza Shop That Runs Like a Machine](../knowledge/smart-pizza/smart-pizza-full-form/finance/i-learned-visiting-3-million-pizza.md)
+- **Serial 032 (Smart Pizza Video)**: [Should You Buy or Start a Pizzeria from Scratch? (Q&A Episode) 🔥](../knowledge/smart-pizza/smart-pizza-full-form/finance/should-you-buy-start-pizzeria-scratch.md)
+- **Serial 037 (Smart Pizza Video)**: [4 Genius Pizza Shop Models That Print Money & Keep Owners Happy!](../knowledge/smart-pizza/smart-pizza-full-form/finance/4-genius-pizza-shop-models-print.md)
+- **Serial 044 (Smart Pizza Video)**: [The Real Cost of Owning a Pizzeria (No One Talks About This)](../knowledge/smart-pizza/smart-pizza-full-form/finance/real-cost-owning-pizzeria-no-one.md)
+- **Serial 062 (Smart Pizza Video)**: [Why Most Pizza Shops FAIL To Make Money: The Shocking Truth from 500+ Pizzeria Owners](../knowledge/smart-pizza/smart-pizza-full-form/finance/most-pizza-shops-fail-make-money.md)
+- **Serial 096 (Smart Pizza Video)**: [Opening A Pizzeria For Under 10K: How Pizza Bruno Did It](../knowledge/smart-pizza/smart-pizza-full-form/finance/opening-pizzeria-under-10k-pizza-bruno.md)
+- **Serial 097 (Smart Pizza Video)**: [This Pizza Shop Does $3 Million/ Year in Sales. How?](../knowledge/smart-pizza/smart-pizza-full-form/finance/pizza-shop-does-3-million-year.md)
+- **Serial 099 (Smart Pizza Video)**: [Zume Pizza: Why It Failed](../knowledge/smart-pizza/smart-pizza-full-form/finance/zume-pizza-it-failed.md)
 
-## Food Cost (116 entries)
+## Food Cost (131 entries)
 
 - **Serial 036**: [Key Information](../knowledge/owner/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
 - **Serial 045**: [Key Information](../knowledge/owner/owner-short-form/food-cost/gourmet-ramen-economics.md) `[food-cost, ramen, inventory-management, shelf-life, average-check]`
@@ -631,6 +659,21 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 322 (Wilson F&B Video)**: [7 Ways Restaurants Are Surviving CoronaVirus Outbreak | Restaurant Management Small Business Tips](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/7-ways-restaurants-are-surviving-coronavirus.md)
 - **Serial 334 (Wilson F&B Video)**: [How To Calculate Food Cost Percentage (& SAVE $$) | Cafe Restaurant Management Tips 2022](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/calculate-food-cost-percentage-save-cafe.md)
 - **Serial 340 (Wilson F&B Video)**: [5 Restaurant Food Cost Saving Ideas To Use NOW (Save $$) | Cafe Restaurant Management Tips  2021](../knowledge/wilson-fb/wilson-fb-full-form/food-cost/5-restaurant-food-cost-saving-ideas.md)
+- **Serial 010 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/mastering-art-pizza-dough-dario-darios.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 014 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/7000-pans-most-people-have-no.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 033 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/authentic-nonna-style-pizza-recipe-taste-italian.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 059 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/global-economy-rising-costs-unmet-consumer.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 104 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/new-dough-mixing-technique.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 144 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/never-too-much-pepperoni.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 148 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/giant-meatball-sum-ninos-pizza-nj.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 149 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/double-stack-pepperoni-pizza-east-village.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 150 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/plain-cheese-pizza-renzos.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 156 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/food-cost/perfecting-dough.md) `[food-cost, dough-management, recipe-costing, ingredient-portioning]`
+- **Serial 007 (Smart Pizza Video)**: [They Sell 1,000 Cheesesteaks a Night… But Pizza Is the Better Business](../knowledge/smart-pizza/smart-pizza-full-form/food-cost/they-sell-1000-cheesesteaks-night-but.md)
+- **Serial 036 (Smart Pizza Video)**: [$28 for a Cheese Pizza?! Here’s What Makes It Special - Fat Lip Pizza](../knowledge/smart-pizza/smart-pizza-full-form/food-cost/28-cheese-pizza-heres-makes-it.md)
+- **Serial 050 (Smart Pizza Video)**: [DoughBoyz Pizza's Big Move: How They Took NY Pizza to Florida](../knowledge/smart-pizza/smart-pizza-full-form/food-cost/doughboyz-pizzas-big-move-they-took.md)
+- **Serial 095 (Smart Pizza Video)**: [How OTTO Pizza Built A $1M+ Dough Commissary For All 24 of Their Pizza Locations](../knowledge/smart-pizza/smart-pizza-full-form/food-cost/otto-pizza-built-1m-dough-commissary.md)
+- **Serial 117 (Smart Pizza Video)**: [Pizza Dough Talk w/ Anthony Falco](../knowledge/smart-pizza/smart-pizza-full-form/food-cost/pizza-dough-talk-w-anthony-falco.md)
 
 ## Forecasting (10 entries)
 
@@ -662,7 +705,7 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 412 (Restaurant Boss Video)**: [How to Lower Your Restaurant Inventory without Software](../knowledge/restaurant-boss/restaurant-boss-full-form/inventory/lower-restaurant-inventory-without-software.md)
 - **Serial 111 (Wilson F&B Short)**: [Key Information](../knowledge/wilson-fb/wilson-fb-short-form/inventory/easily-record-inventory-phone.md) `[inventory-management, mobile-inventory, stock-control]`
 
-## Kitchen (41 entries)
+## Kitchen (50 entries)
 
 - **Serial 554**: [Key Information](../knowledge/owner/owner-short-form/kitchen/kitchen-could-20-annually-heres.md) `[kitchen, kitchen-operations, throughput]`
 - **Serial 565**: [Key Information](../knowledge/owner/owner-short-form/kitchen/pizza-kitchen-isnt-broken-system.md) `[kitchen, kitchen-operations, throughput]`
@@ -705,8 +748,17 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 248 (Wilson F&B Video)**: [How Chef Chris Opened a Restaurant During The Pandemic | Secret Sauce Ep. 7](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/chef-chris-opened-restaurant-during-pandemic.md)
 - **Serial 271 (Wilson F&B Video)**: [How One Of The Best Pastry Chefs In Vancouver Is Starting A Bakery](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/one-best-pastry-chefs-vancouver-starting.md)
 - **Serial 370 (Wilson F&B Video)**: [MUST HAVE Equipment For Your Ice Cream Business in 2022 | Restaurant Management Food & Beverage Tips](../knowledge/wilson-fb/wilson-fb-full-form/kitchen/must-have-equipment-ice-cream-business.md)
+- **Serial 027 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/kitchen/sells-300-400-pizzas-night-no-phones.md) `[kitchen-operations, pizza-ovens, equipment-selection, line-speed]`
+- **Serial 036 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/kitchen/mobile-caterings-ooni-ambassador-my-journey.md) `[kitchen-operations, pizza-ovens, equipment-selection, line-speed]`
+- **Serial 088 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/kitchen/pizza-making-robot-coming-ya.md) `[kitchen-operations, pizza-ovens, equipment-selection, line-speed]`
+- **Serial 111 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/kitchen/pizza-out-vending-machine-would-you.md) `[kitchen-operations, pizza-ovens, equipment-selection, line-speed]`
+- **Serial 143 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/kitchen/pizza-gozney-roccbox.md) `[kitchen-operations, pizza-ovens, equipment-selection, line-speed]`
+- **Serial 145 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/kitchen/cooking-pizza-gozney-pizza-oven.md) `[kitchen-operations, pizza-ovens, equipment-selection, line-speed]`
+- **Serial 005 (Smart Pizza Video)**: [Before You Buy Your Next Pizza Oven, Watch This](../knowledge/smart-pizza/smart-pizza-full-form/kitchen/before-you-buy-next-pizza-oven.md)
+- **Serial 059 (Smart Pizza Video)**: [From Home Oven to Pizzeria: How Carlos Estarita Launched Vice City Pizza from His Kitchen](../knowledge/smart-pizza/smart-pizza-full-form/kitchen/home-oven-pizzeria-carlos-estarita-launched.md)
+- **Serial 069 (Smart Pizza Video)**: [Ooni Pizza Oven: How One Over Changed Pizza At Home Forever](../knowledge/smart-pizza/smart-pizza-full-form/kitchen/ooni-pizza-oven-one-over-changed.md)
 
-## Labour (378 entries)
+## Labour (387 entries)
 
 - **Serial 016**: [Key Information](../knowledge/owner/owner-short-form/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
 - **Serial 041**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
@@ -1086,8 +1138,17 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 429 (Wilson F&B Video)**: [Great Leaders Lead by Example](../knowledge/wilson-fb/wilson-fb-full-form/labour/great-leaders-lead-by-example.md)
 - **Serial 439 (Wilson F&B Video)**: [Grow Your Business As A Team](../knowledge/wilson-fb/wilson-fb-full-form/labour/grow-business-as-team.md)
 - **Serial 445 (Wilson F&B Video)**: [How To Build A Great Company Culture](../knowledge/wilson-fb/wilson-fb-full-form/labour/build-great-company-culture.md)
+- **Serial 022 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/labour/sells-100-pizzas-night-all-alone.md) `[labor-efficiency, solo-operation, staff-management, kitchen-labor]`
+- **Serial 066 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/labour/youre-hired.md) `[labor-efficiency, solo-operation, staff-management, kitchen-labor]`
+- **Serial 100 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/labour/everyone-wants-be-boss.md) `[labor-efficiency, solo-operation, staff-management, kitchen-labor]`
+- **Serial 128 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/labour/being-own-boss-isnt-as-glamorous.md) `[labor-efficiency, solo-operation, staff-management, kitchen-labor]`
+- **Serial 131 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/labour/common-mistake-business-owners-make-employees.md) `[labor-efficiency, solo-operation, staff-management, kitchen-labor]`
+- **Serial 029 (Smart Pizza Video)**: [He Sells Out Every Week Making 300+ Pizzas SOLO—Here’s How](../knowledge/smart-pizza/smart-pizza-full-form/labour/he-sells-out-every-week-making.md)
+- **Serial 055 (Smart Pizza Video)**: [100 Pizzas a Day! The Solo Hustle Behind Orlando's Best Food Truck](../knowledge/smart-pizza/smart-pizza-full-form/labour/100-pizzas-day-solo-hustle-behind.md)
+- **Serial 060 (Smart Pizza Video)**: [How One Man Runs a Pizza Shop and Sells 150 Pizzas Every Night!](../knowledge/smart-pizza/smart-pizza-full-form/labour/one-man-runs-pizza-shop-sells.md)
+- **Serial 098 (Smart Pizza Video)**: [Pan Fried Pizza: One Person Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/labour/pan-fried-pizza-one-person-pizza.md)
 
-## Marketing (311 entries)
+## Marketing (351 entries)
 
 - **Serial 002**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
 - **Serial 003**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
@@ -1400,8 +1461,48 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 377 (Wilson F&B Video)**: [How to Do Influencer Marketing for Your Restaurant or Coffee Shop (FOR FREE!) in 2019](../knowledge/wilson-fb/wilson-fb-full-form/marketing/do-influencer-marketing-restaurant-coffee-shop.md)
 - **Serial 414 (Wilson F&B Video)**: [The Real Estate of Social Media](../knowledge/wilson-fb/wilson-fb-full-form/marketing/real-estate-social-media.md)
 - **Serial 419 (Wilson F&B Video)**: [Brand Building: Call to Action](../knowledge/wilson-fb/wilson-fb-full-form/marketing/brand-building-call-action.md)
+- **Serial 021 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/he-took-over-failing-shop-turned.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 031 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/if-youre-starting-business-go-youtube.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 038 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/expanding-pizza-brand.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 046 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/fear-change-businesses-are-afraid-take.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 047 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/boost-facebook-engagement-chat-gpt-marketing.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 050 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/think-about-you-post-social-media.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 051 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/use-ai-pizzeria-help-content-marketing.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 052 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/using-ai-creating-ideas-content-do.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 054 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/shanes-marketing-strategies-transformed-his-company.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 056 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/slow-growth-over-time-if-marketing.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 058 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/text-marketing-pizzerias-boostly-empowering.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 086 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/power-podcasting-uncovering-it-can-expand.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 095 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/local-businesses-need-get-started-youtube.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 096 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/become-face-brand-stop-being-shy.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 102 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/consistency-most-important-factor-marketing.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 105 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/social-media-hard-as-business-owner.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 106 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/podcast-pizza-industry.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 115 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/some-lessons-ive-learned-growing-podcasts.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 124 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/businesses-should-be-posting-social-media.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 126 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/george-costanza-taught-me-about-marketing.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 127 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/top-entrepreneurs-all-have-these-traits.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 130 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/website-reviewing-people-who-leave-reviews.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 133 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/instagram-marketing-tips-small-business.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 138 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/social-media-cant-fix-bad-business.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 140 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/social-media-works-everyone-except-these.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 153 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/marketing-examples-pineapple-pizza.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 154 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/marketing/can-pizzeria-compete-against-competition.md) `[restaurant-marketing, social-media-content, local-branding, customer-acquisition]`
+- **Serial 013 (Smart Pizza Video)**: [If You’re Banking on Portnoy, You’re Already in Trouble - Watch This First](../knowledge/smart-pizza/smart-pizza-full-form/marketing/if-youre-banking-portnoy-youre-already.md)
+- **Serial 016 (Smart Pizza Video)**: [The $0 Marketing Strategy Behind Apollonia’s Pizza Wild Success](../knowledge/smart-pizza/smart-pizza-full-form/marketing/0-marketing-strategy-behind-apollonias-pizza.md)
+- **Serial 033 (Smart Pizza Video)**: [The Harsh Truth About Pizza Marketing: Why No One Is Coming to Your Shop!](../knowledge/smart-pizza/smart-pizza-full-form/marketing/harsh-truth-about-pizza-marketing-no.md)
+- **Serial 045 (Smart Pizza Video)**: [This Pizza Shop Almost Failed—Now It’s a National Icon!](../knowledge/smart-pizza/smart-pizza-full-form/marketing/pizza-shop-almost-failednow-its-national.md)
+- **Serial 056 (Smart Pizza Video)**: [Sally's Pizza Review - Is It Worth the Hype? 🍕](../knowledge/smart-pizza/smart-pizza-full-form/marketing/sallys-pizza-review-it-worth.md)
+- **Serial 070 (Smart Pizza Video)**: [From Zero to Thriving: How Durum Sells $15 Sandwhiches That Sell Out Daily](../knowledge/smart-pizza/smart-pizza-full-form/marketing/zero-thriving-durum-sells-15-sandwhiches.md)
+- **Serial 073 (Smart Pizza Video)**: [Should You Open A Pizza Shop? (10 reasons why pizza shops fail)](../knowledge/smart-pizza/smart-pizza-full-form/marketing/should-you-open-pizza-shop-10.md)
+- **Serial 075 (Smart Pizza Video)**: [How Enzo Turned a Small Pizzeria into a Multi-Million Dollar Entertainment Hub! 🍕💰](../knowledge/smart-pizza/smart-pizza-full-form/marketing/enzo-turned-small-pizzeria-into-multi-million.md)
+- **Serial 076 (Smart Pizza Video)**: [This Pizza Shop Does $6 Million A Year (Rail Trail Flatbread)](../knowledge/smart-pizza/smart-pizza-full-form/marketing/pizza-shop-does-6-million-year.md)
+- **Serial 086 (Smart Pizza Video)**: [One TikTok Video Doubles Their Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/marketing/one-tiktok-video-doubles-their-pizza.md)
+- **Serial 094 (Smart Pizza Video)**: [Regina Pizza: The Rise and Fall..... And Rise Again](../knowledge/smart-pizza/smart-pizza-full-form/marketing/regina-pizza-rise-fall-rise-again.md)
+- **Serial 103 (Smart Pizza Video)**: [How to Use TikTok for Local Business (3 Simple Tips)](../knowledge/smart-pizza/smart-pizza-full-form/marketing/use-tiktok-local-business-3-simple.md)
+- **Serial 104 (Smart Pizza Video)**: [Guerrilla Marketing Tactics - How to Get Started](../knowledge/smart-pizza/smart-pizza-full-form/marketing/guerrilla-marketing-tactics-get-started.md)
 
-## Menu (172 entries)
+## Menu (186 entries)
 
 - **Serial 014**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
 - **Serial 021**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
@@ -1575,8 +1676,22 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 133 (Wilson F&B Video)**: [How To Create A Winning & Profitable Restaurant Menu - 2.6.1 Profitable Restaurant Owner Academy](../knowledge/wilson-fb/wilson-fb-full-form/menu/create-winning-profitable-restaurant-menu.md)
 - **Serial 175 (Wilson F&B Video)**: [5 Psychological Tricks Dunkin Uses To Sell 2.9B Donuts Every Year | Food Marketing Strategies](../knowledge/wilson-fb/wilson-fb-full-form/menu/5-psychological-tricks-dunkin-uses-sell.md)
 - **Serial 181 (Wilson F&B Video)**: [3.2 Expensive Food Menu Mistakes That Are Ruining Your Food Business](../knowledge/wilson-fb/wilson-fb-full-form/menu/32-expensive-food-menu-mistakes-are.md)
+- **Serial 009 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/menu/best-pizza-shop-me-simple-small.md) `[menu-engineering, item-profitability, pricing-strategy, sku-reduction]`
+- **Serial 011 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/menu/he-built-pizza-business-sells-out.md) `[menu-engineering, item-profitability, pricing-strategy, sku-reduction]`
+- **Serial 029 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/menu/no-one-coming-save-you-more.md) `[menu-engineering, item-profitability, pricing-strategy, sku-reduction]`
+- **Serial 034 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/menu/best-menu-ever-delicious-pizza-more.md) `[menu-engineering, item-profitability, pricing-strategy, sku-reduction]`
+- **Serial 035 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/menu/secret-making-best-pizza-simplify-menu.md) `[menu-engineering, item-profitability, pricing-strategy, sku-reduction]`
+- **Serial 037 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/menu/secret-making-best-pizza-simplify-menu-2.md) `[menu-engineering, item-profitability, pricing-strategy, sku-reduction]`
+- **Serial 107 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/menu/different-prices-different-days-very-interesting.md) `[menu-engineering, item-profitability, pricing-strategy, sku-reduction]`
+- **Serial 141 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/menu/never-discount-product-compete-price-ever.md) `[menu-engineering, item-profitability, pricing-strategy, sku-reduction]`
+- **Serial 003 (Smart Pizza Video)**: [This LA Pizza Shop Won’t Sell You a Slice](../knowledge/smart-pizza/smart-pizza-full-form/menu/la-pizza-shop-wont-sell-you.md)
+- **Serial 015 (Smart Pizza Video)**: [The Square Pie Guys Playbook: Delivery-First, Simple Menu, Conveyor Ovens](../knowledge/smart-pizza/smart-pizza-full-form/menu/square-pie-guys-playbook-delivery-first-simple.md)
+- **Serial 025 (Smart Pizza Video)**: [I Finally Tried Slice House by Tony Gemignani—Here’s What I Really Think](../knowledge/smart-pizza/smart-pizza-full-form/menu/i-finally-tried-slice-house-by.md)
+- **Serial 027 (Smart Pizza Video)**: [The Pizza Shop With ONE Oven, ONE Size Pizza, and a Gold Medal Slice!](../knowledge/smart-pizza/smart-pizza-full-form/menu/pizza-shop-one-oven-one-size.md)
+- **Serial 080 (Smart Pizza Video)**: [The Simplest Pizza Shop Menu: Garlic Breath Pizza](../knowledge/smart-pizza/smart-pizza-full-form/menu/simplest-pizza-shop-menu-garlic-breath.md)
+- **Serial 088 (Smart Pizza Video)**: [The Best Pizza Business: He Only Sells One Size Pizza (No Delivery)](../knowledge/smart-pizza/smart-pizza-full-form/menu/best-pizza-business-he-only-sells.md)
 
-## Operations (1195 entries)
+## Operations (1322 entries)
 
 - **Serial 007**: [Key Information](../knowledge/owner/owner-short-form/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
 - **Serial 012**: [Key Information](../knowledge/owner/owner-short-form/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
@@ -2773,6 +2888,133 @@ Total verified entries: **2,839** (719 Owner Shorts, 61 Owner Videos, 129 Toast 
 - **Serial 451 (Wilson F&B Video)**: [I Sell Happiness](../knowledge/wilson-fb/wilson-fb-full-form/operations/i-sell-happiness.md)
 - **Serial 468 (Wilson F&B Video)**: [Wilson Lee Socialight 2016 Keynote Speaker](../knowledge/wilson-fb/wilson-fb-full-form/operations/wilson-lee-socialight-2016-keynote-speaker.md)
 - **Serial 486 (Wilson F&B Video)**: [UBC Psych Alumni Profile 2016 - Wilson Lee](../knowledge/wilson-fb/wilson-fb-full-form/operations/ubc-psych-alumni-profile-2016.md)
+- **Serial 001 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/future-pizza.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 003 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/new-haven-pizza-worth-hype.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 004 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/small-but-mighty-pizza-shop-inside.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 005 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/less-more-secret-profitable-pizza-shops.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 006 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/secret-pizza-los-angeles.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 007 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/raging-masshole-pizza-norton-ma.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 008 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/fredi-pizza-man-17900-allen-rd.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 012 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/best-pizza-la.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 015 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/guy-his-pie-rhode-island-pumps.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 017 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/hidden-gem-lynn-ma-pizza-fresh.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 019 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/would-you-call-st-vitos-nashville.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 020 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/best-pizza-las-vegas-yukon-pizza.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 023 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/future-pizza-industry.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 024 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/today-were-corona-ca-hanging-out.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 025 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/gio-quit-his-job-open-200.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 026 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/garlic-breath-pizza.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 028 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/stop-falling-outdated-pizza-shop-advice.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 055 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/dont-chase-dollars-chase-happiness-secret.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 057 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/need-pizza-shop-reality-show.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 087 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/competing-dominoes-pizza.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 089 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/agree-disagree.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 090 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/pineapple-pizza-ok.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 091 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/are-you-doing.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 092 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/its-scary.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 093 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/yeah-know-if-you-ran-place.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 094 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/everything-figureoutable.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 097 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/listen-before-getting-into-pizza-business.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 098 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/are-all-restaurant-expos-so-boring.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 099 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/he-won-pizza-challenge-trip-vegas.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 101 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/mr-beast-burger-company-runs-it.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 108 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/big-pizza-industry.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 109 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/pizza-cash-whats-pick.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 112 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/pizza-new-trend-thanksgiving.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 114 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/george-costanza-can-teach-us-about.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 117 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/if-business-isnt-where-you-want.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 118 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/when-ever-you-start-something-new.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 119 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/they-always-think-they-know-better.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 120 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/ask-yourself-these-questions-every-sunday.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 121 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/succeed-business-dont-be-business-owner.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 122 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/if-youre-starting-new-business-watch.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 123 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/hardest-part-being-business-owner.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 125 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/entrepreneurship-fact-will-surprise-you.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 129 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/after-you-open-first-pizzeria.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 132 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/people-are-most-important-thing-any.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 134 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/fix-these-two-things-if-business.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 135 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/nobody-likes-these-people.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 136 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/run-bad-business-dont-do.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 137 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/no-one-has-their-st-together.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 142 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/east-village-pizza-nyc.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 146 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/consistency-underrated-growth-strategy.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 147 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/do-jalapeos-belong-pizza.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 151 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/tony-boloneys-new-jersey.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 152 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/detroit-style-pizza.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 155 (Smart Pizza Short)**: [Key Information](../knowledge/smart-pizza/smart-pizza-short-form/operations/dont-worry-about-people-copying-idea.md) `[pizzeria-operations, micro-footprint, standard-operating-procedures, scaling-strategy]`
+- **Serial 002 (Smart Pizza Video)**: [Can You Really Make a Living Selling Cookies?](../knowledge/smart-pizza/smart-pizza-full-form/operations/can-you-really-make-living-selling.md)
+- **Serial 004 (Smart Pizza Video)**: [700 Sandwiches a Day Out of This Tiny Shop: Inside Mike & Patty’s](../knowledge/smart-pizza/smart-pizza-full-form/operations/700-sandwiches-day-out-tiny-shop.md)
+- **Serial 008 (Smart Pizza Video)**: [The Difference Between a Pizza Shop and a Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/operations/difference-between-pizza-shop-pizza-business.md)
+- **Serial 009 (Smart Pizza Video)**: [5 Things to Know BEFORE You Open Your A Pizza Shop](../knowledge/smart-pizza/smart-pizza-full-form/operations/5-things-know-before-you-open.md)
+- **Serial 011 (Smart Pizza Video)**: [I Studied a $1.5M Pizza Shop. Here’s What I Learned.](../knowledge/smart-pizza/smart-pizza-full-form/operations/i-studied-15m-pizza-shop-heres.md)
+- **Serial 018 (Smart Pizza Video)**: [What I Learned from Mama’s Too: Why Most Pizza Shops Get It Wrong](../knowledge/smart-pizza/smart-pizza-full-form/operations/i-learned-mamas-too-most-pizza.md)
+- **Serial 019 (Smart Pizza Video)**: [The Smartest Way to Start a Pizza Shop (2026 Edition)](../knowledge/smart-pizza/smart-pizza-full-form/operations/smartest-way-start-pizza-shop-2026.md)
+- **Serial 021 (Smart Pizza Video)**: [How This Pop Up Became One of SF’s Hottest Pizza Shops](../knowledge/smart-pizza/smart-pizza-full-form/operations/pop-up-became-one-sfs-hottest.md)
+- **Serial 023 (Smart Pizza Video)**: [7 Pizza Shop Myths That Are Killing Your Profits (And How to Crush Them)](../knowledge/smart-pizza/smart-pizza-full-form/operations/7-pizza-shop-myths-are-killing.md)
+- **Serial 024 (Smart Pizza Video)**: [Thinking of Opening a Pizza Shop? WATCH THIS FIRST](../knowledge/smart-pizza/smart-pizza-full-form/operations/thinking-opening-pizza-shop-watch-first.md)
+- **Serial 026 (Smart Pizza Video)**: [Closed Weekends, Sold Out Weekdays: Inside the Perfect Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/operations/closed-weekends-sold-out-weekdays-inside.md)
+- **Serial 028 (Smart Pizza Video)**: [From 1 Shop to 29: The Secret Pizza Operators Don't Share](../knowledge/smart-pizza/smart-pizza-full-form/operations/1-shop-29-secret-pizza-operators.md)
+- **Serial 030 (Smart Pizza Video)**: [The One Thing You MUST Remember When Business Feels Like Groundhog Day](../knowledge/smart-pizza/smart-pizza-full-form/operations/one-thing-you-must-remember-when.md)
+- **Serial 031 (Smart Pizza Video)**: [This 3-Part Strategy Will Take Your Pizzeria from Surviving to Scaling](../knowledge/smart-pizza/smart-pizza-full-form/operations/3-part-strategy-will-take-pizzeria-surviving.md)
+- **Serial 034 (Smart Pizza Video)**: [How This Sci-Fi Pizza Shop Handles a Million Visitors in One Month!](../knowledge/smart-pizza/smart-pizza-full-form/operations/sci-fi-pizza-shop-handles-million-visitors.md)
+- **Serial 035 (Smart Pizza Video)**: [The Worst Pizza Business Advice That Cost Me $100K+!](../knowledge/smart-pizza/smart-pizza-full-form/operations/worst-pizza-business-advice-cost-me.md)
+- **Serial 038 (Smart Pizza Video)**: [Thinking About Opening A Pizza Shop](../knowledge/smart-pizza/smart-pizza-full-form/operations/thinking-about-opening-pizza-shop.md)
+- **Serial 039 (Smart Pizza Video)**: [How to Guarantee Your Pizza Shop Is a Success](../knowledge/smart-pizza/smart-pizza-full-form/operations/guarantee-pizza-shop-success.md)
+- **Serial 040 (Smart Pizza Video)**: [NYC’s Famous Pizza Lands in San Diego – Is It Worth the Hype? 🤔](../knowledge/smart-pizza/smart-pizza-full-form/operations/nycs-famous-pizza-lands-san-diego.md)
+- **Serial 041 (Smart Pizza Video)**: [How This Pizzeria Sells So Much Pizza🍕 - Full Tour of Truly Pizza!](../knowledge/smart-pizza/smart-pizza-full-form/operations/pizzeria-sells-so-much-pizza.md)
+- **Serial 042 (Smart Pizza Video)**: [Why Owning a Pizza Shop is the Best Decision You'll Ever Make!](../knowledge/smart-pizza/smart-pizza-full-form/operations/owning-pizza-shop-best-decision-youll.md)
+- **Serial 043 (Smart Pizza Video)**: [Two Hours Of The Best Pizza Businesses (If you want to open a pizza shop watch this)](../knowledge/smart-pizza/smart-pizza-full-form/operations/two-hours-best-pizza-businesses-if.md)
+- **Serial 046 (Smart Pizza Video)**: [These 3 Pizzerias Will Change How You Think About Pizza Business in 2025](../knowledge/smart-pizza/smart-pizza-full-form/operations/these-3-pizzerias-will-change-you.md)
+- **Serial 047 (Smart Pizza Video)**: [The Harsh Truth About Running a Pizzeria: What Nobody Tells You!](../knowledge/smart-pizza/smart-pizza-full-form/operations/harsh-truth-about-running-pizzeria-nobody.md)
+- **Serial 048 (Smart Pizza Video)**: [What Makes Bardo’s Pizza So Unique? 🍕 (Bar-Style Pizza Breakdown)](../knowledge/smart-pizza/smart-pizza-full-form/operations/makes-bardos-pizza-so-unique-bar-style.md)
+- **Serial 049 (Smart Pizza Video)**: [If I Opened A Pizza Shop This Is What It Would Be](../knowledge/smart-pizza/smart-pizza-full-form/operations/if-i-opened-pizza-shop-it.md)
+- **Serial 051 (Smart Pizza Video)**: [The Secret Every Successful Pizza Owner Knows (and Why You’re Missing Out)](../knowledge/smart-pizza/smart-pizza-full-form/operations/secret-every-successful-pizza-owner-knows.md)
+- **Serial 052 (Smart Pizza Video)**: [What Makes This Roast Beef and Pizza Shop a Local Legend?](../knowledge/smart-pizza/smart-pizza-full-form/operations/makes-roast-beef-pizza-shop-local.md)
+- **Serial 053 (Smart Pizza Video)**: [The Future of The Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/operations/future-pizza-business.md)
+- **Serial 054 (Smart Pizza Video)**: [I Went To Nashville and Found This Pizzeria: Not Your Typical Pizza!](../knowledge/smart-pizza/smart-pizza-full-form/operations/i-went-nashville-found-pizzeria-not.md)
+- **Serial 057 (Smart Pizza Video)**: [How Pizza Bruno Became Orlando’s Best – Insider Secrets for Pizzeria Owners!](../knowledge/smart-pizza/smart-pizza-full-form/operations/pizza-bruno-became-orlandos-best-insider.md)
+- **Serial 058 (Smart Pizza Video)**: [My Go-To Pizza Spots in Boston: The Ultimate Guide!](../knowledge/smart-pizza/smart-pizza-full-form/operations/my-go-to-pizza-spots-boston-ultimate.md)
+- **Serial 061 (Smart Pizza Video)**: [This Deli Owner Started Making Pizza – It Might Be The Best Around.](../knowledge/smart-pizza/smart-pizza-full-form/operations/deli-owner-started-making-pizza-it.md)
+- **Serial 063 (Smart Pizza Video)**: [How To Grow A Pizzeria In 2024](../knowledge/smart-pizza/smart-pizza-full-form/operations/grow-pizzeria-2024.md)
+- **Serial 064 (Smart Pizza Video)**: [Unfiltered Advice for Pizza Owner: The Real Struggles of Running a Pizzeria](../knowledge/smart-pizza/smart-pizza-full-form/operations/unfiltered-advice-pizza-owner-real-struggles.md)
+- **Serial 065 (Smart Pizza Video)**: [From $80 Days And Almost Closing To Two Pizza Trucks](../knowledge/smart-pizza/smart-pizza-full-form/operations/80-days-almost-closing-two-pizza.md)
+- **Serial 066 (Smart Pizza Video)**: [Is Opening A Pizzeria Right For You? My Advice](../knowledge/smart-pizza/smart-pizza-full-form/operations/opening-pizzeria-right-you-my-advice.md)
+- **Serial 067 (Smart Pizza Video)**: [So You Want to Open a Pizzeria? Here's What You Need to Know (From Pizza Owners)](../knowledge/smart-pizza/smart-pizza-full-form/operations/so-you-want-open-pizzeria-heres.md)
+- **Serial 068 (Smart Pizza Video)**: [Revolutionizing the Pizza Industry: The Real Truth You Need to Hear!](../knowledge/smart-pizza/smart-pizza-full-form/operations/revolutionizing-pizza-industry-real-truth-you.md)
+- **Serial 071 (Smart Pizza Video)**: [From Pop Up to Top 50 Pizzeria In The US - Pizza Delicious New Orleans](../knowledge/smart-pizza/smart-pizza-full-form/operations/pop-up-top-50-pizzeria-us.md)
+- **Serial 072 (Smart Pizza Video)**: [From Pop-Up To Pizzeria (Serving Detroit & Neapolitan Style)](../knowledge/smart-pizza/smart-pizza-full-form/operations/pop-up-pizzeria-serving-detroit-neapolitan-style.md)
+- **Serial 074 (Smart Pizza Video)**: [Selling 125 Pizzas a Day in Only 200 Square Feet - Pizza Project Boston](../knowledge/smart-pizza/smart-pizza-full-form/operations/selling-125-pizzas-day-only-200.md)
+- **Serial 077 (Smart Pizza Video)**: [Inside the Most Unique Food Trucks in Chicago – Pizza & Ice Cream on Wheels!](../knowledge/smart-pizza/smart-pizza-full-form/operations/inside-most-unique-food-trucks-chicago.md)
+- **Serial 078 (Smart Pizza Video)**: [Selling Pizza Out of 200 Sq Ft Coffee Shop (Sells Out Every Night)](../knowledge/smart-pizza/smart-pizza-full-form/operations/selling-pizza-out-200-sq-ft.md)
+- **Serial 079 (Smart Pizza Video)**: [How To Start A Pizza Business in 2024 (Real Advice)](../knowledge/smart-pizza/smart-pizza-full-form/operations/start-pizza-business-2024-real-advice.md)
+- **Serial 081 (Smart Pizza Video)**: [Making The Best Pizza In Your Area: Blue Square Pizza](../knowledge/smart-pizza/smart-pizza-full-form/operations/making-best-pizza-area-blue-square.md)
+- **Serial 082 (Smart Pizza Video)**: [Increase Lunch Sales In Your Pizzeria: 3 Simple Steps](../knowledge/smart-pizza/smart-pizza-full-form/operations/increase-lunch-sales-pizzeria-3-simple.md)
+- **Serial 083 (Smart Pizza Video)**: [Watch This Before Opening A Pizzeria in 2024](../knowledge/smart-pizza/smart-pizza-full-form/operations/watch-before-opening-pizzeria-2024.md)
+- **Serial 084 (Smart Pizza Video)**: [Operating A Pizzeria in 2024: The Pros and Cons](../knowledge/smart-pizza/smart-pizza-full-form/operations/operating-pizzeria-2024-pros-cons.md)
+- **Serial 085 (Smart Pizza Video)**: [No Pizza Background:  Now Has Two Pizzerias (How To Do It)](../knowledge/smart-pizza/smart-pizza-full-form/operations/no-pizza-background-now-has-two.md)
+- **Serial 089 (Smart Pizza Video)**: [Touring A Greek Style Pizzeria: Dedham House of Pizza](../knowledge/smart-pizza/smart-pizza-full-form/operations/touring-greek-style-pizzeria-dedham-house.md)
+- **Serial 090 (Smart Pizza Video)**: [How To Market Your Pizzeria in 2024](../knowledge/smart-pizza/smart-pizza-full-form/operations/market-pizzeria-2024.md)
+- **Serial 091 (Smart Pizza Video)**: [They Killed Their Dining Room and Increased Profits](../knowledge/smart-pizza/smart-pizza-full-form/operations/they-killed-their-dining-room-increased.md)
+- **Serial 092 (Smart Pizza Video)**: [Managing Three Food Trucks & Two Brick & Mortar Locations.](../knowledge/smart-pizza/smart-pizza-full-form/operations/managing-three-food-trucks-two-brick.md)
+- **Serial 093 (Smart Pizza Video)**: [Her Pizza Shop is only 150/Sq Feet and does $500K](../knowledge/smart-pizza/smart-pizza-full-form/operations/her-pizza-shop-only-150sq-feet.md)
+- **Serial 100 (Smart Pizza Video)**: [Why Domino's Pizza Is Successful: How Domino's Pizza Took Over the World](../knowledge/smart-pizza/smart-pizza-full-form/operations/dominos-pizza-successful-dominos-pizza-took.md)
+- **Serial 101 (Smart Pizza Video)**: [From Garage To Brick & Mortar: How To Start A Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/operations/garage-brick-mortar-start-pizza-business.md)
+- **Serial 102 (Smart Pizza Video)**: [5 Things That Are Going To Change The Pizza Industry](../knowledge/smart-pizza/smart-pizza-full-form/operations/5-things-are-going-change-pizza.md)
+- **Serial 105 (Smart Pizza Video)**: [Pizza Pop-Ups: How To Start One](../knowledge/smart-pizza/smart-pizza-full-form/operations/pizza-pop-ups-start-one.md)
+- **Serial 106 (Smart Pizza Video)**: [How To Spot A Good Pizza Popup Opportunity & Profit From It](../knowledge/smart-pizza/smart-pizza-full-form/operations/spot-good-pizza-popup-opportunity-profit.md)
+- **Serial 107 (Smart Pizza Video)**: [Don't Think About Opening A Pizzeria Until You Watch This](../knowledge/smart-pizza/smart-pizza-full-form/operations/dont-think-about-opening-pizzeria-until.md)
+- **Serial 108 (Smart Pizza Video)**: [Starting A Pizza Business From Home: How Sean Started](../knowledge/smart-pizza/smart-pizza-full-form/operations/starting-pizza-business-home-sean-started.md)
+- **Serial 109 (Smart Pizza Video)**: [How To Market Your Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/operations/market-pizza-business.md)
+- **Serial 110 (Smart Pizza Video)**: [Starting a Pizza Pop Up Business](../knowledge/smart-pizza/smart-pizza-full-form/operations/starting-pizza-pop-up-business.md)
+- **Serial 113 (Smart Pizza Video)**: [Starting a Wood Fired Pizza Truck in 2020](../knowledge/smart-pizza/smart-pizza-full-form/operations/starting-wood-fired-pizza-truck-2020.md)
+- **Serial 114 (Smart Pizza Video)**: [Starting a Pizza Business Out of Your House w/ Wizard of Za](../knowledge/smart-pizza/smart-pizza-full-form/operations/starting-pizza-business-out-house-w.md)
+- **Serial 115 (Smart Pizza Video)**: [Starting a Mobile Pizza Business in 2020](../knowledge/smart-pizza/smart-pizza-full-form/operations/starting-mobile-pizza-business-2020.md)
+- **Serial 116 (Smart Pizza Video)**: [Detroit Style Pizza w/ Shawn Randazzo](../knowledge/smart-pizza/smart-pizza-full-form/operations/detroit-style-pizza-w-shawn-randazzo.md)
+- **Serial 118 (Smart Pizza Video)**: [Sauce Pizzeria NYC (The Story)](../knowledge/smart-pizza/smart-pizza-full-form/operations/sauce-pizzeria-nyc-story.md)
+- **Serial 119 (Smart Pizza Video)**: [Building a Pizza Business 4-Hours a Day](../knowledge/smart-pizza/smart-pizza-full-form/operations/building-pizza-business-4-hours-day.md)
+- **Serial 120 (Smart Pizza Video)**: [Frank Pinello of Best Pizza & The Pizza Show](../knowledge/smart-pizza/smart-pizza-full-form/operations/frank-pinello-best-pizza-pizza-show.md)
+- **Serial 121 (Smart Pizza Video)**: [Building A Pizza Business](../knowledge/smart-pizza/smart-pizza-full-form/operations/building-pizza-business.md)
+- **Serial 122 (Smart Pizza Video)**: [The Pizza Business Is Hard](../knowledge/smart-pizza/smart-pizza-full-form/operations/pizza-business-hard.md)
 
 ## Payments (35 entries)
 

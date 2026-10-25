@@ -582,3 +582,10 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
   - Occupancy Cost Ceiling: $\text{Rent Ratio} = \frac{\text{Base Rent} + \text{NNN}}{\text{Gross Food and Beverage Sales}} \le 6\% \text{ to } 8\%$.
 - **[Decoy Pricing & Combo Attach Lift](../knowledge/wilson-fb/wilson-fb-short-form/menu/decoy-effect-psychological-tricks-starbucks-uses.md)** (Serial 144)
   - Anchor Conversion Shift: $\text{Decoy Margin Lift} = \frac{\text{High-Tier Attach} - \text{Baseline Attach}}{\text{Baseline Attach}} \implies 40\% \text{ to } 55\% \text{ shift to higher-margin tier}$.
+
+## Pizzeria Economics & Dough Management (Smart Pizza Marketing)
+
+- **[Pizzeria COGS & Cheese Portion Margin Variance](../knowledge/smart-pizza/smart-pizza-full-form/food-cost/they-sell-1000-cheesesteaks-night-but.md)**
+  - Cheese Portion Loss: $\text{Margin Loss} = \frac{\text{Overtopping Ounces}}{\text{Standard Recipe Ounces}} \times \text{Cheese Spend \%} \implies 1\text{ oz overtopping} = 2.5\%\text{--}4.0\% \text{ total net profit erosion}$.
+- **[Micro-Footprint Revenue Density](../knowledge/smart-pizza/smart-pizza-full-form/finance/i-studied-15m-pizza-shop-heres.md)**
+  - Sales Density: $\text{Revenue per Sq Ft} = \frac{\text{Annual Gross Pizza Sales}}{\text{Usable Kitchen \& Counter Area (sq ft)}} \implies \$1,500\text{--}\$3,200/\text{sq ft in compact takeout operations}$.

@@ -1474,3 +1474,11 @@ Operational benchmarks, target ratios, percentages, and metrics extracted from v
 - **Emergency Working Capital Buffer**: Independent restaurant startups require a dedicated liquidity cushion equal to 3 to 6 months of fixed overhead ($30,000 to $80,000).
 - **Focused Menu Throughput Velocity**: Maintaining under 15 core menu items achieves 35% faster assembly throughput and reduces raw ingredient holding waste by 20%.
 - **Social WiFi Conversion**: Automated captive portal guest WiFi networks capture verified contact records from 30% to 45% of dining room customers.
+
+## Pizzeria Operations, Oven Throughput & SMS Marketing (Smart Pizza Marketing)
+
+- **Pizzeria Food Cost Ceiling**: High-performing independent pizzerias maintain total COGS strictly between 22% and 28% of gross pizza sales.
+- **Micro-Footprint Takeout Density**: Compact 200 to 800 sq ft pizzerias generate $1.5M to $3.0M annually ($1,500+ per sq ft) by eliminating dining room overhead.
+- **Pre-Order Sell-Out Model Efficiency**: Capping daily batch production (100 to 150 pies) achieves 0% end-of-day dough scrap and predictable labor schedules.
+- **Impingement Conveyor Oven Capacity**: Double-stack commercial conveyor ovens bake 80 to 120 sixteen-inch pizzas per hour at a steady 5.5-minute belt speed.
+- **VIP SMS Text Marketing Conversion**: Direct-to-consumer VIP text clubs achieve 95%+ open rates and drive 10% to 18% same-day order conversion for mid-week specials.

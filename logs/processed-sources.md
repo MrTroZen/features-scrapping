@@ -203,3 +203,25 @@ Audit trail of ingested content channels and processing runs for Qavyo Restauran
   - 13 Store walkthrough teasers under 90s
 - **Quality Check Status:** 100% Pass (403/403 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
+
+## 11. Smart Pizza Marketing YouTube Shorts Collection
+
+- **Source Channel:** [@Smartpizzamarketing](https://www.youtube.com/@Smartpizzamarketing/shorts)
+- **Tracking Registry:** [`sources/youtube-lists/smart-pizza-shorts.csv`](../sources/youtube-lists/smart-pizza-shorts.csv)
+- **Total Cataloged Shorts:** 157
+- **Total Substantive Dossiers Ingested:** 120 across 9 categories in `knowledge/smart-pizza/smart-pizza-short-form/`
+- **Total Triaged / Skipped:** 37 per AGENTS.md Rule 8
+  - 33 5-second podcast bloopers, laughing cuts, and inside-joke meme reaction snippets
+  - 4 Untitled/date-only clips and channel announcement teasers
+- **Quality Check Status:** 100% Pass (120/120 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
+
+## 12. Smart Pizza Marketing YouTube Long-Form Video Collection
+
+- **Source Channel:** [@Smartpizzamarketing](https://www.youtube.com/@Smartpizzamarketing/videos)
+- **Tracking Registry:** [`sources/youtube-lists/smart-pizza-videos.csv`](../sources/youtube-lists/smart-pizza-videos.csv)
+- **Total Cataloged Videos:** 122
+- **Total Substantive Dossiers Ingested:** 122 across 9 categories in `knowledge/smart-pizza/smart-pizza-full-form/`
+- **Total Triaged / Skipped:** 0
+- **Quality Check Status:** 100% Pass (122/122 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
