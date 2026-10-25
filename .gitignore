@@ -5,6 +5,8 @@ raw-transcripts/
 *.tmp
 *.temp
 scratch/
+__pycache__/
+*.pyc
 
 # Operating System Files
 .DS_Store
