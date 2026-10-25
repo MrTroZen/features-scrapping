@@ -1435,3 +1435,10 @@ Operational benchmarks, target ratios, percentages, and metrics extracted from v
   - Go branded and you're at 5 to 8%.
   - Mattenga s pizza boxes sit at 6%.
 
+
+## Operations & Table Turnaround (Toast Long-Form)
+
+- **Tableside Checkout Turnover Velocity**: Reduces table settlement dwell times from 8–12 minutes down to under 2 minutes per table.
+- **Order Transcription Comp Reduction**: Direct digital order transmission to KDS cuts kitchen transcription errors and food comps by over 50%.
+- **Third-Party Commission Elimination**: Direct digital ordering captures 20% to 30% gross order margin otherwise lost to marketplace commissions.
+- **Labor Scheduling Variance**: Aligning hourly labor rosters against hourly POS forecast curves saves 3% to 5% in payroll expenditure.

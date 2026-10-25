@@ -2,992 +2,1272 @@
 
 Master catalog of all structured restaurant operational intelligence files in `knowledge/`.
 
-Total verified entries: **909** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts) (719 Short-Form, 61 Long-Form)
+Total verified entries: **1,223** (719 Owner Shorts, 61 Owner Videos, 129 Toast Shorts, 314 Toast Videos)
 
-## Customers (103 entries)
+## Customers (106 entries)
 
-- **Serial 005**: [Should Restaurants Get Their Own App?](../knowledge/owner/owner-short-form/customers/branded-mobile-apps-retention.md) `[mobile-apps, customer-retention, ordering-habits, direct-ordering]`
-- **Serial 006**: [How This Restaurant Increased Sales By $7,000 (With Their Own App)](../knowledge/owner/owner-short-form/customers/branded-app-regular-frequency.md) `[mobile-apps, repeat-orders, sales-growth, customer-frequency]`
-- **Serial 023**: [How restaurant owners are fighting back against bad Yelp reviews](../knowledge/owner/owner-short-form/customers/post-order-feedback-loop.md) `[reviews, customer-feedback, reputation-management, yelp]`
-- **Serial 025**: [Does your restaurant know this trick to build customer loyalty?](../knowledge/owner/owner-short-form/customers/authentic-owner-storytelling.md) `[customer-loyalty, brand-connection, founder-story, word-of-mouth]`
-- **Serial 032**: [How gamifying your loyalty program like Domino's is a win-win for your restaurant and your customers](../knowledge/owner/owner-short-form/customers/gamified-loyalty-rewards.md) `[loyalty-programs, gamification, repeat-frequency, rewards]`
-- **Serial 037**: [How this marketing strategy can get you to do something without even realizing it](../knowledge/owner/owner-short-form/customers/reciprocity-in-restaurant-gifting.md) `[reciprocity, behavioral-psychology, customer-spending, loyalty]`
-- **Serial 040**: [Create Loyal Restaurant Customers With This One Simple Trick](../knowledge/owner/owner-short-form/customers/identity-based-community-loyalty.md) `[identity-marketing, community-loyalty, affinity-groups, repeat-visits]`
-- **Serial 047**: [The Secret Formula Behind Restaurant Loyalty](../knowledge/owner/owner-short-form/customers/repeat-visit-loyalty-curve.md) `[loyalty-curve, retention-rates, customer-lifetime-value, guest-experience]`
-- **Serial 055**: [How To Make Your Restaurant Stand Out](../knowledge/owner/owner-short-form/customers/how-to-make-your-restaurant-stand-out.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 056**: [Why Your Restaurant NEEDS Loyalty Points](../knowledge/owner/owner-short-form/customers/why-your-restaurant-needs-loyalty-points.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 059**: [How To Build A Strong Restaurant Brand](../knowledge/owner/owner-short-form/customers/how-to-build-a-strong-restaurant-brand.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 060**: [How To Increase Online Restaurant Orders](../knowledge/owner/owner-short-form/customers/how-to-increase-online-restaurant-orders.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 061**: [Why Most Restaurant Social Media Strategies Are Wrong](../knowledge/owner/owner-short-form/customers/why-most-restaurant-social-media-strategies-a.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 065**: [Why Every Restaurant Needs Its Own Video Game](../knowledge/owner/owner-short-form/customers/why-every-restaurant-needs-its-own-video-game.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 066**: [The Psychology Behind Restaurant Reviews](../knowledge/owner/owner-short-form/customers/the-psychology-behind-restaurant-reviews.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 067**: [How To Create A Profitable Restaurant Loyalty Program](../knowledge/owner/owner-short-form/customers/how-to-create-a-profitable-restaurant-loyalty.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 073**: [Avoid This Mistake Restaurant Owners Make](../knowledge/owner/owner-short-form/customers/avoid-this-mistake-restaurant-owners-make.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 077**: [Restaurants: Stop Making This Costly Mistake](../knowledge/owner/owner-short-form/customers/restaurants-stop-making-this-costly-mistake.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 082**: [Why Most Restaurants Get Ad Targeting Wrong](../knowledge/owner/owner-short-form/customers/why-most-restaurants-get-ad-targeting-wrong.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 083**: [How To Make Social Media ROI Positive For Restaurants](../knowledge/owner/owner-short-form/customers/how-to-make-social-media-roi-positive-for-res.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 085**: [Restaurants Need This Ad Strategy!](../knowledge/owner/owner-short-form/customers/restaurants-need-this-ad-strategy.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 089**: [How To Increase Restaurant Sales Automatically](../knowledge/owner/owner-short-form/customers/how-to-increase-restaurant-sales-automaticall.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 091**: [What Restaurants Can Learn From Chipotle's Portion Sizes](../knowledge/owner/owner-short-form/customers/what-restaurants-can-learn-from-chipotles-por.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 095**: [Automatically Make More Restaurant Sales?](../knowledge/owner/owner-short-form/customers/automatically-make-more-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 098**: [Why Your Restaurant NEEDS To Use AI](../knowledge/owner/owner-short-form/customers/why-your-restaurant-needs-to-use-ai.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 099**: [What's The Best Website Builder For Restaurants?](../knowledge/owner/owner-short-form/customers/whats-the-best-website-builder-for-restaurant.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 103**: [This Website Builder BOOSTS Restaurant Sales in 2024](../knowledge/owner/owner-short-form/customers/this-website-builder-boosts-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 104**: [Why Your First-Time Customers Aren't Coming Back](../knowledge/owner/owner-short-form/customers/why-your-first-time-customers-arent-coming-ba.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 105**: [Are Robot Servers the Future of Dining?](../knowledge/owner/owner-short-form/customers/are-robot-servers-the-future-of-dining.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 112**: [The Surprising Marketing Trick That Saved Domino's](../knowledge/owner/owner-short-form/customers/the-surprising-marketing-trick-that-saved-dom.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 114**: [Why Servers Who Do THIS Get Paid Way More](../knowledge/owner/owner-short-form/customers/why-servers-who-do-this-get-paid-way-more.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 121**: [What's Behind Taco Bell's SURPRISING Comeback?](../knowledge/owner/owner-short-form/customers/whats-behind-taco-bells-surprising-comeback.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 127**: [Texas Roadhouse's SECRET to Being #1 in Customer Service!](../knowledge/owner/owner-short-form/customers/texas-roadhouses-secret-to-being-1-in-custome.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 131**: [Mastering SEO for Restaurants for FREE](../knowledge/owner/owner-short-form/customers/mastering-seo-for-restaurants-for-free.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 134**: [The Surprising Truth About Restaurant Pricing Nobody Tells You](../knowledge/owner/owner-short-form/customers/the-surprising-truth-about-restaurant-pricing.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 135**: [The Hidden Psychology Behind Menu Prices](../knowledge/owner/owner-short-form/customers/the-hidden-psychology-behind-menu-prices.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 138**: [Simplify Your Menu Like Chipotle to Boost Sales](../knowledge/owner/owner-short-form/customers/simplify-your-menu-like-chipotle-to-boost-sal.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 140**: [ONE Simple Trick to Increase Restaurant Sales by 30%](../knowledge/owner/owner-short-form/customers/one-simple-trick-to-increase-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 144**: [Chick Fil A's Shocking Sunday Strategy Pays Off BIG TIME](../knowledge/owner/owner-short-form/customers/chick-fil-as-shocking-sunday-strategy-pays-of.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 145**: [Boost Restaurant Sales with This ONE Secret Weapon](../knowledge/owner/owner-short-form/customers/boost-restaurant-sales-with-this-one-secret-w.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 146**: [Meet The CEO Who's Changing Restaurant Tech Forever](../knowledge/owner/owner-short-form/customers/meet-the-ceo-whos-changing-restaurant-tech-fo.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 147**: [Why Are Ghost Kitchens DOOMED to Fail?](../knowledge/owner/owner-short-form/customers/why-are-ghost-kitchens-doomed-to-fail.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 148**: [What's the BEST Way to Keep Restaurant Customers Coming Back?](../knowledge/owner/owner-short-form/customers/whats-the-best-way-to-keep-restaurant-custome.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 151**: [The #1 Reason Restaurant Owners Are Switching to Owner.com](../knowledge/owner/owner-short-form/customers/the-1-reason-restaurant-owners-are-switching.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 155**: [Boost Restaurant Sales 50% with This One Simple Trick](../knowledge/owner/owner-short-form/customers/boost-restaurant-sales-50-with-this-one-simpl.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 157**: [Is Chick-fil-A REALLY a Cult?](../knowledge/owner/owner-short-form/customers/is-chick-fil-a-really-a-cult.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 160**: [Panera's Secret to Turning Occasional Guests into Regulars](../knowledge/owner/owner-short-form/customers/paneras-secret-to-turning-occasional-guests-i.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 164**: [The Secret to Chick-fil-A's Success Nobody Tells You](../knowledge/owner/owner-short-form/customers/the-secret-to-chick-fil-as-success-nobody-tel.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 165**: [The Restaurant Owner's Guide to Firing with Respect](../knowledge/owner/owner-short-form/customers/the-restaurant-owners-guide-to-firing-with-re.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 168**: [Restaurant Marketing Experts Are Hiding THIS from You!](../knowledge/owner/owner-short-form/customers/restaurant-marketing-experts-are-hiding-this.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 169**: [OWN Your Customers for LIFE with This Proven Formula!](../knowledge/owner/owner-short-form/customers/own-your-customers-for-life-with-this-proven.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 174**: [The Secret to Tripling Tips is Not What You Think!](../knowledge/owner/owner-short-form/customers/the-secret-to-tripling-tips-is-not-what-you-t.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 182**: [MIND-BLOWING Restaurant Hack That Will Increase Sales](../knowledge/owner/owner-short-form/customers/mind-blowing-restaurant-hack-that-will-increa.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 186**: [Social Media is a Scam for Restaurants The Shocking Reason Why](../knowledge/owner/owner-short-form/customers/social-media-is-a-scam-for-restaurants-the-sh.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 192**: [Make Restaurant Ordering RIDICULOUSLY Easy With Mobile Apps](../knowledge/owner/owner-short-form/customers/make-restaurant-ordering-ridiculously-easy-wi.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 196**: [Simple Website Changes That Made This Restaurant 5X More Money!](../knowledge/owner/owner-short-form/customers/simple-website-changes-that-made-this-restaur.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 199**: [Why Old School Restaurant Marketing Is About To Change Forever With AI](../knowledge/owner/owner-short-form/customers/why-old-school-restaurant-marketing-is-about.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
-- **Serial 202**: [The Surprising Truth About Restaurant Loyalty Programs Nobody Tells You](../knowledge/owner/owner-short-form/customers/surprising-truth-about-restaurant-loyalty.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 230**: [How Smart Restaurants Keep Customers Coming Back For More?](../knowledge/owner/owner-short-form/customers/smart-restaurants-keep-customers-coming.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 236**: [This Simple Marketing Hack Makes Customers Buy NOW](../knowledge/owner/owner-short-form/customers/simple-marketing-hack-customers-buy.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 240**: [How Restaurants Are Using AI to Read Customer Minds?](../knowledge/owner/owner-short-form/customers/restaurants-using-ai-read-customer.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 243**: [The REAL Reason Chick-fil-A Makes $8M Per Location?](../knowledge/owner/owner-short-form/customers/real-reason-chick-fil-a-8m-per.md) `[customers, retention, loyalty]`
-- **Serial 259**: [Why Restaurants Lose 60% of First Time Customers?](../knowledge/owner/owner-short-form/customers/restaurants-lose-60-first-time.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 268**: [Why The MOST Profitable Restaurant Loyalty Programs Use Points!](../knowledge/owner/owner-short-form/customers/most-profitable-restaurant-loyalty-programs.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 281**: [How Restaurants Get More Customers With This Simple SEO Trick!](../knowledge/owner/owner-short-form/customers/restaurants-get-customers-simple-seo.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 287**: [How Restaurants Can Get More Customers for $15!](../knowledge/owner/owner-short-form/customers/restaurants-get-customers-15.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 311**: [3 Easy Ways to Make Restaurant Customers Come Back for More!](../knowledge/owner/owner-short-form/customers/3-easy-ways-restaurant-customers.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 319**: [How One Bad Review Can Cost Your Restaurant $700!](../knowledge/owner/owner-short-form/customers/one-bad-review-cost-restaurant.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 326**: [How This Pizza Shop Gets 20 New Customers Every Month!](../knowledge/owner/owner-short-form/customers/pizza-shop-gets-20-new.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 327**: [Can This Simple Tool Boost Your Restaurant Reviews?](../knowledge/owner/owner-short-form/customers/simple-tool-boost-restaurant-reviews.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 341**: [The Secret Trick Restaurants Use With Desserts](../knowledge/owner/owner-short-form/customers/restaurants-use-desserts.md) `[customers, retention, loyalty]`
-- **Serial 347**: [How Restaurants Get More Customers With One SEO Trick!](../knowledge/owner/owner-short-form/customers/restaurants-get-customers-one-seo.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 374**: [How 20% of Customers Make Restaurants Rich](../knowledge/owner/owner-short-form/customers/20-customers-restaurants-rich.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 380**: [How We Made $70,000 More On Halloween!](../knowledge/owner/owner-short-form/customers/we-made-70000-on-halloween.md) `[customers, retention, loyalty]`
-- **Serial 432**: [This Restaurant Trick Gets 30% More Customers](../knowledge/owner/owner-short-form/customers/restaurant-gets-30-customers.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 458**: [Five Guys' Genius Trick to Make You a Loyal Customer](../knowledge/owner/owner-short-form/customers/five-guys-genius-loyal-customer.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 505**: [Why Paper Stamp Cards Are Killing Your Restaurant](../knowledge/owner/owner-short-form/customers/paper-stamp-cards-killing-restaurant.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 523**: [Stop shrinking your portions to save money. It's the fastest way to lose customers!](../knowledge/owner/owner-short-form/customers/shrinking-portions-save-money-its.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 527**: [Website Psychology That Actually Converts Customers 💡](../knowledge/owner/owner-short-form/customers/website-psychology-actually-converts-customers.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 539**: [Your menu is confusing customers (fix it now)](../knowledge/owner/owner-short-form/customers/menu-confusing-customers-fix-it.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 547**: [I Started 'Firing' Customers (Here's Why)](../knowledge/owner/owner-short-form/customers/i-started-firing-customers-heres.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 552**: [4 psychology tricks that make customers order more online](../knowledge/owner/owner-short-form/customers/4-psychology-tricks-customers-order.md) `[customers, retention, loyalty, repeat-visits]`
-- **Serial 576**: [The REAL reason guests dont order from your restaurants website](../knowledge/owner/owner-short-form/customers/real-reason-guests-order-restaurants.md) `[customers, retention, guest-experience]`
-- **Serial 589**: [Why Guests Skip Your Most Profitable Dishes](../knowledge/owner/owner-short-form/customers/guests-skip-most-profitable-dishes.md) `[customers, retention, guest-experience]`
-- **Serial 594**: [The Most Annoying Thing Servers Do Without Knowing It](../knowledge/owner/owner-short-form/customers/most-annoying-thing-servers-do.md) `[customers, retention, guest-experience]`
-- **Serial 610**: [Chamoy Menu Items Your Customers Want In 2026](../knowledge/owner/owner-short-form/customers/chamoy-menu-items-customers-want.md) `[customers, retention, guest-experience]`
-- **Serial 622**: [The Customer Service Trick That Beat Chick-fil-A (Copy This)](../knowledge/owner/owner-short-form/customers/customer-service-beat-chick-fil-a-copy.md) `[customers, retention, guest-experience]`
-- **Serial 632**: [This Song Makes Customers Spend More At Your Restaurant](../knowledge/owner/owner-short-form/customers/song-customers-spend-at-restaurant.md) `[customers, retention, guest-experience]`
-- **Serial 636**: [How I Turn Free Food Into Life-Long Customers [3 Steps]](../knowledge/owner/owner-short-form/customers/i-turn-free-food-life-long.md) `[customers, retention, guest-experience]`
-- **Serial 666**: [Rich Owner vs Broke Owner: Why Customers Arent Always Right](../knowledge/owner/owner-short-form/customers/rich-owner-vs-broke-owner.md) `[customers, retention, guest-experience]`
-- **Serial 669**: [Why You Should NEVER Reply to Negative Reviews](../knowledge/owner/owner-short-form/customers/should-never-reply-negative-reviews.md) `[customers, retention, guest-experience]`
-- **Serial 689**: [How to upsell without annoying your customers](../knowledge/owner/owner-short-form/customers/upsell-without-annoying-customers.md) `[customers, retention, guest-experience]`
-- **Serial 690**: [Why I Had To Fire A Customer](../knowledge/owner/owner-short-form/customers/i-had-fire-customer.md) `[customers, retention, guest-experience]`
-- **Serial 706**: [How Panera Wasted 64 MILLION Customers...](../knowledge/owner/owner-short-form/customers/panera-wasted-64-million-customers.md) `[customers, retention, guest-experience]`
-- **Serial 709**: [Why Are You Paying to Acquire Customers Who Never Come Back?](../knowledge/owner/owner-short-form/customers/paying-acquire-customers-who-never.md) `[customers, retention, guest-experience]`
-- **Serial 716**: [How to Calculate What Each Guest Must Spend (Average Minimum Check)? [Explained]](../knowledge/owner/owner-short-form/customers/calculate-each-guest-must-spend.md) `[customers, retention, guest-experience]`
+- **Serial 005**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-mobile-apps-retention.md) `[mobile-apps, customer-retention, ordering-habits, direct-ordering]`
+- **Serial 006**: [Key Information](../knowledge/owner/owner-short-form/customers/branded-app-regular-frequency.md) `[mobile-apps, repeat-orders, sales-growth, customer-frequency]`
+- **Serial 023**: [Key Information](../knowledge/owner/owner-short-form/customers/post-order-feedback-loop.md) `[reviews, customer-feedback, reputation-management, yelp]`
+- **Serial 025**: [Key Information](../knowledge/owner/owner-short-form/customers/authentic-owner-storytelling.md) `[customer-loyalty, brand-connection, founder-story, word-of-mouth]`
+- **Serial 032**: [Key Information](../knowledge/owner/owner-short-form/customers/gamified-loyalty-rewards.md) `[loyalty-programs, gamification, repeat-frequency, rewards]`
+- **Serial 037**: [Key Information](../knowledge/owner/owner-short-form/customers/reciprocity-in-restaurant-gifting.md) `[reciprocity, behavioral-psychology, customer-spending, loyalty]`
+- **Serial 040**: [Key Information](../knowledge/owner/owner-short-form/customers/identity-based-community-loyalty.md) `[identity-marketing, community-loyalty, affinity-groups, repeat-visits]`
+- **Serial 047**: [Key Information](../knowledge/owner/owner-short-form/customers/repeat-visit-loyalty-curve.md) `[loyalty-curve, retention-rates, customer-lifetime-value, guest-experience]`
+- **Serial 055**: [Key Information](../knowledge/owner/owner-short-form/customers/how-to-make-your-restaurant-stand-out.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 056**: [Key Information](../knowledge/owner/owner-short-form/customers/why-your-restaurant-needs-loyalty-points.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 059**: [Key Information](../knowledge/owner/owner-short-form/customers/how-to-build-a-strong-restaurant-brand.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 060**: [Key Information](../knowledge/owner/owner-short-form/customers/how-to-increase-online-restaurant-orders.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 061**: [Key Information](../knowledge/owner/owner-short-form/customers/why-most-restaurant-social-media-strategies-a.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 065**: [Key Information](../knowledge/owner/owner-short-form/customers/why-every-restaurant-needs-its-own-video-game.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 066**: [Key Information](../knowledge/owner/owner-short-form/customers/the-psychology-behind-restaurant-reviews.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 067**: [Key Information](../knowledge/owner/owner-short-form/customers/how-to-create-a-profitable-restaurant-loyalty.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 073**: [Key Information](../knowledge/owner/owner-short-form/customers/avoid-this-mistake-restaurant-owners-make.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 077**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurants-stop-making-this-costly-mistake.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 082**: [Key Information](../knowledge/owner/owner-short-form/customers/why-most-restaurants-get-ad-targeting-wrong.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 083**: [Key Information](../knowledge/owner/owner-short-form/customers/how-to-make-social-media-roi-positive-for-res.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 085**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurants-need-this-ad-strategy.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 089**: [Key Information](../knowledge/owner/owner-short-form/customers/how-to-increase-restaurant-sales-automaticall.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 091**: [Key Information](../knowledge/owner/owner-short-form/customers/what-restaurants-can-learn-from-chipotles-por.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 095**: [Key Information](../knowledge/owner/owner-short-form/customers/automatically-make-more-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 098**: [Key Information](../knowledge/owner/owner-short-form/customers/why-your-restaurant-needs-to-use-ai.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 099**: [Key Information](../knowledge/owner/owner-short-form/customers/whats-the-best-website-builder-for-restaurant.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 103**: [Key Information](../knowledge/owner/owner-short-form/customers/this-website-builder-boosts-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 104**: [Key Information](../knowledge/owner/owner-short-form/customers/why-your-first-time-customers-arent-coming-ba.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 105**: [Key Information](../knowledge/owner/owner-short-form/customers/are-robot-servers-the-future-of-dining.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 112**: [Key Information](../knowledge/owner/owner-short-form/customers/the-surprising-marketing-trick-that-saved-dom.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 114**: [Key Information](../knowledge/owner/owner-short-form/customers/why-servers-who-do-this-get-paid-way-more.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 121**: [Key Information](../knowledge/owner/owner-short-form/customers/whats-behind-taco-bells-surprising-comeback.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 127**: [Key Information](../knowledge/owner/owner-short-form/customers/texas-roadhouses-secret-to-being-1-in-custome.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 131**: [Key Information](../knowledge/owner/owner-short-form/customers/mastering-seo-for-restaurants-for-free.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 134**: [Key Information](../knowledge/owner/owner-short-form/customers/the-surprising-truth-about-restaurant-pricing.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 135**: [Key Information](../knowledge/owner/owner-short-form/customers/the-hidden-psychology-behind-menu-prices.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 138**: [Key Information](../knowledge/owner/owner-short-form/customers/simplify-your-menu-like-chipotle-to-boost-sal.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 140**: [Key Information](../knowledge/owner/owner-short-form/customers/one-simple-trick-to-increase-restaurant-sales.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 144**: [Key Information](../knowledge/owner/owner-short-form/customers/chick-fil-as-shocking-sunday-strategy-pays-of.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 145**: [Key Information](../knowledge/owner/owner-short-form/customers/boost-restaurant-sales-with-this-one-secret-w.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 146**: [Key Information](../knowledge/owner/owner-short-form/customers/meet-the-ceo-whos-changing-restaurant-tech-fo.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 147**: [Key Information](../knowledge/owner/owner-short-form/customers/why-are-ghost-kitchens-doomed-to-fail.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 148**: [Key Information](../knowledge/owner/owner-short-form/customers/whats-the-best-way-to-keep-restaurant-custome.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 151**: [Key Information](../knowledge/owner/owner-short-form/customers/the-1-reason-restaurant-owners-are-switching.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 155**: [Key Information](../knowledge/owner/owner-short-form/customers/boost-restaurant-sales-50-with-this-one-simpl.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 157**: [Key Information](../knowledge/owner/owner-short-form/customers/is-chick-fil-a-really-a-cult.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 160**: [Key Information](../knowledge/owner/owner-short-form/customers/paneras-secret-to-turning-occasional-guests-i.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 164**: [Key Information](../knowledge/owner/owner-short-form/customers/the-secret-to-chick-fil-as-success-nobody-tel.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 165**: [Key Information](../knowledge/owner/owner-short-form/customers/the-restaurant-owners-guide-to-firing-with-re.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 168**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurant-marketing-experts-are-hiding-this.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 169**: [Key Information](../knowledge/owner/owner-short-form/customers/own-your-customers-for-life-with-this-proven.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 174**: [Key Information](../knowledge/owner/owner-short-form/customers/the-secret-to-tripling-tips-is-not-what-you-t.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 182**: [Key Information](../knowledge/owner/owner-short-form/customers/mind-blowing-restaurant-hack-that-will-increa.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 186**: [Key Information](../knowledge/owner/owner-short-form/customers/social-media-is-a-scam-for-restaurants-the-sh.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 192**: [Key Information](../knowledge/owner/owner-short-form/customers/make-restaurant-ordering-ridiculously-easy-wi.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 196**: [Key Information](../knowledge/owner/owner-short-form/customers/simple-website-changes-that-made-this-restaur.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 199**: [Key Information](../knowledge/owner/owner-short-form/customers/why-old-school-restaurant-marketing-is-about.md) `[customer-retention, loyalty, repeat-visits, guest-experience]`
+- **Serial 202**: [Key Information](../knowledge/owner/owner-short-form/customers/surprising-truth-about-restaurant-loyalty.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 230**: [Key Information](../knowledge/owner/owner-short-form/customers/smart-restaurants-keep-customers-coming.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 236**: [Key Information](../knowledge/owner/owner-short-form/customers/simple-marketing-hack-customers-buy.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 240**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurants-using-ai-read-customer.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 243**: [Key Information](../knowledge/owner/owner-short-form/customers/real-reason-chick-fil-a-8m-per.md) `[customers, retention, loyalty]`
+- **Serial 259**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurants-lose-60-first-time.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 268**: [Key Information](../knowledge/owner/owner-short-form/customers/most-profitable-restaurant-loyalty-programs.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 281**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurants-get-customers-simple-seo.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 287**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurants-get-customers-15.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 311**: [Key Information](../knowledge/owner/owner-short-form/customers/3-easy-ways-restaurant-customers.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 319**: [Key Information](../knowledge/owner/owner-short-form/customers/one-bad-review-cost-restaurant.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 326**: [Key Information](../knowledge/owner/owner-short-form/customers/pizza-shop-gets-20-new.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 327**: [Key Information](../knowledge/owner/owner-short-form/customers/simple-tool-boost-restaurant-reviews.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 341**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurants-use-desserts.md) `[customers, retention, loyalty]`
+- **Serial 347**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurants-get-customers-one-seo.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 374**: [Key Information](../knowledge/owner/owner-short-form/customers/20-customers-restaurants-rich.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 380**: [Key Information](../knowledge/owner/owner-short-form/customers/we-made-70000-on-halloween.md) `[customers, retention, loyalty]`
+- **Serial 432**: [Key Information](../knowledge/owner/owner-short-form/customers/restaurant-gets-30-customers.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 458**: [Key Information](../knowledge/owner/owner-short-form/customers/five-guys-genius-loyal-customer.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 505**: [Key Information](../knowledge/owner/owner-short-form/customers/paper-stamp-cards-killing-restaurant.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 523**: [Key Information](../knowledge/owner/owner-short-form/customers/shrinking-portions-save-money-its.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 527**: [Key Information](../knowledge/owner/owner-short-form/customers/website-psychology-actually-converts-customers.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 539**: [Key Information](../knowledge/owner/owner-short-form/customers/menu-confusing-customers-fix-it.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 547**: [Key Information](../knowledge/owner/owner-short-form/customers/i-started-firing-customers-heres.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 552**: [Key Information](../knowledge/owner/owner-short-form/customers/4-psychology-tricks-customers-order.md) `[customers, retention, loyalty, repeat-visits]`
+- **Serial 576**: [Key Information](../knowledge/owner/owner-short-form/customers/real-reason-guests-order-restaurants.md) `[customers, retention, guest-experience]`
+- **Serial 589**: [Key Information](../knowledge/owner/owner-short-form/customers/guests-skip-most-profitable-dishes.md) `[customers, retention, guest-experience]`
+- **Serial 594**: [Key Information](../knowledge/owner/owner-short-form/customers/most-annoying-thing-servers-do.md) `[customers, retention, guest-experience]`
+- **Serial 610**: [Key Information](../knowledge/owner/owner-short-form/customers/chamoy-menu-items-customers-want.md) `[customers, retention, guest-experience]`
+- **Serial 622**: [Key Information](../knowledge/owner/owner-short-form/customers/customer-service-beat-chick-fil-a-copy.md) `[customers, retention, guest-experience]`
+- **Serial 632**: [Key Information](../knowledge/owner/owner-short-form/customers/song-customers-spend-at-restaurant.md) `[customers, retention, guest-experience]`
+- **Serial 636**: [Key Information](../knowledge/owner/owner-short-form/customers/i-turn-free-food-life-long.md) `[customers, retention, guest-experience]`
+- **Serial 666**: [Key Information](../knowledge/owner/owner-short-form/customers/rich-owner-vs-broke-owner.md) `[customers, retention, guest-experience]`
+- **Serial 669**: [Key Information](../knowledge/owner/owner-short-form/customers/should-never-reply-negative-reviews.md) `[customers, retention, guest-experience]`
+- **Serial 689**: [Key Information](../knowledge/owner/owner-short-form/customers/upsell-without-annoying-customers.md) `[customers, retention, guest-experience]`
+- **Serial 690**: [Key Information](../knowledge/owner/owner-short-form/customers/i-had-fire-customer.md) `[customers, retention, guest-experience]`
+- **Serial 706**: [Key Information](../knowledge/owner/owner-short-form/customers/panera-wasted-64-million-customers.md) `[customers, retention, guest-experience]`
+- **Serial 709**: [Key Information](../knowledge/owner/owner-short-form/customers/paying-acquire-customers-who-never.md) `[customers, retention, guest-experience]`
+- **Serial 716**: [Key Information](../knowledge/owner/owner-short-form/customers/calculate-each-guest-must-spend.md) `[customers, retention, guest-experience]`
+- **Serial 031 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/customers/empowering-restaurants-toastiq.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
+- **Serial 033 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/customers/toast-customers-who-are-james.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
+- **Serial 035 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/customers/how-keep-guest-ruining-day.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
+- **Serial 055 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/customers/handling-difficult-guests-empathy.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
+- **Serial 087 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/customers/me-one-regular.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
+- **Serial 115 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/customers/converting-first-time-guests-into-restaurant-regulars.md) `[customer-retention, repeat-visits, guest-lifetime-value, hospitality]`
+- **Serial 121 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/customers/customers-who-found-you-online.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
+- **Serial 029 (Toast Video)**: [Guest Recovery Systems: Real-Time Tableside Feedback and Review Defense](../knowledge/toast/toast-full-form/customers/real-time-guest-feedback-recovery-suviche.md)
+- **Serial 120 (Toast Video)**: [Events & Unique Customer Experiences with All Day Baby [Family Style S1 E2]](../knowledge/toast/toast-full-form/customers/events-unique-customer-experiences-all.md)
+- **Serial 258 (Toast Video)**: [At Tahini, Consistent Quality and Warm Hospitality Keep Guests Coming Back [Family Style S2 E4]](../knowledge/toast/toast-full-form/customers/tahini-consistent-quality-warm-hospitality.md)
 
-- **Serial 031 (Toast)**: [Empowering Restaurants with ToastIQ #restauranttech #ai](../knowledge/toast/toast-short-form/customers/empowering-restaurants-toastiq.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
-- **Serial 033 (Toast)**: [🥂 A TOAST To Our Customers Who Are 2025 James Beard Award Winners!](../knowledge/toast/toast-short-form/customers/toast-customers-who-are-james.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
-- **Serial 035 (Toast)**: [How To Keep A Guest From Ruining Your Day](../knowledge/toast/toast-short-form/customers/how-keep-guest-ruining-day.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
-- **Serial 055 (Toast)**: [Handling Difficult Guests with Empathy](../knowledge/toast/toast-short-form/customers/handling-difficult-guests-empathy.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
-- **Serial 087 (Toast)**: [me and that one regular](../knowledge/toast/toast-short-form/customers/me-one-regular.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
-- **Serial 115 (Toast)**: [NOT A CUSTOMER. A REGULAR. | The Most Regular Regular](../knowledge/toast/toast-short-form/customers/converting-first-time-guests-into-restaurant-regulars.md) `[customer-retention, repeat-visits, guest-lifetime-value, hospitality]`
-- **Serial 121 (Toast)**: [Customers who found you online be like](../knowledge/toast/toast-short-form/customers/customers-who-found-you-online.md) `[customer-retention, loyalty, guest-experience, repeat-visits]`
+## Delivery (25 entries)
 
-## Delivery (8 entries)
+- **Serial 001**: [Key Information](../knowledge/owner/owner-short-form/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
+- **Serial 022**: [Key Information](../knowledge/owner/owner-short-form/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
+- **Serial 101**: [Key Information](../knowledge/owner/owner-short-form/delivery/are-robots-taking-over-restaurants.md) `[delivery-fees, direct-ordering, third-party-apps, online-ordering]`
+- **Serial 137**: [Key Information](../knowledge/owner/owner-short-form/delivery/the-surprising-truth-about-ghost-kitchens-nob.md) `[delivery-fees, direct-ordering, third-party-apps, online-ordering]`
+- **Serial 245**: [Key Information](../knowledge/owner/owner-short-form/delivery/poke-bowls-taking-over-food.md) `[delivery, third-party-delivery, commissions]`
+- **Serial 001 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/delivery/saving-restaurant-devastated-by-covid.md) `[direct-ordering, third-party-delivery, online-ordering, customer-retention, upselling]`
+- **Serial 004 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/delivery/owner-com-case-study-samos-oaxaca.md) `[direct-ordering, third-party-delivery, delivery-commissions, customer-data, guest-retention]`
+- **Serial 019 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/delivery/converting-delivery-app-users-to-branded-apps.md) `[direct-ordering, branded-mobile-apps, delivery-commissions, customer-retention, cambodian-cuisine, online-ordering]`
+- **Serial 048 (Toast Video)**: [Delivery Economics: Saving $25,000 in Marketplace Commissions via Direct Ordering](../knowledge/toast/toast-full-form/delivery/trappers-sushi-25k-commission-savings-direct-ordering.md)
+- **Serial 056 (Toast Video)**: [Growing a Healthy Off-Premise Business for Your Business- Spark Feature Session](../knowledge/toast/toast-full-form/delivery/growing-healthy-off-premise-business.md)
+- **Serial 083 (Toast Video)**: [Get Started with Toast Catering and Events](../knowledge/toast/toast-full-form/delivery/get-started-catering-events.md)
+- **Serial 134 (Toast Video)**: [Customizable, Commission-Free Toast Online Ordering](../knowledge/toast/toast-full-form/delivery/customizable-commission-free-online-ordering.md)
+- **Serial 192 (Toast Video)**: [Ch. 5: How To Set Up a Stellar Website: Complete Guide to: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-5-set-up-stellar.md)
+- **Serial 193 (Toast Video)**: [Ch. 2: Real Restaurants, Real Results | Your Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-2-real-restaurants-real.md)
+- **Serial 194 (Toast Video)**: [Ch. 7: Email Marketing Success | Complete Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-7-email-marketing-success.md)
+- **Serial 195 (Toast Video)**: [Ch. 6: First-Party vs. Third-Party | Complete Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-6-first-party-vs-third-party.md)
+- **Serial 196 (Toast Video)**: [Intro | Complete Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/intro-complete-guide-online-ordering.md)
+- **Serial 197 (Toast Video)**: [Ch. 3: Minimum Viable Menu | Complete Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-3-minimum-viable-menu.md)
+- **Serial 198 (Toast Video)**: [Ch. 8: Revenue & Repeat Orders | Complete Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-8-revenue-repeat-orders.md)
+- **Serial 199 (Toast Video)**: [Ch. 1: Must-Know Terminology | Your Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-1-must-know-terminology-guide.md)
+- **Serial 200 (Toast Video)**: [Ch. 4: Social Media for Restaurants | Complete Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-4-social-media-restaurants.md)
+- **Serial 201 (Toast Video)**: [Ch. 9: Finish the Course | Complete Guide To: Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/ch-9-finish-course-complete.md)
+- **Serial 239 (Toast Video)**: [Get Started with Toast Online Ordering](../knowledge/toast/toast-full-form/delivery/get-started-online-ordering.md)
+- **Serial 240 (Toast Video)**: [Assign Servers to Orders and Tables When Using Toast Mobile Order & Pay](../knowledge/toast/toast-full-form/delivery/assign-servers-orders-tables-when.md)
+- **Serial 288 (Toast Video)**: [Turning Takeout into Loyalty: How Burger 25 Grows with Toast Online Ordering & Delivery](../knowledge/toast/toast-full-form/delivery/turning-takeout-into-loyalty-burger.md)
 
-- **Serial 001**: [Owner.com Review: Jim from Yolked San Jose](../knowledge/owner/owner-short-form/delivery/third-party-commission-savings.md) `[delivery-fees, third-party-commissions, online-ordering, direct-ordering]`
-- **Serial 022**: [How this one email is saving restaurants owners $1,000s in delivery fees](../knowledge/owner/owner-short-form/delivery/delivery-migration-email-campaign.md) `[delivery-fees, third-party-apps, email-marketing, direct-ordering]`
-- **Serial 101**: [Are Robots Taking Over Restaurants?](../knowledge/owner/owner-short-form/delivery/are-robots-taking-over-restaurants.md) `[delivery-fees, direct-ordering, third-party-apps, online-ordering]`
-- **Serial 137**: [The Surprising Truth About Ghost Kitchens Nobody Tells You](../knowledge/owner/owner-short-form/delivery/the-surprising-truth-about-ghost-kitchens-nob.md) `[delivery-fees, direct-ordering, third-party-apps, online-ordering]`
-- **Serial 245**: [Why Poke Bowls Are Taking Over Food Delivery in 2025?](../knowledge/owner/owner-short-form/delivery/poke-bowls-taking-over-food.md) `[delivery, third-party-delivery, commissions]`
+## Finance (118 entries)
 
-### Long-Form In-Depth Intelligence
+- **Serial 039**: [Key Information](../knowledge/owner/owner-short-form/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
+- **Serial 043**: [Key Information](../knowledge/owner/owner-short-form/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
+- **Serial 046**: [Key Information](../knowledge/owner/owner-short-form/finance/health-cafe-unit-economics.md) `[unit-economics, health-cafe, revenue-per-sqft, profit-margins]`
+- **Serial 074**: [Key Information](../knowledge/owner/owner-short-form/finance/why-is-texas-roadhouse-so-profitable.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 081**: [Key Information](../knowledge/owner/owner-short-form/finance/how-losing-10-profit-made-texas-roadhouse-1.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 109**: [Key Information](../knowledge/owner/owner-short-form/finance/is-this-the-smartest-restaurant-business-mode.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 122**: [Key Information](../knowledge/owner/owner-short-form/finance/whats-really-causing-starbucks-to-struggle.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 143**: [Key Information](../knowledge/owner/owner-short-form/finance/boost-sales-effortlessly-with-this-proven-sys.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 152**: [Key Information](../knowledge/owner/owner-short-form/finance/getting-into-harvard-is-easier-than-becoming.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 158**: [Key Information](../knowledge/owner/owner-short-form/finance/the-one-thing-holding-your-restaurant-back-fr.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 171**: [Key Information](../knowledge/owner/owner-short-form/finance/the-greedy-decision-that-killed-quiznos-overn.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 172**: [Key Information](../knowledge/owner/owner-short-form/finance/the-surprising-truth-about-restaurant-manager.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 177**: [Key Information](../knowledge/owner/owner-short-form/finance/mcdonalds-real-estate-empire-rakes-in-79b-ann.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 185**: [Key Information](../knowledge/owner/owner-short-form/finance/americas-richest-restaurant-owners-secret-to.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 194**: [Key Information](../knowledge/owner/owner-short-form/finance/mcdonalds-secret-business-model-that-made-the.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 197**: [Key Information](../knowledge/owner/owner-short-form/finance/the-shocking-truth-about-becoming-a-chick-fil.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 198**: [Key Information](../knowledge/owner/owner-short-form/finance/the-million-dollar-strategy-that-made-texas-r.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 200**: [Key Information](../knowledge/owner/owner-short-form/finance/this-free-restaurant-data-is-a-goldmine-for-s.md) `[profit-margins, unit-economics, financial-management, revenue]`
+- **Serial 215**: [Key Information](../knowledge/owner/owner-short-form/finance/hidden-money-behind-expensive-steakhouses.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 216**: [Key Information](../knowledge/owner/owner-short-form/finance/calculate-restaurant-profits-like-pro.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 221**: [Key Information](../knowledge/owner/owner-short-form/finance/poke-bowls-most-profitable-restaurant.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 223**: [Key Information](../knowledge/owner/owner-short-form/finance/cavas-20-profit-margins.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 224**: [Key Information](../knowledge/owner/owner-short-form/finance/mcdonalds-money-fries-than-burgers.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 258**: [Key Information](../knowledge/owner/owner-short-form/finance/closing-on-sundays-made-chick-fil-a.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 262**: [Key Information](../knowledge/owner/owner-short-form/finance/behind-americas-richest-restaurant-boss.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 269**: [Key Information](../knowledge/owner/owner-short-form/finance/shocking-reason-texas-roadhouse-loses.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 270**: [Key Information](../knowledge/owner/owner-short-form/finance/these-hidden-profit-leaks-hurting.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 276**: [Key Information](../knowledge/owner/owner-short-form/finance/behind-richest-restaurant-owner.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 277**: [Key Information](../knowledge/owner/owner-short-form/finance/math-behind-increasing-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 283**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurant-isnt-money-even-sales.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 286**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurants-learn-mcdonalds-profit-makers.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 291**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurants-use-boost-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 299**: [Key Information](../knowledge/owner/owner-short-form/finance/steps-boosting-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 300**: [Key Information](../knowledge/owner/owner-short-form/finance/mcdonalds-billions-without-selling-food.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 305**: [Key Information](../knowledge/owner/owner-short-form/finance/greek-restaurant-billions.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 307**: [Key Information](../knowledge/owner/owner-short-form/finance/chick-fil-a-money-by-closing-on.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 321**: [Key Information](../knowledge/owner/owner-short-form/finance/boost-restaurant-sales-on-slow.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 328**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurant-owner-learn-costco.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 330**: [Key Information](../knowledge/owner/owner-short-form/finance/mcdonalds-uses-billions.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 336**: [Key Information](../knowledge/owner/owner-short-form/finance/top-restaurants-so-profitable.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 350**: [Key Information](../knowledge/owner/owner-short-form/finance/want-grow-restaurant-empire-heres.md) `[finance, profitability, unit-economics]`
+- **Serial 354**: [Key Information](../knowledge/owner/owner-short-form/finance/prime-cost-save-restaurant.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 355**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 359**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurants-money-during-holidays.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 360**: [Key Information](../knowledge/owner/owner-short-form/finance/easiest-way-boost-restaurant-sales.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 369**: [Key Information](../knowledge/owner/owner-short-form/finance/1-dessert-mistake-youre-costs.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 372**: [Key Information](../knowledge/owner/owner-short-form/finance/want-boost-restaurant-profits-watch.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 373**: [Key Information](../knowledge/owner/owner-short-form/finance/surprising-truth-about-mcdonalds-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 379**: [Key Information](../knowledge/owner/owner-short-form/finance/mcdonalds-billions-one-simple.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 381**: [Key Information](../knowledge/owner/owner-short-form/finance/much-do-restaurants-really.md) `[finance, profitability, unit-economics]`
+- **Serial 385**: [Key Information](../knowledge/owner/owner-short-form/finance/i-turned-my-failing-pizza.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 386**: [Key Information](../knowledge/owner/owner-short-form/finance/much-do-restaurant-owners-really.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 389**: [Key Information](../knowledge/owner/owner-short-form/finance/money-at-restaurant.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 390**: [Key Information](../knowledge/owner/owner-short-form/finance/no1-reason-cava-so-profitable.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 391**: [Key Information](../knowledge/owner/owner-short-form/finance/real-reason-restaurant-losing-money.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 396**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurants-big-money-during-holidays.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 398**: [Key Information](../knowledge/owner/owner-short-form/finance/one-simple-question-boosted-my.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 399**: [Key Information](../knowledge/owner/owner-short-form/finance/3-foods-restaurants-rich-2026.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 401**: [Key Information](../knowledge/owner/owner-short-form/finance/contribution-margin-vs-gross-margin.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 418**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurants-calculate-if-theyre-going.md) `[finance, profitability, unit-economics]`
+- **Serial 425**: [Key Information](../knowledge/owner/owner-short-form/finance/calculate-contribution-margin.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 426**: [Key Information](../knowledge/owner/owner-short-form/finance/losing-thousands-restaurant-sales-month.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 449**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurant-must-follow-these-prime.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 453**: [Key Information](../knowledge/owner/owner-short-form/finance/contribution-vs-gross-margin-know.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 456**: [Key Information](../knowledge/owner/owner-short-form/finance/3-most-profitable-restaurant-ideas.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 478**: [Key Information](../knowledge/owner/owner-short-form/finance/most-restaurants-fail-because-they.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 482**: [Key Information](../knowledge/owner/owner-short-form/finance/boost-restaurant-sales-by-30.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 485**: [Key Information](../knowledge/owner/owner-short-form/finance/calculate-revenue-per-available-seat.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 490**: [Key Information](../knowledge/owner/owner-short-form/finance/reverse-engineer-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 493**: [Key Information](../knowledge/owner/owner-short-form/finance/3-tips-profitable-restaurant-catering.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 537**: [Key Information](../knowledge/owner/owner-short-form/finance/no1-mistake-destroy-restaurants-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 541**: [Key Information](../knowledge/owner/owner-short-form/finance/cost-mistake-destroying-restaurant-margins.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 542**: [Key Information](../knowledge/owner/owner-short-form/finance/contribution-margin-problem-most-owners.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 557**: [Key Information](../knowledge/owner/owner-short-form/finance/whats-our-45000month-miscellaneous-cost.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 571**: [Key Information](../knowledge/owner/owner-short-form/finance/brutal-truth-about-restaurant-profit.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 580**: [Key Information](../knowledge/owner/owner-short-form/finance/legendary-pizzeria-on-grow-profits.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 583**: [Key Information](../knowledge/owner/owner-short-form/finance/15-billion-problem-restaurants-wont.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 585**: [Key Information](../knowledge/owner/owner-short-form/finance/3-restaurant-concepts-highest-margins.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 599**: [Key Information](../knowledge/owner/owner-short-form/finance/simple-2-step-double-restaurant-sales.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 618**: [Key Information](../knowledge/owner/owner-short-form/finance/most-unprofitable-restaurant-concepts-right.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 625**: [Key Information](../knowledge/owner/owner-short-form/finance/one-formula-saved-us-losing.md) `[finance, profitability]`
+- **Serial 634**: [Key Information](../knowledge/owner/owner-short-form/finance/price-catering-so-actually-money.md) `[finance, profitability]`
+- **Serial 646**: [Key Information](../knowledge/owner/owner-short-form/finance/3-least-profitable-restaurant-concepts.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 649**: [Key Information](../knowledge/owner/owner-short-form/finance/20-fro-yo-cup-cutting-back.md) `[finance, profitability]`
+- **Serial 654**: [Key Information](../knowledge/owner/owner-short-form/finance/restaurant-profitability-formula-30-30-30-10-rule.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 655**: [Key Information](../knowledge/owner/owner-short-form/finance/fastest-way-destroy-business.md) `[finance, profitability]`
+- **Serial 662**: [Key Information](../knowledge/owner/owner-short-form/finance/ai-slop-or-actually-useful.md) `[finance, profitability]`
+- **Serial 664**: [Key Information](../knowledge/owner/owner-short-form/finance/calculate-contribution-margin-break-even-point.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 672**: [Key Information](../knowledge/owner/owner-short-form/finance/difference-between-year-0-year.md) `[finance, profitability]`
+- **Serial 674**: [Key Information](../knowledge/owner/owner-short-form/finance/3-biggest-restaurant-scams-youre.md) `[finance, profitability]`
+- **Serial 675**: [Key Information](../knowledge/owner/owner-short-form/finance/difference-between-year-0-year-675.md) `[finance, profitability]`
+- **Serial 684**: [Key Information](../knowledge/owner/owner-short-form/finance/rich-vs-broke-real-restaurant.md) `[finance, profitability]`
+- **Serial 691**: [Key Information](../knowledge/owner/owner-short-form/finance/hidden-trap-30-day-credit-restaurants.md) `[finance, profitability]`
+- **Serial 693**: [Key Information](../knowledge/owner/owner-short-form/finance/whats-difference-between-margin-markup.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 696**: [Key Information](../knowledge/owner/owner-short-form/finance/3-restaurant-rules-quietly-kill.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 702**: [Key Information](../knowledge/owner/owner-short-form/finance/whats-difference-between-cash-flow.md) `[finance, profitability]`
+- **Serial 704**: [Key Information](../knowledge/owner/owner-short-form/finance/gross-margin-vs-net-margin.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 714**: [Key Information](../knowledge/owner/owner-short-form/finance/youre-losing-sales-time-servers.md) `[finance, profitability, margins, unit-economics]`
+- **Serial 717**: [Key Information](../knowledge/owner/owner-short-form/finance/whats-difference-between-depreciation-amortization.md) `[finance, accounting, depreciation, financial-management]`
+- **Serial 000 (Owner Video)**: [Restaurant Financial Management: P&L Architecture, Prime Cost Benchmarks, and Margin Engineering](../knowledge/owner/owner-full-form/finance/restaurant-p-and-l-mastery-and-prime-cost-control.md)
+- **Serial 000 (Owner Video)**: [Seven Food Cost Reduction Strategies and Portion Economics](../knowledge/owner/owner-full-form/finance/seven-food-cost-reduction-strategies.md)
+- **Serial 000 (Owner Video)**: [Weekly Restaurant Dashboard and Variance Control](../knowledge/owner/owner-full-form/finance/weekly-restaurant-dashboard-and-variance-control.md)
+- **Serial 010 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/finance/most-profitable-food-business-concepts.md) `[unit-economics, profit-margins, food-cost, concept-selection, labor-efficiency, capex]`
+- **Serial 023 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/finance/funding-multi-unit-restaurant-expansion.md) `[scaling, multi-unit, restaurant-financing, franchising, private-equity, sba-loans, cash-flow-reinvestment]`
+- **Serial 084 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/finance/restaurant-cash-flow-tracking-and-forecasting.md) `[cash-flow, financial-management, working-capital, restaurant-finance]`
+- **Serial 101 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/finance/how-check-restaurants-sales-performance.md) `[financial-management, cash-flow, profitability, revenue-tracking]`
+- **Serial 014 (Toast Video)**: [Restaurant ROI: Technology Payback Periods and Bottom-Line Expansion](../knowledge/toast/toast-full-form/finance/restaurant-pos-roi-and-payback-daily-creative-food.md)
+- **Serial 033 (Toast Video)**: [Restaurant Growth Capital: Funding Capex and Equipment Upgrades via Revenue Financing](../knowledge/toast/toast-full-form/finance/restaurant-expansion-capital-roi-juvia-group.md)
+- **Serial 034 (Toast Video)**: [Restaurant Working Capital: Structure, Mechanics, and Cash Flow Protection](../knowledge/toast/toast-full-form/finance/restaurant-working-capital-fundamentals-toast-capital.md)
+- **Serial 041 (Toast Video)**: [Neighborhood Burger Bar Economics: Driving Profitability in Independent Dining](../knowledge/toast/toast-full-form/finance/snappy-pattys-profitability-and-labor-control.md)
+- **Serial 051 (Toast Video)**: [How Roc 'N' Ramen increased average check size by 15% with Toast Order and Pay](../knowledge/toast/toast-full-form/finance/roc-n-ramen-increased-average.md)
+- **Serial 057 (Toast Video)**: [Access Your Restaurant’s Capital and Cash Flow Faster - Spark Feature Session](../knowledge/toast/toast-full-form/finance/access-restaurants-capital-cash-flow.md)
+- **Serial 058 (Toast Video)**: [Making Your Money Work for Your Restaurant - Spark Feature Session](../knowledge/toast/toast-full-form/finance/making-money-work-restaurant.md)
+- **Serial 119 (Toast Video)**: [How NOVO Brazil Brewing boosts profits with innovative revenue streams [Family Style S1 E1]](../knowledge/toast/toast-full-form/finance/novo-brazil-brewing-boosts-profits.md)
+- **Serial 162 (Toast Video)**: [See how Toast helped Juan's Flying Burrito increase average check size by 7%](../knowledge/toast/toast-full-form/finance/see-helped-juans-flying-burrito.md)
+- **Serial 205 (Toast Video)**: [Ch. 1: Creating a More Profitable Future | Complete Guide To: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/finance/ch-1-creating-more-profitable.md)
+- **Serial 212 (Toast Video)**: [How The Dough Joe expanded its footprint with Toast Capital Loans](../knowledge/toast/toast-full-form/finance/dough-joe-expanded-its-footprint.md)
+- **Serial 257 (Toast Video)**: [Second Place Means More Cash Towards the Bottom Line at Craveworthy Kitchen [Family Style S2 E2]](../knowledge/toast/toast-full-form/finance/second-place-means-more-cash.md)
 
-- **Long-Form Serial 01**: [Numbers / Calculations](../knowledge/owner/owner-full-form/delivery/saving-restaurant-devastated-by-covid.md) `[direct-ordering, third-party-delivery, online-ordering, customer-retention, upselling]`
-- **Long-Form Serial 04**: [Numbers / Calculations](../knowledge/owner/owner-full-form/delivery/owner-com-case-study-samos-oaxaca.md) `[direct-ordering, third-party-delivery, delivery-commissions, customer-data, guest-retention]`
-- **Long-Form Serial 19**: [Numbers / Calculations](../knowledge/owner/owner-full-form/delivery/converting-delivery-app-users-to-branded-apps.md) `[direct-ordering, branded-mobile-apps, delivery-commissions, customer-retention, cambodian-cuisine, online-ordering]`
+## Food Cost (80 entries)
 
-## Finance (106 entries)
+- **Serial 036**: [Key Information](../knowledge/owner/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
+- **Serial 045**: [Key Information](../knowledge/owner/owner-short-form/food-cost/gourmet-ramen-economics.md) `[food-cost, ramen, inventory-management, shelf-life, average-check]`
+- **Serial 048**: [Key Information](../knowledge/owner/owner-short-form/food-cost/bubble-tea-cogs-and-margins.md) `[bubble-tea, cogs, food-cost, shelf-life, profit-margins]`
+- **Serial 051**: [Key Information](../knowledge/owner/owner-short-form/food-cost/indian-restaurants-use-this-hack-to-reduce-fo.md) `[food-cost, waste-reduction, repurposing-ingredients, inventory]`
+- **Serial 052**: [Key Information](../knowledge/owner/owner-short-form/food-cost/how-to-make-your-restaurant-more-profitable.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 057**: [Key Information](../knowledge/owner/owner-short-form/food-cost/chipotles-1-restaurant-growth-secret.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 070**: [Key Information](../knowledge/owner/owner-short-form/food-cost/use-these-ads-to-boost-restaurant-sales.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 084**: [Key Information](../knowledge/owner/owner-short-form/food-cost/this-is-the-most-profitable-restaurant-concep.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 090**: [Key Information](../knowledge/owner/owner-short-form/food-cost/steal-this-profit-margin-strategy-for-restaur.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 094**: [Key Information](../knowledge/owner/owner-short-form/food-cost/steal-this-low-food-cost-strategy-for-restaur.md) `[food-cost, waste-reduction, repurposing-ingredients, inventory]`
+- **Serial 097**: [Key Information](../knowledge/owner/owner-short-form/food-cost/the-math-behind-the-most-successful-restauran.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 108**: [Key Information](../knowledge/owner/owner-short-form/food-cost/master-food-cost-calculation-in-60-seconds.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 110**: [Key Information](../knowledge/owner/owner-short-form/food-cost/the-shocking-truth-about-mcdonalds-profit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 111**: [Key Information](../knowledge/owner/owner-short-form/food-cost/the-secret-menu-item-making-steakhouses-rich.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 115**: [Key Information](../knowledge/owner/owner-short-form/food-cost/the-pricing-lie-thats-killing-independent-res.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 117**: [Key Information](../knowledge/owner/owner-short-form/food-cost/the-genius-behind-chick-fil-as-loyalty-progra.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 118**: [Key Information](../knowledge/owner/owner-short-form/food-cost/make-200000-per-restaurant-with-this-menu-hac.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 119**: [Key Information](../knowledge/owner/owner-short-form/food-cost/the-olive-garden-loyalty-program-hack-you-nee.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 120**: [Key Information](../knowledge/owner/owner-short-form/food-cost/restaurant-owners-are-making-this-mistake-wit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 124**: [Key Information](../knowledge/owner/owner-short-form/food-cost/maximize-profit-calculating-restaurant-food-c.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 125**: [Key Information](../knowledge/owner/owner-short-form/food-cost/whats-behind-chipotles-1-growth-secret.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 128**: [Key Information](../knowledge/owner/owner-short-form/food-cost/e-coli-almost-killed-chipotle-but-then-this-h.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 130**: [Key Information](../knowledge/owner/owner-short-form/food-cost/is-your-menu-costing-you-customers-and-profit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 133**: [Key Information](../knowledge/owner/owner-short-form/food-cost/whats-the-real-reason-youre-paying-more-for-t.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 139**: [Key Information](../knowledge/owner/owner-short-form/food-cost/why-75-of-health-cafes-fail-in-the-first-year.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 141**: [Key Information](../knowledge/owner/owner-short-form/food-cost/calculate-your-restaurants-profit-margin-fast.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 162**: [Key Information](../knowledge/owner/owner-short-form/food-cost/hire-the-perfect-restaurant-manager-with-this.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 173**: [Key Information](../knowledge/owner/owner-short-form/food-cost/what-makes-mcdonalds-so-profitable.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 181**: [Key Information](../knowledge/owner/owner-short-form/food-cost/calculate-your-restaurants-food-cost-in-just.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 183**: [Key Information](../knowledge/owner/owner-short-form/food-cost/mind-blowing-way-restaurants-boost-profit-mar.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 187**: [Key Information](../knowledge/owner/owner-short-form/food-cost/chick-fil-as-secret-to-making-8m-per-location.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 189**: [Key Information](../knowledge/owner/owner-short-form/food-cost/menu-engineering-secrets-of-top-earning-resta.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 190**: [Key Information](../knowledge/owner/owner-short-form/food-cost/the-7b-secret-to-turning-a-struggling-cookie.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 191**: [Key Information](../knowledge/owner/owner-short-form/food-cost/the-30-second-restaurant-food-cost-formula-th.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
+- **Serial 217**: [Key Information](../knowledge/owner/owner-short-form/food-cost/master-these-food-cost-rules.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 250**: [Key Information](../knowledge/owner/owner-short-form/food-cost/restaurants-save-thousands-using-leftover.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 263**: [Key Information](../knowledge/owner/owner-short-form/food-cost/easy-food-cost-restaurant-needs.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 290**: [Key Information](../knowledge/owner/owner-short-form/food-cost/restaurant-food-cost-rules-should.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 298**: [Key Information](../knowledge/owner/owner-short-form/food-cost/60-rule-restaurant-needs.md) `[food-cost, cost-control, portioning]`
+- **Serial 302**: [Key Information](../knowledge/owner/owner-short-form/food-cost/restaurant-success-isnt-think.md) `[food-cost, cost-control, portioning]`
+- **Serial 304**: [Key Information](../knowledge/owner/owner-short-form/food-cost/find-food-costs-60-seconds.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 309**: [Key Information](../knowledge/owner/owner-short-form/food-cost/1-food-cost-mistake-youre.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 340**: [Key Information](../knowledge/owner/owner-short-form/food-cost/find-food-cost-seconds.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 343**: [Key Information](../knowledge/owner/owner-short-form/food-cost/onion-rings-goldmine-restaurants.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 344**: [Key Information](../knowledge/owner/owner-short-form/food-cost/1-food-cost-rule-restaurant.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 357**: [Key Information](../knowledge/owner/owner-short-form/food-cost/most-pizzerias-lose-40625-year.md) `[food-cost, cost-control, portioning]`
+- **Serial 364**: [Key Information](../knowledge/owner/owner-short-form/food-cost/food-cost-eating-profits.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 368**: [Key Information](../knowledge/owner/owner-short-form/food-cost/food-costs-skyrocketing-even-when.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 370**: [Key Information](../knowledge/owner/owner-short-form/food-cost/food-cost-mistake.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 382**: [Key Information](../knowledge/owner/owner-short-form/food-cost/calculate-food-cost-easy-formula.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 383**: [Key Information](../knowledge/owner/owner-short-form/food-cost/40000-mistake-hiding-kitchen.md) `[food-cost, cost-control, portioning]`
+- **Serial 397**: [Key Information](../knowledge/owner/owner-short-form/food-cost/8-onion-rings-money-machine.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 406**: [Key Information](../knowledge/owner/owner-short-form/food-cost/where-restaurants-accidentally-lose-37700.md) `[food-cost, cost-control, portioning]`
+- **Serial 407**: [Key Information](../knowledge/owner/owner-short-form/food-cost/losing-money-on-wasted-food.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 410**: [Key Information](../knowledge/owner/owner-short-form/food-cost/calculate-food-cost-60-seconds.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 417**: [Key Information](../knowledge/owner/owner-short-form/food-cost/no1-reason-restaurants-fail.md) `[food-cost, cost-control, portioning]`
+- **Serial 435**: [Key Information](../knowledge/owner/owner-short-form/food-cost/60-65-rule-saves-restaurants.md) `[food-cost, cost-control, portioning]`
+- **Serial 457**: [Key Information](../knowledge/owner/owner-short-form/food-cost/calculate-restaurant-food-costs-60.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 459**: [Key Information](../knowledge/owner/owner-short-form/food-cost/achieve-28-30-food-cost.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 462**: [Key Information](../knowledge/owner/owner-short-form/food-cost/hidden-40000-problem-restaurant.md) `[food-cost, cost-control, portioning]`
+- **Serial 466**: [Key Information](../knowledge/owner/owner-short-form/food-cost/calculate-food-cost-30-seconds.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 467**: [Key Information](../knowledge/owner/owner-short-form/food-cost/never-exceed-these-food-cost.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 489**: [Key Information](../knowledge/owner/owner-short-form/food-cost/restaurants-should-never-serve-small.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 497**: [Key Information](../knowledge/owner/owner-short-form/food-cost/should-restaurant-raise-prices.md) `[food-cost, cost-control, portioning]`
+- **Serial 525**: [Key Information](../knowledge/owner/owner-short-form/food-cost/poor-owner-vs-rich-owner.md) `[food-cost, cost-control, portioning]`
+- **Serial 526**: [Key Information](../knowledge/owner/owner-short-form/food-cost/real-restaurant-owners-controlling-food.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 535**: [Key Information](../knowledge/owner/owner-short-form/food-cost/hidden-costs-running-restaurant.md) `[food-cost, cost-control, portioning]`
+- **Serial 556**: [Key Information](../knowledge/owner/owner-short-form/food-cost/calculate-food-cost-real-math.md) `[food-cost, cost-control, recipe-costing]`
+- **Serial 559**: [Key Information](../knowledge/owner/owner-short-form/food-cost/olive-gardens-genius-move-during.md) `[food-cost, cost-control, portioning]`
+- **Serial 574**: [Key Information](../knowledge/owner/owner-short-form/food-cost/mcdonalds-doesnt-money-on-burgers.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 577**: [Key Information](../knowledge/owner/owner-short-form/food-cost/easy-formula-calculate-pour-cost.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 626**: [Key Information](../knowledge/owner/owner-short-form/food-cost/3-strategies-cut-food-waste.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 648**: [Key Information](../knowledge/owner/owner-short-form/food-cost/restaurants-calculate-food-cost-easy.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 653**: [Key Information](../knowledge/owner/owner-short-form/food-cost/blaming-bad-sales-high-food.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 676**: [Key Information](../knowledge/owner/owner-short-form/food-cost/3-strategies-help-hit-30.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 682**: [Key Information](../knowledge/owner/owner-short-form/food-cost/much-do-we-lose-waste.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 011 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/food-cost/small-portion-changes-big-margin-improvements.md) `[portion-control, food-cost, margin-engineering, recipe-costing]`
+- **Serial 016 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/food-cost/friends-dont-let-friends-eat.md) `[food-cost, ingredient-cost, kitchen-efficiency, margins]`
+- **Serial 087 (Toast Video)**: [Get Started with xtraCHEF - Inventory](../knowledge/toast/toast-full-form/food-cost/get-started-xtrachef-inventory.md)
+- **Serial 315 (Toast Video)**: [Restaurant Inventory Management: How to Calculate & Use PAR Levels to Reduce Food Waste](../knowledge/toast/toast-full-form/food-cost/restaurant-inventory-management-calculate-use.md)
 
-- **Serial 039**: [Why This Fishy Restaurant Concept Is Booming In 2024](../knowledge/owner/owner-short-form/finance/poke-restaurant-unit-economics.md) `[unit-economics, poke, profit-margins, fast-casual, labor-costs]`
-- **Serial 043**: [Copy This Restaurant With INSANE Profit Margins](../knowledge/owner/owner-short-form/finance/artisan-ice-cream-unit-economics.md) `[unit-economics, profit-margins, ice-cream, real-estate, labor-efficiency]`
-- **Serial 046**: [$1,000,000+ Restaurant Idea With A Small Footprint](../knowledge/owner/owner-short-form/finance/health-cafe-unit-economics.md) `[unit-economics, health-cafe, revenue-per-sqft, profit-margins]`
-- **Serial 074**: [Why Is Texas Roadhouse So Profitable?](../knowledge/owner/owner-short-form/finance/why-is-texas-roadhouse-so-profitable.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 081**: [How Losing 10% Profit Made Texas Roadhouse #1](../knowledge/owner/owner-short-form/finance/how-losing-10-profit-made-texas-roadhouse-1.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 109**: [Is This The SMARTEST Restaurant Business Model Ever?](../knowledge/owner/owner-short-form/finance/is-this-the-smartest-restaurant-business-mode.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 122**: [What's Really Causing Starbucks to Struggle?](../knowledge/owner/owner-short-form/finance/whats-really-causing-starbucks-to-struggle.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 143**: [Boost Sales Effortlessly with This Proven System](../knowledge/owner/owner-short-form/finance/boost-sales-effortlessly-with-this-proven-sys.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 152**: [Getting into HARVARD is Easier than Becoming a Chick Fil A Franchisee](../knowledge/owner/owner-short-form/finance/getting-into-harvard-is-easier-than-becoming.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 158**: [The ONE Thing Holding Your Restaurant Back from Success](../knowledge/owner/owner-short-form/finance/the-one-thing-holding-your-restaurant-back-fr.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 171**: [The GREEDY Decision That Killed Quiznos Overnight](../knowledge/owner/owner-short-form/finance/the-greedy-decision-that-killed-quiznos-overn.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 172**: [The Surprising Truth About Restaurant Managers Nobody Tells You](../knowledge/owner/owner-short-form/finance/the-surprising-truth-about-restaurant-manager.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 177**: [McDonalds REAL ESTATE Empire Rakes in $7.9B Annually!](../knowledge/owner/owner-short-form/finance/mcdonalds-real-estate-empire-rakes-in-79b-ann.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 185**: [America's RICHEST Restaurant Owner's SECRET to Success!](../knowledge/owner/owner-short-form/finance/americas-richest-restaurant-owners-secret-to.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 194**: [McDonald's Secret Business Model That Made Them RICH!](../knowledge/owner/owner-short-form/finance/mcdonalds-secret-business-model-that-made-the.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 197**: [The SHOCKING Truth About Becoming a Chick-fil-A Owner](../knowledge/owner/owner-short-form/finance/the-shocking-truth-about-becoming-a-chick-fil.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 198**: [The MILLION Dollar Strategy That Made Texas Roadhouse THRIVE](../knowledge/owner/owner-short-form/finance/the-million-dollar-strategy-that-made-texas-r.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 200**: [This FREE Restaurant Data Is A GOLDMINE For Success](../knowledge/owner/owner-short-form/finance/this-free-restaurant-data-is-a-goldmine-for-s.md) `[profit-margins, unit-economics, financial-management, revenue]`
-- **Serial 215**: [The Hidden Money Secret Behind Expensive Steakhouses?](../knowledge/owner/owner-short-form/finance/hidden-money-behind-expensive-steakhouses.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 216**: [Calculate Your Restaurant Profits Like a PRO in 1 Minute!](../knowledge/owner/owner-short-form/finance/calculate-restaurant-profits-like-pro.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 221**: [Why Poke Bowls Are The Most Profitable Restaurant in 2025?](../knowledge/owner/owner-short-form/finance/poke-bowls-most-profitable-restaurant.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 223**: [Cava's SECRET to 20% Profit Margins](../knowledge/owner/owner-short-form/finance/cavas-20-profit-margins.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 224**: [McDonalds Makes More Money From FRIES Than Burgers!](../knowledge/owner/owner-short-form/finance/mcdonalds-money-fries-than-burgers.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 258**: [Why Closing on Sundays Made Chick-fil-A More Money Than Ever?](../knowledge/owner/owner-short-form/finance/closing-on-sundays-made-chick-fil-a.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 262**: [The Secret Behind America’s Richest Restaurant Boss!](../knowledge/owner/owner-short-form/finance/behind-americas-richest-restaurant-boss.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 269**: [The SHOCKING Reason Texas Roadhouse Loses 10% Profit](../knowledge/owner/owner-short-form/finance/shocking-reason-texas-roadhouse-loses.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 270**: [Are These HIDDEN Profit Leaks Hurting Your Restaurant?](../knowledge/owner/owner-short-form/finance/these-hidden-profit-leaks-hurting.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 276**: [The Secret Behind The RICHEST Restaurant Owner](../knowledge/owner/owner-short-form/finance/behind-richest-restaurant-owner.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 277**: [The Math Behind INCREASING Restaurant Profits](../knowledge/owner/owner-short-form/finance/math-behind-increasing-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 283**: [Why Your Restaurant Isn’t Making Money Even With More Sales!](../knowledge/owner/owner-short-form/finance/restaurant-isnt-money-even-sales.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 286**: [What Restaurants Can Learn from McDonald's Secret Profit Makers](../knowledge/owner/owner-short-form/finance/restaurants-learn-mcdonalds-profit-makers.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 291**: [The Secret Trick Restaurants Use To Boost Profits!](../knowledge/owner/owner-short-form/finance/restaurants-use-boost-profits.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 299**: [The Secret Steps To Boosting Restaurant Profits!](../knowledge/owner/owner-short-form/finance/steps-boosting-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 300**: [Why McDonald's Makes Billions Without Selling Food!](../knowledge/owner/owner-short-form/finance/mcdonalds-billions-without-selling-food.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 305**: [How Did This Greek Restaurant Make Billions?](../knowledge/owner/owner-short-form/finance/greek-restaurant-billions.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 307**: [How Chick-fil-A Makes More Money By Closing On Sundays!](../knowledge/owner/owner-short-form/finance/chick-fil-a-money-by-closing-on.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 321**: [Boost Restaurant Sales on Slow Days With This Easy Trick!](../knowledge/owner/owner-short-form/finance/boost-restaurant-sales-on-slow.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 328**: [What Every Restaurant Owner Can Learn from Costco!](../knowledge/owner/owner-short-form/finance/restaurant-owner-learn-costco.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 330**: [The Secret Trick McDonald's Uses to Make Billions!](../knowledge/owner/owner-short-form/finance/mcdonalds-uses-billions.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 336**: [What Makes Top Restaurants So Profitable?](../knowledge/owner/owner-short-form/finance/top-restaurants-so-profitable.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 350**: [Want to Grow Your Restaurant Empire? Here's the Secret to Organic Expansion](../knowledge/owner/owner-short-form/finance/want-grow-restaurant-empire-heres.md) `[finance, profitability, unit-economics]`
-- **Serial 354**: [Why Prime Cost Can Save Your Restaurant!](../knowledge/owner/owner-short-form/finance/prime-cost-save-restaurant.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 355**: [The Secret Trick to Restaurant Profits!](../knowledge/owner/owner-short-form/finance/restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 359**: [How Restaurants Make More Money During Holidays](../knowledge/owner/owner-short-form/finance/restaurants-money-during-holidays.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 360**: [The Easiest Way To Boost Restaurant Sales Fast](../knowledge/owner/owner-short-form/finance/easiest-way-boost-restaurant-sales.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 369**: [The #1 Dessert Mistake You're Making That Costs You Sales](../knowledge/owner/owner-short-form/finance/1-dessert-mistake-youre-costs.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 372**: [Want to Boost Restaurant Profits? Watch This Now](../knowledge/owner/owner-short-form/finance/want-boost-restaurant-profits-watch.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 373**: [The Surprising Truth About McDonald's Profits](../knowledge/owner/owner-short-form/finance/surprising-truth-about-mcdonalds-profits.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 379**: [How McDonald's Makes Billions With One Simple Trick](../knowledge/owner/owner-short-form/finance/mcdonalds-billions-one-simple.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 381**: [How Much Do Restaurants REALLY Make?](../knowledge/owner/owner-short-form/finance/much-do-restaurants-really.md) `[finance, profitability, unit-economics]`
-- **Serial 385**: [How I Turned My Failing Pizza Shop Into a Money Maker](../knowledge/owner/owner-short-form/finance/i-turned-my-failing-pizza.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 386**: [How Much Do Restaurant Owners Really Earn?](../knowledge/owner/owner-short-form/finance/much-do-restaurant-owners-really.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 389**: [How To Make More Money At Your Restaurant!](../knowledge/owner/owner-short-form/finance/money-at-restaurant.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 390**: [No.1 Reason CAVA Is So Profitable](../knowledge/owner/owner-short-form/finance/no1-reason-cava-so-profitable.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 391**: [The Real Reason Your Restaurant Is Losing Money](../knowledge/owner/owner-short-form/finance/real-reason-restaurant-losing-money.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 396**: [How Restaurants Make Big Money During Holidays](../knowledge/owner/owner-short-form/finance/restaurants-big-money-during-holidays.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 398**: [How One Simple Question Boosted My Catering Sales](../knowledge/owner/owner-short-form/finance/one-simple-question-boosted-my.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 399**: [3 Foods That Make Restaurants Rich! (2026)](../knowledge/owner/owner-short-form/finance/3-foods-restaurants-rich-2026.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 401**: [Contribution Margin vs Gross Margin Explained](../knowledge/owner/owner-short-form/finance/contribution-margin-vs-gross-margin.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 418**: [This is how restaurants calculate if they're going broke!](../knowledge/owner/owner-short-form/finance/restaurants-calculate-if-theyre-going.md) `[finance, profitability, unit-economics]`
-- **Serial 425**: [How To Calculate Contribution Margin](../knowledge/owner/owner-short-form/finance/calculate-contribution-margin.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 426**: [How To Stop Losing Thousands In Restaurant Sales Every MONTH!](../knowledge/owner/owner-short-form/finance/losing-thousands-restaurant-sales-month.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 449**: [Every Restaurant MUST Follow These Prime Cost Rules](../knowledge/owner/owner-short-form/finance/restaurant-must-follow-these-prime.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 453**: [Contribution vs Gross Margin: Know the Difference [Math Example]](../knowledge/owner/owner-short-form/finance/contribution-vs-gross-margin-know.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 456**: [3 Most Profitable Restaurant Ideas for 2026](../knowledge/owner/owner-short-form/finance/3-most-profitable-restaurant-ideas.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 478**: [Most restaurants FAIL because they ignore Prime Cost!](../knowledge/owner/owner-short-form/finance/most-restaurants-fail-because-they.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 482**: [How To Boost Restaurant Sales By 30%](../knowledge/owner/owner-short-form/finance/boost-restaurant-sales-by-30.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 485**: [How To Calculate Revenue Per Available Seat Hour For Your Restaurant](../knowledge/owner/owner-short-form/finance/calculate-revenue-per-available-seat.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 490**: [How To Reverse Engineer Restaurant Profits](../knowledge/owner/owner-short-form/finance/reverse-engineer-restaurant-profits.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 493**: [3 Tips for Profitable Restaurant Catering](../knowledge/owner/owner-short-form/finance/3-tips-profitable-restaurant-catering.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 537**: [The No.1 Mistake That Can Destroy Your Restaurant’s Profits](../knowledge/owner/owner-short-form/finance/no1-mistake-destroy-restaurants-profits.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 541**: [This Cost Mistake Is Destroying Restaurant Margins](../knowledge/owner/owner-short-form/finance/cost-mistake-destroying-restaurant-margins.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 542**: [The Contribution Margin Problem Most Owners Miss](../knowledge/owner/owner-short-form/finance/contribution-margin-problem-most-owners.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 557**: [What’s in our $45,000/month miscellaneous cost for running a pizzeria? 🍕](../knowledge/owner/owner-short-form/finance/whats-our-45000month-miscellaneous-cost.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 571**: [The Brutal Truth About Restaurant Profit Margins $$$](../knowledge/owner/owner-short-form/finance/brutal-truth-about-restaurant-profit.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 580**: [Legendary Pizzeria On How to Grow Profits](../knowledge/owner/owner-short-form/finance/legendary-pizzeria-on-grow-profits.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 583**: [The $15 Billion Problem Restaurants Wont Talk About](../knowledge/owner/owner-short-form/finance/15-billion-problem-restaurants-wont.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 585**: [3 Restaurant Concepts With the Highest Margins in 2026](../knowledge/owner/owner-short-form/finance/3-restaurant-concepts-highest-margins.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 599**: [The simple 2-step trick to double restaurant sales](../knowledge/owner/owner-short-form/finance/simple-2-step-double-restaurant-sales.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 618**: [The Most UNPROFITABLE Restaurant Concepts Right Now (2026)](../knowledge/owner/owner-short-form/finance/most-unprofitable-restaurant-concepts-right.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 625**: [This one formula saved us from losing $12K on catering last year](../knowledge/owner/owner-short-form/finance/one-formula-saved-us-losing.md) `[finance, profitability]`
-- **Serial 634**: [How to Price Catering So You Actually Make Money (Exact Formula)](../knowledge/owner/owner-short-form/finance/price-catering-so-actually-money.md) `[finance, profitability]`
-- **Serial 646**: [3 Least Profitable Restaurant Concepts 2026](../knowledge/owner/owner-short-form/finance/3-least-profitable-restaurant-concepts.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 649**: [The $20 Fro-Yo Cup: Why Cutting Back Doesnt Mean Cutting Out](../knowledge/owner/owner-short-form/finance/20-fro-yo-cup-cutting-back.md) `[finance, profitability]`
-- **Serial 654**: [The Restaurant Profitability Formula: 30-30-30-10 Rule](../knowledge/owner/owner-short-form/finance/restaurant-profitability-formula-30-30-30-10-rule.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 655**: [The Fastest Way To Destroy Your Business](../knowledge/owner/owner-short-form/finance/fastest-way-destroy-business.md) `[finance, profitability]`
-- **Serial 662**: [AI Slop or Actually Useful? Restaurant Edition](../knowledge/owner/owner-short-form/finance/ai-slop-or-actually-useful.md) `[finance, profitability]`
-- **Serial 664**: [How to Calculate Contribution Margin and Break-Even Point](../knowledge/owner/owner-short-form/finance/calculate-contribution-margin-break-even-point.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 672**: [The difference between Year 0 and Year 12 of owning a restaurant?](../knowledge/owner/owner-short-form/finance/difference-between-year-0-year.md) `[finance, profitability]`
-- **Serial 674**: [The 3 Biggest Restaurant Scams Youre Falling For](../knowledge/owner/owner-short-form/finance/3-biggest-restaurant-scams-youre.md) `[finance, profitability]`
-- **Serial 675**: [The difference between Year 0 and Year 12 of owning a restaurant?](../knowledge/owner/owner-short-form/finance/difference-between-year-0-year-675.md) `[finance, profitability]`
-- **Serial 684**: [Rich vs. Broke: The real secret to restaurant growth isnt virality](../knowledge/owner/owner-short-form/finance/rich-vs-broke-real-restaurant.md) `[finance, profitability]`
-- **Serial 691**: [The Hidden Trap in 30-Day Credit for Restaurants](../knowledge/owner/owner-short-form/finance/hidden-trap-30-day-credit-restaurants.md) `[finance, profitability]`
-- **Serial 693**: [Whats the Difference Between Margin and Markup? [Explained]](../knowledge/owner/owner-short-form/finance/whats-difference-between-margin-markup.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 696**: [3 Restaurant Rules That Quietly Kill Your Profits](../knowledge/owner/owner-short-form/finance/3-restaurant-rules-quietly-kill.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 702**: [Whats the Difference Between Cash Flow and Income? [Explained]](../knowledge/owner/owner-short-form/finance/whats-difference-between-cash-flow.md) `[finance, profitability]`
-- **Serial 704**: [Gross Margin vs Net Margin: The Difference Every Owner Needs to Know](../knowledge/owner/owner-short-form/finance/gross-margin-vs-net-margin.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 714**: [You’re Losing Sales Every Time Your Servers Say These...](../knowledge/owner/owner-short-form/finance/youre-losing-sales-time-servers.md) `[finance, profitability, margins, unit-economics]`
-- **Serial 717**: [Whats the Difference Between Depreciation and Amortization? [Explained]](../knowledge/owner/owner-short-form/finance/whats-difference-between-depreciation-amortization.md) `[finance, accounting, depreciation, financial-management]`
+## Forecasting (4 entries)
 
-### Long-Form In-Depth Intelligence
+- **Serial 481**: [Key Information](../knowledge/owner/owner-short-form/forecasting/forecast-restaurant-sales.md) `[sales-forecasting, demand-forecasting, planning]`
+- **Serial 098 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/forecasting/predicting-holiday-restaurant-demand-with-ai.md) `[demand-forecasting, holiday-prep, sales-prediction, prep-planning]`
+- **Serial 111 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/forecasting/predictive-shift-flagging-before-rushes-occur.md) `[shift-prediction, rush-management, demand-forecasting, labor-optimization]`
+- **Serial 365 (Toast Video)**: [Staff for the Forecast: Trish Rowley on Toast IQ Team](../knowledge/toast/toast-full-form/forecasting/staff-forecast-trish-rowley-iq.md)
 
-- **Long-Form Serial 10**: [Numbers / Calculations](../knowledge/owner/owner-full-form/finance/most-profitable-food-business-concepts.md) `[unit-economics, profit-margins, food-cost, concept-selection, labor-efficiency, capex]`
-- **Long-Form Serial 23**: [Numbers / Calculations](../knowledge/owner/owner-full-form/finance/funding-multi-unit-restaurant-expansion.md) `[scaling, multi-unit, restaurant-financing, franchising, private-equity, sba-loans, cash-flow-reinvestment]`
-- **Long-Form Serial 34**: [Restaurant Financial Management: P&L Architecture, Prime Cost Benchmarks, and Margin Engineering](../knowledge/owner/owner-full-form/finance/restaurant-p-and-l-mastery-and-prime-cost-control.md) `[restaurant, p, and, l]`
-- **Long-Form Serial 46**: [Weekly Restaurant Dashboard and Variance Control](../knowledge/owner/owner-full-form/finance/weekly-restaurant-dashboard-and-variance-control.md) `[weekly, restaurant, dashboard, and]`
-- **Long-Form Serial 47**: [Seven Food Cost Reduction Strategies and Portion Economics](../knowledge/owner/owner-full-form/finance/seven-food-cost-reduction-strategies.md) `[seven, food, cost, reduction]`
+## Inventory (6 entries)
 
-- **Serial 084 (Toast)**: [Tracking cash flow shouldn't feel like a second job | Toast Finance](../knowledge/toast/toast-short-form/finance/restaurant-cash-flow-tracking-and-forecasting.md) `[cash-flow, financial-management, working-capital, restaurant-finance]`
-- **Serial 101 (Toast)**: [How to Check Your Restaurant's Sales Performance With AI](../knowledge/toast/toast-short-form/finance/how-check-restaurants-sales-performance.md) `[financial-management, cash-flow, profitability, revenue-tracking]`
+- **Serial 066 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md) `[inventory-management, par-levels, waste-reduction, ordering-systems]`
+- **Serial 007 (Toast Video)**: [Inventory Control Systems: Sheet-to-Shelf Counting and Stock Variance Prevention](../knowledge/toast/toast-full-form/inventory/restaurant-inventory-nightmares-sheet-to-shelf-counting.md)
+- **Serial 008 (Toast Video)**: [Inventory & Recipe Costing: Dynamic Ingredient Tracking and Cost Variance](../knowledge/toast/toast-full-form/inventory/restaurant-inventory-nightmares-recipe-costing-cogs.md)
+- **Serial 009 (Toast Video)**: [Inventory Loss Prevention: Kitchen Waste Logging and Bar Variance Control](../knowledge/toast/toast-full-form/inventory/restaurant-inventory-nightmares-waste-logs-and-theft.md)
+- **Serial 013 (Toast Video)**: [Pizzeria Operations: Crust Yields, High-Cost Toppings, and POS Inventory Integration](../knowledge/toast/toast-full-form/inventory/artisan-pizza-dough-and-topping-inventory-control.md)
+- **Serial 158 (Toast Video)**: [Simplifying Retail Inventory and Operations with Toast Retail](../knowledge/toast/toast-full-form/inventory/simplifying-retail-inventory-operations-retail.md)
 
-## Food-cost (76 entries)
+## Kitchen (17 entries)
 
-- **Serial 036**: [How one successful restaurant figured out how to give away free food profitably](../knowledge/owner/owner-short-form/food-cost/loss-leader-high-margin-cross-selling.md) `[food-cost, loss-leader, cross-selling, acquisition-cost, margins]`
-- **Serial 045**: [Why You Should Open THIS Trending Restaurant Concept](../knowledge/owner/owner-short-form/food-cost/gourmet-ramen-economics.md) `[food-cost, ramen, inventory-management, shelf-life, average-check]`
-- **Serial 048**: [The #1 Most Profitable Restaurant In 2024](../knowledge/owner/owner-short-form/food-cost/bubble-tea-cogs-and-margins.md) `[bubble-tea, cogs, food-cost, shelf-life, profit-margins]`
-- **Serial 051**: [Indian Restaurants Use THIS Hack To Reduce Food Costs](../knowledge/owner/owner-short-form/food-cost/indian-restaurants-use-this-hack-to-reduce-fo.md) `[food-cost, waste-reduction, repurposing-ingredients, inventory]`
-- **Serial 052**: [How To Make Your Restaurant More Profitable](../knowledge/owner/owner-short-form/food-cost/how-to-make-your-restaurant-more-profitable.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 057**: [Chipotle's #1 Restaurant Growth Secret](../knowledge/owner/owner-short-form/food-cost/chipotles-1-restaurant-growth-secret.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 070**: [Use These Ads To Boost Restaurant Sales](../knowledge/owner/owner-short-form/food-cost/use-these-ads-to-boost-restaurant-sales.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 084**: [This Is The Most Profitable Restaurant Concept](../knowledge/owner/owner-short-form/food-cost/this-is-the-most-profitable-restaurant-concep.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 090**: [Steal This Profit Margin Strategy For Restaurants](../knowledge/owner/owner-short-form/food-cost/steal-this-profit-margin-strategy-for-restaur.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 094**: [Steal This Low Food Cost Strategy For Restaurants](../knowledge/owner/owner-short-form/food-cost/steal-this-low-food-cost-strategy-for-restaur.md) `[food-cost, waste-reduction, repurposing-ingredients, inventory]`
-- **Serial 097**: [The Math Behind The Most Successful Restaurants](../knowledge/owner/owner-short-form/food-cost/the-math-behind-the-most-successful-restauran.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 108**: [Master Food Cost Calculation in 60 Seconds!](../knowledge/owner/owner-short-form/food-cost/master-food-cost-calculation-in-60-seconds.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 110**: [The Shocking Truth About McDonald's Profit](../knowledge/owner/owner-short-form/food-cost/the-shocking-truth-about-mcdonalds-profit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 111**: [The Secret Menu Item Making Steakhouses RICH](../knowledge/owner/owner-short-form/food-cost/the-secret-menu-item-making-steakhouses-rich.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 115**: [The Pricing Lie That's Killing Independent Restaurants](../knowledge/owner/owner-short-form/food-cost/the-pricing-lie-thats-killing-independent-res.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 117**: [The Genius Behind Chick-fil-A's Loyalty Program](../knowledge/owner/owner-short-form/food-cost/the-genius-behind-chick-fil-as-loyalty-progra.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 118**: [Make $200,000 Per Restaurant With This Menu Hack](../knowledge/owner/owner-short-form/food-cost/make-200000-per-restaurant-with-this-menu-hac.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 119**: [The Olive Garden Loyalty Program Hack You Need to Know](../knowledge/owner/owner-short-form/food-cost/the-olive-garden-loyalty-program-hack-you-nee.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 120**: [Restaurant Owners Are Making THIS Mistake With Pricing!](../knowledge/owner/owner-short-form/food-cost/restaurant-owners-are-making-this-mistake-wit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 124**: [MAXIMIZE Profit Calculating Restaurant Food Costs the Smart Way](../knowledge/owner/owner-short-form/food-cost/maximize-profit-calculating-restaurant-food-c.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 125**: [What's Behind Chipotle's #1 Growth Secret?](../knowledge/owner/owner-short-form/food-cost/whats-behind-chipotles-1-growth-secret.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 128**: [E COLI Almost Killed Chipotle But Then This Happened](../knowledge/owner/owner-short-form/food-cost/e-coli-almost-killed-chipotle-but-then-this-h.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 130**: [Is Your Menu COSTING You Customers and Profit?](../knowledge/owner/owner-short-form/food-cost/is-your-menu-costing-you-customers-and-profit.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 133**: [What's the REAL Reason You're Paying More for That Sushi?](../knowledge/owner/owner-short-form/food-cost/whats-the-real-reason-youre-paying-more-for-t.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 139**: [Why 75% of Health Cafes Fail in the First Year](../knowledge/owner/owner-short-form/food-cost/why-75-of-health-cafes-fail-in-the-first-year.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 141**: [Calculate Your Restaurant's Profit Margin FAST and Avoid Costly Mistakes](../knowledge/owner/owner-short-form/food-cost/calculate-your-restaurants-profit-margin-fast.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 162**: [Hire the PERFECT Restaurant Manager with This One Question](../knowledge/owner/owner-short-form/food-cost/hire-the-perfect-restaurant-manager-with-this.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 173**: [What Makes McDonald's So Profitable?](../knowledge/owner/owner-short-form/food-cost/what-makes-mcdonalds-so-profitable.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 181**: [Calculate Your Restaurant's FOOD COST in Just 60 Seconds!](../knowledge/owner/owner-short-form/food-cost/calculate-your-restaurants-food-cost-in-just.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 183**: [Mind Blowing Way Restaurants Boost Profit Margins](../knowledge/owner/owner-short-form/food-cost/mind-blowing-way-restaurants-boost-profit-mar.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 187**: [Chick-fil-A's SECRET to Making $8M Per Location](../knowledge/owner/owner-short-form/food-cost/chick-fil-as-secret-to-making-8m-per-location.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 189**: [Menu Engineering Secrets of Top Earning Restaurants Revealed](../knowledge/owner/owner-short-form/food-cost/menu-engineering-secrets-of-top-earning-resta.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 190**: [The $7B SECRET to Turning a Struggling Cookie Store into Panera Bread!](../knowledge/owner/owner-short-form/food-cost/the-7b-secret-to-turning-a-struggling-cookie.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 191**: [The 30-Second Restaurant Food Cost Formula That Actually Works](../knowledge/owner/owner-short-form/food-cost/the-30-second-restaurant-food-cost-formula-th.md) `[food-cost, waste-reduction, inventory-efficiency, margins]`
-- **Serial 217**: [Master These Food Cost Rules To Save Your Restaurant Money](../knowledge/owner/owner-short-form/food-cost/master-these-food-cost-rules.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 250**: [How Restaurants Save Thousands Using Leftover Food](../knowledge/owner/owner-short-form/food-cost/restaurants-save-thousands-using-leftover.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 263**: [Easy Food Cost Trick Every Restaurant Needs!](../knowledge/owner/owner-short-form/food-cost/easy-food-cost-restaurant-needs.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 290**: [Restaurant Food Cost Rules You Should Never Break!](../knowledge/owner/owner-short-form/food-cost/restaurant-food-cost-rules-should.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 298**: [The 60% Rule Every Restaurant Needs!](../knowledge/owner/owner-short-form/food-cost/60-rule-restaurant-needs.md) `[food-cost, cost-control, portioning]`
-- **Serial 302**: [The Secret to Restaurant Success Isn’t What You Think!](../knowledge/owner/owner-short-form/food-cost/restaurant-success-isnt-think.md) `[food-cost, cost-control, portioning]`
-- **Serial 304**: [How To Find Food Costs In Just 60 Seconds!](../knowledge/owner/owner-short-form/food-cost/find-food-costs-60-seconds.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 309**: [The #1 Food Cost Mistake You're Making Right Now](../knowledge/owner/owner-short-form/food-cost/1-food-cost-mistake-youre.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 340**: [How To Find Your Food Cost In Seconds!](../knowledge/owner/owner-short-form/food-cost/find-food-cost-seconds.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 343**: [Why Onion Rings Are a Secret Goldmine For Restaurants](../knowledge/owner/owner-short-form/food-cost/onion-rings-goldmine-restaurants.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 344**: [The #1 Food Cost Rule Every Restaurant Owner Must Know](../knowledge/owner/owner-short-form/food-cost/1-food-cost-rule-restaurant.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 357**: [Why Most Pizzerias Lose $40,625 Every Year](../knowledge/owner/owner-short-form/food-cost/most-pizzerias-lose-40625-year.md) `[food-cost, cost-control, portioning]`
-- **Serial 364**: [Is Your Food Cost EATING into Your Profits?](../knowledge/owner/owner-short-form/food-cost/food-cost-eating-profits.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 368**: [Why Your Food Costs Are Skyrocketing Even When Sales Drop](../knowledge/owner/owner-short-form/food-cost/food-costs-skyrocketing-even-when.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 370**: [Are You Making This Food Cost Mistake?](../knowledge/owner/owner-short-form/food-cost/food-cost-mistake.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 382**: [How to Calculate Food Cost (Easy Formula)](../knowledge/owner/owner-short-form/food-cost/calculate-food-cost-easy-formula.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 383**: [👇The $40,000 Mistake Hiding in Your Kitchen](../knowledge/owner/owner-short-form/food-cost/40000-mistake-hiding-kitchen.md) `[food-cost, cost-control, portioning]`
-- **Serial 397**: [Why $8 Onion Rings Are a Money Machine!](../knowledge/owner/owner-short-form/food-cost/8-onion-rings-money-machine.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 406**: [Where Restaurants Accidentally Lose $37,700](../knowledge/owner/owner-short-form/food-cost/where-restaurants-accidentally-lose-37700.md) `[food-cost, cost-control, portioning]`
-- **Serial 407**: [Stop Losing Money on Wasted Food](../knowledge/owner/owner-short-form/food-cost/losing-money-on-wasted-food.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 410**: [How to Calculate Food Cost In 60 Seconds!](../knowledge/owner/owner-short-form/food-cost/calculate-food-cost-60-seconds.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 417**: [The No.1 Reason Why Restaurants Fail](../knowledge/owner/owner-short-form/food-cost/no1-reason-restaurants-fail.md) `[food-cost, cost-control, portioning]`
-- **Serial 435**: [The 60-65% Rule That Saves Restaurants](../knowledge/owner/owner-short-form/food-cost/60-65-rule-saves-restaurants.md) `[food-cost, cost-control, portioning]`
-- **Serial 457**: [Calculate Restaurant Food Costs In 60 Seconds](../knowledge/owner/owner-short-form/food-cost/calculate-restaurant-food-costs-60.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 459**: [How to Achieve 28-30% Food Cost 🤫](../knowledge/owner/owner-short-form/food-cost/achieve-28-30-food-cost.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 462**: [The hidden $40,000 problem in every restaurant](../knowledge/owner/owner-short-form/food-cost/hidden-40000-problem-restaurant.md) `[food-cost, cost-control, portioning]`
-- **Serial 466**: [Calculate Food Cost In 30 Seconds 🍔🍕](../knowledge/owner/owner-short-form/food-cost/calculate-food-cost-30-seconds.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 467**: [Never Exceed These Food Cost Rules 🤯](../knowledge/owner/owner-short-form/food-cost/never-exceed-these-food-cost.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 489**: [Why Restaurants Should NEVER Serve Small Portions](../knowledge/owner/owner-short-form/food-cost/restaurants-should-never-serve-small.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 497**: [Should Your Restaurant RAISE Prices?](../knowledge/owner/owner-short-form/food-cost/should-restaurant-raise-prices.md) `[food-cost, cost-control, portioning]`
-- **Serial 525**: [Poor Owner vs Rich Owner: Here Are the Differences 🤔](../knowledge/owner/owner-short-form/food-cost/poor-owner-vs-rich-owner.md) `[food-cost, cost-control, portioning]`
-- **Serial 526**: [Real Restaurant Owner's Secret to Controlling Food Costs](../knowledge/owner/owner-short-form/food-cost/real-restaurant-owners-controlling-food.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 535**: [The Hidden Costs of Running a Restaurant](../knowledge/owner/owner-short-form/food-cost/hidden-costs-running-restaurant.md) `[food-cost, cost-control, portioning]`
-- **Serial 556**: [How to Calculate Food Cost? (Real Math Example)](../knowledge/owner/owner-short-form/food-cost/calculate-food-cost-real-math.md) `[food-cost, cost-control, recipe-costing]`
-- **Serial 559**: [Olive Garden's Genius Move During Inflation](../knowledge/owner/owner-short-form/food-cost/olive-gardens-genius-move-during.md) `[food-cost, cost-control, portioning]`
-- **Serial 574**: [McDonalds doesnt make money on burgers. They make it on fries.](../knowledge/owner/owner-short-form/food-cost/mcdonalds-doesnt-money-on-burgers.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
-- **Serial 577**: [The Easy Formula to Calculate Pour Cost](../knowledge/owner/owner-short-form/food-cost/easy-formula-calculate-pour-cost.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
-- **Serial 626**: [3 Strategies to Cut Food Waste By 50% (Fast & Easy)](../knowledge/owner/owner-short-form/food-cost/3-strategies-cut-food-waste.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
-- **Serial 648**: [How Restaurants Calculate Food Cost (Easy Formula)](../knowledge/owner/owner-short-form/food-cost/restaurants-calculate-food-cost-easy.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
-- **Serial 653**: [Stop Blaming Bad Sales for Your High Food Cost](../knowledge/owner/owner-short-form/food-cost/blaming-bad-sales-high-food.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
-- **Serial 676**: [3 Strategies to Help You Hit 30% Food Cost](../knowledge/owner/owner-short-form/food-cost/3-strategies-help-hit-30.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
-- **Serial 682**: [How Much Do We Lose To Waste Per Year?](../knowledge/owner/owner-short-form/food-cost/much-do-we-lose-waste.md) `[food-cost, cost-control, pour-cost, recipe-costing]`
+- **Serial 554**: [Key Information](../knowledge/owner/owner-short-form/kitchen/kitchen-could-20-annually-heres.md) `[kitchen, kitchen-operations, throughput]`
+- **Serial 565**: [Key Information](../knowledge/owner/owner-short-form/kitchen/pizza-kitchen-isnt-broken-system.md) `[kitchen, kitchen-operations, throughput]`
+- **Serial 007 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/origins-of-the-86-item-kitchen-communication.md) `[kitchen-operations, 86-list, inventory-communication, service-execution]`
+- **Serial 019 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/toast-helps-you-keep-ticket.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 034 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/never-enter-the-kitchen-empty-handed-rule.md) `[kitchen-operations, full-hands-in-full-hands-out, bus-efficiency, service-flow]`
+- **Serial 075 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/order-up-tg3-burger.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 080 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/my-villain-origin-story-rush.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 086 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/busy-rocks-rush-hour-diaries.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 088 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/drama-is-keeping-us-busy.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 092 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/s-chef-rush-hour-diaries.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 094 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/order-up.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 095 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/it-was-never-about-pasta.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 102 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/no-bs-odie-bs-rush.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 108 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/readyyyyy-rush-hour-diaries.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 114 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/kitchen/just-keep-swimming-rush-hour.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 026 (Toast Video)**: [Kitchen Display Systems (KDS): Line Station Routing, Ticket Timers, and Expo Velocity](../knowledge/toast/toast-full-form/kitchen/casa-del-barco-kitchen-display-system-optimization.md)
+- **Serial 143 (Toast Video)**: [Navigate your Toast Kitchen Display Screen](../knowledge/toast/toast-full-form/kitchen/navigate-kitchen-display-screen.md)
 
-## Forecasting (3 entries)
+## Labour (98 entries)
 
-- **Serial 481**: [How to Forecast Restaurant Sales](../knowledge/owner/owner-short-form/forecasting/forecast-restaurant-sales.md) `[sales-forecasting, demand-forecasting, planning]`
+- **Serial 016**: [Key Information](../knowledge/owner/owner-short-form/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
+- **Serial 041**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
+- **Serial 078**: [Key Information](../knowledge/owner/owner-short-form/labour/why-is-texas-roadhouse-1-in-service.md) `[staffing, recruiting, labor-management, retention]`
+- **Serial 150**: [Key Information](../knowledge/owner/owner-short-form/labour/the-shocking-reason-most-restaurant-managers.md) `[staffing, recruiting, labor-management, retention]`
+- **Serial 156**: [Key Information](../knowledge/owner/owner-short-form/labour/what-makes-a-restaurant-a-true-neighborhood-s.md) `[staffing, recruiting, labor-management, retention]`
+- **Serial 167**: [Key Information](../knowledge/owner/owner-short-form/labour/mike-bauschs-secret-to-building-loyal-restaur.md) `[staffing, recruiting, labor-management, retention]`
+- **Serial 209**: [Key Information](../knowledge/owner/owner-short-form/labour/in-n-out-doubled-labor-costs-won.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 218**: [Key Information](../knowledge/owner/owner-short-form/labour/fast-food-chain-pays-workers.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 225**: [Key Information](../knowledge/owner/owner-short-form/labour/paying-70-above-minimum-wage.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 267**: [Key Information](../knowledge/owner/owner-short-form/labour/hiring-wrong-restaurant-manager.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 278**: [Key Information](../knowledge/owner/owner-short-form/labour/does-in-n-out-pay-workers-so.md) `[labour, wages, staff-management]`
+- **Serial 293**: [Key Information](../knowledge/owner/owner-short-form/labour/1-reason-restaurant-losing-top.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 295**: [Key Information](../knowledge/owner/owner-short-form/labour/whats-hiding-restaurants-pl.md) `[labour, wages, staff-management]`
+- **Serial 297**: [Key Information](../knowledge/owner/owner-short-form/labour/fastest-way-restaurant-team-happier.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 306**: [Key Information](../knowledge/owner/owner-short-form/labour/formula-six-figures-restaurant.md) `[labour, wages, staff-management]`
+- **Serial 312**: [Key Information](../knowledge/owner/owner-short-form/labour/behind-happy-restaurant-teams.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 318**: [Key Information](../knowledge/owner/owner-short-form/labour/higher-wages-made-restaurant-success.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 353**: [Key Information](../knowledge/owner/owner-short-form/labour/4-simple-dishes-changed-fast.md) `[labour, wages, staff-management]`
+- **Serial 394**: [Key Information](../knowledge/owner/owner-short-form/labour/do-employees-pay-25000-run.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 400**: [Key Information](../knowledge/owner/owner-short-form/labour/want-clean-restaurant-fix-teams.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 402**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-pay-food-hurting-restaurant.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 415**: [Key Information](../knowledge/owner/owner-short-form/labour/calculate-labor-costs-easy-math.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 416**: [Key Information](../knowledge/owner/owner-short-form/labour/fast-food-chain-pays-workers-416.md) `[labour, wages, staff-management]`
+- **Serial 419**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-keeps-same-mistake.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 433**: [Key Information](../knowledge/owner/owner-short-form/labour/3-numbers-actually-matter-restaurants.md) `[labour, wages, staff-management]`
+- **Serial 438**: [Key Information](../knowledge/owner/owner-short-form/labour/60-rule-most-restaurants-know.md) `[labour, wages, staff-management]`
+- **Serial 445**: [Key Information](../knowledge/owner/owner-short-form/labour/most-restaurants-guess-labor-costs.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 480**: [Key Information](../knowledge/owner/owner-short-form/labour/chipotle-so-much-money.md) `[labour, wages, staff-management]`
+- **Serial 495**: [Key Information](../knowledge/owner/owner-short-form/labour/micromanaging-restaurant-staff-huge-mistake.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 498**: [Key Information](../knowledge/owner/owner-short-form/labour/dangerous-metric-most-restaurants-ignore.md) `[labour, wages, staff-management]`
+- **Serial 500**: [Key Information](../knowledge/owner/owner-short-form/labour/chipotle-so-much-money-500.md) `[labour, wages, staff-management]`
+- **Serial 515**: [Key Information](../knowledge/owner/owner-short-form/labour/asking-staff-pay-food.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 517**: [Key Information](../knowledge/owner/owner-short-form/labour/real-restaurant-owners-0-turnover.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 518**: [Key Information](../knowledge/owner/owner-short-form/labour/labor-costs-killing-restaurant-save.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 522**: [Key Information](../knowledge/owner/owner-short-form/labour/fast-food-giants-cant-match.md) `[labour, wages, staff-management]`
+- **Serial 524**: [Key Information](../knowledge/owner/owner-short-form/labour/do-5m-year-still-be.md) `[labour, wages, staff-management]`
+- **Serial 570**: [Key Information](../knowledge/owner/owner-short-form/labour/strategy-behind-7000000year-restaurant-team.md) `[labour, staff-retention, wages, team-productivity]`
+- **Serial 573**: [Key Information](../knowledge/owner/owner-short-form/labour/good-employees-actually-leave-its.md) `[labour, staff-retention, wages, management]`
+- **Serial 575**: [Key Information](../knowledge/owner/owner-short-form/labour/pizzeria-owner-exposes-winning-system.md) `[labour, staff-retention]`
+- **Serial 578**: [Key Information](../knowledge/owner/owner-short-form/labour/restaurants-fail-one-reason-it.md) `[labour, staff-retention]`
+- **Serial 586**: [Key Information](../knowledge/owner/owner-short-form/labour/do-when-staff-asks-money.md) `[labour, staff-retention, wages, management]`
+- **Serial 595**: [Key Information](../knowledge/owner/owner-short-form/labour/when-train-vs-when-fire.md) `[labour, staff-retention, wages, management]`
+- **Serial 611**: [Key Information](../knowledge/owner/owner-short-form/labour/micromanaging-staff-heres.md) `[labour, staff-retention, wages, management]`
+- **Serial 612**: [Key Information](../knowledge/owner/owner-short-form/labour/team-does-not-follow-checklist.md) `[labour, staff-retention, wages, management]`
+- **Serial 613**: [Key Information](../knowledge/owner/owner-short-form/labour/rookie-vs-smart-restaurant-managers.md) `[labour, staff-retention]`
+- **Serial 614**: [Key Information](../knowledge/owner/owner-short-form/labour/most-service-training-gets-it.md) `[labour, staff-retention, wages, management]`
+- **Serial 663**: [Key Information](../knowledge/owner/owner-short-form/labour/rich-owner-or-broke-owner.md) `[labour, staff-retention]`
+- **Serial 671**: [Key Information](../knowledge/owner/owner-short-form/labour/i-fired-myself-my-own.md) `[labour, staff-retention, wages, management]`
+- **Serial 673**: [Key Information](../knowledge/owner/owner-short-form/labour/moms-build-better-businesses-2.md) `[labour, staff-retention]`
+- **Serial 683**: [Key Information](../knowledge/owner/owner-short-form/labour/micromanaging-team-copy-sop.md) `[labour, staff-retention, wages, management]`
+- **Serial 692**: [Key Information](../knowledge/owner/owner-short-form/labour/staff-should-never-eat-dead.md) `[labour, staff-retention, wages, management]`
+- **Serial 694**: [Key Information](../knowledge/owner/owner-short-form/labour/pay-staff-without-killing-margins.md) `[labour, staff-retention, wages, management]`
+- **Serial 695**: [Key Information](../knowledge/owner/owner-short-form/labour/much-food-should-keep-restaurant.md) `[labour, staff-retention]`
+- **Serial 699**: [Key Information](../knowledge/owner/owner-short-form/labour/psychology-tricks-increase-average-ticket.md) `[labour, staff-retention]`
+- **Serial 711**: [Key Information](../knowledge/owner/owner-short-form/labour/struggling-keep-good-restaurant-staff.md) `[labour, staff-retention, wages, management]`
+- **Serial 712**: [Key Information](../knowledge/owner/owner-short-form/labour/paneras-hiring-humans-fix-tech.md) `[labour, staff-retention, wages, management]`
+- **Serial 713**: [Key Information](../knowledge/owner/owner-short-form/labour/whats-difference-between-labor-cost.md) `[labour, staff-retention, wages, management]`
+- **Serial 026 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/labour/hiring-and-managing-top-restaurant-managers.md) `[restaurant-managers, gm-hiring, interview-scorecard, labor-management, prime-cost, incentive-compensation, leadership]`
+- **Serial 003 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/toast-payroll-portal-login-and-access.md) `[payroll, labor-management, employee-portal, onboarding]`
+- **Serial 020 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/working-smarter-not-harder-thank.md) `[labor-management, scheduling, staffing, labor-savings]`
+- **Serial 029 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/part-two-restaurant-peoples-secret.md) `[labor-management, scheduling, staffing, labor-savings]`
+- **Serial 036 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/modernizing-restaurant-payroll-automation.md) `[payroll, labor-management, time-tracking, overhead-reduction]`
+- **Serial 040 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/how-toast-payroll-gave-sarah.md) `[labor-management, scheduling, staffing, labor-savings]`
+- **Serial 041 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/easy-communication-between-restaurant-managers.md) `[labor-management, scheduling, staffing, labor-savings]`
+- **Serial 063 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/server-side-work-made-easy.md) `[labor-management, scheduling, staffing, labor-savings]`
+- **Serial 079 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/pov-youre-owner-manager-marketer.md) `[labor-management, scheduling, staffing, labor-savings]`
+- **Serial 085 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/saving-4000-dollars-on-restaurant-labor-with-ai.md) `[labor-savings, ai-scheduling, labor-cost-control, shift-optimization]`
+- **Serial 106 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/recognizing-top-restaurant-staff-with-performance-data.md) `[staff-recognition, server-productivity, labor-management, retention]`
+- **Serial 112 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/how-toast-iq-preps-menu.md) `[labor-management, scheduling, staffing, labor-savings]`
+- **Serial 113 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/labour/ai-driven-labor-savings-and-overtime-elimination.md) `[labor-savings, overtime-control, labor-cost-percentage, workforce-management]`
+- **Serial 045 (Toast Video)**: [Restaurant Leadership & Recruiting: Hiring for Character and Culture Over Resume](../knowledge/toast/toast-full-form/labour/hire-for-moral-fortitude-train-later-ryan-egozi.md)
+- **Serial 046 (Toast Video)**: [Employee Retention Mastery: Open-Book Management and Financial Literacy (Irene Li)](../knowledge/toast/toast-full-form/labour/keep-your-staff-teach-your-staff-irene-li.md)
+- **Serial 047 (Toast Video)**: [Onboarding & Training Systems: Standard Operating Procedures That Stick](../knowledge/toast/toast-full-form/labour/structured-restaurant-staff-training-systems.md)
+- **Serial 055 (Toast Video)**: [Make your Restaurant a Great Place to Work- Spark Feature Session](../knowledge/toast/toast-full-form/labour/make-restaurant-great-place-work.md)
+- **Serial 070 (Toast Video)**: [Tackling pub labor challenges with an easy-to-use EPOS](../knowledge/toast/toast-full-form/labour/tackling-pub-labor-challenges-easy-to-use.md)
+- **Serial 117 (Toast Video)**: [Toast POS Collaborates with Customers to Build Powerful Restaurant Technology](../knowledge/toast/toast-full-form/labour/pos-collaborates-customers-build-powerful.md)
+- **Serial 123 (Toast Video)**: [How this family business retains staff: Sombrero Mexican Food [Family Style S1 E5]](../knowledge/toast/toast-full-form/labour/family-business-retains-staff-sombrero.md)
+- **Serial 161 (Toast Video)**: [Restaurant Owners Reveal Labor Market Survival Secrets](../knowledge/toast/toast-full-form/labour/restaurant-owners-reveal-labor-market.md)
+- **Serial 174 (Toast Video)**: [Restaurant Leaders Share Their Tipping Strategies for 2025](../knowledge/toast/toast-full-form/labour/restaurant-leaders-share-their-tipping.md)
+- **Serial 182 (Toast Video)**: [Ch. 5: Creating a Successful Benefits Program | Complete Guide To: Restaurant Staffing](../knowledge/toast/toast-full-form/labour/ch-5-creating-successful-benefits.md)
+- **Serial 183 (Toast Video)**: [Intro | Complete Guide To: Restaurant Staffing](../knowledge/toast/toast-full-form/labour/intro-complete-guide-restaurant-staffing.md)
+- **Serial 184 (Toast Video)**: [Ch. 3: Restaurant Hiring Made Easy | Complete Guide To: Restaurant Staffing](../knowledge/toast/toast-full-form/labour/ch-3-restaurant-hiring-made.md)
+- **Serial 185 (Toast Video)**: [Ch. 7: Finish the Course! | Complete Guide To: Restaurant Staffing](../knowledge/toast/toast-full-form/labour/ch-7-finish-course-complete.md)
+- **Serial 186 (Toast Video)**: [Ch. 6: Creating a Thriving Workplace | Complete Guide To: Restaurant Staffing](../knowledge/toast/toast-full-form/labour/ch-6-creating-thriving-workplace.md)
+- **Serial 187 (Toast Video)**: [Ch. 2: Be a Great Workplace | Complete Guide To: Restaurant Staffing](../knowledge/toast/toast-full-form/labour/ch-2-be-great-workplace.md)
+- **Serial 188 (Toast Video)**: [Ch. 1: Attract Great Staff | Complete Guide To: Restaurant Staffing](../knowledge/toast/toast-full-form/labour/ch-1-attract-great-staff.md)
+- **Serial 189 (Toast Video)**: [Ch. 4: Sourcing Quality Candidates | Complete Guide To: Restaurant Staffing](../knowledge/toast/toast-full-form/labour/ch-4-sourcing-quality-candidates.md)
+- **Serial 191 (Toast Video)**: [Toast Payroll Suite Overview](../knowledge/toast/toast-full-form/labour/payroll-suite-overview.md)
+- **Serial 223 (Toast Video)**: [Toast Payroll Done In Three Easy Steps!](../knowledge/toast/toast-full-form/labour/payroll-done-three-easy-steps.md)
+- **Serial 231 (Toast Video)**: [Get Started with Toast Tips Manager](../knowledge/toast/toast-full-form/labour/get-started-tips-manager.md)
+- **Serial 232 (Toast Video)**: [Running Additional Payrolls with Toast Payroll](../knowledge/toast/toast-full-form/labour/running-additional-payrolls-payroll.md)
+- **Serial 233 (Toast Video)**: [Your Toast Web and Toast Payroll Integration](../knowledge/toast/toast-full-form/labour/web-payroll-integration.md)
+- **Serial 234 (Toast Video)**: [Navigate Toast Payroll](../knowledge/toast/toast-full-form/labour/navigate-payroll.md)
+- **Serial 235 (Toast Video)**: [Add your Team in Toast Payroll](../knowledge/toast/toast-full-form/labour/add-team-payroll.md)
+- **Serial 236 (Toast Video)**: [Employee Management in Toast Payroll](../knowledge/toast/toast-full-form/labour/employee-management-payroll.md)
+- **Serial 255 (Toast Video)**: [m.henry Cuts Payroll Stress and Gains Time Back with Toast](../knowledge/toast/toast-full-form/labour/mhenry-cuts-payroll-stress-gains.md)
+- **Serial 349 (Toast Video)**: [Team Tools Built for the Rush | Toast IQ Team](../knowledge/toast/toast-full-form/labour/team-tools-built-rush-iq.md)
+- **Serial 361 (Toast Video)**: [Can AI Build Your Restaurant Staff Schedule? Toast IQ Team](../knowledge/toast/toast-full-form/labour/can-ai-build-restaurant-staff.md)
 
-- **Serial 098 (Toast)**: [How to Use AI to Predict Holiday Demand at Your Restaurant](../knowledge/toast/toast-short-form/forecasting/predicting-holiday-restaurant-demand-with-ai.md) `[demand-forecasting, holiday-prep, sales-prediction, prep-planning]`
-- **Serial 111 (Toast)**: [Toast IQ Flags a Busy Shift Before It Happens](../knowledge/toast/toast-short-form/forecasting/predictive-shift-flagging-before-rushes-occur.md) `[shift-prediction, rush-management, demand-forecasting, labor-optimization]`
+## Marketing (146 entries)
 
-## Kitchen (15 entries)
+- **Serial 002**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
+- **Serial 003**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
+- **Serial 004**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-image-alt-text-seo.md) `[seo, google-images, alt-text, acquisition, local-marketing]`
+- **Serial 008**: [Key Information](../knowledge/owner/owner-short-form/marketing/google-seo-vs-social-media-intent.md) `[seo, social-media, buyer-intent, conversion-rates]`
+- **Serial 009**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-homepage-structure.md) `[website-design, conversion-rate, menu-preview, visual-marketing]`
+- **Serial 010**: [Key Information](../knowledge/owner/owner-short-form/marketing/homepage-customer-reviews-seo.md) `[reviews, social-proof, seo-rankings, conversion]`
+- **Serial 011**: [Key Information](../knowledge/owner/owner-short-form/marketing/website-vip-club-lead-capture.md) `[email-marketing, lead-capture, vip-club, conversion]`
+- **Serial 013**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-website-conversion-flow.md) `[website-design, conversion-rate, ux, online-ordering]`
+- **Serial 015**: [Key Information](../knowledge/owner/owner-short-form/marketing/target-customer-brand-positioning.md) `[branding, target-audience, customer-personas, positioning]`
+- **Serial 017**: [Key Information](../knowledge/owner/owner-short-form/marketing/automated-marketing-data-collection.md) `[marketing-automation, sms-marketing, email-marketing, data-collection]`
+- **Serial 018**: [Key Information](../knowledge/owner/owner-short-form/marketing/founder-story-conversion-lift.md) `[storytelling, average-check, order-frequency, website-conversion]`
+- **Serial 019**: [Key Information](../knowledge/owner/owner-short-form/marketing/item-specific-seo-landing-pages.md) `[seo, organic-traffic, landing-pages, menu-items]`
+- **Serial 020**: [Key Information](../knowledge/owner/owner-short-form/marketing/above-the-fold-homepage-elements.md) `[website-design, above-the-fold, social-proof, conversion]`
+- **Serial 024**: [Key Information](../knowledge/owner/owner-short-form/marketing/weekly-specials-email-broadcast.md) `[email-marketing, sms-marketing, weekly-specials, sales-lift]`
+- **Serial 028**: [Key Information](../knowledge/owner/owner-short-form/marketing/new-mover-direct-mail-roi.md) `[direct-mail, roi, customer-acquisition, new-movers]`
+- **Serial 030**: [Key Information](../knowledge/owner/owner-short-form/marketing/radical-transparency-advertising.md) `[transparency, brand-turnaround, advertising, customer-feedback]`
+- **Serial 031**: [Key Information](../knowledge/owner/owner-short-form/marketing/direct-mail-deliverability-and-standout.md) `[direct-mail, marketing-channels, attention, retention]`
+- **Serial 033**: [Key Information](../knowledge/owner/owner-short-form/marketing/new-resident-direct-mail-timing.md) `[direct-mail, timing, new-residents, lead-filtering]`
+- **Serial 038**: [Key Information](../knowledge/owner/owner-short-form/marketing/direct-mail-core-components.md) `[direct-mail, copywriting, personalization, offers]`
+- **Serial 058**: [Key Information](../knowledge/owner/owner-short-form/marketing/the-surprising-reason-sweetgreen-was-created.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 068**: [Key Information](../knowledge/owner/owner-short-form/marketing/why-instagram-isnt-boosting-restaurant-sales.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 072**: [Key Information](../knowledge/owner/owner-short-form/marketing/how-this-person-opened-a-restaurant-for-less.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 076**: [Key Information](../knowledge/owner/owner-short-form/marketing/this-billion-dollar-restaurant-spends-zero-on.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 086**: [Key Information](../knowledge/owner/owner-short-form/marketing/how-the-8020-rule-applies-to-restaurant-marke.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 087**: [Key Information](../knowledge/owner/owner-short-form/marketing/the-cheapest-way-to-open-a-restaurant.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 092**: [Key Information](../knowledge/owner/owner-short-form/marketing/how-texas-roadhouse-spends-zero-on-ads.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 102**: [Key Information](../knowledge/owner/owner-short-form/marketing/why-private-equity-is-fueling-restaurant-chai.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 113**: [Key Information](../knowledge/owner/owner-short-form/marketing/why-taco-bells-breakfast-gamble-was-a-game-ch.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 123**: [Key Information](../knowledge/owner/owner-short-form/marketing/the-surprising-reason-texas-roadhouse-ignores.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 132**: [Key Information](../knowledge/owner/owner-short-form/marketing/spy-on-your-restaurant-competitors-for-free-w.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 142**: [Key Information](../knowledge/owner/owner-short-form/marketing/boost-your-restaurants-sales-with-a-great-dig.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 154**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-success-made-easy-with-this-free-a.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 159**: [Key Information](../knowledge/owner/owner-short-form/marketing/texas-roadhouse-crushes-applebees-with-this-s.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 170**: [Key Information](../knowledge/owner/owner-short-form/marketing/the-secret-to-attracting-top-talent-in-restau.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 175**: [Key Information](../knowledge/owner/owner-short-form/marketing/billionaire-restaurant-owner-secrets-revealed.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 188**: [Key Information](../knowledge/owner/owner-short-form/marketing/meet-the-fisherman-who-built-a-7-billion-doll.md) `[marketing, customer-acquisition, digital-marketing, seo]`
+- **Serial 207**: [Key Information](../knowledge/owner/owner-short-form/marketing/free-restaurant-seo-guide-actually.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 213**: [Key Information](../knowledge/owner/owner-short-form/marketing/texas-roadhouse-dominates-local-marketing.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 219**: [Key Information](../knowledge/owner/owner-short-form/marketing/free-tool-ranks-restaurants-1.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 222**: [Key Information](../knowledge/owner/owner-short-form/marketing/marketing-genius-behind-dominos-trump.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 228**: [Key Information](../knowledge/owner/owner-short-form/marketing/small-restaurants-beat-big-brands.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 241**: [Key Information](../knowledge/owner/owner-short-form/marketing/small-restaurant-millions-simple-marketing.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 246**: [Key Information](../knowledge/owner/owner-short-form/marketing/free-restaurant-dessert-genius-marketing.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 249**: [Key Information](../knowledge/owner/owner-short-form/marketing/biggest-marketing-fail-fast-food.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 264**: [Key Information](../knowledge/owner/owner-short-form/marketing/ice-cream-shop-200000-year.md) `[marketing, local-seo, branding]`
+- **Serial 265**: [Key Information](../knowledge/owner/owner-short-form/marketing/wasting-time-on-social-media.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 273**: [Key Information](../knowledge/owner/owner-short-form/marketing/genius-restaurant-marketing-move-taco.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 282**: [Key Information](../knowledge/owner/owner-short-form/marketing/google-tool-boosts-restaurant-profits.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 288**: [Key Information](../knowledge/owner/owner-short-form/marketing/ai-help-restaurant-beat-competition.md) `[marketing, local-seo, branding]`
+- **Serial 308**: [Key Information](../knowledge/owner/owner-short-form/marketing/wasting-time-on-social-media-308.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 314**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-survive-without-social-media.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 339**: [Key Information](../knowledge/owner/owner-short-form/marketing/guerrilla-marketing-still-works-small.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 378**: [Key Information](../knowledge/owner/owner-short-form/marketing/200-restaurant-beats-expensive-ads.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 411**: [Key Information](../knowledge/owner/owner-short-form/marketing/free-churros-made-restaurant-rich.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 414**: [Key Information](../knowledge/owner/owner-short-form/marketing/breadstick-made-me-six-figures.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 423**: [Key Information](../knowledge/owner/owner-short-form/marketing/wasting-money-on-social-media.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 434**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-owner-must-read-book.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 437**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-owners-missing-on-websites.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 447**: [Key Information](../knowledge/owner/owner-short-form/marketing/100000-restaurant-marketing-email.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 451**: [Key Information](../knowledge/owner/owner-short-form/marketing/google-restaurant-owner-needs-know.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 455**: [Key Information](../knowledge/owner/owner-short-form/marketing/smart-restaurants-give-these-away.md) `[marketing, local-seo, branding]`
+- **Serial 465**: [Key Information](../knowledge/owner/owner-short-form/marketing/seo-so-powerful-restaurants.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 469**: [Key Information](../knowledge/owner/owner-short-form/marketing/let-restaurant-miss-out-on.md) `[marketing, local-seo, branding]`
+- **Serial 472**: [Key Information](../knowledge/owner/owner-short-form/marketing/good-food-isnt-enough-restaurants.md) `[marketing, local-seo, branding]`
+- **Serial 476**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurants-let-draw-on-table.md) `[marketing, local-seo, branding]`
+- **Serial 494**: [Key Information](../knowledge/owner/owner-short-form/marketing/breadsticks-made-my-restaurant-over.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 499**: [Key Information](../knowledge/owner/owner-short-form/marketing/papa-johns-fatal-marketing-mistake.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 502**: [Key Information](../knowledge/owner/owner-short-form/marketing/homemade-means-nothing-most-restaurants.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 512**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-owners-getting-scammed-business.md) `[marketing, local-seo, branding]`
+- **Serial 520**: [Key Information](../knowledge/owner/owner-short-form/marketing/nap-local-seo-heres-it.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 528**: [Key Information](../knowledge/owner/owner-short-form/marketing/most-restaurants-get-wrong-marketing.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 529**: [Key Information](../knowledge/owner/owner-short-form/marketing/heres-rank-restaurant-on-chatgpt.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 538**: [Key Information](../knowledge/owner/owner-short-form/marketing/real-restaurant-owners-marketing-growth.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 543**: [Key Information](../knowledge/owner/owner-short-form/marketing/breaking-burger-king-workers-now.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 551**: [Key Information](../knowledge/owner/owner-short-form/marketing/most-restaurant-owners-leaving-15k.md) `[marketing, local-seo, branding]`
+- **Serial 558**: [Key Information](../knowledge/owner/owner-short-form/marketing/trading-hours-dollars-if-want.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 561**: [Key Information](../knowledge/owner/owner-short-form/marketing/we-rely-on-word-mouth.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 566**: [Key Information](../knowledge/owner/owner-short-form/marketing/we-promote-mothers-day-we.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 568**: [Key Information](../knowledge/owner/owner-short-form/marketing/one-question-added-25000-year.md) `[marketing, customer-acquisition, local-seo]`
+- **Serial 572**: [Key Information](../knowledge/owner/owner-short-form/marketing/which-marketing-channel-restaurants-most.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 579**: [Key Information](../knowledge/owner/owner-short-form/marketing/3-things-gwyneth-paltrows-restaurant.md) `[marketing, customer-acquisition]`
+- **Serial 588**: [Key Information](../knowledge/owner/owner-short-form/marketing/olive-gardens-genius-free-breadstick.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 590**: [Key Information](../knowledge/owner/owner-short-form/marketing/free-ai-tool-restaurant-owner.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 596**: [Key Information](../knowledge/owner/owner-short-form/marketing/buy-restaurant-less-than-50000.md) `[marketing, customer-acquisition]`
+- **Serial 601**: [Key Information](../knowledge/owner/owner-short-form/marketing/truth-about-running-restaurant-right.md) `[marketing, customer-acquisition]`
+- **Serial 605**: [Key Information](../knowledge/owner/owner-short-form/marketing/3-jobs-restaurant-owner-most.md) `[marketing, customer-acquisition]`
+- **Serial 606**: [Key Information](../knowledge/owner/owner-short-form/marketing/real-owner-reacts-was-actually.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 608**: [Key Information](../knowledge/owner/owner-short-form/marketing/first-impressions-happen-before-first.md) `[marketing, customer-acquisition]`
+- **Serial 624**: [Key Information](../knowledge/owner/owner-short-form/marketing/one-click-difference-costs-restaurants.md) `[marketing, customer-acquisition]`
+- **Serial 628**: [Key Information](../knowledge/owner/owner-short-form/marketing/differences-between-1m-10m-restaurant.md) `[marketing, customer-acquisition]`
+- **Serial 630**: [Key Information](../knowledge/owner/owner-short-form/marketing/does-struggling-pizzeria-grow-7myear.md) `[marketing, customer-acquisition]`
+- **Serial 631**: [Key Information](../knowledge/owner/owner-short-form/marketing/treating-business-like-baby-heres.md) `[marketing, customer-acquisition]`
+- **Serial 635**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-owners-11760month-one-strategy.md) `[marketing, customer-acquisition]`
+- **Serial 637**: [Key Information](../knowledge/owner/owner-short-form/marketing/enforce-rules-without-being-bad.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 640**: [Key Information](../knowledge/owner/owner-short-form/marketing/my-restaurant-made-extra-187000.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 642**: [Key Information](../knowledge/owner/owner-short-form/marketing/pizza-place-went-broke-booming.md) `[marketing, customer-acquisition]`
+- **Serial 651**: [Key Information](../knowledge/owner/owner-short-form/marketing/no1-reason-independent-restaurants-fail.md) `[marketing, customer-acquisition]`
+- **Serial 657**: [Key Information](../knowledge/owner/owner-short-form/marketing/restaurant-website-doesnt-need-be.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 658**: [Key Information](../knowledge/owner/owner-short-form/marketing/texas-roadhouse-banned-general-managers.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 665**: [Key Information](../knowledge/owner/owner-short-form/marketing/most-expensive-lesson-restaurant-owners.md) `[marketing, customer-acquisition]`
+- **Serial 677**: [Key Information](../knowledge/owner/owner-short-form/marketing/scale-800k-14-million-year.md) `[marketing, customer-acquisition]`
+- **Serial 678**: [Key Information](../knowledge/owner/owner-short-form/marketing/spot-failing-restaurant-30-seconds.md) `[marketing, customer-acquisition]`
+- **Serial 688**: [Key Information](../knowledge/owner/owner-short-form/marketing/much-does-it-actually-cost-688.md) `[marketing, customer-acquisition]`
+- **Serial 697**: [Key Information](../knowledge/owner/owner-short-form/marketing/standardizing-everything-use-hospitality-functions.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 698**: [Key Information](../knowledge/owner/owner-short-form/marketing/marketing-strategies-actually-work-restaurants.md) `[marketing, customer-acquisition]`
+- **Serial 700**: [Key Information](../knowledge/owner/owner-short-form/marketing/using-ai-content-asked-do.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 701**: [Key Information](../knowledge/owner/owner-short-form/marketing/biggest-mistake-restaurant-owners-do.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 719**: [Key Information](../knowledge/owner/owner-short-form/marketing/these-mistakes-restaurant-website.md) `[marketing, customer-acquisition, channel-roi]`
+- **Serial 000 (Owner Video)**: [Automated Google Review Generation and Reputation Defense](../knowledge/owner/owner-full-form/marketing/automated-google-review-generation-and-reputation-defense.md)
+- **Serial 000 (Owner Video)**: [Independent Pizzeria Marketing: The Community Compound Effect, 10-Channel Campaigns, and the 8-Second Friction Test](../knowledge/owner/owner-full-form/marketing/pizza-marketing-and-reorder-friction-benchmarks.md)
+- **Serial 000 (Owner Video)**: [Independent Restaurant Digital Transformation: App Economics, Low-COGS Loyalty, and Conversion Optimization](../knowledge/owner/owner-full-form/marketing/independent-restaurant-digital-conversion-playbook.md)
+- **Serial 000 (Owner Video)**: [Restaurant Customer Acquisition: AI-Driven Local SEO vs. Social Media and Branded Mobile Apps](../knowledge/owner/owner-full-form/marketing/ai-seo-and-branded-mobile-apps.md)
+- **Serial 000 (Owner Video)**: [Seven Lifecycle Marketing Emails for Restaurant Revenue and Retention](../knowledge/owner/owner-full-form/marketing/seven-money-making-lifecycle-emails.md)
+- **Serial 000 (Owner Video)**: [Strategic Table Upselling and Italian Dining Economics](../knowledge/owner/owner-full-form/marketing/strategic-upselling-and-italian-dining-economics.md)
+- **Serial 000 (Owner Video)**: [Taco Bell Turnaround and Digital Loyalty Mechanics](../knowledge/owner/owner-full-form/marketing/taco-bell-turnaround-and-loyalty-mechanics.md)
+- **Serial 005 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/marketing/3-best-restaurant-marketing-strategies.md) `[local-seo, google-business-profile, upselling, average-order-value, automated-retention, reviews]`
+- **Serial 007 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/marketing/7-money-making-emails-every-restaurant-should-send.md) `[email-marketing, customer-retention, cart-abandonment, review-generation, winback-campaigns, direct-ordering]`
+- **Serial 008 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/marketing/new-mover-direct-mail-acquisition.md) `[direct-mail, new-movers, customer-acquisition, cac, pizzeria-marketing, local-marketing]`
+- **Serial 009 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/marketing/facebook-ads-retargeting-and-lookalikes.md) `[facebook-ads, retargeting, lookalike-audiences, customer-acquisition, catering, ezcater, roas]`
+- **Serial 011 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/marketing/top-proven-pizzeria-growth-strategies.md) `[pizzeria-marketing, local-seo, menu-item-pages, direct-mail, automated-retention, conversion-rate]`
+- **Serial 012 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/marketing/building-a-profitable-restaurant-brand.md) `[branding, brand-strategy, ideal-customer-profile, restaurant-positioning, customer-loyalty]`
+- **Serial 016 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/marketing/yelp-organic-conversion-and-review-management.md) `[yelp, review-management, customer-acquisition, reputation-management, call-to-action, online-conversion]`
+- **Serial 022 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/marketing/four-growth-mistakes-independent-restaurants-make.md) `[marketing-mistakes, boost-post, influencer-marketing, ad-targeting, conversion-rate, direct-ordering]`
+- **Serial 005 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/marketing/short-form-video-marketing-online-audience.md) `[restaurant-marketing, social-media, customer-acquisition, brand-awareness]`
+- **Serial 082 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/marketing/operators-too-busy-be-full-time.md) `[restaurant-marketing, digital-marketing, customer-acquisition, growth]`
+- **Serial 077 (Toast Video)**: [Toast Loyalty Staff Training](../knowledge/toast/toast-full-form/marketing/loyalty-staff-training.md)
+- **Serial 082 (Toast Video)**: [Get Started with Toast Marketing](../knowledge/toast/toast-full-form/marketing/get-started-marketing.md)
+- **Serial 114 (Toast Video)**: [Create Offers for your Toast POS Menu & Marketing](../knowledge/toast/toast-full-form/marketing/create-offers-pos-menu-marketing.md)
+- **Serial 115 (Toast Video)**: [Toast Marketing Best Practices](../knowledge/toast/toast-full-form/marketing/marketing-best-practices.md)
+- **Serial 124 (Toast Video)**: [Customer Spotlight: Toast Loyalty](../knowledge/toast/toast-full-form/marketing/customer-spotlight-loyalty.md)
+- **Serial 127 (Toast Video)**: [Customer Spotlight: Toast Email Marketing](../knowledge/toast/toast-full-form/marketing/customer-spotlight-email-marketing.md)
+- **Serial 138 (Toast Video)**: [Introducing Marketing Suite by Toast](../knowledge/toast/toast-full-form/marketing/introducing-marketing-suite-by.md)
+- **Serial 147 (Toast Video)**: [Get Started with Toast POS SMS Marketing](../knowledge/toast/toast-full-form/marketing/get-started-pos-sms-marketing.md)
+- **Serial 148 (Toast Video)**: [Get Started with Toast Loyalty](../knowledge/toast/toast-full-form/marketing/get-started-loyalty.md)
+- **Serial 151 (Toast Video)**: [Discover Toast's 2024 Fall Product Releases: Benchmarking, SMS & More](../knowledge/toast/toast-full-form/marketing/discover-toasts-2024-fall-product.md)
+- **Serial 176 (Toast Video)**: [6 Simple Restaurant Marketing Tricks That Actually Work](../knowledge/toast/toast-full-form/marketing/6-simple-restaurant-marketing-tricks.md)
+- **Serial 280 (Toast Video)**: [The Surprising Power of Restaurant Regulars](../knowledge/toast/toast-full-form/marketing/surprising-power-restaurant-regulars.md)
+- **Serial 307 (Toast Video)**: [Easy Ways to Get More People in Your Bar with Marketing](../knowledge/toast/toast-full-form/marketing/easy-ways-get-more-people.md)
+- **Serial 322 (Toast Video)**: [The restaurant tools that turn empty seats into regulars](../knowledge/toast/toast-full-form/marketing/restaurant-tools-turn-empty-seats.md)
+- **Serial 341 (Toast Video)**: [Reach new customers. Create regulars. Make busy happen.](../knowledge/toast/toast-full-form/marketing/reach-new-customers-create-regulars.md)
+- **Serial 343 (Toast Video)**: [Cafe Bernie & Toast IQ Grow](../knowledge/toast/toast-full-form/marketing/cafe-bernie-iq-grow.md)
+- **Serial 358 (Toast Video)**: [Toast IQ Grow: Restaurant Marketing That Knows Your Business](../knowledge/toast/toast-full-form/marketing/iq-grow-restaurant-marketing-knows.md)
+- **Serial 362 (Toast Video)**: [Marketing That Shows Its Math: Isaiah Rosario on Toast IQ Grow](../knowledge/toast/toast-full-form/marketing/marketing-shows-its-math-isaiah.md)
+- **Serial 363 (Toast Video)**: [Busier Afternoons: Lorena Nunez on Toast IQ Grow](../knowledge/toast/toast-full-form/marketing/busier-afternoons-lorena-nunez-iq.md)
+- **Serial 366 (Toast Video)**: [Your Gut, Backed by Data: Mary Kate Milway on Toast IQ Grow](../knowledge/toast/toast-full-form/marketing/gut-backed-by-data-mary.md)
+- **Serial 367 (Toast Video)**: [Leave the Emails to Us: Monica Kalousek on Toast IQ Grow](../knowledge/toast/toast-full-form/marketing/leave-emails-us-monica-kalousek.md)
 
-- **Serial 554**: [Your kitchen could make 20% more annually (here's how)](../knowledge/owner/owner-short-form/kitchen/kitchen-could-20-annually-heres.md) `[kitchen, kitchen-operations, throughput]`
-- **Serial 565**: [Your pizza kitchen isn't broken, your system is](../knowledge/owner/owner-short-form/kitchen/pizza-kitchen-isnt-broken-system.md) `[kitchen, kitchen-operations, throughput]`
+## Menu (116 entries)
 
-- **Serial 007 (Toast)**: [staking our claim in the '86' origin story debate #toasttab #restaurantindustry](../knowledge/toast/toast-short-form/kitchen/origins-of-the-86-item-kitchen-communication.md) `[kitchen-operations, 86-list, inventory-communication, service-execution]`
-- **Serial 019 (Toast)**: [Toast helps you keep your ticket times low, so you can focus on doing what you do best.](../knowledge/toast/toast-short-form/kitchen/toast-helps-you-keep-ticket.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 034 (Toast)**: [Why I Never Enter the Kitchen Empty-Handed!](../knowledge/toast/toast-short-form/kitchen/never-enter-the-kitchen-empty-handed-rule.md) `[kitchen-operations, full-hands-in-full-hands-out, bus-efficiency, service-flow]`
-- **Serial 075 (Toast)**: [Order Up: The TG3 Burger](../knowledge/toast/toast-short-form/kitchen/order-up-tg3-burger.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 080 (Toast)**: [MY VILLAIN ORIGIN STORY... | Rush Hour Diaries](../knowledge/toast/toast-short-form/kitchen/my-villain-origin-story-rush.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 086 (Toast)**: [BUSY ON THE ROCKS  | Rush Hour Diaries](../knowledge/toast/toast-short-form/kitchen/busy-rocks-rush-hour-diaries.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 088 (Toast)**: [THE DRAMA IS KEEPING US BUSY | Rush Hour Diaries](../knowledge/toast/toast-short-form/kitchen/drama-is-keeping-us-busy.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 092 (Toast)**: [¡SÍ, CHEF! | Rush Hour Diaries](../knowledge/toast/toast-short-form/kitchen/s-chef-rush-hour-diaries.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 094 (Toast)**: [order up](../knowledge/toast/toast-short-form/kitchen/order-up.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 095 (Toast)**: [IT WAS NEVER ABOUT THE PASTA | Rush Hour Diaries](../knowledge/toast/toast-short-form/kitchen/it-was-never-about-pasta.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 102 (Toast)**: [NO BS AT ODIE B'S | Rush Hour Diaries](../knowledge/toast/toast-short-form/kitchen/no-bs-odie-bs-rush.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 108 (Toast)**: [READYYYYY | Rush Hour Diaries](../knowledge/toast/toast-short-form/kitchen/readyyyyy-rush-hour-diaries.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
-- **Serial 114 (Toast)**: [JUST KEEP SWIMMING | Rush Hour Diaries](../knowledge/toast/toast-short-form/kitchen/just-keep-swimming-rush-hour.md) `[kitchen-operations, ticket-times, prep-workflow, throughput]`
+- **Serial 014**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
+- **Serial 021**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
+- **Serial 027**: [Key Information](../knowledge/owner/owner-short-form/menu/step-by-step-menu-decision-fatigue.md) `[decision-fatigue, menu-engineering, ordering-flow, conversion]`
+- **Serial 044**: [Key Information](../knowledge/owner/owner-short-form/menu/free-item-average-check-threshold.md) `[average-check, spend-thresholds, upselling, food-cost]`
+- **Serial 050**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-naming-perceived-value.md) `[menu-engineering, perceived-value, pricing-power, menu-naming]`
+- **Serial 064**: [Key Information](../knowledge/owner/owner-short-form/menu/how-ai-is-helping-restaurants-make-more-money.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 069**: [Key Information](../knowledge/owner/owner-short-form/menu/the-key-to-a-great-restaurant-website.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 079**: [Key Information](../knowledge/owner/owner-short-form/menu/why-restaurants-shouldnt-boost-facebook-posts.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 088**: [Key Information](../knowledge/owner/owner-short-form/menu/how-restaurants-should-use-influencers.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 093**: [Key Information](../knowledge/owner/owner-short-form/menu/how-to-find-trending-dishes-for-your-restaura.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 100**: [Key Information](../knowledge/owner/owner-short-form/menu/this-is-why-restaurants-fail.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 116**: [Key Information](../knowledge/owner/owner-short-form/menu/how-to-use-google-to-save-your-restaurant-bus.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 126**: [Key Information](../knowledge/owner/owner-short-form/menu/the-1-marketing-hack-restaurants-are-using-to.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 129**: [Key Information](../knowledge/owner/owner-short-form/menu/is-your-restaurant-missing-out-on-14-million.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 149**: [Key Information](../knowledge/owner/owner-short-form/menu/chick-fil-a-crushes-mcdonalds-and-starbucks-i.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 180**: [Key Information](../knowledge/owner/owner-short-form/menu/whats-behind-chick-fil-as-62b-empire-success.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 184**: [Key Information](../knowledge/owner/owner-short-form/menu/the-1-restaurant-hack-no-one-tells-you.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 193**: [Key Information](../knowledge/owner/owner-short-form/menu/the-real-story-behind-chick-fil-as-massive-su.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 195**: [Key Information](../knowledge/owner/owner-short-form/menu/in-n-outs-secret-to-making-double-the-money-w.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
+- **Serial 205**: [Key Information](../knowledge/owner/owner-short-form/menu/z-pattern-restaurants-rich.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 214**: [Key Information](../knowledge/owner/owner-short-form/menu/chick-fil-a-grew-menu-without-hurting.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 220**: [Key Information](../knowledge/owner/owner-short-form/menu/simple-menu-made-chipotle-billion.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 227**: [Key Information](../knowledge/owner/owner-short-form/menu/perfect-menu-size-will-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 231**: [Key Information](../knowledge/owner/owner-short-form/menu/restaurant-hit-60m-sales-without.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 232**: [Key Information](../knowledge/owner/owner-short-form/menu/chipotles-simple-menu-made-them.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 234**: [Key Information](../knowledge/owner/owner-short-form/menu/psychology-behind-profitable-restaurant-menus.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 237**: [Key Information](../knowledge/owner/owner-short-form/menu/shocking-truth-about-restaurant-pricing.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 248**: [Key Information](../knowledge/owner/owner-short-form/menu/pizza-hut-added-xbox-gaming.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 251**: [Key Information](../knowledge/owner/owner-short-form/menu/simple-sushi-menu-restaurants-extra.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 252**: [Key Information](../knowledge/owner/owner-short-form/menu/massive-menu-mistake-destroyed-boston.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 253**: [Key Information](../knowledge/owner/owner-short-form/menu/90-restaurants-fail-first-year.md) `[menu-engineering, pricing-strategy]`
+- **Serial 254**: [Key Information](../knowledge/owner/owner-short-form/menu/hidden-math-behind-restaurant-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 271**: [Key Information](../knowledge/owner/owner-short-form/menu/behind-cavas-small-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 284**: [Key Information](../knowledge/owner/owner-short-form/menu/fewer-menu-choices-restaurant-money.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 285**: [Key Information](../knowledge/owner/owner-short-form/menu/complex-menus-secretly-sabotaging-restaurants.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 296**: [Key Information](../knowledge/owner/owner-short-form/menu/does-in-n-out-beat-mcdonalds-tiny.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 310**: [Key Information](../knowledge/owner/owner-short-form/menu/most-restaurants-get-menu-wrong.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 317**: [Key Information](../knowledge/owner/owner-short-form/menu/fancy-food-names-hurting-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 324**: [Key Information](../knowledge/owner/owner-short-form/menu/most-restaurant-menus-killing-profits.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 331**: [Key Information](../knowledge/owner/owner-short-form/menu/tool-restaurant-needs.md) `[menu-engineering, pricing-strategy]`
+- **Serial 335**: [Key Information](../knowledge/owner/owner-short-form/menu/pickle-sandwich-shop-blowing-up.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 342**: [Key Information](../knowledge/owner/owner-short-form/menu/hidden-behind-popular-restaurant-menus.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 345**: [Key Information](../knowledge/owner/owner-short-form/menu/one-pricing-mistake-costs-money.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 346**: [Key Information](../knowledge/owner/owner-short-form/menu/too-many-choices-hurt-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 348**: [Key Information](../knowledge/owner/owner-short-form/menu/simple-menu-page-boosts-google.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 351**: [Key Information](../knowledge/owner/owner-short-form/menu/big-menu-mistake-kills-sales.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 358**: [Key Information](../knowledge/owner/owner-short-form/menu/behind-cavas-small-menu-358.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 371**: [Key Information](../knowledge/owner/owner-short-form/menu/most-restaurants-fail-fix-it.md) `[menu-engineering, pricing-strategy]`
+- **Serial 388**: [Key Information](../knowledge/owner/owner-short-form/menu/using-boring-menu-descriptions-cost.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 408**: [Key Information](../knowledge/owner/owner-short-form/menu/catering-pricing-hack-correct-formula.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 409**: [Key Information](../knowledge/owner/owner-short-form/menu/one-thing-top-restaurants-do.md) `[menu-engineering, pricing-strategy]`
+- **Serial 424**: [Key Information](../knowledge/owner/owner-short-form/menu/genius-behind-chipotles-limited-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 427**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-design-doubles-restaurant-profits.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 431**: [Key Information](../knowledge/owner/owner-short-form/menu/emotional-behind-15-restaurant-traffic.md) `[menu-engineering, pricing-strategy]`
+- **Serial 436**: [Key Information](../knowledge/owner/owner-short-form/menu/raising-canes-rejected-99-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 446**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-item-has-1900-profit.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 454**: [Key Information](../knowledge/owner/owner-short-form/menu/ozempic-changed-restaurants-need-cook.md) `[menu-engineering, pricing-strategy]`
+- **Serial 460**: [Key Information](../knowledge/owner/owner-short-form/menu/leaving-215000-on-table.md) `[menu-engineering, pricing-strategy]`
+- **Serial 464**: [Key Information](../knowledge/owner/owner-short-form/menu/viral-restaurant-dishes-fail.md) `[menu-engineering, pricing-strategy]`
+- **Serial 474**: [Key Information](../knowledge/owner/owner-short-form/menu/restaurants-cocktail-underpriced.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 477**: [Key Information](../knowledge/owner/owner-short-form/menu/calculate-labor-cost-catering-order.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 479**: [Key Information](../knowledge/owner/owner-short-form/menu/whats-ideal-number-menu-items.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 487**: [Key Information](../knowledge/owner/owner-short-form/menu/spot-red-flags-restaurant.md) `[menu-engineering, pricing-strategy]`
+- **Serial 491**: [Key Information](../knowledge/owner/owner-short-form/menu/price-catering-order-85-people.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 501**: [Key Information](../knowledge/owner/owner-short-form/menu/price-catering-order-double-profit.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 503**: [Key Information](../knowledge/owner/owner-short-form/menu/rich-owners-cut-menu-half.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 504**: [Key Information](../knowledge/owner/owner-short-form/menu/never-put-these-words-on.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 510**: [Key Information](../knowledge/owner/owner-short-form/menu/3-steps-turn-menu-money-maker.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 513**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-too-cluttered-heres.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 516**: [Key Information](../knowledge/owner/owner-short-form/menu/in-n-out-burger-formula-high-pay.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 530**: [Key Information](../knowledge/owner/owner-short-form/menu/120-steak-secretly-spend-on.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 531**: [Key Information](../knowledge/owner/owner-short-form/menu/profitable-restaurant-must-have-these.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 549**: [Key Information](../knowledge/owner/owner-short-form/menu/3-menu-hacks-lead-sales.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 555**: [Key Information](../knowledge/owner/owner-short-form/menu/simple-fix-abandoned-orders-real.md) `[menu-engineering, pricing-strategy]`
+- **Serial 563**: [Key Information](../knowledge/owner/owner-short-form/menu/gordon-ramsay-doesnt-cook-better.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 564**: [Key Information](../knowledge/owner/owner-short-form/menu/confusing-menus-kill-restaurants-than.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 567**: [Key Information](../knowledge/owner/owner-short-form/menu/most-bars-underpricing-cocktails-without.md) `[menu-engineering, pricing-strategy, menu-design]`
+- **Serial 587**: [Key Information](../knowledge/owner/owner-short-form/menu/mind-raises-check-averages-by.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 592**: [Key Information](../knowledge/owner/owner-short-form/menu/6-steps-6-figure-catering-revenue.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 598**: [Key Information](../knowledge/owner/owner-short-form/menu/menu-modifiers-might-be-backwards.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 600**: [Key Information](../knowledge/owner/owner-short-form/menu/exact-formula-price-add-on-on.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 603**: [Key Information](../knowledge/owner/owner-short-form/menu/psychology-behind-people-read-menus.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 604**: [Key Information](../knowledge/owner/owner-short-form/menu/ignoring-high-margin-menu-hack.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 615**: [Key Information](../knowledge/owner/owner-short-form/menu/1000-machine-drinks-worth-triple.md) `[menu-engineering, pricing-strategy]`
+- **Serial 644**: [Key Information](../knowledge/owner/owner-short-form/menu/5-words-never-put-on.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 661**: [Key Information](../knowledge/owner/owner-short-form/menu/should-care-about-fertilizer-crisis.md) `[menu-engineering, pricing-strategy]`
+- **Serial 667**: [Key Information](../knowledge/owner/owner-short-form/menu/correct-way-calculate-menu-price.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 670**: [Key Information](../knowledge/owner/owner-short-form/menu/big-menu-killing-restaurant.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 679**: [Key Information](../knowledge/owner/owner-short-form/menu/whats-lipstick-index.md) `[menu-engineering, pricing-strategy]`
+- **Serial 685**: [Key Information](../knowledge/owner/owner-short-form/menu/science-selling-many-items-should.md) `[menu-engineering, pricing-strategy, check-average]`
+- **Serial 707**: [Key Information](../knowledge/owner/owner-short-form/menu/whats-difference-between-average-check.md) `[menu-engineering, pricing-strategy]`
+- **Serial 000 (Owner Video)**: [Digital Menu Engineering and Modifier Architecture](../knowledge/owner/owner-full-form/menu/digital-menu-engineering-and-modifier-architecture.md)
+- **Serial 000 (Owner Video)**: [Menu Engineering Failure: Competitive Substitution, Operational Bloat, and the Collapse of Boston Market](../knowledge/owner/owner-full-form/menu/competitive-substitution-and-boston-market-collapse.md)
+- **Serial 000 (Owner Video)**: [Olive Garden Unit Economics and Perceived Value Strategy](../knowledge/owner/owner-full-form/menu/olive-garden-unit-economics-and-perceived-value.md)
+- **Serial 025 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/menu/menu-engineering-and-profit-matrix.md) `[menu-engineering, boston-matrix, stars-plowhorses-puzzles-dogs, z-pattern, pricing-psychology, menu-descriptions, contribution-margin]`
+- **Serial 009 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/menu-engineering-matrix-four-performer-quadrants.md) `[menu-engineering, item-profitability, menu-matrix, contribution-margin]`
+- **Serial 010 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/menu-engineering-stars-strategy.md) `[menu-engineering, menu-stars, item-positioning, profit-optimization]`
+- **Serial 012 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/menu-engineering-dogs-elimination-strategy.md) `[menu-engineering, menu-dogs, waste-reduction, prep-efficiency]`
+- **Serial 015 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/introducing-signature-dish-sophia-roe.md) `[menu-engineering, item-profitability, pricing-strategy, margin-optimization]`
+- **Serial 018 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/no-need-guess-signature-dish.md) `[menu-engineering, item-profitability, pricing-strategy, margin-optimization]`
+- **Serial 022 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/menu-engineering-deep-dive-stars.md) `[menu-engineering, menu-stars, pricing-strategy, profit-engineering]`
+- **Serial 027 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/if-you-dont-have-mocktails.md) `[menu-engineering, item-profitability, pricing-strategy, margin-optimization]`
+- **Serial 037 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/restaurant-menu-upsell-strategy.md) `[menu-upselling, average-check, server-training, modifier-pricing]`
+- **Serial 104 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/watch-ai-catch-fix-menu.md) `[menu-engineering, item-profitability, pricing-strategy, margin-optimization]`
+- **Serial 105 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/menu/compressing-menu-rework-time-with-ai.md) `[menu-management, menu-engineering, workflow-speed, operational-efficiency]`
+- **Serial 088 (Toast Video)**: [Toast POS Menu Hierarchy](../knowledge/toast/toast-full-form/menu/pos-menu-hierarchy.md)
+- **Serial 090 (Toast Video)**: [Create Recipes in xtraCHEF](../knowledge/toast/toast-full-form/menu/create-recipes-xtrachef.md)
+- **Serial 093 (Toast Video)**: [Building your Menu with Toast's Menu Template](../knowledge/toast/toast-full-form/menu/building-menu-toasts-menu-template.md)
+- **Serial 144 (Toast Video)**: [Make the Most of your Menu with Toast POS](../knowledge/toast/toast-full-form/menu/make-most-menu-pos.md)
+- **Serial 149 (Toast Video)**: [Optimize Menu Pricing with Toast](../knowledge/toast/toast-full-form/menu/optimize-menu-pricing.md)
+- **Serial 181 (Toast Video)**: [Chef JJ Johnson Joins Sophia Roe for Signature Dish Ep. 1](../knowledge/toast/toast-full-form/menu/chef-jj-johnson-joins-sophia.md)
+- **Serial 202 (Toast Video)**: [Chef Fariyal Abdullahi Joins Sophia Roe for Signature Dish Ep. 2](../knowledge/toast/toast-full-form/menu/chef-fariyal-abdullahi-joins-sophia.md)
+- **Serial 214 (Toast Video)**: [Chef Valerie Chang Cumpa Joins Sophia Roe for Signature Dish Ep. 3](../knowledge/toast/toast-full-form/menu/chef-valerie-chang-cumpa-joins.md)
+- **Serial 221 (Toast Video)**: [Chef Sebastián Vargas Joins Sophia Roe for Signature Dish Ep. 4](../knowledge/toast/toast-full-form/menu/chef-sebastin-vargas-joins-sophia.md)
+- **Serial 228 (Toast Video)**: [Chef Chris Mauricio joins @iamsophiaroe.1959  for the Signature Dish Season Finale](../knowledge/toast/toast-full-form/menu/chef-chris-mauricio-joins-iamsophiaroe1959.md)
+- **Serial 306 (Toast Video)**: [What Makes a Burger Menu Special?](../knowledge/toast/toast-full-form/menu/makes-burger-menu-special.md)
 
-## Labour (70 entries)
+## Operations (419 entries)
 
-- **Serial 016**: [The Secret That The Top Restaurant Owners Have In Common (Hint: People)](../knowledge/owner/owner-short-form/labour/restaurant-staff-recruiting-strategy.md) `[recruiting, staffing, retention, leadership]`
-- **Serial 041**: [Find Top Restaurant Staff With This Simple Secret](../knowledge/owner/owner-short-form/labour/staff-recruitment-channels.md) `[recruiting, staffing, employee-retention, culture]`
-- **Serial 078**: [Why Is Texas Roadhouse #1 In Service?](../knowledge/owner/owner-short-form/labour/why-is-texas-roadhouse-1-in-service.md) `[staffing, recruiting, labor-management, retention]`
-- **Serial 150**: [The Shocking Reason Most Restaurant Managers Fail](../knowledge/owner/owner-short-form/labour/the-shocking-reason-most-restaurant-managers.md) `[staffing, recruiting, labor-management, retention]`
-- **Serial 156**: [What Makes a Restaurant a True Neighborhood Spot?](../knowledge/owner/owner-short-form/labour/what-makes-a-restaurant-a-true-neighborhood-s.md) `[staffing, recruiting, labor-management, retention]`
-- **Serial 167**: [Mike Bausch's Secret to Building Loyal Restaurant Teams](../knowledge/owner/owner-short-form/labour/mike-bauschs-secret-to-building-loyal-restaur.md) `[staffing, recruiting, labor-management, retention]`
-- **Serial 209**: [Why In-N-Out DOUBLED Their Labor Costs and Won BIG!](../knowledge/owner/owner-short-form/labour/in-n-out-doubled-labor-costs-won.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 218**: [This Fast Food Chain Pays Workers TRIPLE The Minimum Wage!](../knowledge/owner/owner-short-form/labour/fast-food-chain-pays-workers.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 225**: [Why Paying 70% Above Minimum Wage Made This Restaurant THRIVE?](../knowledge/owner/owner-short-form/labour/paying-70-above-minimum-wage.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 267**: [Are You Hiring The Wrong Restaurant Manager?](../knowledge/owner/owner-short-form/labour/hiring-wrong-restaurant-manager.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 278**: [Why Does In-N-Out Pay Workers So Much?](../knowledge/owner/owner-short-form/labour/does-in-n-out-pay-workers-so.md) `[labour, wages, staff-management]`
-- **Serial 293**: [The #1 Reason Restaurant Are LOSING Top Employees](../knowledge/owner/owner-short-form/labour/1-reason-restaurant-losing-top.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 295**: [What’s Hiding in Your Restaurant’s P&L?](../knowledge/owner/owner-short-form/labour/whats-hiding-restaurants-pl.md) `[labour, wages, staff-management]`
-- **Serial 297**: [The Fastest Way To Make Your Restaurant Team Happier!](../knowledge/owner/owner-short-form/labour/fastest-way-restaurant-team-happier.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 306**: [The Secret Formula To Make Six Figures In Your Restaurant!](../knowledge/owner/owner-short-form/labour/formula-six-figures-restaurant.md) `[labour, wages, staff-management]`
-- **Serial 312**: [The Secret Behind Happy Restaurant Teams!](../knowledge/owner/owner-short-form/labour/behind-happy-restaurant-teams.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 318**: [How Higher Wages Made This Restaurant a Success!](../knowledge/owner/owner-short-form/labour/higher-wages-made-restaurant-success.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 353**: [How 4 Simple Dishes Changed Fast Food Forever](../knowledge/owner/owner-short-form/labour/4-simple-dishes-changed-fast.md) `[labour, wages, staff-management]`
-- **Serial 394**: [Why Do Employees Pay $25,000 To Run This Restaurant?](../knowledge/owner/owner-short-form/labour/do-employees-pay-25000-run.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 400**: [Want a Clean Restaurant? Fix Your Team's Motivation in Just 5 Minutes](../knowledge/owner/owner-short-form/labour/want-clean-restaurant-fix-teams.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 402**: [Why Making Staff Pay For Food Is Hurting Your Restaurant](../knowledge/owner/owner-short-form/labour/staff-pay-food-hurting-restaurant.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 415**: [How To Calculate Your Labor Costs (Easy Math)](../knowledge/owner/owner-short-form/labour/calculate-labor-costs-easy-math.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 416**: [This Fast Food Chain Pays Workers DOUBLE the Industry Average](../knowledge/owner/owner-short-form/labour/fast-food-chain-pays-workers-416.md) `[labour, wages, staff-management]`
-- **Serial 419**: [Why Your Staff Keeps Making the Same Mistake](../knowledge/owner/owner-short-form/labour/staff-keeps-same-mistake.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 433**: [The 3 Numbers That Actually Matter in Restaurants](../knowledge/owner/owner-short-form/labour/3-numbers-actually-matter-restaurants.md) `[labour, wages, staff-management]`
-- **Serial 438**: [The 60% Rule Most Restaurants Don't Know](../knowledge/owner/owner-short-form/labour/60-rule-most-restaurants-know.md) `[labour, wages, staff-management]`
-- **Serial 445**: [Why Most Restaurants Guess Labor Costs](../knowledge/owner/owner-short-form/labour/most-restaurants-guess-labor-costs.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 480**: [Why Chipotle Makes SO Much Money](../knowledge/owner/owner-short-form/labour/chipotle-so-much-money.md) `[labour, wages, staff-management]`
-- **Serial 495**: [Why Micromanaging Your Restaurant Staff is a HUGE Mistake](../knowledge/owner/owner-short-form/labour/micromanaging-restaurant-staff-huge-mistake.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 498**: [The Dangerous Metric Most Restaurants Ignore](../knowledge/owner/owner-short-form/labour/dangerous-metric-most-restaurants-ignore.md) `[labour, wages, staff-management]`
-- **Serial 500**: [How Chipotle Makes SO MUCH Money](../knowledge/owner/owner-short-form/labour/chipotle-so-much-money-500.md) `[labour, wages, staff-management]`
-- **Serial 515**: [Stop Asking Your Staff to Pay for Food!](../knowledge/owner/owner-short-form/labour/asking-staff-pay-food.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 517**: [Real restaurant owner’s secret to 0% turnover in 2025](../knowledge/owner/owner-short-form/labour/real-restaurant-owners-0-turnover.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 518**: [Labor costs killing your restaurant? Save this one simple rule 🤯](../knowledge/owner/owner-short-form/labour/labor-costs-killing-restaurant-save.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 522**: [Why Fast Food Giants Can't Match In-N-Out's Pay](../knowledge/owner/owner-short-form/labour/fast-food-giants-cant-match.md) `[labour, wages, staff-management]`
-- **Serial 524**: [You can do $5M a year and still be LOSING money](../knowledge/owner/owner-short-form/labour/do-5m-year-still-be.md) `[labour, wages, staff-management]`
-- **Serial 570**: [Strategy Behind a $7,000,000/Year Restaurant Team](../knowledge/owner/owner-short-form/labour/strategy-behind-7000000year-restaurant-team.md) `[labour, staff-retention, wages, team-productivity]`
-- **Serial 573**: [Why Good Employees Actually Leave (Its Not About Pay)](../knowledge/owner/owner-short-form/labour/good-employees-actually-leave-its.md) `[labour, staff-retention, wages, management]`
-- **Serial 575**: [Pizzeria Owner Exposes Their Winning System](../knowledge/owner/owner-short-form/labour/pizzeria-owner-exposes-winning-system.md) `[labour, staff-retention]`
-- **Serial 578**: [Restaurants Fail for One Reason — And It Has Nothing to Do With Cooking](../knowledge/owner/owner-short-form/labour/restaurants-fail-one-reason-it.md) `[labour, staff-retention]`
-- **Serial 586**: [What To Do When Your Staff Asks For More Money](../knowledge/owner/owner-short-form/labour/do-when-staff-asks-money.md) `[labour, staff-retention, wages, management]`
-- **Serial 595**: [When to train vs. when to FIRE restaurant staff](../knowledge/owner/owner-short-form/labour/when-train-vs-when-fire.md) `[labour, staff-retention, wages, management]`
-- **Serial 611**: [Stop Micromanaging Your Staff. Heres Why.](../knowledge/owner/owner-short-form/labour/micromanaging-staff-heres.md) `[labour, staff-retention, wages, management]`
-- **Serial 612**: [Why Your Team Does Not Follow the Checklist (And How To Fix It)](../knowledge/owner/owner-short-form/labour/team-does-not-follow-checklist.md) `[labour, staff-retention, wages, management]`
-- **Serial 613**: [Rookie vs Smart Restaurant Managers (3 Tips)](../knowledge/owner/owner-short-form/labour/rookie-vs-smart-restaurant-managers.md) `[labour, staff-retention]`
-- **Serial 614**: [Most Service Training Gets It Wrong. Heres What Actually Works](../knowledge/owner/owner-short-form/labour/most-service-training-gets-it.md) `[labour, staff-retention, wages, management]`
-- **Serial 663**: [Are You a Rich Owner or a Broke Owner?](../knowledge/owner/owner-short-form/labour/rich-owner-or-broke-owner.md) `[labour, staff-retention]`
-- **Serial 671**: [Why I Fired Myself From My Own Kitchen](../knowledge/owner/owner-short-form/labour/i-fired-myself-my-own.md) `[labour, staff-retention, wages, management]`
-- **Serial 673**: [Why Moms Build Better Businesses (2 Reasons)](../knowledge/owner/owner-short-form/labour/moms-build-better-businesses-2.md) `[labour, staff-retention]`
-- **Serial 683**: [How to stop micromanaging your team (copy this SOP)](../knowledge/owner/owner-short-form/labour/micromanaging-team-copy-sop.md) `[labour, staff-retention, wages, management]`
-- **Serial 692**: [YOUR STAFF SHOULD NEVER EAT “DEAD FOOD”](../knowledge/owner/owner-short-form/labour/staff-should-never-eat-dead.md) `[labour, staff-retention, wages, management]`
-- **Serial 694**: [How to Pay Staff More Without Killing Margins?](../knowledge/owner/owner-short-form/labour/pay-staff-without-killing-margins.md) `[labour, staff-retention, wages, management]`
-- **Serial 695**: [How Much Food Should You Keep in Your Restaurant? Stock Turnover & Par Levels Explained](../knowledge/owner/owner-short-form/labour/much-food-should-keep-restaurant.md) `[labour, staff-retention]`
-- **Serial 699**: [Psychology Tricks to Increase Your Average Ticket (Real Research)](../knowledge/owner/owner-short-form/labour/psychology-tricks-increase-average-ticket.md) `[labour, staff-retention]`
-- **Serial 711**: [Struggling to keep good restaurant staff? Heres what to do.](../knowledge/owner/owner-short-form/labour/struggling-keep-good-restaurant-staff.md) `[labour, staff-retention, wages, management]`
-- **Serial 712**: [Why Paneras Hiring Humans to Fix What Tech Couldnt](../knowledge/owner/owner-short-form/labour/paneras-hiring-humans-fix-tech.md) `[labour, staff-retention, wages, management]`
-- **Serial 713**: [Whats the Difference Between Labor Cost and Labor Efficiency Ratio? [Explained]](../knowledge/owner/owner-short-form/labour/whats-difference-between-labor-cost.md) `[labour, staff-retention, wages, management]`
+- **Serial 007**: [Key Information](../knowledge/owner/owner-short-form/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
+- **Serial 012**: [Key Information](../knowledge/owner/owner-short-form/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
+- **Serial 063**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-are-using-instagram-wrong.md) `[operations, restaurant-management, systems]`
+- **Serial 075**: [Key Information](../knowledge/owner/owner-short-form/operations/should-you-buy-a-failing-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 106**: [Key Information](../knowledge/owner/owner-short-form/operations/the-shocking-truth-about-restaurant-leases.md) `[operations, restaurant-management, systems]`
+- **Serial 166**: [Key Information](../knowledge/owner/owner-short-form/operations/want-a-thriving-restaurant-look-for-this-one.md) `[operations, restaurant-management, systems]`
+- **Serial 178**: [Key Information](../knowledge/owner/owner-short-form/operations/the-richest-restaurant-owner-youve-never-hear.md) `[operations, restaurant-management, systems]`
+- **Serial 201**: [Key Information](../knowledge/owner/owner-short-form/operations/i-discovered-texas-roadhouses-millions.md) `[operations, restaurant-management, workflow]`
+- **Serial 203**: [Key Information](../knowledge/owner/owner-short-form/operations/in-n-out-fresh-food-so-affordable.md) `[operations, restaurant-management, workflow]`
+- **Serial 204**: [Key Information](../knowledge/owner/owner-short-form/operations/billion-dollar-restaurant-chain-disappeared.md) `[operations, restaurant-management, workflow]`
+- **Serial 208**: [Key Information](../knowledge/owner/owner-short-form/operations/subways-10b-strategy-outsmart-competitors.md) `[operations, restaurant-management, workflow]`
+- **Serial 210**: [Key Information](../knowledge/owner/owner-short-form/operations/tiny-900-square-foot-restaurant.md) `[operations, restaurant-management, workflow]`
+- **Serial 211**: [Key Information](../knowledge/owner/owner-short-form/operations/failed-college-project-became-7.md) `[operations, restaurant-management, workflow]`
+- **Serial 226**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurant-franchise-success-secrets-talks.md) `[operations, restaurant-management, workflow]`
+- **Serial 229**: [Key Information](../knowledge/owner/owner-short-form/operations/in-n-out-changed-fast-food-forever.md) `[operations, restaurant-management, workflow]`
+- **Serial 233**: [Key Information](../knowledge/owner/owner-short-form/operations/genius-strategy-behind-5b-restaurant.md) `[operations, restaurant-management, workflow]`
+- **Serial 235**: [Key Information](../knowledge/owner/owner-short-form/operations/smart-restaurant-owners-embrace-weaknesses.md) `[operations, restaurant-management, workflow]`
+- **Serial 238**: [Key Information](../knowledge/owner/owner-short-form/operations/genius-behind-paneras-unlimited-drink.md) `[operations, restaurant-management, workflow]`
+- **Serial 239**: [Key Information](../knowledge/owner/owner-short-form/operations/2-minute-hack-will-boost.md) `[operations, restaurant-management, workflow]`
+- **Serial 255**: [Key Information](../knowledge/owner/owner-short-form/operations/one-pizza-shop-beat-78000.md) `[operations, restaurant-management, workflow]`
+- **Serial 256**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurant-marriages-fail-fix-them.md) `[operations, restaurant-management, workflow]`
+- **Serial 257**: [Key Information](../knowledge/owner/owner-short-form/operations/small-towns-made-texas-roadhouse.md) `[operations, restaurant-management, workflow]`
+- **Serial 260**: [Key Information](../knowledge/owner/owner-short-form/operations/does-in-n-out-have-two-palm.md) `[operations, restaurant-management, workflow]`
+- **Serial 266**: [Key Information](../knowledge/owner/owner-short-form/operations/story-behind-subways-billion-dollar.md) `[operations, restaurant-management, workflow]`
+- **Serial 272**: [Key Information](../knowledge/owner/owner-short-form/operations/surprising-reason-in-n-out-beats-mcdonalds.md) `[operations, restaurant-management, workflow]`
+- **Serial 275**: [Key Information](../knowledge/owner/owner-short-form/operations/one-dish-made-restaurant-owner.md) `[operations, restaurant-management, workflow]`
+- **Serial 279**: [Key Information](../knowledge/owner/owner-short-form/operations/small-restaurants-compete-like-chick-fil-a.md) `[operations, restaurant-management, workflow]`
+- **Serial 280**: [Key Information](../knowledge/owner/owner-short-form/operations/shake-shacks-tiny-space-made.md) `[operations, restaurant-management, workflow]`
+- **Serial 289**: [Key Information](../knowledge/owner/owner-short-form/operations/panera-breads-unlimited-drink-strategy.md) `[operations, restaurant-management, workflow]`
+- **Serial 292**: [Key Information](../knowledge/owner/owner-short-form/operations/people-sneak-food-panera-bread.md) `[operations, restaurant-management, workflow]`
+- **Serial 294**: [Key Information](../knowledge/owner/owner-short-form/operations/tiny-restaurant-hack-shake-shack.md) `[operations, restaurant-management, workflow]`
+- **Serial 301**: [Key Information](../knowledge/owner/owner-short-form/operations/letting-anyone-franchise-restaurant-huge.md) `[operations, restaurant-management, workflow]`
+- **Serial 303**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-really-recover-food-safety.md) `[operations, restaurant-management, workflow]`
+- **Serial 313**: [Key Information](../knowledge/owner/owner-short-form/operations/mcdonalds-fries-than-burgers.md) `[operations, restaurant-management, workflow]`
+- **Serial 315**: [Key Information](../knowledge/owner/owner-short-form/operations/small-towns-key-texas-roadhouses.md) `[operations, restaurant-management, workflow]`
+- **Serial 316**: [Key Information](../knowledge/owner/owner-short-form/operations/surprising-behind-panera-breads-success.md) `[operations, restaurant-management, workflow]`
+- **Serial 320**: [Key Information](../knowledge/owner/owner-short-form/operations/dominos-change-its-name.md) `[operations, restaurant-management, workflow]`
+- **Serial 322**: [Key Information](../knowledge/owner/owner-short-form/operations/ai-save-restaurant-2026.md) `[operations, restaurant-management, workflow]`
+- **Serial 323**: [Key Information](../knowledge/owner/owner-short-form/operations/food-trend-vanish-overnight.md) `[operations, restaurant-management, workflow]`
+- **Serial 329**: [Key Information](../knowledge/owner/owner-short-form/operations/one-mistake-costs-restaurant-720.md) `[operations, restaurant-management, workflow]`
+- **Serial 332**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-wild-idea-changed-everything.md) `[operations, restaurant-management, workflow]`
+- **Serial 338**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-fight-inflation.md) `[operations, restaurant-management, workflow]`
+- **Serial 352**: [Key Information](../knowledge/owner/owner-short-form/operations/tiny-space-made-shake-shack.md) `[operations, restaurant-management, workflow]`
+- **Serial 356**: [Key Information](../knowledge/owner/owner-short-form/operations/growing-restaurant-fast.md) `[operations, restaurant-management, workflow]`
+- **Serial 361**: [Key Information](../knowledge/owner/owner-short-form/operations/behind-taco-bells-big-comeback.md) `[operations, restaurant-management, workflow]`
+- **Serial 362**: [Key Information](../knowledge/owner/owner-short-form/operations/surprising-mistake-destroyed-boston-market.md) `[operations, restaurant-management, workflow]`
+- **Serial 363**: [Key Information](../knowledge/owner/owner-short-form/operations/teen-built-sandwich-empire.md) `[operations, restaurant-management, workflow]`
+- **Serial 365**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurant-work-without.md) `[operations, restaurant-management, workflow]`
+- **Serial 375**: [Key Information](../knowledge/owner/owner-short-form/operations/texas-roadhouse-so-popular.md) `[operations, restaurant-management, workflow]`
+- **Serial 376**: [Key Information](../knowledge/owner/owner-short-form/operations/struggling-restaurants-became-goldmines.md) `[operations, restaurant-management, workflow]`
+- **Serial 384**: [Key Information](../knowledge/owner/owner-short-form/operations/expensive-restaurant-mistake.md) `[operations, restaurant-management, workflow]`
+- **Serial 387**: [Key Information](../knowledge/owner/owner-short-form/operations/behind-chick-fil-as-friendly-service.md) `[operations, restaurant-management, workflow]`
+- **Serial 392**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurant-needs-ai-2026.md) `[operations, restaurant-management, workflow]`
+- **Serial 393**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurant-said-no-custom-orders.md) `[operations, restaurant-management, workflow]`
+- **Serial 395**: [Key Information](../knowledge/owner/owner-short-form/operations/paneras-64b-franchise-empire-revealed.md) `[operations, restaurant-management, workflow]`
+- **Serial 403**: [Key Information](../knowledge/owner/owner-short-form/operations/genius-behind-shake-shacks-long.md) `[operations, restaurant-management, systems]`
+- **Serial 404**: [Key Information](../knowledge/owner/owner-short-form/operations/outside-food-helped-panera-become.md) `[operations, restaurant-management, systems]`
+- **Serial 405**: [Key Information](../knowledge/owner/owner-short-form/operations/boston-markets-biggest-mistake-led.md) `[operations, restaurant-management, systems]`
+- **Serial 412**: [Key Information](../knowledge/owner/owner-short-form/operations/catering-prints-money-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 420**: [Key Information](../knowledge/owner/owner-short-form/operations/panera-cracked-code-thought-possible.md) `[operations, restaurant-management, systems]`
+- **Serial 421**: [Key Information](../knowledge/owner/owner-short-form/operations/600k-problem-destroys-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 422**: [Key Information](../knowledge/owner/owner-short-form/operations/in-n-out-cheaper-fresher-than-competitor.md) `[operations, restaurant-management, systems]`
+- **Serial 428**: [Key Information](../knowledge/owner/owner-short-form/operations/1-raise-could-break-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 429**: [Key Information](../knowledge/owner/owner-short-form/operations/red-lobster-go-bankrupt.md) `[operations, restaurant-management, systems]`
+- **Serial 430**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-bank-december-all-do.md) `[operations, restaurant-management, systems]`
+- **Serial 439**: [Key Information](../knowledge/owner/owner-short-form/operations/three-rules-built-jersey-mikes.md) `[operations, restaurant-management, systems]`
+- **Serial 440**: [Key Information](../knowledge/owner/owner-short-form/operations/pizza-bankruptcy-reveals-brutal-truth.md) `[operations, restaurant-management, systems]`
+- **Serial 442**: [Key Information](../knowledge/owner/owner-short-form/operations/1-mistake-restaurants-catering.md) `[operations, restaurant-management, systems]`
+- **Serial 444**: [Key Information](../knowledge/owner/owner-short-form/operations/void-costs-restaurants-millions.md) `[operations, restaurant-management, systems]`
+- **Serial 448**: [Key Information](../knowledge/owner/owner-short-form/operations/brilliant-small-space-strategy-shake.md) `[operations, restaurant-management, systems]`
+- **Serial 452**: [Key Information](../knowledge/owner/owner-short-form/operations/chick-fil-a-money-closed-on-sundays.md) `[operations, restaurant-management, systems]`
+- **Serial 461**: [Key Information](../knowledge/owner/owner-short-form/operations/99-restaurants-doing-wrong.md) `[operations, restaurant-management, systems]`
+- **Serial 463**: [Key Information](../knowledge/owner/owner-short-form/operations/increase-restaurant-check-size-by.md) `[operations, restaurant-management, systems]`
+- **Serial 471**: [Key Information](../knowledge/owner/owner-short-form/operations/99-restaurant-owners-mistake.md) `[operations, restaurant-management, systems]`
+- **Serial 475**: [Key Information](../knowledge/owner/owner-short-form/operations/waffle-house-never-closes.md) `[operations, restaurant-management, systems]`
+- **Serial 483**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-most-money-these.md) `[operations, restaurant-management, systems]`
+- **Serial 484**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-competing-on-wrong-thing.md) `[operations, restaurant-management, systems]`
+- **Serial 486**: [Key Information](../knowledge/owner/owner-short-form/operations/3-signs-dirty-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 492**: [Key Information](../knowledge/owner/owner-short-form/operations/wants-work-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 496**: [Key Information](../knowledge/owner/owner-short-form/operations/most-restaurants-fail.md) `[operations, restaurant-management, systems]`
+- **Serial 506**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurant-playlist-might-be-losing.md) `[operations, restaurant-management, systems]`
+- **Serial 507**: [Key Information](../knowledge/owner/owner-short-form/operations/daily-specials-expiring-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 509**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurant-refuses-open-location-2.md) `[operations, restaurant-management, systems]`
+- **Serial 514**: [Key Information](../knowledge/owner/owner-short-form/operations/mcdonalds-no1-money-making.md) `[operations, restaurant-management, systems]`
+- **Serial 521**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-struggling-than-right-now.md) `[operations, restaurant-management, systems]`
+- **Serial 532**: [Key Information](../knowledge/owner/owner-short-form/operations/5-figure-owners-vs-6-figure-owners.md) `[operations, restaurant-management, systems]`
+- **Serial 533**: [Key Information](../knowledge/owner/owner-short-form/operations/chick-fil-a-copied-5-star-hotels-it.md) `[operations, restaurant-management, systems]`
+- **Serial 534**: [Key Information](../knowledge/owner/owner-short-form/operations/much-does-it-actually-cost.md) `[operations, restaurant-management, systems]`
+- **Serial 540**: [Key Information](../knowledge/owner/owner-short-form/operations/real-reason-restaurants-cant-scale.md) `[operations, restaurant-management, systems]`
+- **Serial 544**: [Key Information](../knowledge/owner/owner-short-form/operations/build-restaurant-doesnt-need-2026.md) `[operations, restaurant-management, systems]`
+- **Serial 545**: [Key Information](../knowledge/owner/owner-short-form/operations/no1-hidden-cost-running-restaurant.md) `[operations, restaurant-management, systems]`
+- **Serial 546**: [Key Information](../knowledge/owner/owner-short-form/operations/surprising-mistake-killing-new-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 548**: [Key Information](../knowledge/owner/owner-short-form/operations/we-went-0-7-restaurants.md) `[operations, restaurant-management, systems]`
+- **Serial 550**: [Key Information](../knowledge/owner/owner-short-form/operations/no1-hidden-cost-running-taco.md) `[operations, restaurant-management, systems]`
+- **Serial 560**: [Key Information](../knowledge/owner/owner-short-form/operations/much-does-it-actually-cost-560.md) `[operations, restaurant-management, systems]`
+- **Serial 562**: [Key Information](../knowledge/owner/owner-short-form/operations/sell-by-offering-less.md) `[operations, restaurant-management, systems]`
+- **Serial 569**: [Key Information](../knowledge/owner/owner-short-form/operations/most-owners-have-no-idea.md) `[operations, restaurant-management, systems]`
+- **Serial 581**: [Key Information](../knowledge/owner/owner-short-form/operations/management-system-behind-7-million.md) `[operations, restaurant-management, systems]`
+- **Serial 591**: [Key Information](../knowledge/owner/owner-short-form/operations/dominos-slowly-losing-america-it.md) `[operations, restaurant-management, systems]`
+- **Serial 597**: [Key Information](../knowledge/owner/owner-short-form/operations/pov-first-national-restaurant-association.md) `[operations, restaurant-management, systems]`
+- **Serial 602**: [Key Information](../knowledge/owner/owner-short-form/operations/steal-dominos-1-million-world.md) `[operations, restaurant-management, systems]`
+- **Serial 607**: [Key Information](../knowledge/owner/owner-short-form/operations/it-takes-be-top-1.md) `[operations, restaurant-management, systems]`
+- **Serial 609**: [Key Information](../knowledge/owner/owner-short-form/operations/slow-death-pizza-hut-killed.md) `[operations, restaurant-management, systems]`
+- **Serial 617**: [Key Information](../knowledge/owner/owner-short-form/operations/potato-never-turns-brown-heres.md) `[operations, restaurant-management, systems]`
+- **Serial 619**: [Key Information](../knowledge/owner/owner-short-form/operations/3-traits-successful-restaurant-owner.md) `[operations, restaurant-management, systems]`
+- **Serial 620**: [Key Information](../knowledge/owner/owner-short-form/operations/3-money-mistakes-restaurant-right.md) `[operations, restaurant-management, systems]`
+- **Serial 621**: [Key Information](../knowledge/owner/owner-short-form/operations/catering-really-logistics-operation.md) `[operations, restaurant-management, systems]`
+- **Serial 623**: [Key Information](../knowledge/owner/owner-short-form/operations/hardest-part-owning-restaurant-today.md) `[operations, restaurant-management, systems]`
+- **Serial 627**: [Key Information](../knowledge/owner/owner-short-form/operations/broke-owner-mindset-vs-rich.md) `[operations, restaurant-management, systems]`
+- **Serial 629**: [Key Information](../knowledge/owner/owner-short-form/operations/much-actually-spending-on-food.md) `[operations, restaurant-management, systems]`
+- **Serial 633**: [Key Information](../knowledge/owner/owner-short-form/operations/breakfast-item-48000month.md) `[operations, restaurant-management, systems]`
+- **Serial 638**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurants-sell-gift-cards.md) `[operations, restaurant-management, systems]`
+- **Serial 641**: [Key Information](../knowledge/owner/owner-short-form/operations/real-reason-behind-subways-collapse.md) `[operations, restaurant-management, systems]`
+- **Serial 645**: [Key Information](../knowledge/owner/owner-short-form/operations/3-things-restaurants-must-do.md) `[operations, restaurant-management, systems]`
+- **Serial 647**: [Key Information](../knowledge/owner/owner-short-form/operations/3-levels-restaurant-branding-most.md) `[operations, restaurant-management, systems]`
+- **Serial 650**: [Key Information](../knowledge/owner/owner-short-form/operations/open-restaurant-less-than-50000.md) `[operations, restaurant-management, systems]`
+- **Serial 652**: [Key Information](../knowledge/owner/owner-short-form/operations/no1-restaurant-trend-2026-grandma-core.md) `[operations, restaurant-management, systems]`
+- **Serial 656**: [Key Information](../knowledge/owner/owner-short-form/operations/no1-rule-great-restaurant-owners.md) `[operations, restaurant-management, systems]`
+- **Serial 659**: [Key Information](../knowledge/owner/owner-short-form/operations/real-reason-subway-failed.md) `[operations, restaurant-management, systems]`
+- **Serial 660**: [Key Information](../knowledge/owner/owner-short-form/operations/first-step-franchising-isnt-opening.md) `[operations, restaurant-management, systems]`
+- **Serial 668**: [Key Information](../knowledge/owner/owner-short-form/operations/america-shouldnt-abolish-tips.md) `[operations, restaurant-management, systems]`
+- **Serial 680**: [Key Information](../knowledge/owner/owner-short-form/operations/mcdonalds-surveillance-they-really-know.md) `[operations, restaurant-management, systems]`
+- **Serial 681**: [Key Information](../knowledge/owner/owner-short-form/operations/year-0-vs-year-12.md) `[operations, restaurant-management, systems]`
+- **Serial 686**: [Key Information](../knowledge/owner/owner-short-form/operations/3-restaurant-lessons-i-wish.md) `[operations, restaurant-management, systems]`
+- **Serial 687**: [Key Information](../knowledge/owner/owner-short-form/operations/restaurant-survive-without.md) `[operations, restaurant-management, systems]`
+- **Serial 705**: [Key Information](../knowledge/owner/owner-short-form/operations/define-american-dream.md) `[operations, restaurant-management, systems]`
+- **Serial 708**: [Key Information](../knowledge/owner/owner-short-form/operations/panera-something-it-avoided-40.md) `[operations, restaurant-management, systems]`
+- **Serial 710**: [Key Information](../knowledge/owner/owner-short-form/operations/paneras-ai-mistake.md) `[operations, restaurant-management, systems]`
+- **Serial 715**: [Key Information](../knowledge/owner/owner-short-form/operations/turn-lunch-rush-repeat-orders.md) `[operations, restaurant-management, systems]`
+- **Serial 718**: [Key Information](../knowledge/owner/owner-short-form/operations/72000-mistake-restaurant-on-friday.md) `[operations, restaurant-management, systems]`
+- **Serial 000 (Owner Video)**: [Chick-fil-A Operating Model, Drive-Thru Physics, and Operator Incentive Architecture](../knowledge/owner/owner-full-form/operations/chick-fil-a-operating-model-and-drive-thru-physics.md)
+- **Serial 000 (Owner Video)**: [Chili's Turnaround and the Value Barbell Pricing Strategy](../knowledge/owner/owner-full-form/operations/chilis-turnaround-and-value-barbell-strategy.md)
+- **Serial 000 (Owner Video)**: [Fast-Casual Scaling: Dual-Concept Co-Location, Database Migration, and Founder-Led Marketing](../knowledge/owner/owner-full-form/operations/dual-concept-colocation-and-scaling.md)
+- **Serial 000 (Owner Video)**: [Five Guys Operational Playbook and General Manager Screening](../knowledge/owner/owner-full-form/operations/five-guys-operational-playbook-and-gm-screening.md)
+- **Serial 000 (Owner Video)**: [Five Operational Systems for Multi-Unit Restaurant Scaling](../knowledge/owner/owner-full-form/operations/five-systems-multi-unit-restaurant-scaling.md)
+- **Serial 000 (Owner Video)**: [Four Non-Negotiable Restaurant Operating Rules](../knowledge/owner/owner-full-form/operations/four-non-negotiable-restaurant-operating-rules.md)
+- **Serial 000 (Owner Video)**: [Hunt Brothers Host-Location Model, Operational Simplicity, and Waste Engineering](../knowledge/owner/owner-full-form/operations/hunt-brothers-host-location-and-waste-engineering.md)
+- **Serial 000 (Owner Video)**: [In-N-Out Operational System and Labor Economics](../knowledge/owner/owner-full-form/operations/in-n-out-operational-and-labor-playbook.md)
+- **Serial 000 (Owner Video)**: [Jersey Mike's Scaling and Operational Theater](../knowledge/owner/owner-full-form/operations/jersey-mikes-scaling-and-operational-theater.md)
+- **Serial 000 (Owner Video)**: [Multi-Billion Dollar Restaurant Operations: Real Estate, Lexicon Engineering, Hyper-Focus, and Distressed Turnarounds](../knowledge/owner/owner-full-form/operations/billionaire-restaurant-playbooks.md)
+- **Serial 000 (Owner Video)**: [Multi-Unit Operational Excellence: Distressed Asset Turnarounds, Purchasing Budgets, and Offshore Back-Office Systems](../knowledge/owner/owner-full-form/operations/matangas-pizzeria-turnaround-and-scaling-playbook.md)
+- **Serial 000 (Owner Video)**: [Multi-Unit Pizza Operations: Central Commissary Economics, Off-Domain SEO Penalties, and Digital Capacity Throttling](../knowledge/owner/owner-full-form/operations/commissary-kitchen-economics-and-digital-integration.md)
+- **Serial 000 (Owner Video)**: [Multi-Unit Systems and 9-Month Leadership Development Pipeline](../knowledge/owner/owner-full-form/operations/multi-unit-systems-and-leadership-pipeline.md)
+- **Serial 000 (Owner Video)**: [Panda Express Systems and Self-Funded Profit Compounding](../knowledge/owner/owner-full-form/operations/panda-express-system-and-profit-compounding.md)
+- **Serial 000 (Owner Video)**: [Panera Bread Operations: Selective Franchising, Beverage Subscriptions, and Distressed Acquisitions](../knowledge/owner/owner-full-form/operations/panera-bread-growth-and-subscription-playbook.md)
+- **Serial 000 (Owner Video)**: [Panera Turnaround and the Mechanics of Operational Erosion](../knowledge/owner/owner-full-form/operations/panera-turnaround-and-operational-erosion.md)
+- **Serial 000 (Owner Video)**: [Quiznos Downfall: Franchise Expansion and Supply Chain Mistakes](../knowledge/owner/owner-full-form/operations/quiznos-franchise-and-expansion-mistakes.md)
+- **Serial 000 (Owner Video)**: [Restaurant Automation, Equipment ROI, and Predictive Data Strategy](../knowledge/owner/owner-full-form/operations/restaurant-automation-equipment-roi-and-data-strategy.md)
+- **Serial 000 (Owner Video)**: [Restaurant Catering Growth, B2B Acquisition, and Pricing Playbook](../knowledge/owner/owner-full-form/operations/restaurant-catering-growth-and-pricing-playbook.md)
+- **Serial 000 (Owner Video)**: [Restaurant Delegation & Multi-Unit Readiness: The 2-Week Absence Test, Invisible Labor, and Operational Traps](../knowledge/owner/owner-full-form/operations/multi-unit-scaling-and-delegation-framework.md)
+- **Serial 000 (Owner Video)**: [Restaurant Failure Prevention: Menu-Market Fit, Retention Economics, and Open-Book Labor Management](../knowledge/owner/owner-full-form/operations/restaurant-failure-prevention-and-labor-economics.md)
+- **Serial 000 (Owner Video)**: [Restaurant Growth and Profitability Playbook](../knowledge/owner/owner-full-form/operations/restaurant-growth-and-profitability-playbook.md)
+- **Serial 000 (Owner Video)**: [Reversing Flat Restaurant Sales and the FORM Service Framework](../knowledge/owner/owner-full-form/operations/reversing-flat-restaurant-sales-and-form-framework.md)
+- **Serial 000 (Owner Video)**: [Subway Franchise Breakdown and Incentive Alignment](../knowledge/owner/owner-full-form/operations/subway-franchise-breakdown-and-incentive-alignment.md)
+- **Serial 006 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/operations/7-alarming-reasons-why-restaurants-fail.md) `[restaurant-failure, menu-market-fit, food-cost, customer-retention, staff-turnover, branding, website-conversion]`
+- **Serial 014 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/operations/independent-restaurant-digital-playbook.md) `[restaurant-strategy, branded-mobile-apps, delivery-economics, google-seo, cart-abandonment, founder-storytelling, order-frequency]`
+- **Serial 015 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/operations/cava-multi-unit-growth-playbook.md) `[scaling, multi-unit, fast-casual, unit-economics, site-selection, acquisitions, second-generation-space, mobile-data]`
+- **Serial 017 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/operations/scaling-restaurants-to-50-locations-mendocino-farms.md) `[scaling, multi-unit, fast-casual, mendocino-farms, restaurant-culture, hospitality-training, concept-differentiation]`
+- **Serial 018 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/operations/sweetgreens-7-billion-dollar-growth-secrets.md) `[sweetgreen, fast-casual, scaling, direct-ordering, venture-capital, mobile-app, real-estate-footprint, lifestyle-branding]`
+- **Serial 020 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/operations/multi-unit-pizzeria-systems-andolinis.md) `[scaling, multi-unit, email-marketing, recipe-costing, prime-cost, market-density, andolinis, pizzeria-operations]`
+- **Serial 021 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/operations/opening-a-restaurant-via-distressed-asset-buys.md) `[distressed-assets, restaurant-startup, commercial-leasing, equipment-acquisition, capex-reduction, lease-negotiation, second-generation-space]`
+- **Serial 024 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/operations/brian-niccol-restaurant-ceo-playbook.md) `[brian-niccol, chipotle, operational-strategy, throughput, customer-segmentation, daypart-expansion, crisis-management]`
+- **Serial 001 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-printer-troubleshooting-power-and-cables.md) `[pos-hardware, printer-troubleshooting, network-connectivity, kitchen-hardware]`
+- **Serial 002 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-printer-troubleshooting-paper-and-ip.md) `[pos-hardware, printer-troubleshooting, kitchen-operations, hardware-maintenance]`
+- **Serial 004 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/coffee-rituals-and-beverage-prep-consistency.md) `[beverage-operations, coffee-service, opening-procedures, prep-consistency]`
+- **Serial 006 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/restaurant-playlist-and-ambiance-control.md) `[ambiance, dining-room-operations, guest-experience, hospitality]`
+- **Serial 008 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-pos-omnichannel-ordering-system.md) `[pos-systems, omnichannel-ordering, tableside-service, workflow-efficiency]`
+- **Serial 017 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/but-really-crudo-trio-hav.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 021 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/calling-all-abuelas.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 023 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/what-do-people-order-mothers.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 024 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/guide-toast-install-site-readiness.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 026 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/not-all-heroes-wear-capes.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 028 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/where-do-you-hide-when.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 030 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/fried-chicken-has-entered-chat.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 032 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/hot-take-alert-stream-full.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 038 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-pos-product-updates-july.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 039 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/what-no-one-tells-you.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 042 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 043 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen-2.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 044 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen-3.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 045 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen-4.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 046 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen-5.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 047 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/overheard-family-reunion.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 049 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/every-restaurant-has-story-were.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 050 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/micd-up-chef-is-here.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 051 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/key-excellent-bar-service-every.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 052 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/pov-youre-toast-go-handheld.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 053 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/pov-testing-durability-but-also.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 054 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/surviving-my-intrusive-thoughts.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 056 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/tg3-side-grease.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 057 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-muria-foods.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 058 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-goodnight-cowboy.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 059 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/its-just-little-spill.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 060 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/when-you-can-take-heat.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 061 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-oak-vine.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 062 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-marigold-market.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 064 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-bottle-cork.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 065 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/what-makes-best-new-restaurant.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 067 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-tiny-grocer.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 068 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-go-durability-test.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 069 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-brooklyn-flea.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 070 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-go-durability-test-2.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 071 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/best-finds-brooklyn-flea-market.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 072 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-go-durability-test-3.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 073 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-poppys-special.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 074 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/is-tg3-flour-proof-kitchen-durability.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 076 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-rigor-hill.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 077 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/when-restaurant-industry-teams-up.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 078 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/pov-partner-works-service-industry.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 081 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/nobody-handles-busy-like-carmines.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 083 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/turning-tables-faster-with-seamless-checkout.md) `[table-turns, tableside-payment, speed-of-service, checkout-efficiency]`
+- **Serial 089 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/open-call-build-busy-restaurant.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 090 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/open-call-build-busy-restaurant-2.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 091 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/kitchen-they-know-busy-by.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 093 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/perfect-spread-toast-retail-x.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 096 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-retail-x-reids-fine.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 097 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/how-restaurant-operators-use-toast.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 099 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/get-instant-answer-about-restaurants.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 100 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-iq-see-how-you.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 103 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/developed-few-favorites-because-piza.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 110 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/478-bar-keep.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 116 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/why-am-i-cleaning-their.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 117 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-teams-up-eclective-hospitality.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 118 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/pity-invite-bartender-hotline.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 119 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/thats-cooked-question-bartender-hotline.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 120 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-iq-told-me.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 122 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/real-operators-real-reactions-toast.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 123 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/every-great-restaurant-has-cast.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 124 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/meet-toast-iq.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 125 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/operator-business-knowledge-and-real-time-metrics.md) `[restaurant-kpis, management-metrics, real-time-analytics, business-acumen]`
+- **Serial 126 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/are-toast-iq-ing.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 127 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-iq-ai-assistant-busy.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 128 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/toast-iq-tests-three-questions.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
+- **Serial 129 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/operations/top-use-cases-for-ai-in-restaurant-management.md) `[restaurant-ai, workflow-automation, scheduling-ai, management-efficiency]`
+- **Serial 001 (Toast Video)**: [High-Volume Dessert Restaurant Operations: All-in-One POS Order Routing and Flow](../knowledge/toast/toast-full-form/operations/high-volume-dessert-concept-order-routing.md)
+- **Serial 002 (Toast Video)**: [Public Market & Food Hall Operations: High-Volume Micro-Vendor Point of Sale](../knowledge/toast/toast-full-form/operations/public-market-multi-vendor-pos-operations.md)
+- **Serial 003 (Toast Video)**: [Fast-Casual Scaling: Counter-Service Throughput and Kitchen Ticket Coordination](../knowledge/toast/toast-full-form/operations/fast-casual-dumpling-concept-kitchen-flow.md)
+- **Serial 006 (Toast Video)**: [High-Capacity Waterfront Dining: Accelerating Table Turns and Revenue Growth](../knowledge/toast/toast-full-form/operations/high-volume-waterfront-table-turn-optimization.md)
+- **Serial 011 (Toast Video)**: [Fine Dining Operational Modernization: Tableside Tablets in Upscale Hospitality](../knowledge/toast/toast-full-form/operations/fine-dining-tablet-service-buccan.md)
+- **Serial 012 (Toast Video)**: [Restaurant Technology Architecture: Cloud POS, Hardware Redundancy, and Integrated Workflows](../knowledge/toast/toast-full-form/operations/all-in-one-restaurant-pos-architecture-fundamentals.md)
+- **Serial 015 (Toast Video)**: [Entertainment & Live Venue Bar Operations: High-Volume Speed of Service and Pre-Auth](../knowledge/toast/toast-full-form/operations/high-volume-music-venue-bar-pos-speed.md)
+- **Serial 016 (Toast Video)**: [Craft Cocktail Bar Operations: Balancing Mixology Precision with High-Volume Throughput](../knowledge/toast/toast-full-form/operations/craft-cocktail-bar-operations-speed-and-pre-auth.md)
+- **Serial 017 (Toast Video)**: [Drive-In & Quick-Service Operations: Mobile Carhop Ordering and High-Speed Drive-Thru](../knowledge/toast/toast-full-form/operations/drive-in-carhop-and-drive-thru-pos-modernization.md)
+- **Serial 018 (Toast Video)**: [Multi-Unit Restaurant Systems: Open API Integrations for Accounting, Inventory, and Loyalty](../knowledge/toast/toast-full-form/operations/multi-concept-restaurant-software-integrations.md)
+- **Serial 019 (Toast Video)**: [Resort & Event Hospitality: Managing Remote Beverage Carts, Clubhouses, and Banquets](../knowledge/toast/toast-full-form/operations/golf-course-and-event-venue-f-and-b-operations.md)
+- **Serial 020 (Toast Video)**: [Urban Fast-Casual Operations: Managing 60-Minute Downtown Lunch Rushes](../knowledge/toast/toast-full-form/operations/urban-fast-casual-rush-hour-lunch-throughput.md)
+- **Serial 021 (Toast Video)**: [Restaurant Hardware Engineering: Purpose-Built Handheld POS vs Consumer Tablets](../knowledge/toast/toast-full-form/operations/purpose-built-restaurant-handheld-hardware-ergonomics.md)
+- **Serial 022 (Toast Video)**: [Front-of-House Labor Efficiency: Quantifying Handheld POS vs Pen-and-Paper Service](../knowledge/toast/toast-full-form/operations/toast-go-vs-pen-and-paper-speed-comparison.md)
+- **Serial 023 (Toast Video)**: [Farm-to-Table Operations: Dynamic Menus, Local Sourcing, and Real-Time Kitchen Coordination](../knowledge/toast/toast-full-form/operations/farm-to-table-daily-changing-menu-operations.md)
+- **Serial 024 (Toast Video)**: [High-Volume Riverwalk Hospitality: Slashed Meal Comps and Outdoor Table Turnover](../knowledge/toast/toast-full-form/operations/historic-riverwalk-dining-cutting-comps-by-80-percent.md)
+- **Serial 025 (Toast Video)**: [James Beard-Winning Speed: Combining Fine Dining Quality with Fast-Casual KDS Efficiency](../knowledge/toast/toast-full-form/operations/eventide-oyster-co-kds-and-fast-casual-efficiency.md)
+- **Serial 027 (Toast Video)**: [Multi-Unit Restaurant Groups: Elevating Fine Dining Standards with KDS Analytics](../knowledge/toast/toast-full-form/operations/fine-dining-kds-eat-restaurant-partners.md)
+- **Serial 031 (Toast Video)**: [Restaurant Management Mastery: Unifying Front, Back, and Office Operations](../knowledge/toast/toast-full-form/operations/empowering-restaurant-teams-all-in-one-platform.md)
+- **Serial 035 (Toast Video)**: [Fast-Casual Throughput: Increasing Sales by 30% with Handhelds and Direct Online Ordering](../knowledge/toast/toast-full-form/operations/mr-sandwich-30-percent-sales-growth-handhelds.md)
+- **Serial 036 (Toast Video)**: [High-Throughput Fast-Casual Operations: Rapid Smoothie and Bowl Assembly](../knowledge/toast/toast-full-form/operations/protein-bar-speed-of-service-healthy-fast-casual.md)
+- **Serial 037 (Toast Video)**: [Assembly-Line Fast Casual: Cross-Station Synchronization in Mediterranean Concepts](../knowledge/toast/toast-full-form/operations/zuuk-mediterranean-kitchen-all-in-one-efficiency.md)
+- **Serial 038 (Toast Video)**: [Michelin-Rated Excellence: Modernizing High-End Hospitality at Sepia Chicago](../knowledge/toast/toast-full-form/operations/michelin-rated-sepia-fine-dining-cloud-pos.md)
+- **Serial 040 (Toast Video)**: [Bakery & Desserterie Operations: Launching a Specialty Small Food Business](../knowledge/toast/toast-full-form/operations/swah-rey-desserterie-small-business-opening.md)
+- **Serial 042 (Toast Video)**: [Casual Dining Multi-Unit Scaling: Systemizing Burger Operations Across Locations](../knowledge/toast/toast-full-form/operations/bubs-burgers-all-in-one-growth-platform.md)
+- **Serial 043 (Toast Video)**: [High-Volume Brewery & Beer Hall Operations: Extreme Hardware Durability and Speed](../knowledge/toast/toast-full-form/operations/harpoon-brewery-high-volume-beer-hall-hardware.md)
+- **Serial 050 (Toast Video)**: [The Modern Restaurant Tech Stack: Integrated Hardware, Cloud Software, and Operational Flow](../knowledge/toast/toast-full-form/operations/modern-cloud-restaurant-pos-ecosystem-overview.md)
+- **Serial 053 (Toast Video)**: [Get the Most Out of Toast - Spark Feature Session](../knowledge/toast/toast-full-form/operations/get-most-out-spark.md)
+- **Serial 054 (Toast Video)**: [For the Love of Restaurants - Spark Keynote by Chris Comparato](../knowledge/toast/toast-full-form/operations/love-restaurants-spark-keynote.md)
+- **Serial 059 (Toast Video)**: [The New Steps of Service](../knowledge/toast/toast-full-form/operations/new-steps-service.md)
+- **Serial 065 (Toast Video)**: [Spark 2022 | Restaurant innovation starts here](../knowledge/toast/toast-full-form/operations/spark-2022-restaurant-innovation-starts.md)
+- **Serial 068 (Toast Video)**: [Gusto 54: A Toronto success story](../knowledge/toast/toast-full-form/operations/gusto-54-toronto-success-story.md)
+- **Serial 069 (Toast Video)**: [How Toast Helps Improve Operational Efficiency for Le Bab](../knowledge/toast/toast-full-form/operations/helps-improve-operational-efficiency-le.md)
+- **Serial 075 (Toast Video)**: [Set Up Tables in Toast Web](../knowledge/toast/toast-full-form/operations/set-up-tables-web.md)
+- **Serial 078 (Toast Video)**: [Toast Tables Host Training](../knowledge/toast/toast-full-form/operations/tables-host-training.md)
+- **Serial 079 (Toast Video)**: [Why Won't My Toast Printer Auto Cut?](../knowledge/toast/toast-full-form/operations/why-wont-my-printer-auto.md)
+- **Serial 081 (Toast Video)**: [Troubleshooting your Toast Flex's Power Supply](../knowledge/toast/toast-full-form/operations/troubleshooting-flexs-power-supply.md)
+- **Serial 084 (Toast Video)**: [Get Started with Toast Tables](../knowledge/toast/toast-full-form/operations/get-started-tables.md)
+- **Serial 086 (Toast Video)**: [Set Up Dining Options in Toast Web](../knowledge/toast/toast-full-form/operations/set-up-dining-options-web.md)
+- **Serial 103 (Toast Video)**: [Reprint an Order's Receipt on your Toast POS](../knowledge/toast/toast-full-form/operations/reprint-orders-receipt-pos.md)
+- **Serial 104 (Toast Video)**: [Adjust Tips in Toast After a Check Has Been Closed](../knowledge/toast/toast-full-form/operations/adjust-tips-after-check-has.md)
+- **Serial 105 (Toast Video)**: [Add Tips in Toast](../knowledge/toast/toast-full-form/operations/add-tips.md)
+- **Serial 108 (Toast Video)**: [Split Items on your Toast POS](../knowledge/toast/toast-full-form/operations/split-items-pos.md)
+- **Serial 110 (Toast Video)**: [Create New Job Roles in Toast Web](../knowledge/toast/toast-full-form/operations/create-new-job-roles-web.md)
+- **Serial 111 (Toast Video)**: [Set Up Quote Time Strategies in Toast Web](../knowledge/toast/toast-full-form/operations/set-up-quote-time-strategies.md)
+- **Serial 112 (Toast Video)**: [How to Set Up and Use Prompt for Quantity on your Toast POS](../knowledge/toast/toast-full-form/operations/set-up-use-prompt-quantity.md)
+- **Serial 113 (Toast Video)**: [How to Add an Open Item on your Toast POS](../knowledge/toast/toast-full-form/operations/add-open-item-pos.md)
+- **Serial 118 (Toast Video)**: [How to Use the Toast Now App](../knowledge/toast/toast-full-form/operations/use-now-app.md)
+- **Serial 121 (Toast Video)**: [Hilltop Coffee & Kitchen: Community cafe's magic is in its mission [Family Style S1 E3]](../knowledge/toast/toast-full-form/operations/hilltop-coffee-kitchen-community-cafes.md)
+- **Serial 122 (Toast Video)**: [Irv's Burgers: Hollywood's iconic Route 66 burger stand modernized [Family Style S1 E4]](../knowledge/toast/toast-full-form/operations/irvs-burgers-hollywoods-iconic-route.md)
+- **Serial 125 (Toast Video)**: [Addressing Hunger During Season of Giving](../knowledge/toast/toast-full-form/operations/addressing-hunger-during-season-giving.md)
+- **Serial 126 (Toast Video)**: [Creating Opportunity Through Culinary Training](../knowledge/toast/toast-full-form/operations/creating-opportunity-through-culinary-training.md)
+- **Serial 129 (Toast Video)**: [NYC Bakery Maman Uses Toast POS to Open New Locations](../knowledge/toast/toast-full-form/operations/nyc-bakery-maman-uses-pos.md)
+- **Serial 132 (Toast Video)**: [Boost Speed & Efficiency with Toast Point of Sale](../knowledge/toast/toast-full-form/operations/boost-speed-efficiency-point-sale.md)
+- **Serial 133 (Toast Video)**: [Toast Point of Sale: Where Hospitality Meets Technology](../knowledge/toast/toast-full-form/operations/point-sale-where-hospitality-meets.md)
+- **Serial 135 (Toast Video)**: [Toast Websites Go Live Guide](../knowledge/toast/toast-full-form/operations/websites-go-live-guide.md)
+- **Serial 136 (Toast Video)**: [Introducing Restaurant Management Suite by Toast](../knowledge/toast/toast-full-form/operations/introducing-restaurant-management-suite-by.md)
+- **Serial 137 (Toast Video)**: [Introducing Digital Storefront Suite by Toast](../knowledge/toast/toast-full-form/operations/introducing-digital-storefront-suite-by.md)
+- **Serial 139 (Toast Video)**: [Better Ordering, Anywhere with Toast POS (United Kingdom)](../knowledge/toast/toast-full-form/operations/better-ordering-anywhere-pos-united.md)
+- **Serial 140 (Toast Video)**: [Better Ordering, Anywhere with Toast POS (Ireland)](../knowledge/toast/toast-full-form/operations/better-ordering-anywhere-pos-ireland.md)
+- **Serial 141 (Toast Video)**: [Better Ordering, Anywhere with Toast POS](../knowledge/toast/toast-full-form/operations/better-ordering-anywhere-pos.md)
+- **Serial 145 (Toast Video)**: [Successful Restaurants Choose Toast](../knowledge/toast/toast-full-form/operations/successful-restaurants-choose.md)
+- **Serial 146 (Toast Video)**: [Get Started With Menus in Toast POS](../knowledge/toast/toast-full-form/operations/get-started-menus-pos.md)
+- **Serial 157 (Toast Video)**: [Tuscan Market in Salem, NH Upgrades to Toast Retail](../knowledge/toast/toast-full-form/operations/tuscan-market-salem-nh-upgrades.md)
+- **Serial 159 (Toast Video)**: [Trick Dog's trick for faster cocktail service](../knowledge/toast/toast-full-form/operations/trick-dogs-trick-faster-cocktail.md)
+- **Serial 160 (Toast Video)**: [How Tuna Kahuna grows their business with Toast POS](../knowledge/toast/toast-full-form/operations/tuna-kahuna-grows-their-business.md)
+- **Serial 163 (Toast Video)**: [Expand your Reach with Toast Retail](../knowledge/toast/toast-full-form/operations/expand-reach-retail.md)
+- **Serial 164 (Toast Video)**: [Introducing Toast Retail](../knowledge/toast/toast-full-form/operations/introducing-retail.md)
+- **Serial 165 (Toast Video)**: [Toast is Powerful in 1,000 Little Ways](../knowledge/toast/toast-full-form/operations/powerful-1000-little-ways.md)
+- **Serial 169 (Toast Video)**: [Guided Closing Procedures for Managers](../knowledge/toast/toast-full-form/operations/guided-closing-procedures-managers.md)
+- **Serial 170 (Toast Video)**: [Toast Changemaker Suite: Give Back, Waste Less, Make an Impact](../knowledge/toast/toast-full-form/operations/changemaker-suite-give-back-waste.md)
+- **Serial 171 (Toast Video)**: [Which Menu Item Sells 135% More on Valentine's Day?](../knowledge/toast/toast-full-form/operations/which-menu-item-sells-135.md)
+- **Serial 172 (Toast Video)**: [US Egg Prices Keep Rising—Here's How Restaurant Owners Are Adapting](../knowledge/toast/toast-full-form/operations/us-egg-prices-keep-risingheres.md)
+- **Serial 173 (Toast Video)**: [How Waterhouse Restaurant Paid For An Entire Year of Toast In One Day](../knowledge/toast/toast-full-form/operations/waterhouse-restaurant-paid-entire-year.md)
+- **Serial 175 (Toast Video)**: [How to Write a Winning Restaurant Business Plan](../knowledge/toast/toast-full-form/operations/write-winning-restaurant-business-plan.md)
+- **Serial 177 (Toast Video)**: [How Toast Boosts Efficiency for Dublin's BANG Restaurant](../knowledge/toast/toast-full-form/operations/boosts-efficiency-dublins-bang-restaurant.md)
+- **Serial 178 (Toast Video)**: [The Surprising Foods That Won Big During Women's Final Four](../knowledge/toast/toast-full-form/operations/surprising-foods-won-big-during.md)
+- **Serial 179 (Toast Video)**: [15 Steps to Opening Your Dream Bar From Scratch](../knowledge/toast/toast-full-form/operations/15-steps-opening-dream-bar.md)
+- **Serial 180 (Toast Video)**: [Sustainable Dining Is The Future Of Restaurants](../knowledge/toast/toast-full-form/operations/sustainable-dining-future-restaurants.md)
+- **Serial 190 (Toast Video)**: [See Toast Retail in Action](../knowledge/toast/toast-full-form/operations/see-retail-action.md)
+- **Serial 203 (Toast Video)**: [Ch. 6: Technology Is Key | Complete Guide To: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/operations/ch-6-technology-key-complete.md)
+- **Serial 204 (Toast Video)**: [Ch. 4: Real Restaurants, Real Results | Complete Guide to: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/operations/ch-4-real-restaurants-real.md)
+- **Serial 206 (Toast Video)**: [Ch. 2: The New Steps of Service | Complete Guide To: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/operations/ch-2-new-steps-service.md)
+- **Serial 207 (Toast Video)**: [Ch. 7: Finish the Course | Complete Guide to: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/operations/ch-7-finish-course-complete.md)
+- **Serial 208 (Toast Video)**: [Intro | Complete Guide To: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/operations/intro-complete-guide-mastering-modern.md)
+- **Serial 209 (Toast Video)**: [Ch. 5: Decreased Costs, Increased Table Turns |  Complete Guide to: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/operations/ch-5-decreased-costs-increased.md)
+- **Serial 210 (Toast Video)**: [Ch. 3: Make Your Service Model Work For You | Complete Guide To: Mastering Modern Hospitality](../knowledge/toast/toast-full-form/operations/ch-3-make-service-model.md)
+- **Serial 211 (Toast Video)**: [Is Your Restaurant Ready for the Boston Marathon?](../knowledge/toast/toast-full-form/operations/restaurant-ready-boston-marathon.md)
+- **Serial 213 (Toast Video)**: [Fast Food Is No Longer Cheap And Here's Why!](../knowledge/toast/toast-full-form/operations/fast-food-no-longer-cheap.md)
+- **Serial 215 (Toast Video)**: [Menu Matrix Explained: Engineer Your Restaurant's Menu for Success](../knowledge/toast/toast-full-form/operations/menu-matrix-explained-engineer-restaurants.md)
+- **Serial 216 (Toast Video)**: [Data To Help Make This Your Restaurant's Best Mother's Day Yet!](../knowledge/toast/toast-full-form/operations/data-help-make-restaurants-best.md)
+- **Serial 222 (Toast Video)**: [What Makes Cold Brew Coffee So Special?](../knowledge/toast/toast-full-form/operations/makes-cold-brew-coffee-so.md)
+- **Serial 224 (Toast Video)**: [10 Essential Steps to Opening a Restaurant](../knowledge/toast/toast-full-form/operations/10-essential-steps-opening-restaurant.md)
+- **Serial 225 (Toast Video)**: [Mocktails Are Taking Over Bars This Year!](../knowledge/toast/toast-full-form/operations/mocktails-are-taking-over-bars.md)
+- **Serial 226 (Toast Video)**: [ToastIQ: Your Secret Weapon to Superpower Hospitality](../knowledge/toast/toast-full-form/operations/toastiq-secret-weapon-superpower-hospitality.md)
+- **Serial 227 (Toast Video)**: [Walk-In Confessions from Real Restaurant People](../knowledge/toast/toast-full-form/operations/walk-in-confessions-real-restaurant-people.md)
+- **Serial 229 (Toast Video)**: [Tecnología para los negocios del mundo real.](../knowledge/toast/toast-full-form/operations/tecnologa-para-los-negocios-del.md)
+- **Serial 230 (Toast Video)**: [强大技术，为现实业务助力。](../knowledge/toast/toast-full-form/operations/toast-intelligence-230.md)
+- **Serial 237 (Toast Video)**: [Which Chicken Wing Flavor Trends Are Hot in 2025?](../knowledge/toast/toast-full-form/operations/which-chicken-wing-flavor-trends.md)
+- **Serial 238 (Toast Video)**: [How To Run a Restaurant with Compassion](../knowledge/toast/toast-full-form/operations/run-restaurant-compassion.md)
+- **Serial 241 (Toast Video)**: [Empowering the Next Generation of Culinary Leaders with C•CAP](../knowledge/toast/toast-full-form/operations/empowering-next-generation-culinary-leaders.md)
+- **Serial 242 (Toast Video)**: [Meet the Students Running a Restaurant in Their High School](../knowledge/toast/toast-full-form/operations/meet-students-running-restaurant-their.md)
+- **Serial 243 (Toast Video)**: [Toast Convenes Global Customer Advisory Board Summit](../knowledge/toast/toast-full-form/operations/convenes-global-customer-advisory-board.md)
+- **Serial 244 (Toast Video)**: [Four Menu Upsell Techniques for Restaurants](../knowledge/toast/toast-full-form/operations/four-menu-upsell-techniques-restaurants.md)
+- **Serial 248 (Toast Video)**: [Toast Product Updates | July 2025](../knowledge/toast/toast-full-form/operations/product-updates-july-2025.md)
+- **Serial 250 (Toast Video)**: [Toast in 5 Minutes](../knowledge/toast/toast-full-form/operations/5-minutes.md)
+- **Serial 251 (Toast Video)**: [Restaurant Employee Benefits: Boost Retention with These Key Perks](../knowledge/toast/toast-full-form/operations/restaurant-employee-benefits-boost-retention.md)
+- **Serial 252 (Toast Video)**: [Can The Right Beer Glass Make You More Money?](../knowledge/toast/toast-full-form/operations/can-right-beer-glass-make.md)
+- **Serial 254 (Toast Video)**: [What REALLY Sets Apart Kansas City from Memphis BBQ Styles?](../knowledge/toast/toast-full-form/operations/really-sets-apart-kansas-city.md)
+- **Serial 256 (Toast Video)**: [Three Generations of Family Business with San Pedro Fish Market [Family Style S2 E1]](../knowledge/toast/toast-full-form/operations/three-generations-family-business-san.md)
+- **Serial 260 (Toast Video)**: [Best of the Midwest: How Taylor’s Tacos Brought SoCal Flavors to Chicago [Family Style S2 E3]](../knowledge/toast/toast-full-form/operations/best-midwest-taylors-tacos-brought.md)
+- **Serial 261 (Toast Video)**: [Setting Up Your Toast Go® 3](../knowledge/toast/toast-full-form/operations/setting-up-go-3.md)
+- **Serial 262 (Toast Video)**: [Using Your Toast Go® 3 Off-Site](../knowledge/toast/toast-full-form/operations/using-go-3-off-site.md)
+- **Serial 263 (Toast Video)**: [Troubleshooting Your Toast Handheld](../knowledge/toast/toast-full-form/operations/troubleshooting-handheld.md)
+- **Serial 264 (Toast Video)**: [Toast Product Updates | August 2025](../knowledge/toast/toast-full-form/operations/product-updates-august-2025.md)
+- **Serial 265 (Toast Video)**: [Why Is Olive Oil So Expensive?](../knowledge/toast/toast-full-form/operations/why-olive-oil-so-expensive.md)
+- **Serial 266 (Toast Video)**: [Put your team in Go Mode with our next-gen handheld](../knowledge/toast/toast-full-form/operations/put-team-go-mode-next-gen.md)
+- **Serial 267 (Toast Video)**: [Why Every Restaurant Needs These Shift Note Templates](../knowledge/toast/toast-full-form/operations/why-every-restaurant-needs-these.md)
+- **Serial 268 (Toast Video)**: [13 Steps to Starting Your Own Bakery](../knowledge/toast/toast-full-form/operations/13-steps-starting-own-bakery.md)
+- **Serial 269 (Toast Video)**: [What Makes a Bakery Business Plan Work?](../knowledge/toast/toast-full-form/operations/makes-bakery-business-plan-work.md)
+- **Serial 270 (Toast Video)**: [Beer, Music, and a Seamless POS: A Brewery’s Story](../knowledge/toast/toast-full-form/operations/beer-music-seamless-pos-brewerys.md)
+- **Serial 271 (Toast Video)**: [A Michelin Star Restaurant’s Secret to Delivering a Perfect Guest Experience](../knowledge/toast/toast-full-form/operations/michelin-star-restaurants-secret-delivering.md)
+- **Serial 272 (Toast Video)**: [Kurt Zdesar’s Quest for the Perfect POS System Led Him to Toast](../knowledge/toast/toast-full-form/operations/kurt-zdesars-quest-perfect-pos.md)
+- **Serial 273 (Toast Video)**: [Roti King’s Secret to Hypergrowth: A POS System That Can Keep Up](../knowledge/toast/toast-full-form/operations/roti-kings-secret-hypergrowth-pos.md)
+- **Serial 274 (Toast Video)**: [A London Tapas Group's Recipe for Multilocation Success](../knowledge/toast/toast-full-form/operations/london-tapas-groups-recipe-multilocation.md)
+- **Serial 275 (Toast Video)**: [From 'Organized Mess' to Optimized Success: The Miznon Story](../knowledge/toast/toast-full-form/operations/organized-mess-optimized-success-miznon.md)
+- **Serial 276 (Toast Video)**: [More Than a Restaurant: How Toast Works for this Manchester based Food Hall and Gig Venue](../knowledge/toast/toast-full-form/operations/more-than-restaurant-works-manchester.md)
+- **Serial 277 (Toast Video)**: [Avoid Big Fines With These Restaurant Overtime Tips](../knowledge/toast/toast-full-form/operations/avoid-big-fines-these-restaurant.md)
+- **Serial 278 (Toast Video)**: [Why a Dim Sum Restaurant Said Goodbye to Paper Tickets](../knowledge/toast/toast-full-form/operations/why-dim-sum-restaurant-said.md)
+- **Serial 279 (Toast Video)**: [How BODHI Puts their Team in Go Mode with the Toast Go 3 Handheld](../knowledge/toast/toast-full-form/operations/bodhi-puts-their-team-go.md)
+- **Serial 283 (Toast Video)**: [Are Ghost Kitchens and Virtual Restaurants the Same?](../knowledge/toast/toast-full-form/operations/are-ghost-kitchens-virtual-restaurants.md)
+- **Serial 284 (Toast Video)**: [Writing a Successful Coffee Shop Business Plan](../knowledge/toast/toast-full-form/operations/writing-successful-coffee-shop-business.md)
+- **Serial 285 (Toast Video)**: [How to Open a Coffee Shop in Nine Steps](../knowledge/toast/toast-full-form/operations/open-coffee-shop-nine-steps.md)
+- **Serial 286 (Toast Video)**: [How Restaurant Leaders are Navigating Rising Costs in 2025](../knowledge/toast/toast-full-form/operations/restaurant-leaders-are-navigating-rising.md)
+- **Serial 287 (Toast Video)**: [What Time Does Brunch Actually Start and End?](../knowledge/toast/toast-full-form/operations/time-does-brunch-actually-start.md)
+- **Serial 289 (Toast Video)**: [How Toast Onboarding Supports Enterprise Brands](../knowledge/toast/toast-full-form/operations/onboarding-supports-enterprise-brands.md)
+- **Serial 290 (Toast Video)**: [How Toast's Enterprise Team Helps Brands Thrive](../knowledge/toast/toast-full-form/operations/toasts-enterprise-team-helps-brands.md)
+- **Serial 291 (Toast Video)**: [Why Caribou Coffee Chose Toast](../knowledge/toast/toast-full-form/operations/why-caribou-coffee-chose.md)
+- **Serial 292 (Toast Video)**: [Happy Staff, Happy Guests: Standard Operating Procedures (SOPs) for Bars](../knowledge/toast/toast-full-form/operations/happy-staff-happy-guests-standard.md)
+- **Serial 293 (Toast Video)**: [Marginal Cost and Marginal Revenue, Explained](../knowledge/toast/toast-full-form/operations/marginal-cost-marginal-revenue-explained.md)
+- **Serial 294 (Toast Video)**: [Inside Snooze an A.M. Eatery's Toast Rollout](../knowledge/toast/toast-full-form/operations/inside-snooze-am-eaterys-rollout.md)
+- **Serial 295 (Toast Video)**: [Inside Mendocino Farms' Toast Rollout](../knowledge/toast/toast-full-form/operations/inside-mendocino-farms-rollout.md)
+- **Serial 297 (Toast Video)**: [Restaurant SOPs Are the Key to Ending Chaos](../knowledge/toast/toast-full-form/operations/restaurant-sops-are-key-ending.md)
+- **Serial 298 (Toast Video)**: [Dealing with Difficult Restaurant Guests](../knowledge/toast/toast-full-form/operations/dealing-difficult-restaurant-guests.md)
+- **Serial 300 (Toast Video)**: [Your business can talk. Understand it with Toast IQ.](../knowledge/toast/toast-full-form/operations/business-can-talk-understand-it.md)
+- **Serial 301 (Toast Video)**: [Tips for Boosting Restaurant Sales This Thanksgiving](../knowledge/toast/toast-full-form/operations/tips-boosting-restaurant-sales-thanksgiving.md)
+- **Serial 302 (Toast Video)**: [What's the Difference Between a Mission Statement and a Vision Statement?](../knowledge/toast/toast-full-form/operations/whats-difference-between-mission-statement.md)
+- **Serial 303 (Toast Video)**: [How to Write a Pizza Restaurant Business Plan Like a Pro](../knowledge/toast/toast-full-form/operations/write-pizza-restaurant-business-plan.md)
+- **Serial 304 (Toast Video)**: [How to Open a Pizza Shop](../knowledge/toast/toast-full-form/operations/open-pizza-shop.md)
+- **Serial 305 (Toast Video)**: [How Sweet Drinks Are Changing Bars (With Recipes!)](../knowledge/toast/toast-full-form/operations/sweet-drinks-are-changing-bars.md)
+- **Serial 309 (Toast Video)**: [Toast IQ: Introducing the Conversational AI Assistant](../knowledge/toast/toast-full-form/operations/iq-introducing-conversational-ai-assistant.md)
+- **Serial 310 (Toast Video)**: [Why Every Restaurant Needs Allergy Alert Cards](../knowledge/toast/toast-full-form/operations/why-every-restaurant-needs-allergy.md)
+- **Serial 311 (Toast Video)**: [Server Sidework Checklist: Eliminate Closing Conflict & Boost Staff Success](../knowledge/toast/toast-full-form/operations/server-sidework-checklist-eliminate-closing.md)
+- **Serial 312 (Toast Video)**: [The Best Moments from Toast's 2025 Community Awards Honoring Local Legacies](../knowledge/toast/toast-full-form/operations/best-moments-toasts-2025-community.md)
+- **Serial 313 (Toast Video)**: [Meet the 2025 Toast Community Award Winners!](../knowledge/toast/toast-full-form/operations/meet-2025-community-award-winners.md)
+- **Serial 314 (Toast Video)**: [The Power of Playing Offense: How Toast Finance Transformed Two Restaurants](../knowledge/toast/toast-full-form/operations/power-playing-offense-finance-transformed.md)
+- **Serial 316 (Toast Video)**: [The BYOB Restaurant Business Model: Cut Costs, Simplify Operations, and Increase Profit](../knowledge/toast/toast-full-form/operations/byob-restaurant-business-model-cut.md)
+- **Serial 317 (Toast Video)**: [5 Proven Strategies to Reduce Restaurant No-Shows](../knowledge/toast/toast-full-form/operations/5-proven-strategies-reduce-restaurant.md)
+- **Serial 318 (Toast Video)**: [Think You Know Bar Tabs? Owner's Guide to Maximizing Profit & Efficiency](../knowledge/toast/toast-full-form/operations/think-you-know-bar-tabs.md)
+- **Serial 319 (Toast Video)**: [The Rise of Eating Alone: How to Profit from Solo Diners](../knowledge/toast/toast-full-form/operations/rise-eating-alone-profit-solo.md)
+- **Serial 320 (Toast Video)**: [10 Step Cheat Sheet to Starting a Food Truck (Business Plan & Permits)](../knowledge/toast/toast-full-form/operations/10-step-cheat-sheet-starting.md)
+- **Serial 321 (Toast Video)**: [WIN Gen Z Shoppers: The $12 Trillion Retail Opportunity](../knowledge/toast/toast-full-form/operations/win-gen-z-shoppers-12.md)
+- **Serial 323 (Toast Video)**: [From Handwritten Tickets to AI: How Stoby’s Uses Toast IQ to Fuel Growth](../knowledge/toast/toast-full-form/operations/handwritten-tickets-ai-stobys-uses.md)
+- **Serial 324 (Toast Video)**: [All the little things you need to get payday right](../knowledge/toast/toast-full-form/operations/all-little-things-you-need.md)
+- **Serial 325 (Toast Video)**: [Toast Product Updates | January 2026](../knowledge/toast/toast-full-form/operations/product-updates-january-2026.md)
+- **Serial 326 (Toast Video)**: [How Toast Checking Helps Restaurants Run More Efficiently Every Day](../knowledge/toast/toast-full-form/operations/checking-helps-restaurants-run-more.md)
+- **Serial 332 (Toast Video)**: [Why Toast Retail is "Life-Changing" for Rebel Cheese](../knowledge/toast/toast-full-form/operations/why-retail-life-changing-rebel-cheese.md)
+- **Serial 334 (Toast Video)**: [Introducing Built For Busy, the next chapter in Toast’s brand.](../knowledge/toast/toast-full-form/operations/introducing-built-busy-next-chapter.md)
+- **Serial 335 (Toast Video)**: [More Than a Drive-Thru: Meet Toast Drive-Thru](../knowledge/toast/toast-full-form/operations/more-than-drive-thru-meet-drive-thru.md)
+- **Serial 337 (Toast Video)**: [How Forza Meats generates additional revenue with Toast](../knowledge/toast/toast-full-form/operations/forza-meats-generates-additional-revenue.md)
+- **Serial 339 (Toast Video)**: [Osawa Levels Up Hospitality with Toast POS](../knowledge/toast/toast-full-form/operations/osawa-levels-up-hospitality-pos.md)
+- **Serial 344 (Toast Video)**: [Inside Caribou Coffee's Toast Rollout](../knowledge/toast/toast-full-form/operations/inside-caribou-coffees-rollout.md)
+- **Serial 345 (Toast Video)**: [An open call to build a busy restaurant with us.](../knowledge/toast/toast-full-form/operations/open-call-build-busy-restaurant.md)
+- **Serial 346 (Toast Video)**: [Mr Fogg’s City Tavern Sees Game Changing Results with the Toast Go™3 Handheld](../knowledge/toast/toast-full-form/operations/mr-foggs-city-tavern-sees.md)
+- **Serial 347 (Toast Video)**: [How Restaurants Are Actually Using AI (21 Million Conversations Analyzed)](../knowledge/toast/toast-full-form/operations/restaurants-are-actually-using-ai.md)
+- **Serial 348 (Toast Video)**: [How to Ask Toast IQ About Your Restaurant's Sales](../knowledge/toast/toast-full-form/operations/ask-iq-about-restaurants-sales.md)
+- **Serial 350 (Toast Video)**: [How Toast IQ Finds (and Fixes) Menu Mistakes](../knowledge/toast/toast-full-form/operations/iq-finds-fixes-menu-mistakes.md)
+- **Serial 351 (Toast Video)**: [Plan Your Restaurant's Whole Week in Under 2 Minutes With AI](../knowledge/toast/toast-full-form/operations/plan-restaurants-whole-week-under.md)
+- **Serial 352 (Toast Video)**: [How Fiesta Time Amigos Saves 90 Minutes a Week with Toast IQ](../knowledge/toast/toast-full-form/operations/fiesta-time-amigos-saves-90.md)
+- **Serial 353 (Toast Video)**: [Toast Go™ 3 Gives Bin 4 Burger More Time for What Matters Most: Customers](../knowledge/toast/toast-full-form/operations/go-3-gives-bin-4.md)
+- **Serial 357 (Toast Video)**: [Toast IQ Agents Are Built for a Busy Saturday Night](../knowledge/toast/toast-full-form/operations/iq-agents-are-built-busy.md)
+- **Serial 359 (Toast Video)**: [How Do You Know an AI Answer Is Right? How Toast Tests Toast IQ](../knowledge/toast/toast-full-form/operations/do-you-know-ai-answer.md)
+- **Serial 360 (Toast Video)**: [Toast IQ Agents for Restaurant Owners Who Wear Every Hat](../knowledge/toast/toast-full-form/operations/iq-agents-restaurant-owners-who.md)
+- **Serial 364 (Toast Video)**: [Real Data, Friendly Competition: Trish Rowley on Toast IQ Team](../knowledge/toast/toast-full-form/operations/real-data-friendly-competition-trish.md)
+- **Serial 368 (Toast Video)**: [When the Music Stops, Service Doesn’t: Asma Khan’s Darjeeling Express](../knowledge/toast/toast-full-form/operations/when-music-stops-service-doesnt.md)
 
-### Long-Form In-Depth Intelligence
+## Payments (26 entries)
 
-- **Long-Form Serial 26**: [Numbers / Calculations](../knowledge/owner/owner-full-form/labour/hiring-and-managing-top-restaurant-managers.md) `[restaurant-managers, gm-hiring, interview-scorecard, labor-management, prime-cost, incentive-compensation, leadership]`
+- **Serial 450**: [Key Information](../knowledge/owner/owner-short-form/payments/restaurant-payroll-got-expensive.md) `[payments, transaction-fees]`
+- **Serial 519**: [Key Information](../knowledge/owner/owner-short-form/payments/whats-tip-pool-it-right.md) `[payments, transaction-fees, cash-flow, tipping]`
+- **Serial 553**: [Key Information](../knowledge/owner/owner-short-form/payments/do-restaurants-go-cash-only.md) `[payments, transaction-fees, cash-flow, tipping]`
+- **Serial 013 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/payments/reliably-power-entire-shift-toast.md) `[payments, tipping, pos-hardware, transaction-processing]`
+- **Serial 107 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/payments/driver-print-receipt-please.md) `[payments, tipping, pos-hardware, transaction-processing]`
+- **Serial 109 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/payments/toast-retail-x-tip-top.md) `[payments, tipping, pos-hardware, transaction-processing]`
+- **Serial 005 (Toast Video)**: [Fast-Casual & Café Economics: Multiplying Staff Tips via Customer-Facing Prompts](../knowledge/toast/toast-full-form/payments/cafe-tip-rate-multiplication-digital-prompts.md)
+- **Serial 076 (Toast Video)**: [Toast Gift Cards Staff Training](../knowledge/toast/toast-full-form/payments/gift-cards-staff-training.md)
+- **Serial 080 (Toast Video)**: [Toast Go 2 Payment Troubleshooting](../knowledge/toast/toast-full-form/payments/go-2-payment-troubleshooting.md)
+- **Serial 085 (Toast Video)**: [Get Started with Toast Gift Cards](../knowledge/toast/toast-full-form/payments/get-started-gift-cards.md)
+- **Serial 091 (Toast Video)**: [Toast POS Cash Drawer Troubleshooting](../knowledge/toast/toast-full-form/payments/pos-cash-drawer-troubleshooting.md)
+- **Serial 095 (Toast Video)**: [What Can Toast POS Do in Offline Mode?](../knowledge/toast/toast-full-form/payments/can-pos-do-offline-mode.md)
+- **Serial 096 (Toast Video)**: [How to Take Cash Payments on Toast POS](../knowledge/toast/toast-full-form/payments/take-cash-payments-pos.md)
+- **Serial 097 (Toast Video)**: [Issue Refunds in Toast](../knowledge/toast/toast-full-form/payments/issue-refunds.md)
+- **Serial 099 (Toast Video)**: [Create Other Payment Options in Toast](../knowledge/toast/toast-full-form/payments/create-other-payment-options.md)
+- **Serial 100 (Toast Video)**: [How to Adjust Guest Receipt Settings in Toast](../knowledge/toast/toast-full-form/payments/adjust-guest-receipt-settings.md)
+- **Serial 102 (Toast Video)**: [Navigate the Toast POS Payment Terminal](../knowledge/toast/toast-full-form/payments/navigate-pos-payment-terminal.md)
+- **Serial 106 (Toast Video)**: [Split Payments Using Different Forms of Payment on your Toast POS](../knowledge/toast/toast-full-form/payments/split-payments-using-different-forms.md)
+- **Serial 107 (Toast Video)**: [Split Payments into Equal Amounts on your Toast POS](../knowledge/toast/toast-full-form/payments/split-payments-into-equal-amounts.md)
+- **Serial 116 (Toast Video)**: [How to Take Credit Card Payments on Toast POS](../knowledge/toast/toast-full-form/payments/take-credit-card-payments-pos.md)
+- **Serial 142 (Toast Video)**: [Toast Card Reader Troubleshooting](../knowledge/toast/toast-full-form/payments/card-reader-troubleshooting.md)
+- **Serial 168 (Toast Video)**: [Manage Payments with Toast POS](../knowledge/toast/toast-full-form/payments/manage-payments-pos.md)
+- **Serial 245 (Toast Video)**: [Selling a Toast Gift Card](../knowledge/toast/toast-full-form/payments/selling-gift-card.md)
+- **Serial 246 (Toast Video)**: [Taking Toast Gift Cards as Payment](../knowledge/toast/toast-full-form/payments/taking-gift-cards-as-payment.md)
+- **Serial 247 (Toast Video)**: [Checking & Adjusting the Balance of a Toast Gift Card](../knowledge/toast/toast-full-form/payments/checking-adjusting-balance-gift-card.md)
+- **Serial 296 (Toast Video)**: [How Restaurants Can Make More Money With Gift Cards](../knowledge/toast/toast-full-form/payments/restaurants-can-make-more-money.md)
 
-- **Serial 003 (Toast)**: [Logging In to Toast Payroll](../knowledge/toast/toast-short-form/labour/toast-payroll-portal-login-and-access.md) `[payroll, labor-management, employee-portal, onboarding]`
-- **Serial 020 (Toast)**: [Working smarter, not harder (thank you sous chefs - you make the world go round)](../knowledge/toast/toast-short-form/labour/working-smarter-not-harder-thank.md) `[labor-management, scheduling, staffing, labor-savings]`
-- **Serial 029 (Toast)**: [PART TWO! Restaurant People’s Secret Hiding Spots](../knowledge/toast/toast-short-form/labour/part-two-restaurant-peoples-secret.md) `[labor-management, scheduling, staffing, labor-savings]`
-- **Serial 036 (Toast)**: [You're still doing payroll like this?](../knowledge/toast/toast-short-form/labour/modernizing-restaurant-payroll-automation.md) `[payroll, labor-management, time-tracking, overhead-reduction]`
-- **Serial 040 (Toast)**: [How Toast Payroll Gave Sarah Her Time Back](../knowledge/toast/toast-short-form/labour/how-toast-payroll-gave-sarah.md) `[labor-management, scheduling, staffing, labor-savings]`
-- **Serial 041 (Toast)**: [Easy Communication Between Restaurant Managers](../knowledge/toast/toast-short-form/labour/easy-communication-between-restaurant-managers.md) `[labor-management, scheduling, staffing, labor-savings]`
-- **Serial 063 (Toast)**: [Server Side Work Made Easy](../knowledge/toast/toast-short-form/labour/server-side-work-made-easy.md) `[labor-management, scheduling, staffing, labor-savings]`
-- **Serial 079 (Toast)**: [POV: You’re the owner, manager, and marketer.](../knowledge/toast/toast-short-form/labour/pov-youre-owner-manager-marketer.md) `[labor-management, scheduling, staffing, labor-savings]`
-- **Serial 085 (Toast)**: [How this operator saved $4,000 on labor | Toast IQ](../knowledge/toast/toast-short-form/labour/saving-4000-dollars-on-restaurant-labor-with-ai.md) `[labor-savings, ai-scheduling, labor-cost-control, shift-optimization]`
-- **Serial 106 (Toast)**: [Recognize Your Best Restaurant Staff With Toast IQ](../knowledge/toast/toast-short-form/labour/recognizing-top-restaurant-staff-with-performance-data.md) `[staff-recognition, server-productivity, labor-management, retention]`
-- **Serial 112 (Toast)**: [How Toast IQ Preps Your Menu for Labor Day Weekend](../knowledge/toast/toast-short-form/labour/how-toast-iq-preps-menu.md) `[labor-management, scheduling, staffing, labor-savings]`
-- **Serial 113 (Toast)**: [How Toast IQ Found This Restaurant Thousands in Labor Savings](../knowledge/toast/toast-short-form/labour/ai-driven-labor-savings-and-overtime-elimination.md) `[labor-savings, overtime-control, labor-cost-percentage, workforce-management]`
+## Promotions (52 entries)
 
-## Marketing (125 entries)
+- **Serial 026**: [Key Information](../knowledge/owner/owner-short-form/promotions/new-years-hangover-special.md) `[holiday-promotions, new-years-day, low-food-cost, takeout-records]`
+- **Serial 029**: [Key Information](../knowledge/owner/owner-short-form/promotions/super-bowl-free-delivery-economics.md) `[free-delivery, event-marketing, average-check, super-bowl]`
+- **Serial 034**: [Key Information](../knowledge/owner/owner-short-form/promotions/cause-marketing-low-food-cost.md) `[cause-marketing, food-cost, charity-promotions, sustainability]`
+- **Serial 035**: [Key Information](../knowledge/owner/owner-short-form/promotions/urgency-scarcity-limited-time-deals.md) `[scarcity, urgency, lto, promotions, fear-of-missing-out]`
+- **Serial 042**: [Key Information](../knowledge/owner/owner-short-form/promotions/bogo-low-food-cost-threshold.md) `[bogo, food-cost-percentage, promotions, margin-protection]`
+- **Serial 049**: [Key Information](../knowledge/owner/owner-short-form/promotions/conditional-discount-app-adoption.md) `[conditional-discounts, mobile-app, customer-acquisition, order-frequency]`
+- **Serial 053**: [Key Information](../knowledge/owner/owner-short-form/promotions/how-free-items-make-your-restaurant-more-mone.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 054**: [Key Information](../knowledge/owner/owner-short-form/promotions/how-your-restaurant-makes-more-money-online.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 062**: [Key Information](../knowledge/owner/owner-short-form/promotions/your-restaurant-story.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 071**: [Key Information](../knowledge/owner/owner-short-form/promotions/how-to-rank-your-restaurant-higher-on-google.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 080**: [Key Information](../knowledge/owner/owner-short-form/promotions/the-surprising-reason-texas-roadhouse-copied.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 096**: [Key Information](../knowledge/owner/owner-short-form/promotions/how-to-get-a-mobile-app-for-your-restaurant-i.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 107**: [Key Information](../knowledge/owner/owner-short-form/promotions/red-lobsters-11-million-mistake-how-endless-s.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 136**: [Key Information](../knowledge/owner/owner-short-form/promotions/is-spending-millions-on-an-app-really-worth-i.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 153**: [Key Information](../knowledge/owner/owner-short-form/promotions/the-real-difference-between-successful-restau.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 161**: [Key Information](../knowledge/owner/owner-short-form/promotions/marketing-mistakes-that-destroyed-a-restauran.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 163**: [Key Information](../knowledge/owner/owner-short-form/promotions/stop-ignoring-customer-feedback-and-save-your.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 176**: [Key Information](../knowledge/owner/owner-short-form/promotions/why-restaurants-like-in-n-out-are-hiding-thei.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 179**: [Key Information](../knowledge/owner/owner-short-form/promotions/texas-roadhouses-secret-to-beating-the-compet.md) `[promotions, discounts, offers, customer-incentives]`
+- **Serial 206**: [Key Information](../knowledge/owner/owner-short-form/promotions/chilis-1099-deal-crushing-other.md) `[promotions, discounting, offers]`
+- **Serial 212**: [Key Information](../knowledge/owner/owner-short-form/promotions/restaurant-gives-away-free-meals.md) `[promotions, discounting, offers]`
+- **Serial 242**: [Key Information](../knowledge/owner/owner-short-form/promotions/giving-away-free-food-key.md) `[promotions, discounting, offers]`
+- **Serial 244**: [Key Information](../knowledge/owner/owner-short-form/promotions/pizza-shop-owner-bank-by.md) `[promotions, discounting, offers]`
+- **Serial 247**: [Key Information](../knowledge/owner/owner-short-form/promotions/free-tacos-made-restaurant-profitable.md) `[promotions, discounting, offers]`
+- **Serial 261**: [Key Information](../knowledge/owner/owner-short-form/promotions/chick-fil-a-billions-by-giving-away.md) `[promotions, discounting, offers]`
+- **Serial 274**: [Key Information](../knowledge/owner/owner-short-form/promotions/restaurant-doubles-profit-by-giving.md) `[promotions, discounting, offers]`
+- **Serial 325**: [Key Information](../knowledge/owner/owner-short-form/promotions/giving-away-30-sales-money.md) `[promotions, discounting, offers]`
+- **Serial 333**: [Key Information](../knowledge/owner/owner-short-form/promotions/25-free-pizzas-172000.md) `[promotions, discounting, offers]`
+- **Serial 334**: [Key Information](../knowledge/owner/owner-short-form/promotions/paneras-10-unlimited-drinks-deal.md) `[promotions, discounting, offers]`
+- **Serial 337**: [Key Information](../knowledge/owner/owner-short-form/promotions/she-gave-away-food-100.md) `[promotions, discounting, customer-acquisition]`
+- **Serial 349**: [Key Information](../knowledge/owner/owner-short-form/promotions/identity-discount-works-like-magic.md) `[promotions, discounting, offers]`
+- **Serial 366**: [Key Information](../knowledge/owner/owner-short-form/promotions/giving-away-30-money.md) `[promotions, discounting, offers]`
+- **Serial 367**: [Key Information](../knowledge/owner/owner-short-form/promotions/free-pizza-rolls-made-120000.md) `[promotions, discounting, offers]`
+- **Serial 377**: [Key Information](../knowledge/owner/owner-short-form/promotions/25-free-pizzas-made-172000.md) `[promotions, discounting, offers]`
+- **Serial 413**: [Key Information](../knowledge/owner/owner-short-form/promotions/discount-grew-her-sales.md) `[promotions, discounting, offers]`
+- **Serial 441**: [Key Information](../knowledge/owner/owner-short-form/promotions/limited-cups-starbucks-rich.md) `[promotions, discounting, customer-acquisition]`
+- **Serial 443**: [Key Information](../knowledge/owner/owner-short-form/promotions/discount-trap-talks-about.md) `[promotions, discounting, offers]`
+- **Serial 468**: [Key Information](../knowledge/owner/owner-short-form/promotions/25-free-pizzas-turned-172k.md) `[promotions, discounting, offers]`
+- **Serial 470**: [Key Information](../knowledge/owner/owner-short-form/promotions/free-hack-know-dishes-serve.md) `[promotions, discounting, offers]`
+- **Serial 473**: [Key Information](../knowledge/owner/owner-short-form/promotions/most-restaurants-get-valentines-day.md) `[promotions, discounting, offers]`
+- **Serial 488**: [Key Information](../knowledge/owner/owner-short-form/promotions/these-restaurants-disappearing.md) `[promotions, discounting, customer-acquisition]`
+- **Serial 508**: [Key Information](../knowledge/owner/owner-short-form/promotions/profitable-restaurants-push-gift-cards.md) `[promotions, discounting, offers]`
+- **Serial 511**: [Key Information](../knowledge/owner/owner-short-form/promotions/5-cost-cutting-strategies-restaurants.md) `[promotions, discounting, customer-acquisition]`
+- **Serial 582**: [Key Information](../knowledge/owner/owner-short-form/promotions/heres-i-turn-free-pizzas.md) `[promotions, discounting, offers]`
+- **Serial 616**: [Key Information](../knowledge/owner/owner-short-form/promotions/beat-restaurant-competitors-minutes-free.md) `[promotions, discounting, offers]`
+- **Serial 639**: [Key Information](../knowledge/owner/owner-short-form/promotions/3-restaurant-freebie-ideas-better.md) `[promotions, discounting, offers]`
+- **Serial 643**: [Key Information](../knowledge/owner/owner-short-form/promotions/five-guys-pays-people-eat.md) `[promotions, discounting, offers]`
+- **Serial 703**: [Key Information](../knowledge/owner/owner-short-form/promotions/3-psychology-tricks-grow-sales.md) `[promotions, discounting, offers]`
+- **Serial 098 (Toast Video)**: [How to Set Up Discounts for your Toast POS](../knowledge/toast/toast-full-form/promotions/set-up-discounts-pos.md)
+- **Serial 101 (Toast Video)**: [Use Discounts in Toast](../knowledge/toast/toast-full-form/promotions/use-discounts.md)
+- **Serial 109 (Toast Video)**: [Discounts vs Voids in Toast](../knowledge/toast/toast-full-form/promotions/discounts-vs-voids.md)
+- **Serial 308 (Toast Video)**: [How to Make Happy Hour Unforgettable](../knowledge/toast/toast-full-form/promotions/make-happy-hour-unforgettable.md)
 
-- **Serial 002**: [Best Google Keywords for Restaurant: SEO For Restaurants](../knowledge/owner/owner-short-form/marketing/restaurant-seo-keywords.md) `[seo, google-keywords, local-seo, acquisition]`
-- **Serial 003**: [Restaurant SEO Must-Have: Building Citations (Getting NAPs Right)](../knowledge/owner/owner-short-form/marketing/restaurant-seo-citations-nap.md) `[seo, local-seo, nap-consistency, citations, directories]`
-- **Serial 004**: [Restaurant SEO: Ranking #1 On Google Images Using Alt-Text](../knowledge/owner/owner-short-form/marketing/restaurant-image-alt-text-seo.md) `[seo, google-images, alt-text, acquisition, local-marketing]`
-- **Serial 008**: [Restaurant Marketing: Why Google SEO Beats Social Media](../knowledge/owner/owner-short-form/marketing/google-seo-vs-social-media-intent.md) `[seo, social-media, buyer-intent, conversion-rates]`
-- **Serial 009**: [Best restaurant homepage setup for conversion](../knowledge/owner/owner-short-form/marketing/restaurant-homepage-structure.md) `[website-design, conversion-rate, menu-preview, visual-marketing]`
-- **Serial 010**: [How to use restaurant reviews to increase sales](../knowledge/owner/owner-short-form/marketing/homepage-customer-reviews-seo.md) `[reviews, social-proof, seo-rankings, conversion]`
-- **Serial 011**: [How to use your restaurant website to build your email list](../knowledge/owner/owner-short-form/marketing/website-vip-club-lead-capture.md) `[email-marketing, lead-capture, vip-club, conversion]`
-- **Serial 013**: [Best restaurant website structure for conversion](../knowledge/owner/owner-short-form/marketing/restaurant-website-conversion-flow.md) `[website-design, conversion-rate, ux, online-ordering]`
-- **Serial 015**: [How The Best Restaurants Do Branding](../knowledge/owner/owner-short-form/marketing/target-customer-brand-positioning.md) `[branding, target-audience, customer-personas, positioning]`
-- **Serial 017**: [5 things restaurants need to automate their marketing](../knowledge/owner/owner-short-form/marketing/automated-marketing-data-collection.md) `[marketing-automation, sms-marketing, email-marketing, data-collection]`
-- **Serial 018**: [Why you need to be using this restaurant marketing strategy in 2023](../knowledge/owner/owner-short-form/marketing/founder-story-conversion-lift.md) `[storytelling, average-check, order-frequency, website-conversion]`
-- **Serial 019**: [How to advertise your restaurant on Google for free](../knowledge/owner/owner-short-form/marketing/item-specific-seo-landing-pages.md) `[seo, organic-traffic, landing-pages, menu-items]`
-- **Serial 020**: [3 things every successful restaurant has on their website](../knowledge/owner/owner-short-form/marketing/above-the-fold-homepage-elements.md) `[website-design, above-the-fold, social-proof, conversion]`
-- **Serial 024**: [How one restaurant successfully used this email to drive an extra $2,000 a month](../knowledge/owner/owner-short-form/marketing/weekly-specials-email-broadcast.md) `[email-marketing, sms-marketing, weekly-specials, sales-lift]`
-- **Serial 028**: [How this restaurant is getting a 1250% return with this marketing strategy](../knowledge/owner/owner-short-form/marketing/new-mover-direct-mail-roi.md) `[direct-mail, roi, customer-acquisition, new-movers]`
-- **Serial 030**: [The 2009 'Cardboard Pizza' commercial from Domino's that turned around their entire company](../knowledge/owner/owner-short-form/marketing/radical-transparency-advertising.md) `[transparency, brand-turnaround, advertising, customer-feedback]`
-- **Serial 031**: [Why direct mail marketing for restaurants is not dead in 2023](../knowledge/owner/owner-short-form/marketing/direct-mail-deliverability-and-standout.md) `[direct-mail, marketing-channels, attention, retention]`
-- **Serial 033**: [This is the perfect time to send direct mail as a restaurant if you want more regular customers](../knowledge/owner/owner-short-form/marketing/new-resident-direct-mail-timing.md) `[direct-mail, timing, new-residents, lead-filtering]`
-- **Serial 038**: [The 3 things every successful direct mail strategy for restaurants should have](../knowledge/owner/owner-short-form/marketing/direct-mail-core-components.md) `[direct-mail, copywriting, personalization, offers]`
-- **Serial 058**: [The Surprising Reason Sweetgreen Was Created](../knowledge/owner/owner-short-form/marketing/the-surprising-reason-sweetgreen-was-created.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 068**: [Why Instagram Isn't Boosting Restaurant Sales](../knowledge/owner/owner-short-form/marketing/why-instagram-isnt-boosting-restaurant-sales.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 072**: [How This Person Opened A Restaurant For Less Than $10,000](../knowledge/owner/owner-short-form/marketing/how-this-person-opened-a-restaurant-for-less.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 076**: [This Billion Dollar Restaurant Spends Zero On Ads](../knowledge/owner/owner-short-form/marketing/this-billion-dollar-restaurant-spends-zero-on.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 086**: [How The 80/20 Rule Applies To Restaurant Marketing](../knowledge/owner/owner-short-form/marketing/how-the-8020-rule-applies-to-restaurant-marke.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 087**: [The Cheapest Way To Open A Restaurant](../knowledge/owner/owner-short-form/marketing/the-cheapest-way-to-open-a-restaurant.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 092**: [How Texas Roadhouse Spends Zero On Ads](../knowledge/owner/owner-short-form/marketing/how-texas-roadhouse-spends-zero-on-ads.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 102**: [Why Private Equity Is Fueling Restaurant Chain Explosions](../knowledge/owner/owner-short-form/marketing/why-private-equity-is-fueling-restaurant-chai.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 113**: [Why Taco Bell's Breakfast GAMBLE Was a Game Changer](../knowledge/owner/owner-short-form/marketing/why-taco-bells-breakfast-gamble-was-a-game-ch.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 123**: [The Surprising Reason Texas Roadhouse Ignores Advertising!](../knowledge/owner/owner-short-form/marketing/the-surprising-reason-texas-roadhouse-ignores.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 132**: [Spy on Your Restaurant Competitors for FREE with AI](../knowledge/owner/owner-short-form/marketing/spy-on-your-restaurant-competitors-for-free-w.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 142**: [Boost Your Restaurant's Sales with a GREAT Digital Experience!](../knowledge/owner/owner-short-form/marketing/boost-your-restaurants-sales-with-a-great-dig.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 154**: [Restaurant Success Made Easy With This FREE AI Tool!](../knowledge/owner/owner-short-form/marketing/restaurant-success-made-easy-with-this-free-a.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 159**: [Texas Roadhouse Crushes Applebee's with THIS Simple Strategy!](../knowledge/owner/owner-short-form/marketing/texas-roadhouse-crushes-applebees-with-this-s.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 170**: [The SECRET to Attracting TOP Talent in Restaurants](../knowledge/owner/owner-short-form/marketing/the-secret-to-attracting-top-talent-in-restau.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 175**: [BILLIONAIRE Restaurant Owner Secrets REVEALED](../knowledge/owner/owner-short-form/marketing/billionaire-restaurant-owner-secrets-revealed.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 188**: [Meet the FISHERMAN Who Built a 7 Billion Dollar Chicken Finger Empire](../knowledge/owner/owner-short-form/marketing/meet-the-fisherman-who-built-a-7-billion-doll.md) `[marketing, customer-acquisition, digital-marketing, seo]`
-- **Serial 207**: [Free Restaurant SEO Guide That Actually Works in 2025](../knowledge/owner/owner-short-form/marketing/free-restaurant-seo-guide-actually.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 213**: [Why Texas Roadhouse DOMINATES Local Marketing While Others Fail?](../knowledge/owner/owner-short-form/marketing/texas-roadhouse-dominates-local-marketing.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 219**: [How This Free Tool Ranks Restaurants #1 on Google Search](../knowledge/owner/owner-short-form/marketing/free-tool-ranks-restaurants-1.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 222**: [The MARKETING Genius Behind Domino's Trump Ad](../knowledge/owner/owner-short-form/marketing/marketing-genius-behind-dominos-trump.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 228**: [How Small Restaurants Beat Big Brands on Google Search?](../knowledge/owner/owner-short-form/marketing/small-restaurants-beat-big-brands.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 241**: [Small Restaurant Makes MILLIONS With Simple Marketing Trick](../knowledge/owner/owner-short-form/marketing/small-restaurant-millions-simple-marketing.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 246**: [Why Your Free Restaurant Dessert Is A GENIUS Marketing Trick?](../knowledge/owner/owner-short-form/marketing/free-restaurant-dessert-genius-marketing.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 249**: [The Biggest Marketing Fail in Fast Food History](../knowledge/owner/owner-short-form/marketing/biggest-marketing-fail-fast-food.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 264**: [Why This Ice Cream Shop Makes $200,000 a Year!](../knowledge/owner/owner-short-form/marketing/ice-cream-shop-200000-year.md) `[marketing, local-seo, branding]`
-- **Serial 265**: [Are You Wasting Time on Social Media for Your Restaurant?](../knowledge/owner/owner-short-form/marketing/wasting-time-on-social-media.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 273**: [The GENIUS Restaurant Marketing Move Taco Bell Made](../knowledge/owner/owner-short-form/marketing/genius-restaurant-marketing-move-taco.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 282**: [The Secret Google Tool That Boosts Restaurant Profits!](../knowledge/owner/owner-short-form/marketing/google-tool-boosts-restaurant-profits.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 288**: [How AI Can Help Your Restaurant Beat the Competition in 2025!](../knowledge/owner/owner-short-form/marketing/ai-help-restaurant-beat-competition.md) `[marketing, local-seo, branding]`
-- **Serial 308**: [STOP Wasting Time on Social Media for Restaurant Sales](../knowledge/owner/owner-short-form/marketing/wasting-time-on-social-media-308.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 314**: [Can Your Restaurant Survive Without Social Media](../knowledge/owner/owner-short-form/marketing/restaurant-survive-without-social-media.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 339**: [Why Guerrilla Marketing is a STILL WORKS for Small Restaurants](../knowledge/owner/owner-short-form/marketing/guerrilla-marketing-still-works-small.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 378**: [This $200 Restaurant Trick Beats Expensive Ads!](../knowledge/owner/owner-short-form/marketing/200-restaurant-beats-expensive-ads.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 411**: [Free Churros Made This Restaurant Rich](../knowledge/owner/owner-short-form/marketing/free-churros-made-restaurant-rich.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 414**: [The breadstick trick that made me six figures more!](../knowledge/owner/owner-short-form/marketing/breadstick-made-me-six-figures.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 423**: [Stop Wasting Money on Social Media | Here's What Actually Works for Restaurants](../knowledge/owner/owner-short-form/marketing/wasting-money-on-social-media.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 434**: [Every Restaurant Owner MUST Read This Book!](../knowledge/owner/owner-short-form/marketing/restaurant-owner-must-read-book.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 437**: [Restaurant Owners Missing This on Their Websites](../knowledge/owner/owner-short-form/marketing/restaurant-owners-missing-on-websites.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 447**: [🤯 The $100,000 Restaurant Marketing Email](../knowledge/owner/owner-short-form/marketing/100000-restaurant-marketing-email.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 451**: [Google Trick Every Restaurant Owner Needs to Know](../knowledge/owner/owner-short-form/marketing/google-restaurant-owner-needs-know.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 455**: [Smart Restaurants Give THESE Away](../knowledge/owner/owner-short-form/marketing/smart-restaurants-give-these-away.md) `[marketing, local-seo, branding]`
-- **Serial 465**: [Why SEO Is So Powerful for Restaurants](../knowledge/owner/owner-short-form/marketing/seo-so-powerful-restaurants.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 469**: [Don't Let Your Restaurant Miss Out On The Super Bowl](../knowledge/owner/owner-short-form/marketing/let-restaurant-miss-out-on.md) `[marketing, local-seo, branding]`
-- **Serial 472**: [Why Good Food Isnt Enough For Restaurants](../knowledge/owner/owner-short-form/marketing/good-food-isnt-enough-restaurants.md) `[marketing, local-seo, branding]`
-- **Serial 476**: [Why Restaurants Let You DRAW On The Table?](../knowledge/owner/owner-short-form/marketing/restaurants-let-draw-on-table.md) `[marketing, local-seo, branding]`
-- **Serial 494**: [How Breadsticks Made My Restaurant Over $100,000](../knowledge/owner/owner-short-form/marketing/breadsticks-made-my-restaurant-over.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 499**: [Papa Johns' Fatal Marketing Mistake](../knowledge/owner/owner-short-form/marketing/papa-johns-fatal-marketing-mistake.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 502**: [Why Homemade Means Nothing in (most) Restaurants](../knowledge/owner/owner-short-form/marketing/homemade-means-nothing-most-restaurants.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 512**: [Restaurant Owners Are Getting Scammed #business #truth](../knowledge/owner/owner-short-form/marketing/restaurant-owners-getting-scammed-business.md) `[marketing, local-seo, branding]`
-- **Serial 520**: [What is NAP in Local SEO? Here's Why It Matters!](../knowledge/owner/owner-short-form/marketing/nap-local-seo-heres-it.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 528**: [Most Restaurants Get This Wrong #marketing #restaurantowner](../knowledge/owner/owner-short-form/marketing/most-restaurants-get-wrong-marketing.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 529**: [Here's How to Rank Your Restaurant On ChatGPT](../knowledge/owner/owner-short-form/marketing/heres-rank-restaurant-on-chatgpt.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 538**: [Real Restaurant Owner's Secret to Marketing and Growth](../knowledge/owner/owner-short-form/marketing/real-restaurant-owners-marketing-growth.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 543**: [BREAKING: Burger King Workers Now Have an AI Voice in Their Head Grading Their Friendliness](../knowledge/owner/owner-short-form/marketing/breaking-burger-king-workers-now.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 551**: [Most restaurant owners are leaving $15K on the table (here's what to do)](../knowledge/owner/owner-short-form/marketing/most-restaurant-owners-leaving-15k.md) `[marketing, local-seo, branding]`
-- **Serial 558**: [STOP trading hours for dollars if you want to scale!](../knowledge/owner/owner-short-form/marketing/trading-hours-dollars-if-want.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 561**: [“We rely on word of mouth” is why your sales are flat 🚩](../knowledge/owner/owner-short-form/marketing/we-rely-on-word-mouth.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 566**: [Why We Don't Promote Mother's Day (And What We Do Instead)](../knowledge/owner/owner-short-form/marketing/we-promote-mothers-day-we.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 568**: [One question added $25,000 a year to our catering sales](../knowledge/owner/owner-short-form/marketing/one-question-added-25000-year.md) `[marketing, customer-acquisition, local-seo]`
-- **Serial 572**: [Which Marketing Channel Makes Restaurants The Most Money?](../knowledge/owner/owner-short-form/marketing/which-marketing-channel-restaurants-most.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 579**: [3 Things Gwyneth Paltrows Restaurant Does That Independent Owners Should Copy](../knowledge/owner/owner-short-form/marketing/3-things-gwyneth-paltrows-restaurant.md) `[marketing, customer-acquisition]`
-- **Serial 588**: [Olive Garden’s Genius Free Breadstick Strategy](../knowledge/owner/owner-short-form/marketing/olive-gardens-genius-free-breadstick.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 590**: [The FREE AI tool every restaurant owner should be using right now in 2026](../knowledge/owner/owner-short-form/marketing/free-ai-tool-restaurant-owner.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 596**: [You can buy a restaurant for less than $50,000 in 2026](../knowledge/owner/owner-short-form/marketing/buy-restaurant-less-than-50000.md) `[marketing, customer-acquisition]`
-- **Serial 601**: [The Truth About Running a Restaurant Right Now](../knowledge/owner/owner-short-form/marketing/truth-about-running-restaurant-right.md) `[marketing, customer-acquisition]`
-- **Serial 605**: [The 3 jobs of a restaurant owner (most fail at the last one)](../knowledge/owner/owner-short-form/marketing/3-jobs-restaurant-owner-most.md) `[marketing, customer-acquisition]`
-- **Serial 606**: [Real Owner Reacts: Was That Actually Good Advice?](../knowledge/owner/owner-short-form/marketing/real-owner-reacts-was-actually.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 608**: [First Impressions Happen Before the First Bite](../knowledge/owner/owner-short-form/marketing/first-impressions-happen-before-first.md) `[marketing, customer-acquisition]`
-- **Serial 624**: [This one click difference costs restaurants millions](../knowledge/owner/owner-short-form/marketing/one-click-difference-costs-restaurants.md) `[marketing, customer-acquisition]`
-- **Serial 628**: [Differences Between a $1M and $10M Restaurant Owner](../knowledge/owner/owner-short-form/marketing/differences-between-1m-10m-restaurant.md) `[marketing, customer-acquisition]`
-- **Serial 630**: [How does a struggling pizzeria grow to $7M/year?](../knowledge/owner/owner-short-form/marketing/does-struggling-pizzeria-grow-7myear.md) `[marketing, customer-acquisition]`
-- **Serial 631**: [Stop Treating Your Business Like A Baby (Here’s Why)](../knowledge/owner/owner-short-form/marketing/treating-business-like-baby-heres.md) `[marketing, customer-acquisition]`
-- **Serial 635**: [Restaurant owners making $11,760/month with this one strategy](../knowledge/owner/owner-short-form/marketing/restaurant-owners-11760month-one-strategy.md) `[marketing, customer-acquisition]`
-- **Serial 637**: [How to Enforce Rules Without Being the Bad Guy (4 Steps)](../knowledge/owner/owner-short-form/marketing/enforce-rules-without-being-bad.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 640**: [How My Restaurant Made An Extra $187.000](../knowledge/owner/owner-short-form/marketing/my-restaurant-made-extra-187000.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 642**: [This Pizza Place Went From Broke to Booming, Heres How](../knowledge/owner/owner-short-form/marketing/pizza-place-went-broke-booming.md) `[marketing, customer-acquisition]`
-- **Serial 651**: [The No.1 Reason Independent Restaurants Fail Online](../knowledge/owner/owner-short-form/marketing/no1-reason-independent-restaurants-fail.md) `[marketing, customer-acquisition]`
-- **Serial 657**: [Your restaurant website doesnt need to be prettier. It needs to sell more.](../knowledge/owner/owner-short-form/marketing/restaurant-website-doesnt-need-be.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 658**: [Why Texas Roadhouse Banned General Managers](../knowledge/owner/owner-short-form/marketing/texas-roadhouse-banned-general-managers.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 665**: [The Most Expensive Lesson for Restaurant Owners (2026)](../knowledge/owner/owner-short-form/marketing/most-expensive-lesson-restaurant-owners.md) `[marketing, customer-acquisition]`
-- **Serial 677**: [How to scale from $800k to $1.4 million a year?](../knowledge/owner/owner-short-form/marketing/scale-800k-14-million-year.md) `[marketing, customer-acquisition]`
-- **Serial 678**: [How to Spot a Failing Restaurant in 30 Seconds](../knowledge/owner/owner-short-form/marketing/spot-failing-restaurant-30-seconds.md) `[marketing, customer-acquisition]`
-- **Serial 688**: [How Much Does It Actually Cost To Run A Pizza Restaurant?](../knowledge/owner/owner-short-form/marketing/much-does-it-actually-cost-688.md) `[marketing, customer-acquisition]`
-- **Serial 697**: [Stop Standardizing Everything, Use the Hospitality Functions Matrix Instead](../knowledge/owner/owner-short-form/marketing/standardizing-everything-use-hospitality-functions.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 698**: [Marketing Strategies That Actually Work for Restaurants In 2026](../knowledge/owner/owner-short-form/marketing/marketing-strategies-actually-work-restaurants.md) `[marketing, customer-acquisition]`
-- **Serial 700**: [Stop Using AI for Content Nobody Asked For (Do This Instead)](../knowledge/owner/owner-short-form/marketing/using-ai-content-asked-do.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 701**: [The Biggest Mistake Restaurant Owners Make & What To Do Instead](../knowledge/owner/owner-short-form/marketing/biggest-mistake-restaurant-owners-do.md) `[marketing, customer-acquisition, channel-roi]`
-- **Serial 719**: [Stop Making These Mistakes for Your Restaurant Website!](../knowledge/owner/owner-short-form/marketing/these-mistakes-restaurant-website.md) `[marketing, customer-acquisition, channel-roi]`
+## Purchasing (6 entries)
 
-### Long-Form In-Depth Intelligence
-
-- **Long-Form Serial 05**: [Numbers / Calculations](../knowledge/owner/owner-full-form/marketing/3-best-restaurant-marketing-strategies.md) `[local-seo, google-business-profile, upselling, average-order-value, automated-retention, reviews]`
-- **Long-Form Serial 07**: [Numbers / Calculations](../knowledge/owner/owner-full-form/marketing/7-money-making-emails-every-restaurant-should-send.md) `[email-marketing, customer-retention, cart-abandonment, review-generation, winback-campaigns, direct-ordering]`
-- **Long-Form Serial 08**: [Numbers / Calculations](../knowledge/owner/owner-full-form/marketing/new-mover-direct-mail-acquisition.md) `[direct-mail, new-movers, customer-acquisition, cac, pizzeria-marketing, local-marketing]`
-- **Long-Form Serial 09**: [Numbers / Calculations](../knowledge/owner/owner-full-form/marketing/facebook-ads-retargeting-and-lookalikes.md) `[facebook-ads, retargeting, lookalike-audiences, customer-acquisition, catering, ezcater, roas]`
-- **Long-Form Serial 11**: [Numbers / Calculations](../knowledge/owner/owner-full-form/marketing/top-proven-pizzeria-growth-strategies.md) `[pizzeria-marketing, local-seo, menu-item-pages, direct-mail, automated-retention, conversion-rate]`
-- **Long-Form Serial 12**: [Numbers / Calculations](../knowledge/owner/owner-full-form/marketing/building-a-profitable-restaurant-brand.md) `[branding, brand-strategy, ideal-customer-profile, restaurant-positioning, customer-loyalty]`
-- **Long-Form Serial 16**: [Numbers / Calculations](../knowledge/owner/owner-full-form/marketing/yelp-organic-conversion-and-review-management.md) `[yelp, review-management, customer-acquisition, reputation-management, call-to-action, online-conversion]`
-- **Long-Form Serial 22**: [Numbers / Calculations](../knowledge/owner/owner-full-form/marketing/four-growth-mistakes-independent-restaurants-make.md) `[marketing-mistakes, boost-post, influencer-marketing, ad-targeting, conversion-rate, direct-ordering]`
-- **Long-Form Serial 28**: [Restaurant Customer Acquisition: AI-Driven Local SEO vs. Social Media and Branded Mobile Apps](../knowledge/owner/owner-full-form/marketing/ai-seo-and-branded-mobile-apps.md) `[ai, seo, and, branded]`
-- **Long-Form Serial 31**: [Independent Restaurant Digital Transformation: App Economics, Low-COGS Loyalty, and Conversion Optimization](../knowledge/owner/owner-full-form/marketing/independent-restaurant-digital-conversion-playbook.md) `[independent, restaurant, digital, conversion]`
-- **Long-Form Serial 40**: [Independent Pizzeria Marketing: The Community Compound Effect, 10-Channel Campaigns, and the 8-Second Friction Test](../knowledge/owner/owner-full-form/marketing/pizza-marketing-and-reorder-friction-benchmarks.md) `[pizza, marketing, and, reorder]`
-- **Long-Form Serial 42**: [Seven Lifecycle Marketing Emails for Restaurant Revenue and Retention](../knowledge/owner/owner-full-form/marketing/seven-money-making-lifecycle-emails.md) `[seven, money, making, lifecycle]`
-- **Long-Form Serial 49**: [Automated Google Review Generation and Reputation Defense](../knowledge/owner/owner-full-form/marketing/automated-google-review-generation-and-reputation-defense.md) `[automated, google, review, generation]`
-- **Long-Form Serial 55**: [Strategic Table Upselling and Italian Dining Economics](../knowledge/owner/owner-full-form/marketing/strategic-upselling-and-italian-dining-economics.md) `[strategic, upselling, and, italian]`
-- **Long-Form Serial 62**: [Taco Bell Turnaround and Digital Loyalty Mechanics](../knowledge/owner/owner-full-form/marketing/taco-bell-turnaround-and-loyalty-mechanics.md) `[taco, bell, turnaround, and]`
-
-- **Serial 005 (Toast)**: [Go where your audience is – and this audience is *chronically* online. #shorts](../knowledge/toast/toast-short-form/marketing/short-form-video-marketing-online-audience.md) `[restaurant-marketing, social-media, customer-acquisition, brand-awareness]`
-- **Serial 082 (Toast)**: [For operators too busy to be full-time marketers… | Toast IQ Grow](../knowledge/toast/toast-short-form/marketing/operators-too-busy-be-full-time.md) `[restaurant-marketing, digital-marketing, customer-acquisition, growth]`
-
-## Menu (105 entries)
-
-- **Serial 014**: [The Alarming Reason Why Restaurants FAIL (Menu Market Fit)](../knowledge/owner/owner-short-form/menu/menu-market-fit-search-volume.md) `[menu-market-fit, demand-validation, search-volume, concept-planning]`
-- **Serial 021**: [Why every restaurant owner needs to know this psychology trick to increase sales](../knowledge/owner/owner-short-form/menu/menu-anchor-pricing-psychology.md) `[anchor-pricing, menu-psychology, average-check, pricing]`
-- **Serial 027**: [Why every restaurant should use THIS menu hack from Domino's pizza to avoid decision fatigue](../knowledge/owner/owner-short-form/menu/step-by-step-menu-decision-fatigue.md) `[decision-fatigue, menu-engineering, ordering-flow, conversion]`
-- **Serial 044**: [The Simple Restaurant Hack To Increase The Average Check Size](../knowledge/owner/owner-short-form/menu/free-item-average-check-threshold.md) `[average-check, spend-thresholds, upselling, food-cost]`
-- **Serial 050**: [Sushi Restaurants Use THIS Hack To Make More Profit](../knowledge/owner/owner-short-form/menu/menu-naming-perceived-value.md) `[menu-engineering, perceived-value, pricing-power, menu-naming]`
-- **Serial 064**: [How AI Is Helping Restaurants Make More Money](../knowledge/owner/owner-short-form/menu/how-ai-is-helping-restaurants-make-more-money.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 069**: [The Key To A Great Restaurant Website](../knowledge/owner/owner-short-form/menu/the-key-to-a-great-restaurant-website.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 079**: [Why Restaurants Shouldn't Boost Facebook Posts](../knowledge/owner/owner-short-form/menu/why-restaurants-shouldnt-boost-facebook-posts.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 088**: [How Restaurants Should Use Influencers](../knowledge/owner/owner-short-form/menu/how-restaurants-should-use-influencers.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 093**: [How To Find Trending Dishes For Your Restaurant](../knowledge/owner/owner-short-form/menu/how-to-find-trending-dishes-for-your-restaura.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 100**: [THIS Is Why Restaurant's Fail](../knowledge/owner/owner-short-form/menu/this-is-why-restaurants-fail.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 116**: [How to Use Google to Save Your Restaurant Business](../knowledge/owner/owner-short-form/menu/how-to-use-google-to-save-your-restaurant-bus.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 126**: [The #1 Marketing Hack Restaurants Are Using to Get Ahead!](../knowledge/owner/owner-short-form/menu/the-1-marketing-hack-restaurants-are-using-to.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 129**: [Is Your Restaurant Missing Out on $1.4 Million Because of THIS?](../knowledge/owner/owner-short-form/menu/is-your-restaurant-missing-out-on-14-million.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 149**: [Chick Fil A CRUSHES McDonalds and Starbucks in Sales](../knowledge/owner/owner-short-form/menu/chick-fil-a-crushes-mcdonalds-and-starbucks-i.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 180**: [What's Behind Chick fil A's $6.2B Empire Success](../knowledge/owner/owner-short-form/menu/whats-behind-chick-fil-as-62b-empire-success.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 184**: [The #1 Restaurant Hack NO ONE Tells You](../knowledge/owner/owner-short-form/menu/the-1-restaurant-hack-no-one-tells-you.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 193**: [The REAL Story Behind Chick-fil-A's Massive Success!](../knowledge/owner/owner-short-form/menu/the-real-story-behind-chick-fil-as-massive-su.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 195**: [In-N-Out's SECRET To Making DOUBLE The Money With LESS Menu Items](../knowledge/owner/owner-short-form/menu/in-n-outs-secret-to-making-double-the-money-w.md) `[menu-engineering, pricing-strategy, average-check, item-positioning]`
-- **Serial 205**: [The Secret Z-Pattern That Makes Restaurants Rich](../knowledge/owner/owner-short-form/menu/z-pattern-restaurants-rich.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 214**: [How Chick-fil-A Grew Their Menu Without Hurting Their Brand?](../knowledge/owner/owner-short-form/menu/chick-fil-a-grew-menu-without-hurting.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 220**: [The Simple Menu Trick That Made Chipotle a BILLION Dollar Brand!](../knowledge/owner/owner-short-form/menu/simple-menu-made-chipotle-billion.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 227**: [The Perfect Menu Size That Will Make Your Restaurant PROFITABLE!](../knowledge/owner/owner-short-form/menu/perfect-menu-size-will-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 231**: [How This Restaurant Hit $60M Sales Without Raising Menu Prices?](../knowledge/owner/owner-short-form/menu/restaurant-hit-60m-sales-without.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 232**: [Why Chipotle's Simple Menu Made Them BILLIONS](../knowledge/owner/owner-short-form/menu/chipotles-simple-menu-made-them.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 234**: [The Secret Psychology Behind Profitable Restaurant Menus](../knowledge/owner/owner-short-form/menu/psychology-behind-profitable-restaurant-menus.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 237**: [The Shocking Truth About RESTAURANT Pricing Strategies](../knowledge/owner/owner-short-form/menu/shocking-truth-about-restaurant-pricing.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 248**: [Why Pizza Hut Added Xbox Gaming to Their Menu?](../knowledge/owner/owner-short-form/menu/pizza-hut-added-xbox-gaming.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 251**: [This Simple Sushi Menu Trick Makes Restaurants an Extra $6 Per Roll!](../knowledge/owner/owner-short-form/menu/simple-sushi-menu-restaurants-extra.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 252**: [The MASSIVE Menu Mistake That Destroyed Boston Market](../knowledge/owner/owner-short-form/menu/massive-menu-mistake-destroyed-boston.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 253**: [Why 90% of Restaurants FAIL in Their First Year?](../knowledge/owner/owner-short-form/menu/90-restaurants-fail-first-year.md) `[menu-engineering, pricing-strategy]`
-- **Serial 254**: [The Hidden Math Behind Restaurant Menu Pricing in 2025](../knowledge/owner/owner-short-form/menu/hidden-math-behind-restaurant-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 271**: [The SECRET Behind Cava's Small Menu](../knowledge/owner/owner-short-form/menu/behind-cavas-small-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 284**: [Why Fewer Menu Choices Make Your Restaurant More Money!](../knowledge/owner/owner-short-form/menu/fewer-menu-choices-restaurant-money.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 285**: [Are Complex Menus SECRETLY SABOTAGING Your Restaurant's Success?](../knowledge/owner/owner-short-form/menu/complex-menus-secretly-sabotaging-restaurants.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 296**: [Why Does In-N-Out Beat McDonald's With a Tiny Menu?](../knowledge/owner/owner-short-form/menu/does-in-n-out-beat-mcdonalds-tiny.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 310**: [Why Most Restaurants Get Their Menu Wrong!](../knowledge/owner/owner-short-form/menu/most-restaurants-get-menu-wrong.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 317**: [Are Fancy Food Names Hurting Your Restaurant Sales?](../knowledge/owner/owner-short-form/menu/fancy-food-names-hurting-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 324**: [Why Most Restaurant Menus Are Killing Their Profits?](../knowledge/owner/owner-short-form/menu/most-restaurant-menus-killing-profits.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 331**: [The Secret Tool Every Restaurant Needs!](../knowledge/owner/owner-short-form/menu/tool-restaurant-needs.md) `[menu-engineering, pricing-strategy]`
-- **Serial 335**: [Why This Pickle Sandwich Shop Is Blowing Up](../knowledge/owner/owner-short-form/menu/pickle-sandwich-shop-blowing-up.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 342**: [The Hidden Trick Behind Popular Restaurant Menus](../knowledge/owner/owner-short-form/menu/hidden-behind-popular-restaurant-menus.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 345**: [Are You Making This One Pricing Mistake That Costs You Money](../knowledge/owner/owner-short-form/menu/one-pricing-mistake-costs-money.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 346**: [Why Too Many Choices Hurt Your Restaurant!](../knowledge/owner/owner-short-form/menu/too-many-choices-hurt-restaurant.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 348**: [This Simple Menu Page Boosts Your Google Traffic!](../knowledge/owner/owner-short-form/menu/simple-menu-page-boosts-google.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 351**: [Don't Make This BIG Menu Mistake That Kills Your Sales](../knowledge/owner/owner-short-form/menu/big-menu-mistake-kills-sales.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 358**: [The SECRET Behind Cava's Small Menu](../knowledge/owner/owner-short-form/menu/behind-cavas-small-menu-358.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 371**: [Why Most Restaurants Fail And How To Fix It](../knowledge/owner/owner-short-form/menu/most-restaurants-fail-fix-it.md) `[menu-engineering, pricing-strategy]`
-- **Serial 388**: [STOP Using Boring Menu Descriptions That COST You Sales](../knowledge/owner/owner-short-form/menu/using-boring-menu-descriptions-cost.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 408**: [Catering Pricing Hack: The Correct Formula](../knowledge/owner/owner-short-form/menu/catering-pricing-hack-correct-formula.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 409**: [The One Thing Top Restaurants Do Different](../knowledge/owner/owner-short-form/menu/one-thing-top-restaurants-do.md) `[menu-engineering, pricing-strategy]`
-- **Serial 424**: [The Genius Behind Chipotle's Limited Menu](../knowledge/owner/owner-short-form/menu/genius-behind-chipotles-limited-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 427**: [The Menu Design Trick That Doubles Restaurant Profits](../knowledge/owner/owner-short-form/menu/menu-design-doubles-restaurant-profits.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 431**: [The Emotional Trick Behind a 15% Restaurant Traffic Spike](../knowledge/owner/owner-short-form/menu/emotional-behind-15-restaurant-traffic.md) `[menu-engineering, pricing-strategy]`
-- **Serial 436**: [Why Raising Cane's rejected 99% of the menu and won?](../knowledge/owner/owner-short-form/menu/raising-canes-rejected-99-menu.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 446**: [This menu item has a 1,900% profit margin](../knowledge/owner/owner-short-form/menu/menu-item-has-1900-profit.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 454**: [Ozempic Just Changed How Restaurants Need to Cook](../knowledge/owner/owner-short-form/menu/ozempic-changed-restaurants-need-cook.md) `[menu-engineering, pricing-strategy]`
-- **Serial 460**: [STOP Leaving $215,000 On the Table!](../knowledge/owner/owner-short-form/menu/leaving-215000-on-table.md) `[menu-engineering, pricing-strategy]`
-- **Serial 464**: [Why Viral Restaurant Dishes Fail](../knowledge/owner/owner-short-form/menu/viral-restaurant-dishes-fail.md) `[menu-engineering, pricing-strategy]`
-- **Serial 474**: [Why Your Restaurant's Cocktail Is Underpriced](../knowledge/owner/owner-short-form/menu/restaurants-cocktail-underpriced.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 477**: [How To Calculate Labor Cost For a Catering Order](../knowledge/owner/owner-short-form/menu/calculate-labor-cost-catering-order.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 479**: [What's The Ideal Number of Menu Items for Restaurants?](../knowledge/owner/owner-short-form/menu/whats-ideal-number-menu-items.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 487**: [Can You Spot Red Flags in a Restaurant?](../knowledge/owner/owner-short-form/menu/spot-red-flags-restaurant.md) `[menu-engineering, pricing-strategy]`
-- **Serial 491**: [How To Price a Catering Order for 85 People](../knowledge/owner/owner-short-form/menu/price-catering-order-85-people.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 501**: [How To Price A Catering Order (Double Your Profit)](../knowledge/owner/owner-short-form/menu/price-catering-order-double-profit.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 503**: [Why Rich Owners Cut Their Menu in Half](../knowledge/owner/owner-short-form/menu/rich-owners-cut-menu-half.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 504**: [Never Put THESE Words On Your Menu](../knowledge/owner/owner-short-form/menu/never-put-these-words-on.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 510**: [3 Steps to Turn Your Menu into a Money-Maker [Menu Matrix]](../knowledge/owner/owner-short-form/menu/3-steps-turn-menu-money-maker.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 513**: [Your Menu is Too Cluttered (Here's Why)](../knowledge/owner/owner-short-form/menu/menu-too-cluttered-heres.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 516**: [The In-N-Out Burger Formula: High Pay, Simple Menu, Massive Profits](../knowledge/owner/owner-short-form/menu/in-n-out-burger-formula-high-pay.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 530**: [The $120 steak is SECRETLY making you spend more on everything else](../knowledge/owner/owner-short-form/menu/120-steak-secretly-spend-on.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 531**: [EVERY Profitable Restaurant Must Have These 5 Menu Items](../knowledge/owner/owner-short-form/menu/profitable-restaurant-must-have-these.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 549**: [3 Menu Hacks That Lead to More Sales in 2026](../knowledge/owner/owner-short-form/menu/3-menu-hacks-lead-sales.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 555**: [The Simple Fix To Abandoned Orders (Real Example)](../knowledge/owner/owner-short-form/menu/simple-fix-abandoned-orders-real.md) `[menu-engineering, pricing-strategy]`
-- **Serial 563**: [Gordon Ramsay doesn’t just cook better, he designs menus to make you spend more!](../knowledge/owner/owner-short-form/menu/gordon-ramsay-doesnt-cook-better.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 564**: [Confusing Menus Kill More Restaurants Than Bad Food](../knowledge/owner/owner-short-form/menu/confusing-menus-kill-restaurants-than.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 567**: [Most Bars Are Underpricing Cocktails Without Realizing It](../knowledge/owner/owner-short-form/menu/most-bars-underpricing-cocktails-without.md) `[menu-engineering, pricing-strategy, menu-design]`
-- **Serial 587**: [This Mind Trick Raises Check Averages By 40%](../knowledge/owner/owner-short-form/menu/mind-raises-check-averages-by.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 592**: [6 Steps to 6-Figure Catering Revenue (Easy Guide)](../knowledge/owner/owner-short-form/menu/6-steps-6-figure-catering-revenue.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 598**: [Your Menu Modifiers Might Be Backwards](../knowledge/owner/owner-short-form/menu/menu-modifiers-might-be-backwards.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 600**: [The Exact Formula to Price Every Add-On on Your Menu](../knowledge/owner/owner-short-form/menu/exact-formula-price-add-on-on.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 603**: [The psychology behind how people read menus](../knowledge/owner/owner-short-form/menu/psychology-behind-people-read-menus.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 604**: [Stop ignoring this high margin menu hack](../knowledge/owner/owner-short-form/menu/ignoring-high-margin-menu-hack.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 615**: [$1,000 Machine That Makes Drinks Worth Triple](../knowledge/owner/owner-short-form/menu/1000-machine-drinks-worth-triple.md) `[menu-engineering, pricing-strategy]`
-- **Serial 644**: [5 Words to NEVER Put On a Menu (2026)](../knowledge/owner/owner-short-form/menu/5-words-never-put-on.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 661**: [Why You Should Care About the Fertilizer Crisis](../knowledge/owner/owner-short-form/menu/should-care-about-fertilizer-crisis.md) `[menu-engineering, pricing-strategy]`
-- **Serial 667**: [The Correct Way to Calculate Menu Price (Not the 3x Rule)](../knowledge/owner/owner-short-form/menu/correct-way-calculate-menu-price.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 670**: [Why Your Big Menu Is Killing Your Restaurant](../knowledge/owner/owner-short-form/menu/big-menu-killing-restaurant.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 679**: [What’s the “Lipstick Index”?](../knowledge/owner/owner-short-form/menu/whats-lipstick-index.md) `[menu-engineering, pricing-strategy]`
-- **Serial 685**: [The Science of Selling: How Many Items Should Be on Your Menu?](../knowledge/owner/owner-short-form/menu/science-selling-many-items-should.md) `[menu-engineering, pricing-strategy, check-average]`
-- **Serial 707**: [Whats the Difference Between Average Check and Average Cover? [Explained]](../knowledge/owner/owner-short-form/menu/whats-difference-between-average-check.md) `[menu-engineering, pricing-strategy]`
-
-### Long-Form In-Depth Intelligence
-
-- **Long-Form Serial 25**: [Numbers / Calculations](../knowledge/owner/owner-full-form/menu/menu-engineering-and-profit-matrix.md) `[menu-engineering, boston-matrix, stars-plowhorses-puzzles-dogs, z-pattern, pricing-psychology, menu-descriptions, contribution-margin]`
-- **Long-Form Serial 32**: [Menu Engineering Failure: Competitive Substitution, Operational Bloat, and the Collapse of Boston Market](../knowledge/owner/owner-full-form/menu/competitive-substitution-and-boston-market-collapse.md) `[competitive, substitution, and, boston]`
-- **Long-Form Serial 50**: [Digital Menu Engineering and Modifier Architecture](../knowledge/owner/owner-full-form/menu/digital-menu-engineering-and-modifier-architecture.md) `[digital, menu, engineering, and]`
-- **Long-Form Serial 53**: [Olive Garden Unit Economics and Perceived Value Strategy](../knowledge/owner/owner-full-form/menu/olive-garden-unit-economics-and-perceived-value.md) `[olive, garden, unit, economics]`
-
-- **Serial 009 (Toast)**: [Introducing: The Menu Engineering Matrix ✨ #toasttab](../knowledge/toast/toast-short-form/menu/menu-engineering-matrix-four-performer-quadrants.md) `[menu-engineering, item-profitability, menu-matrix, contribution-margin]`
-- **Serial 010 (Toast)**: [Every menu has its shining stars. Cherish them, advertise them, spotlight them ⭐ #toasttab](../knowledge/toast/toast-short-form/menu/menu-engineering-stars-strategy.md) `[menu-engineering, menu-stars, item-positioning, profit-optimization]`
-- **Serial 012 (Toast)**: [Tips for the menu items that are bringing down your bottom line 💡 #toasttab](../knowledge/toast/toast-short-form/menu/menu-engineering-dogs-elimination-strategy.md) `[menu-engineering, menu-dogs, waste-reduction, prep-efficiency]`
-- **Serial 015 (Toast)**: [Introducing Signature Dish with Sophia Roe](../knowledge/toast/toast-short-form/menu/introducing-signature-dish-sophia-roe.md) `[menu-engineering, item-profitability, pricing-strategy, margin-optimization]`
-- **Serial 018 (Toast)**: [No need to guess your signature dish – Toast can tell you.](../knowledge/toast/toast-short-form/menu/no-need-guess-signature-dish.md) `[menu-engineering, item-profitability, pricing-strategy, margin-optimization]`
-- **Serial 022 (Toast)**: [Understanding the menu engineering matrix—category is: STARS](../knowledge/toast/toast-short-form/menu/menu-engineering-deep-dive-stars.md) `[menu-engineering, menu-stars, pricing-strategy, profit-engineering]`
-- **Serial 027 (Toast)**: [If you don’t have mocktails on your menu, you’re missing out!](../knowledge/toast/toast-short-form/menu/if-you-dont-have-mocktails.md) `[menu-engineering, item-profitability, pricing-strategy, margin-optimization]`
-- **Serial 037 (Toast)**: [Do you have a real menu upsell strategy?](../knowledge/toast/toast-short-form/menu/restaurant-menu-upsell-strategy.md) `[menu-upselling, average-check, server-training, modifier-pricing]`
-- **Serial 104 (Toast)**: [Watch AI Catch (and Fix) a Menu Typo in Real Time](../knowledge/toast/toast-short-form/menu/watch-ai-catch-fix-menu.md) `[menu-engineering, item-profitability, pricing-strategy, margin-optimization]`
-- **Serial 105 (Toast)**: [One Operator's Menu Rework Took 3 Hours, Not Weeks, With Toast IQ](../knowledge/toast/toast-short-form/menu/compressing-menu-rework-time-with-ai.md) `[menu-management, menu-engineering, workflow-speed, operational-efficiency]`
-
-## Operations (234 entries)
-
-- **Serial 007**: [How Branded Apps Can Help Restaurant Owners Expand To Multiple Locations](../knowledge/owner/owner-short-form/operations/location-data-expansion-push-notifications.md) `[multi-unit, expansion, location-analytics, push-notifications]`
-- **Serial 012**: [The #1 key to succeeding in restaurants](../knowledge/owner/owner-short-form/operations/hospitality-mindset-operations.md) `[hospitality, customer-service, operations, culture]`
-- **Serial 063**: [Restaurants Are Using Instagram WRONG](../knowledge/owner/owner-short-form/operations/restaurants-are-using-instagram-wrong.md) `[operations, restaurant-management, systems]`
-- **Serial 075**: [Should You Buy A Failing Restaurant?](../knowledge/owner/owner-short-form/operations/should-you-buy-a-failing-restaurant.md) `[operations, restaurant-management, systems]`
-- **Serial 106**: [The Shocking Truth About Restaurant Leases](../knowledge/owner/owner-short-form/operations/the-shocking-truth-about-restaurant-leases.md) `[operations, restaurant-management, systems]`
-- **Serial 166**: [Want a Thriving Restaurant? Look for This One Quality in a Manager](../knowledge/owner/owner-short-form/operations/want-a-thriving-restaurant-look-for-this-one.md) `[operations, restaurant-management, systems]`
-- **Serial 178**: [The RICHEST Restaurant Owner You've Never Heard Of!](../knowledge/owner/owner-short-form/operations/the-richest-restaurant-owner-youve-never-hear.md) `[operations, restaurant-management, systems]`
-- **Serial 201**: [I Discovered The SECRET To Texas Roadhouse's MILLIONS](../knowledge/owner/owner-short-form/operations/i-discovered-texas-roadhouses-millions.md) `[operations, restaurant-management, workflow]`
-- **Serial 203**: [How In-N-Out Makes Fresh Food So Affordable](../knowledge/owner/owner-short-form/operations/in-n-out-fresh-food-so-affordable.md) `[operations, restaurant-management, workflow]`
-- **Serial 204**: [Why This Billion Dollar Restaurant Chain DISAPPEARED?](../knowledge/owner/owner-short-form/operations/billion-dollar-restaurant-chain-disappeared.md) `[operations, restaurant-management, workflow]`
-- **Serial 208**: [Subway's $10B STRATEGY To Outsmart Competitors](../knowledge/owner/owner-short-form/operations/subways-10b-strategy-outsmart-competitors.md) `[operations, restaurant-management, workflow]`
-- **Serial 210**: [Why This Tiny 900 Square Foot Restaurant Made MILLIONS?](../knowledge/owner/owner-short-form/operations/tiny-900-square-foot-restaurant.md) `[operations, restaurant-management, workflow]`
-- **Serial 211**: [How A Failed College Project Became A $7 BILLION Restaurant Empire?](../knowledge/owner/owner-short-form/operations/failed-college-project-became-7.md) `[operations, restaurant-management, workflow]`
-- **Serial 226**: [Restaurant Franchise Success SECRETS That Nobody Talks About!](../knowledge/owner/owner-short-form/operations/restaurant-franchise-success-secrets-talks.md) `[operations, restaurant-management, workflow]`
-- **Serial 229**: [How In-N-Out Changed Fast Food Forever With a $5 Military Speaker](../knowledge/owner/owner-short-form/operations/in-n-out-changed-fast-food-forever.md) `[operations, restaurant-management, workflow]`
-- **Serial 233**: [The Genius Strategy Behind This $5B Restaurant Success?](../knowledge/owner/owner-short-form/operations/genius-strategy-behind-5b-restaurant.md) `[operations, restaurant-management, workflow]`
-- **Serial 235**: [Why Smart Restaurant Owners EMBRACE Their Weaknesses?](../knowledge/owner/owner-short-form/operations/smart-restaurant-owners-embrace-weaknesses.md) `[operations, restaurant-management, workflow]`
-- **Serial 238**: [The Genius Behind Panera's Unlimited Drink Strategy](../knowledge/owner/owner-short-form/operations/genius-behind-paneras-unlimited-drink.md) `[operations, restaurant-management, workflow]`
-- **Serial 239**: [The 2 Minute Hack That Will Boost Your Restaurant Rankings!](../knowledge/owner/owner-short-form/operations/2-minute-hack-will-boost.md) `[operations, restaurant-management, workflow]`
-- **Serial 255**: [How One Pizza Shop Beat 78,000 Competitors With SPICE!](../knowledge/owner/owner-short-form/operations/one-pizza-shop-beat-78000.md) `[operations, restaurant-management, workflow]`
-- **Serial 256**: [Why Restaurant Marriages FAIL And How To Fix Them?](../knowledge/owner/owner-short-form/operations/restaurant-marriages-fail-fix-them.md) `[operations, restaurant-management, workflow]`
-- **Serial 257**: [Why Small Towns Made Texas Roadhouse MILLIONS?](../knowledge/owner/owner-short-form/operations/small-towns-made-texas-roadhouse.md) `[operations, restaurant-management, workflow]`
-- **Serial 260**: [Why Does Every In-N-Out Have Two Palm Trees Outside?](../knowledge/owner/owner-short-form/operations/does-in-n-out-have-two-palm.md) `[operations, restaurant-management, workflow]`
-- **Serial 266**: [The Secret Story Behind Subway's Billion Dollar Success](../knowledge/owner/owner-short-form/operations/story-behind-subways-billion-dollar.md) `[operations, restaurant-management, workflow]`
-- **Serial 272**: [The Surprising Reason WHY In-N-Out Beats McDonald's](../knowledge/owner/owner-short-form/operations/surprising-reason-in-n-out-beats-mcdonalds.md) `[operations, restaurant-management, workflow]`
-- **Serial 275**: [One Dish Made This Restaurant Owner $7 BILLION](../knowledge/owner/owner-short-form/operations/one-dish-made-restaurant-owner.md) `[operations, restaurant-management, workflow]`
-- **Serial 279**: [Can Small Restaurants Compete Like Chick-fil-A?](../knowledge/owner/owner-short-form/operations/small-restaurants-compete-like-chick-fil-a.md) `[operations, restaurant-management, workflow]`
-- **Serial 280**: [Why Shake Shack’s Tiny Space Made It Huge!](../knowledge/owner/owner-short-form/operations/shake-shacks-tiny-space-made.md) `[operations, restaurant-management, workflow]`
-- **Serial 289**: [Panera Bread's Unlimited Drink Strategy is a GAME CHANGER for Restaurants](../knowledge/owner/owner-short-form/operations/panera-breads-unlimited-drink-strategy.md) `[operations, restaurant-management, workflow]`
-- **Serial 292**: [Why Did People Sneak Food Into Panera Bread?](../knowledge/owner/owner-short-form/operations/people-sneak-food-panera-bread.md) `[operations, restaurant-management, workflow]`
-- **Serial 294**: [Did This Tiny Restaurant Hack Make Shake Shack Huge?](../knowledge/owner/owner-short-form/operations/tiny-restaurant-hack-shake-shack.md) `[operations, restaurant-management, workflow]`
-- **Serial 301**: [Why Letting Anyone Franchise Your Restaurant Is a Huge Mistake](../knowledge/owner/owner-short-form/operations/letting-anyone-franchise-restaurant-huge.md) `[operations, restaurant-management, workflow]`
-- **Serial 303**: [Can Restaurants REALLY Recover from a Food Safety Crisis?](../knowledge/owner/owner-short-form/operations/restaurants-really-recover-food-safety.md) `[operations, restaurant-management, workflow]`
-- **Serial 313**: [Why McDonald's Makes More From Fries Than Burgers!](../knowledge/owner/owner-short-form/operations/mcdonalds-fries-than-burgers.md) `[operations, restaurant-management, workflow]`
-- **Serial 315**: [Why Small Towns are the KEY to Texas Roadhouse's MASSIVE Success](../knowledge/owner/owner-short-form/operations/small-towns-key-texas-roadhouses.md) `[operations, restaurant-management, workflow]`
-- **Serial 316**: [The Surprising Secret Behind Panera Bread’s Success!](../knowledge/owner/owner-short-form/operations/surprising-behind-panera-breads-success.md) `[operations, restaurant-management, workflow]`
-- **Serial 320**: [Why Did Domino's Change Its Name?](../knowledge/owner/owner-short-form/operations/dominos-change-its-name.md) `[operations, restaurant-management, workflow]`
-- **Serial 322**: [Can AI Save Your Restaurant in 2026?](../knowledge/owner/owner-short-form/operations/ai-save-restaurant-2026.md) `[operations, restaurant-management, workflow]`
-- **Serial 323**: [Did This Food Trend Just Vanish Overnight?](../knowledge/owner/owner-short-form/operations/food-trend-vanish-overnight.md) `[operations, restaurant-management, workflow]`
-- **Serial 329**: [How One Mistake Costs Your Restaurant $720!](../knowledge/owner/owner-short-form/operations/one-mistake-costs-restaurant-720.md) `[operations, restaurant-management, workflow]`
-- **Serial 332**: [This Restaurant's Wild Idea Changed Everything!](../knowledge/owner/owner-short-form/operations/restaurants-wild-idea-changed-everything.md) `[operations, restaurant-management, workflow]`
-- **Serial 338**: [How Restaurants Can Fight Inflation](../knowledge/owner/owner-short-form/operations/restaurants-fight-inflation.md) `[operations, restaurant-management, workflow]`
-- **Serial 352**: [How a Tiny Space Made Shake Shack Famous](../knowledge/owner/owner-short-form/operations/tiny-space-made-shake-shack.md) `[operations, restaurant-management, workflow]`
-- **Serial 356**: [The Secret To Growing Your Restaurant Fast!](../knowledge/owner/owner-short-form/operations/growing-restaurant-fast.md) `[operations, restaurant-management, workflow]`
-- **Serial 361**: [The Secret Behind Taco Bell's Big Comeback!](../knowledge/owner/owner-short-form/operations/behind-taco-bells-big-comeback.md) `[operations, restaurant-management, workflow]`
-- **Serial 362**: [The Surprising Mistake That Destroyed Boston Market!](../knowledge/owner/owner-short-form/operations/surprising-mistake-destroyed-boston-market.md) `[operations, restaurant-management, workflow]`
-- **Serial 363**: [How a Teen Built a Sandwich Empire!](../knowledge/owner/owner-short-form/operations/teen-built-sandwich-empire.md) `[operations, restaurant-management, workflow]`
-- **Serial 365**: [Make Your Restaurant Work Without You](../knowledge/owner/owner-short-form/operations/restaurant-work-without.md) `[operations, restaurant-management, workflow]`
-- **Serial 375**: [What Makes Texas Roadhouse So Popular?](../knowledge/owner/owner-short-form/operations/texas-roadhouse-so-popular.md) `[operations, restaurant-management, workflow]`
-- **Serial 376**: [This Is How Struggling Restaurants Became Goldmines](../knowledge/owner/owner-short-form/operations/struggling-restaurants-became-goldmines.md) `[operations, restaurant-management, workflow]`
-- **Serial 384**: [Are You Making This Expensive Restaurant Mistake?](../knowledge/owner/owner-short-form/operations/expensive-restaurant-mistake.md) `[operations, restaurant-management, workflow]`
-- **Serial 387**: [The Secret Behind Chick-fil-A's Friendly Service](../knowledge/owner/owner-short-form/operations/behind-chick-fil-as-friendly-service.md) `[operations, restaurant-management, workflow]`
-- **Serial 392**: [Why Every Restaurant Needs AI in 2026!](../knowledge/owner/owner-short-form/operations/restaurant-needs-ai-2026.md) `[operations, restaurant-management, workflow]`
-- **Serial 393**: [This Restaurant Said NO To Custom Orders And It Worked](../knowledge/owner/owner-short-form/operations/restaurant-said-no-custom-orders.md) `[operations, restaurant-management, workflow]`
-- **Serial 395**: [Panera's SECRET to a $6.4B Franchise Empire Revealed](../knowledge/owner/owner-short-form/operations/paneras-64b-franchise-empire-revealed.md) `[operations, restaurant-management, workflow]`
-- **Serial 403**: [The Genius Trick Behind Shake Shack's Long Lines!](../knowledge/owner/owner-short-form/operations/genius-behind-shake-shacks-long.md) `[operations, restaurant-management, systems]`
-- **Serial 404**: [Why Outside Food Helped Panera Become a $6.4B Empire](../knowledge/owner/owner-short-form/operations/outside-food-helped-panera-become.md) `[operations, restaurant-management, systems]`
-- **Serial 405**: [Boston Market's BIGGEST Mistake That Led to Bankruptcy](../knowledge/owner/owner-short-form/operations/boston-markets-biggest-mistake-led.md) `[operations, restaurant-management, systems]`
-- **Serial 412**: [Why Catering Prints Money for Restaurants](../knowledge/owner/owner-short-form/operations/catering-prints-money-restaurants.md) `[operations, restaurant-management, systems]`
-- **Serial 420**: [Panera Cracked the Code Nobody Thought Possible](../knowledge/owner/owner-short-form/operations/panera-cracked-code-thought-possible.md) `[operations, restaurant-management, systems]`
-- **Serial 421**: [This $600K Problem Destroys Restaurants](../knowledge/owner/owner-short-form/operations/600k-problem-destroys-restaurants.md) `[operations, restaurant-management, systems]`
-- **Serial 422**: [Why In-N-Out is Cheaper and Fresher Than Every Competitor](../knowledge/owner/owner-short-form/operations/in-n-out-cheaper-fresher-than-competitor.md) `[operations, restaurant-management, systems]`
-- **Serial 428**: [The $1 Raise That Could Break Your Restaurant](../knowledge/owner/owner-short-form/operations/1-raise-could-break-restaurant.md) `[operations, restaurant-management, systems]`
-- **Serial 429**: [Why Did Red Lobster Go Bankrupt?](../knowledge/owner/owner-short-form/operations/red-lobster-go-bankrupt.md) `[operations, restaurant-management, systems]`
-- **Serial 430**: [Restaurants making bank this December all do the same thing!](../knowledge/owner/owner-short-form/operations/restaurants-bank-december-all-do.md) `[operations, restaurant-management, systems]`
-- **Serial 439**: [The Three Rules That Built Jersey Mike's](../knowledge/owner/owner-short-form/operations/three-rules-built-jersey-mikes.md) `[operations, restaurant-management, systems]`
-- **Serial 440**: [This Pizza Bankruptcy Reveals a Brutal Truth](../knowledge/owner/owner-short-form/operations/pizza-bankruptcy-reveals-brutal-truth.md) `[operations, restaurant-management, systems]`
-- **Serial 442**: [The #1 Mistake Restaurants Make With Catering](../knowledge/owner/owner-short-form/operations/1-mistake-restaurants-catering.md) `[operations, restaurant-management, systems]`
-- **Serial 444**: [The void trick that costs restaurants millions?](../knowledge/owner/owner-short-form/operations/void-costs-restaurants-millions.md) `[operations, restaurant-management, systems]`
-- **Serial 448**: [BRILLIANT Small Space Strategy for Shake Shack's Success (Social Proof Hack) #shakeshack](../knowledge/owner/owner-short-form/operations/brilliant-small-space-strategy-shake.md) `[operations, restaurant-management, systems]`
-- **Serial 452**: [Why Chick-fil-A Makes More Money Closed on Sundays](../knowledge/owner/owner-short-form/operations/chick-fil-a-money-closed-on-sundays.md) `[operations, restaurant-management, systems]`
-- **Serial 461**: [99% of restaurants are doing this wrong](../knowledge/owner/owner-short-form/operations/99-restaurants-doing-wrong.md) `[operations, restaurant-management, systems]`
-- **Serial 463**: [Increase Restaurant Check Size By 40%](../knowledge/owner/owner-short-form/operations/increase-restaurant-check-size-by.md) `[operations, restaurant-management, systems]`
-- **Serial 471**: [99% of Restaurant Owners Make This Mistake](../knowledge/owner/owner-short-form/operations/99-restaurant-owners-mistake.md) `[operations, restaurant-management, systems]`
-- **Serial 475**: [Why Waffle House NEVER Closes!](../knowledge/owner/owner-short-form/operations/waffle-house-never-closes.md) `[operations, restaurant-management, systems]`
-- **Serial 483**: [Restaurants Make The MOST Money From These](../knowledge/owner/owner-short-form/operations/restaurants-most-money-these.md) `[operations, restaurant-management, systems]`
-- **Serial 484**: [Are restaurants competing on the wrong thing entirely?](../knowledge/owner/owner-short-form/operations/restaurants-competing-on-wrong-thing.md) `[operations, restaurant-management, systems]`
-- **Serial 486**: [3 Signs of a DIRTY Restaurant](../knowledge/owner/owner-short-form/operations/3-signs-dirty-restaurant.md) `[operations, restaurant-management, systems]`
-- **Serial 492**: [Why Nobody Wants To Work In Your Restaurant](../knowledge/owner/owner-short-form/operations/wants-work-restaurant.md) `[operations, restaurant-management, systems]`
-- **Serial 496**: [Why Most Restaurants FAIL](../knowledge/owner/owner-short-form/operations/most-restaurants-fail.md) `[operations, restaurant-management, systems]`
-- **Serial 506**: [Your Restaurant Playlist Might Be LOSING You Thousands!](../knowledge/owner/owner-short-form/operations/restaurant-playlist-might-be-losing.md) `[operations, restaurant-management, systems]`
-- **Serial 507**: [Why Daily Specials Are Expiring For Restaurants](../knowledge/owner/owner-short-form/operations/daily-specials-expiring-restaurants.md) `[operations, restaurant-management, systems]`
-- **Serial 509**: [Why This Restaurant Refuses to Open Location #2](../knowledge/owner/owner-short-form/operations/restaurant-refuses-open-location-2.md) `[operations, restaurant-management, systems]`
-- **Serial 514**: [McDonald's No.1 Money-Making Secret](../knowledge/owner/owner-short-form/operations/mcdonalds-no1-money-making.md) `[operations, restaurant-management, systems]`
-- **Serial 521**: [Why Restaurants Are Struggling More Than Ever Right Now](../knowledge/owner/owner-short-form/operations/restaurants-struggling-than-right-now.md) `[operations, restaurant-management, systems]`
-- **Serial 532**: [5-Figure Owners vs 6-Figure Owners | What's Different?](../knowledge/owner/owner-short-form/operations/5-figure-owners-vs-6-figure-owners.md) `[operations, restaurant-management, systems]`
-- **Serial 533**: [Chick-fil-A Copied This From 5-Star Hotels and It Worked](../knowledge/owner/owner-short-form/operations/chick-fil-a-copied-5-star-hotels-it.md) `[operations, restaurant-management, systems]`
-- **Serial 534**: [How Much Does It ACTUALLY Cost to Run a Restaurant?](../knowledge/owner/owner-short-form/operations/much-does-it-actually-cost.md) `[operations, restaurant-management, systems]`
-- **Serial 540**: [The REAL reason restaurants can't scale #businessmindset](../knowledge/owner/owner-short-form/operations/real-reason-restaurants-cant-scale.md) `[operations, restaurant-management, systems]`
-- **Serial 544**: [How to build a restaurant that doesn't need you in 2026](../knowledge/owner/owner-short-form/operations/build-restaurant-doesnt-need-2026.md) `[operations, restaurant-management, systems]`
-- **Serial 545**: [The No.1 Hidden Cost of Running a Restaurant](../knowledge/owner/owner-short-form/operations/no1-hidden-cost-running-restaurant.md) `[operations, restaurant-management, systems]`
-- **Serial 546**: [The surprising mistake killing new restaurants before they open](../knowledge/owner/owner-short-form/operations/surprising-mistake-killing-new-restaurants.md) `[operations, restaurant-management, systems]`
-- **Serial 548**: [How We Went From $0 to 7 Restaurants (The Honest Truth)](../knowledge/owner/owner-short-form/operations/we-went-0-7-restaurants.md) `[operations, restaurant-management, systems]`
-- **Serial 550**: [The No.1 Hidden Cost of Running a Taco Restaurant](../knowledge/owner/owner-short-form/operations/no1-hidden-cost-running-taco.md) `[operations, restaurant-management, systems]`
-- **Serial 560**: [How Much Does It ACTUALLY Cost to Open a Restaurant?](../knowledge/owner/owner-short-form/operations/much-does-it-actually-cost-560.md) `[operations, restaurant-management, systems]`
-- **Serial 562**: [How to Sell More by Offering LESS](../knowledge/owner/owner-short-form/operations/sell-by-offering-less.md) `[operations, restaurant-management, systems]`
-- **Serial 569**: [Most owners have no idea how much gets decided without them](../knowledge/owner/owner-short-form/operations/most-owners-have-no-idea.md) `[operations, restaurant-management, systems]`
-- **Serial 581**: [The Management System Behind a $7 Million Restaurant (Copy This)](../knowledge/owner/owner-short-form/operations/management-system-behind-7-million.md) `[operations, restaurant-management, systems]`
-- **Serial 591**: [Why Dominos Is Slowly Losing America (And What It Means)](../knowledge/owner/owner-short-form/operations/dominos-slowly-losing-america-it.md) `[operations, restaurant-management, systems]`
-- **Serial 597**: [POV: Your First National Restaurant Association Show In Chicago 2026](../knowledge/owner/owner-short-form/operations/pov-first-national-restaurant-association.md) `[operations, restaurant-management, systems]`
-- **Serial 602**: [How to steal Dominos $1 Million World Cup strategy](../knowledge/owner/owner-short-form/operations/steal-dominos-1-million-world.md) `[operations, restaurant-management, systems]`
-- **Serial 607**: [What It Takes To Be In the Top 1% of Restaurants](../knowledge/owner/owner-short-form/operations/it-takes-be-top-1.md) `[operations, restaurant-management, systems]`
-- **Serial 609**: [The Slow Death of Pizza Hut (And What Killed It)](../knowledge/owner/owner-short-form/operations/slow-death-pizza-hut-killed.md) `[operations, restaurant-management, systems]`
-- **Serial 617**: [THIS Potato Never Turns Brown (Heres Why)](../knowledge/owner/owner-short-form/operations/potato-never-turns-brown-heres.md) `[operations, restaurant-management, systems]`
-- **Serial 619**: [3 Traits of A Successful Restaurant Owner](../knowledge/owner/owner-short-form/operations/3-traits-successful-restaurant-owner.md) `[operations, restaurant-management, systems]`
-- **Serial 620**: [3 Money Mistakes Your Restaurant Is Making Right Now](../knowledge/owner/owner-short-form/operations/3-money-mistakes-restaurant-right.md) `[operations, restaurant-management, systems]`
-- **Serial 621**: [Catering is really a logistics operation!](../knowledge/owner/owner-short-form/operations/catering-really-logistics-operation.md) `[operations, restaurant-management, systems]`
-- **Serial 623**: [The Hardest Part of Owning a Restaurant Today](../knowledge/owner/owner-short-form/operations/hardest-part-owning-restaurant-today.md) `[operations, restaurant-management, systems]`
-- **Serial 627**: [Broke owner mindset vs. rich owner mindset ⬇️](../knowledge/owner/owner-short-form/operations/broke-owner-mindset-vs-rich.md) `[operations, restaurant-management, systems]`
-- **Serial 629**: [How Much Are You Actually Spending on Food?](../knowledge/owner/owner-short-form/operations/much-actually-spending-on-food.md) `[operations, restaurant-management, systems]`
-- **Serial 633**: [This Breakfast Item Makes $48,000/Month](../knowledge/owner/owner-short-form/operations/breakfast-item-48000month.md) `[operations, restaurant-management, systems]`
-- **Serial 638**: [Why Restaurants Sell Gift Cards](../knowledge/owner/owner-short-form/operations/restaurants-sell-gift-cards.md) `[operations, restaurant-management, systems]`
-- **Serial 641**: [The Real Reason Behind Subways Collapse](../knowledge/owner/owner-short-form/operations/real-reason-behind-subways-collapse.md) `[operations, restaurant-management, systems]`
-- **Serial 645**: [3 Things Restaurants Must Do After the Lettuce Crisis](../knowledge/owner/owner-short-form/operations/3-things-restaurants-must-do.md) `[operations, restaurant-management, systems]`
-- **Serial 647**: [3 Levels of Restaurant Branding (Most Stay At Level 1)](../knowledge/owner/owner-short-form/operations/3-levels-restaurant-branding-most.md) `[operations, restaurant-management, systems]`
-- **Serial 650**: [How to Open a Restaurant for Less Than $50,000 (2026)](../knowledge/owner/owner-short-form/operations/open-restaurant-less-than-50000.md) `[operations, restaurant-management, systems]`
-- **Serial 652**: [The No.1 Restaurant Trend In 2026: Grandma-core](../knowledge/owner/owner-short-form/operations/no1-restaurant-trend-2026-grandma-core.md) `[operations, restaurant-management, systems]`
-- **Serial 656**: [The No.1 Rule of Great Restaurant Owners](../knowledge/owner/owner-short-form/operations/no1-rule-great-restaurant-owners.md) `[operations, restaurant-management, systems]`
-- **Serial 659**: [The Real Reason Subway Failed](../knowledge/owner/owner-short-form/operations/real-reason-subway-failed.md) `[operations, restaurant-management, systems]`
-- **Serial 660**: [The first step to franchising isnt opening a second location, its standardizing everything](../knowledge/owner/owner-short-form/operations/first-step-franchising-isnt-opening.md) `[operations, restaurant-management, systems]`
-- **Serial 668**: [Why America Shouldnt Abolish Tips](../knowledge/owner/owner-short-form/operations/america-shouldnt-abolish-tips.md) `[operations, restaurant-management, systems]`
-- **Serial 680**: [McDonalds surveillance: what they really know about you](../knowledge/owner/owner-short-form/operations/mcdonalds-surveillance-they-really-know.md) `[operations, restaurant-management, systems]`
-- **Serial 681**: [Year 0 vs Year 12: The Brutal Reality of Restaurant Ownership](../knowledge/owner/owner-short-form/operations/year-0-vs-year-12.md) `[operations, restaurant-management, systems]`
-- **Serial 686**: [3 Restaurant Lessons I Wish I Knew 12 Years Ago](../knowledge/owner/owner-short-form/operations/3-restaurant-lessons-i-wish.md) `[operations, restaurant-management, systems]`
-- **Serial 687**: [How to make your restaurant survive without you](../knowledge/owner/owner-short-form/operations/restaurant-survive-without.md) `[operations, restaurant-management, systems]`
-- **Serial 705**: [Nobody Can Define the American Dream](../knowledge/owner/owner-short-form/operations/define-american-dream.md) `[operations, restaurant-management, systems]`
-- **Serial 708**: [Panera Just Did Something It Avoided for 40 Years](../knowledge/owner/owner-short-form/operations/panera-something-it-avoided-40.md) `[operations, restaurant-management, systems]`
-- **Serial 710**: [Don’t Make Panera’s AI Mistake](../knowledge/owner/owner-short-form/operations/paneras-ai-mistake.md) `[operations, restaurant-management, systems]`
-- **Serial 715**: [Turn Lunch Rush Into Repeat Orders In 3 EASY Steps](../knowledge/owner/owner-short-form/operations/turn-lunch-rush-repeat-orders.md) `[operations, restaurant-management, systems]`
-- **Serial 718**: [The $72,000 Mistake Every Restaurant Makes on Friday Night](../knowledge/owner/owner-short-form/operations/72000-mistake-restaurant-on-friday.md) `[operations, restaurant-management, systems]`
-
-### Long-Form In-Depth Intelligence
-
-- **Long-Form Serial 06**: [Numbers / Calculations](../knowledge/owner/owner-full-form/operations/7-alarming-reasons-why-restaurants-fail.md) `[restaurant-failure, menu-market-fit, food-cost, customer-retention, staff-turnover, branding, website-conversion]`
-- **Long-Form Serial 14**: [Numbers / Calculations](../knowledge/owner/owner-full-form/operations/independent-restaurant-digital-playbook.md) `[restaurant-strategy, branded-mobile-apps, delivery-economics, google-seo, cart-abandonment, founder-storytelling, order-frequency]`
-- **Long-Form Serial 15**: [Numbers / Calculations](../knowledge/owner/owner-full-form/operations/cava-multi-unit-growth-playbook.md) `[scaling, multi-unit, fast-casual, unit-economics, site-selection, acquisitions, second-generation-space, mobile-data]`
-- **Long-Form Serial 17**: [Numbers / Calculations](../knowledge/owner/owner-full-form/operations/scaling-restaurants-to-50-locations-mendocino-farms.md) `[scaling, multi-unit, fast-casual, mendocino-farms, restaurant-culture, hospitality-training, concept-differentiation]`
-- **Long-Form Serial 18**: [Numbers / Calculations](../knowledge/owner/owner-full-form/operations/sweetgreens-7-billion-dollar-growth-secrets.md) `[sweetgreen, fast-casual, scaling, direct-ordering, venture-capital, mobile-app, real-estate-footprint, lifestyle-branding]`
-- **Long-Form Serial 20**: [Numbers / Calculations](../knowledge/owner/owner-full-form/operations/multi-unit-pizzeria-systems-andolinis.md) `[scaling, multi-unit, email-marketing, recipe-costing, prime-cost, market-density, andolinis, pizzeria-operations]`
-- **Long-Form Serial 21**: [Numbers / Calculations](../knowledge/owner/owner-full-form/operations/opening-a-restaurant-via-distressed-asset-buys.md) `[distressed-assets, restaurant-startup, commercial-leasing, equipment-acquisition, capex-reduction, lease-negotiation, second-generation-space]`
-- **Long-Form Serial 24**: [Numbers / Calculations](../knowledge/owner/owner-full-form/operations/brian-niccol-restaurant-ceo-playbook.md) `[brian-niccol, chipotle, operational-strategy, throughput, customer-segmentation, daypart-expansion, crisis-management]`
-- **Long-Form Serial 27**: [Quiznos Downfall: Franchise Expansion and Supply Chain Mistakes](../knowledge/owner/owner-full-form/operations/quiznos-franchise-and-expansion-mistakes.md) `[quiznos, franchise, and, expansion]`
-- **Long-Form Serial 29**: [Multi-Billion Dollar Restaurant Operations: Real Estate, Lexicon Engineering, Hyper-Focus, and Distressed Turnarounds](../knowledge/owner/owner-full-form/operations/billionaire-restaurant-playbooks.md) `[billionaire, restaurant, playbooks]`
-- **Long-Form Serial 30**: [Panera Bread Operations: Selective Franchising, Beverage Subscriptions, and Distressed Acquisitions](../knowledge/owner/owner-full-form/operations/panera-bread-growth-and-subscription-playbook.md) `[panera, bread, growth, and]`
-- **Long-Form Serial 33**: [Fast-Casual Scaling: Dual-Concept Co-Location, Database Migration, and Founder-Led Marketing](../knowledge/owner/owner-full-form/operations/dual-concept-colocation-and-scaling.md) `[dual, concept, colocation, and]`
-- **Long-Form Serial 36**: [Restaurant Failure Prevention: Menu-Market Fit, Retention Economics, and Open-Book Labor Management](../knowledge/owner/owner-full-form/operations/restaurant-failure-prevention-and-labor-economics.md) `[restaurant, failure, prevention, and]`
-- **Long-Form Serial 37**: [Multi-Unit Operational Excellence: Distressed Asset Turnarounds, Purchasing Budgets, and Offshore Back-Office Systems](../knowledge/owner/owner-full-form/operations/matangas-pizzeria-turnaround-and-scaling-playbook.md) `[matangas, pizzeria, turnaround, and]`
-- **Long-Form Serial 38**: [Multi-Unit Pizza Operations: Central Commissary Economics, Off-Domain SEO Penalties, and Digital Capacity Throttling](../knowledge/owner/owner-full-form/operations/commissary-kitchen-economics-and-digital-integration.md) `[commissary, kitchen, economics, and]`
-- **Long-Form Serial 41**: [Restaurant Delegation & Multi-Unit Readiness: The 2-Week Absence Test, Invisible Labor, and Operational Traps](../knowledge/owner/owner-full-form/operations/multi-unit-scaling-and-delegation-framework.md) `[multi, unit, scaling, and]`
-- **Long-Form Serial 44**: [Multi-Unit Systems and 9-Month Leadership Development Pipeline](../knowledge/owner/owner-full-form/operations/multi-unit-systems-and-leadership-pipeline.md) `[multi, unit, systems, and]`
-- **Long-Form Serial 45**: [Restaurant Growth and Profitability Playbook](../knowledge/owner/owner-full-form/operations/restaurant-growth-and-profitability-playbook.md) `[restaurant, growth, and, profitability]`
-- **Long-Form Serial 48**: [Five Operational Systems for Multi-Unit Restaurant Scaling](../knowledge/owner/owner-full-form/operations/five-systems-multi-unit-restaurant-scaling.md) `[five, systems, multi, unit]`
-- **Long-Form Serial 51**: [Restaurant Automation, Equipment ROI, and Predictive Data Strategy](../knowledge/owner/owner-full-form/operations/restaurant-automation-equipment-roi-and-data-strategy.md) `[restaurant, automation, equipment, roi]`
-- **Long-Form Serial 52**: [Subway Franchise Breakdown and Incentive Alignment](../knowledge/owner/owner-full-form/operations/subway-franchise-breakdown-and-incentive-alignment.md) `[subway, franchise, breakdown, and]`
-- **Long-Form Serial 54**: [Restaurant Catering Growth, B2B Acquisition, and Pricing Playbook](../knowledge/owner/owner-full-form/operations/restaurant-catering-growth-and-pricing-playbook.md) `[restaurant, catering, growth, and]`
-- **Long-Form Serial 56**: [Four Non-Negotiable Restaurant Operating Rules](../knowledge/owner/owner-full-form/operations/four-non-negotiable-restaurant-operating-rules.md) `[four, non, negotiable, restaurant]`
-- **Long-Form Serial 57**: [Reversing Flat Restaurant Sales and the FORM Service Framework](../knowledge/owner/owner-full-form/operations/reversing-flat-restaurant-sales-and-form-framework.md) `[reversing, flat, restaurant, sales]`
-- **Long-Form Serial 58**: [Five Guys Operational Playbook and General Manager Screening](../knowledge/owner/owner-full-form/operations/five-guys-operational-playbook-and-gm-screening.md) `[five, guys, operational, playbook]`
-- **Long-Form Serial 59**: [In-N-Out Operational System and Labor Economics](../knowledge/owner/owner-full-form/operations/in-n-out-operational-and-labor-playbook.md) `[in, n, out, operational]`
-- **Long-Form Serial 60**: [Chili's Turnaround and the Value Barbell Pricing Strategy](../knowledge/owner/owner-full-form/operations/chilis-turnaround-and-value-barbell-strategy.md) `[chilis, turnaround, and, value]`
-- **Long-Form Serial 61**: [Jersey Mike's Scaling and Operational Theater](../knowledge/owner/owner-full-form/operations/jersey-mikes-scaling-and-operational-theater.md) `[jersey, mikes, scaling, and]`
-- **Long-Form Serial 63**: [Panda Express Systems and Self-Funded Profit Compounding](../knowledge/owner/owner-full-form/operations/panda-express-system-and-profit-compounding.md) `[panda, express, system, and]`
-- **Long-Form Serial 64**: [Panera Turnaround and the Mechanics of Operational Erosion](../knowledge/owner/owner-full-form/operations/panera-turnaround-and-operational-erosion.md) `[panera, turnaround, and, operational]`
-- **Long-Form Serial 65**: [Hunt Brothers Host-Location Model, Operational Simplicity, and Waste Engineering](../knowledge/owner/owner-full-form/operations/hunt-brothers-host-location-and-waste-engineering.md) `[hunt, brothers, host, location]`
-- **Long-Form Serial 66**: [Chick-fil-A Operating Model, Drive-Thru Physics, and Operator Incentive Architecture](../knowledge/owner/owner-full-form/operations/chick-fil-a-operating-model-and-drive-thru-physics.md) `[chick, fil, a, operating]`
-
-- **Serial 001 (Toast)**: [Troubleshoot your Toast Printer](../knowledge/toast/toast-short-form/operations/toast-printer-troubleshooting-power-and-cables.md) `[pos-hardware, printer-troubleshooting, network-connectivity, kitchen-hardware]`
-- **Serial 002 (Toast)**: [Troubleshoot your Toast Printer](../knowledge/toast/toast-short-form/operations/toast-printer-troubleshooting-paper-and-ip.md) `[pos-hardware, printer-troubleshooting, kitchen-operations, hardware-maintenance]`
-- **Serial 004 (Toast)**: [We take our coffee rituals very seriously around here. ☕️ #shorts #toasttab](../knowledge/toast/toast-short-form/operations/coffee-rituals-and-beverage-prep-consistency.md) `[beverage-operations, coffee-service, opening-procedures, prep-consistency]`
-- **Serial 006 (Toast)**: [Alexa, play ‘Josie’ by Blink-182 🤟🌯](../knowledge/toast/toast-short-form/operations/restaurant-playlist-and-ambiance-control.md) `[ambiance, dining-room-operations, guest-experience, hospitality]`
-- **Serial 008 (Toast)**: [Better Ordering, Anywhere with Toast POS](../knowledge/toast/toast-short-form/operations/toast-pos-omnichannel-ordering-system.md) `[pos-systems, omnichannel-ordering, tableside-service, workflow-efficiency]`
-- **Serial 017 (Toast)**: [But really, the Crudo Trio from Hav & Mar is worth fighting over.](../knowledge/toast/toast-short-form/operations/but-really-crudo-trio-hav.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 021 (Toast)**: [Calling all Abuelas 🗣️](../knowledge/toast/toast-short-form/operations/calling-all-abuelas.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 023 (Toast)**: [What Do People Order on Mother’s Day?](../knowledge/toast/toast-short-form/operations/what-do-people-order-mothers.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 024 (Toast)**: [Your Guide To Toast Install Site Readiness Is Here!](../knowledge/toast/toast-short-form/operations/guide-toast-install-site-readiness.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 026 (Toast)**: [Not all heroes wear capes #toasttab #miamifoodie #foodie #glutenfree](../knowledge/toast/toast-short-form/operations/not-all-heroes-wear-capes.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 028 (Toast)**: [Where do you hide when you need a minute at work?](../knowledge/toast/toast-short-form/operations/where-do-you-hide-when.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 030 (Toast)**: [Fried chicken has entered the chat, conversation on hold until further notice #toasttab #foodie](../knowledge/toast/toast-short-form/operations/fried-chicken-has-entered-chat.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 032 (Toast)**: [Hot take alert ⚠️ Stream the full episode on YouTube.](../knowledge/toast/toast-short-form/operations/hot-take-alert-stream-full.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 038 (Toast)**: [Toast POS Product Updates! | July 2025](../knowledge/toast/toast-short-form/operations/toast-pos-product-updates-july.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 039 (Toast)**: [What no one tells you about running a café](../knowledge/toast/toast-short-form/operations/what-no-one-tells-you.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 042 (Toast)**: [Put your team in Go Mode with our next-gen handheld](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 043 (Toast)**: [Put your team in Go Mode with our next-gen handheld](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen-2.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 044 (Toast)**: [Put your team in Go Mode with our next-gen handheld](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen-3.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 045 (Toast)**: [Put your team in Go Mode with our next-gen handheld](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen-4.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 046 (Toast)**: [Put your team in Go Mode with our next-gen handheld](../knowledge/toast/toast-short-form/operations/put-team-go-mode-next-gen-5.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 047 (Toast)**: [Overheard at the Family Reunion](../knowledge/toast/toast-short-form/operations/overheard-family-reunion.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 049 (Toast)**: [Every restaurant has a story. And we’re here to tell it.](../knowledge/toast/toast-short-form/operations/every-restaurant-has-story-were.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 050 (Toast)**: [this mic'd up chef is 🎵 here to help 🎵](../knowledge/toast/toast-short-form/operations/micd-up-chef-is-here.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 051 (Toast)**: [The Key to Excellent Bar Service, Every Time](../knowledge/toast/toast-short-form/operations/key-excellent-bar-service-every.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 052 (Toast)**: [POV: You're a Toast Go® 3 handheld](../knowledge/toast/toast-short-form/operations/pov-youre-toast-go-handheld.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 053 (Toast)**: [POV: testing durability but also just really clumsy.](../knowledge/toast/toast-short-form/operations/pov-testing-durability-but-also.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 054 (Toast)**: [Surviving my intrusive thoughts](../knowledge/toast/toast-short-form/operations/surviving-my-intrusive-thoughts.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 056 (Toast)**: [TG3 with a side of grease](../knowledge/toast/toast-short-form/operations/tg3-side-grease.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 057 (Toast)**: [Toast Retail x Muria Foods | Special Order](../knowledge/toast/toast-short-form/operations/toast-retail-x-muria-foods.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 058 (Toast)**: [Toast Retail x Goodnight Cowboy | Special Order](../knowledge/toast/toast-short-form/operations/toast-retail-x-goodnight-cowboy.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 059 (Toast)**: [It's just a little spill...](../knowledge/toast/toast-short-form/operations/its-just-little-spill.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 060 (Toast)**: [When you can take the heat...](../knowledge/toast/toast-short-form/operations/when-you-can-take-heat.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 061 (Toast)**: [Toast Retail x Oak & Vine | Special Order](../knowledge/toast/toast-short-form/operations/toast-retail-x-oak-vine.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 062 (Toast)**: [Toast Retail x Marigold Market + Café | Special Order](../knowledge/toast/toast-short-form/operations/toast-retail-x-marigold-market.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 064 (Toast)**: [Toast Retail x Bottle & Cork | Special Order](../knowledge/toast/toast-short-form/operations/toast-retail-x-bottle-cork.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 065 (Toast)**: [What makes a Best New Restaurant?](../knowledge/toast/toast-short-form/operations/what-makes-best-new-restaurant.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 067 (Toast)**: [Toast Retail x Tiny Grocer | Special Order](../knowledge/toast/toast-short-form/operations/toast-retail-x-tiny-grocer.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 068 (Toast)**: [Toast Go® 3 Durability Test](../knowledge/toast/toast-short-form/operations/toast-go-durability-test.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 069 (Toast)**: [Toast Retail x Brooklyn Flea Market | Mac Joseph](../knowledge/toast/toast-short-form/operations/toast-retail-x-brooklyn-flea.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 070 (Toast)**: [Toast Go® 3 Durability Test #2](../knowledge/toast/toast-short-form/operations/toast-go-durability-test-2.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 071 (Toast)**: [Best Finds at Brooklyn Flea Market | Toast Retail](../knowledge/toast/toast-short-form/operations/best-finds-brooklyn-flea-market.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 072 (Toast)**: [Toast Go® 3 Durability Test #3](../knowledge/toast/toast-short-form/operations/toast-go-durability-test-3.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 073 (Toast)**: [Toast Retail x Poppy’s | Special Order](../knowledge/toast/toast-short-form/operations/toast-retail-x-poppys-special.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 074 (Toast)**: [Is the TG3 Flour-Proof? Kitchen Durability Test](../knowledge/toast/toast-short-form/operations/is-tg3-flour-proof-kitchen-durability.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 076 (Toast)**: [Toast Retail x Rigor Hill Market | Special Order](../knowledge/toast/toast-short-form/operations/toast-retail-x-rigor-hill.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 077 (Toast)**: [When the restaurant industry teams up, everyone wins.](../knowledge/toast/toast-short-form/operations/when-restaurant-industry-teams-up.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 078 (Toast)**: [POV: Your partner works in the service industry on Valentine's Day](../knowledge/toast/toast-short-form/operations/pov-partner-works-service-industry.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 081 (Toast)**: [nobody handles busy like Carmine's](../knowledge/toast/toast-short-form/operations/nobody-handles-busy-like-carmines.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 083 (Toast)**: [Turn tables faster | Seamless Checkout](../knowledge/toast/toast-short-form/operations/turning-tables-faster-with-seamless-checkout.md) `[table-turns, tableside-payment, speed-of-service, checkout-efficiency]`
-- **Serial 089 (Toast)**: [An open call to build a busy restaurant with us.](../knowledge/toast/toast-short-form/operations/open-call-build-busy-restaurant.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 090 (Toast)**: [An open call to build a busy restaurant with us.](../knowledge/toast/toast-short-form/operations/open-call-build-busy-restaurant-2.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 091 (Toast)**: [in this kitchen they know busy by name](../knowledge/toast/toast-short-form/operations/kitchen-they-know-busy-by.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 093 (Toast)**: [The Perfect Spread | Toast Retail x Reid's Fine Foods](../knowledge/toast/toast-short-form/operations/perfect-spread-toast-retail-x.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 096 (Toast)**: [Toast Retail x Reid's Fine Foods | Built for the Busy Spaces](../knowledge/toast/toast-short-form/operations/toast-retail-x-reids-fine.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 097 (Toast)**: [How Restaurant Operators Use Toast IQ Every Morning](../knowledge/toast/toast-short-form/operations/how-restaurant-operators-use-toast.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 099 (Toast)**: [Get an Instant Answer About Your Restaurant's Performance](../knowledge/toast/toast-short-form/operations/get-instant-answer-about-restaurants.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 100 (Toast)**: [Toast IQ: See How You Stack Up Against Other Restaurants](../knowledge/toast/toast-short-form/operations/toast-iq-see-how-you.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 103 (Toast)**: [developed a few favorites because piza is lyfe](../knowledge/toast/toast-short-form/operations/developed-few-favorites-because-piza.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 110 (Toast)**: [478-BAR-KEEP](../knowledge/toast/toast-short-form/operations/478-bar-keep.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 116 (Toast)**: [why am i cleaning their mess? | Bartender Hotline](../knowledge/toast/toast-short-form/operations/why-am-i-cleaning-their.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 117 (Toast)**: [Toast teams up with Eclective Hospitality Group](../knowledge/toast/toast-short-form/operations/toast-teams-up-eclective-hospitality.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 118 (Toast)**: [A PITY INVITE?! | Bartender Hotline](../knowledge/toast/toast-short-form/operations/pity-invite-bartender-hotline.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 119 (Toast)**: [that's a COOKED question | Bartender Hotline](../knowledge/toast/toast-short-form/operations/thats-cooked-question-bartender-hotline.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 120 (Toast)**: [Toast IQ told me...](../knowledge/toast/toast-short-form/operations/toast-iq-told-me.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 122 (Toast)**: [Real operators. Real reactions to Toast IQ.](../knowledge/toast/toast-short-form/operations/real-operators-real-reactions-toast.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 123 (Toast)**: [Every great restaurant has a cast of characters](../knowledge/toast/toast-short-form/operations/every-great-restaurant-has-cast.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 124 (Toast)**: [Meet Toast IQ](../knowledge/toast/toast-short-form/operations/meet-toast-iq.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 125 (Toast)**: [Toast IQ Tests Pt. 1: How Well Does This Operator Know His Restaurant?](../knowledge/toast/toast-short-form/operations/operator-business-knowledge-and-real-time-metrics.md) `[restaurant-kpis, management-metrics, real-time-analytics, business-acumen]`
-- **Serial 126 (Toast)**: [we are Toast IQ-ing...](../knowledge/toast/toast-short-form/operations/are-toast-iq-ing.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 127 (Toast)**: [Toast IQ: the AI assistant for busy restaurants](../knowledge/toast/toast-short-form/operations/toast-iq-ai-assistant-busy.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 128 (Toast)**: [Toast IQ Tests Pt. 2: Three Questions. No Pressure.](../knowledge/toast/toast-short-form/operations/toast-iq-tests-three-questions.md) `[restaurant-operations, pos-systems, workflow-automation, systems]`
-- **Serial 129 (Toast)**: [The #1 thing restaurant managers use AI for](../knowledge/toast/toast-short-form/operations/top-use-cases-for-ai-in-restaurant-management.md) `[restaurant-ai, workflow-automation, scheduling-ai, management-efficiency]`
-
-## Payments (6 entries)
-
-- **Serial 450**: [Why Restaurant Payroll Just Got More Expensive](../knowledge/owner/owner-short-form/payments/restaurant-payroll-got-expensive.md) `[payments, transaction-fees]`
-- **Serial 519**: [What's a Tip Pool and Is It Right for Your Restaurant?](../knowledge/owner/owner-short-form/payments/whats-tip-pool-it-right.md) `[payments, transaction-fees, cash-flow, tipping]`
-- **Serial 553**: [Why Do Restaurants Go CASH Only? (Not Tax Dodging)](../knowledge/owner/owner-short-form/payments/do-restaurants-go-cash-only.md) `[payments, transaction-fees, cash-flow, tipping]`
-
-- **Serial 013 (Toast)**: [Reliably power an entire shift with Toast!](../knowledge/toast/toast-short-form/payments/reliably-power-entire-shift-toast.md) `[payments, tipping, pos-hardware, transaction-processing]`
-- **Serial 107 (Toast)**: [driver print the receipt please](../knowledge/toast/toast-short-form/payments/driver-print-receipt-please.md) `[payments, tipping, pos-hardware, transaction-processing]`
-- **Serial 109 (Toast)**: [Toast Retail x Tip Top Daily Market | Local Goods, Loyal Faces](../knowledge/toast/toast-short-form/payments/toast-retail-x-tip-top.md) `[payments, tipping, pos-hardware, transaction-processing]`
-
-## Promotions (48 entries)
-
-- **Serial 026**: [The Hangover Special that made this restaurant owner record profits](../knowledge/owner/owner-short-form/promotions/new-years-hangover-special.md) `[holiday-promotions, new-years-day, low-food-cost, takeout-records]`
-- **Serial 029**: [The genius reason behind this restaurant marketing strategy will surprise you](../knowledge/owner/owner-short-form/promotions/super-bowl-free-delivery-economics.md) `[free-delivery, event-marketing, average-check, super-bowl]`
-- **Serial 034**: [The interesting reason why this restaurant owner donated a meal for every meal ordered](../knowledge/owner/owner-short-form/promotions/cause-marketing-low-food-cost.md) `[cause-marketing, food-cost, charity-promotions, sustainability]`
-- **Serial 035**: [Why every restaurant needs to know about this marketing hack from Domino's pizza](../knowledge/owner/owner-short-form/promotions/urgency-scarcity-limited-time-deals.md) `[scarcity, urgency, lto, promotions, fear-of-missing-out]`
-- **Serial 042**: [Restaurants Should Steal This BOGO Strategy To Maximize Profit](../knowledge/owner/owner-short-form/promotions/bogo-low-food-cost-threshold.md) `[bogo, food-cost-percentage, promotions, margin-protection]`
-- **Serial 049**: [Only The Most Successful Restaurants Do THIS Discount](../knowledge/owner/owner-short-form/promotions/conditional-discount-app-adoption.md) `[conditional-discounts, mobile-app, customer-acquisition, order-frequency]`
-- **Serial 053**: [How Free Items Make Your Restaurant More Money](../knowledge/owner/owner-short-form/promotions/how-free-items-make-your-restaurant-more-mone.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 054**: [How Your Restaurant Makes More Money Online](../knowledge/owner/owner-short-form/promotions/how-your-restaurant-makes-more-money-online.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 062**: [Your Restaurant + Story = $$$](../knowledge/owner/owner-short-form/promotions/your-restaurant-story.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 071**: [How To Rank Your Restaurant Higher On Google](../knowledge/owner/owner-short-form/promotions/how-to-rank-your-restaurant-higher-on-google.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 080**: [The Surprising Reason Texas Roadhouse Copied Walmart](../knowledge/owner/owner-short-form/promotions/the-surprising-reason-texas-roadhouse-copied.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 096**: [How To Get A Mobile App For Your Restaurant In Less Than 7 Days](../knowledge/owner/owner-short-form/promotions/how-to-get-a-mobile-app-for-your-restaurant-i.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 107**: [Red Lobster's $11 Million Mistake How Endless Shrimp Backfired](../knowledge/owner/owner-short-form/promotions/red-lobsters-11-million-mistake-how-endless-s.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 136**: [Is Spending Millions on an App Really Worth It for Restaurants?](../knowledge/owner/owner-short-form/promotions/is-spending-millions-on-an-app-really-worth-i.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 153**: [The Real Difference Between Successful Restaurants and Failed Ones](../knowledge/owner/owner-short-form/promotions/the-real-difference-between-successful-restau.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 161**: [Marketing Mistakes That Destroyed a Restaurant Empire](../knowledge/owner/owner-short-form/promotions/marketing-mistakes-that-destroyed-a-restauran.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 163**: [STOP Ignoring Customer Feedback and Save Your Restaurant](../knowledge/owner/owner-short-form/promotions/stop-ignoring-customer-feedback-and-save-your.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 176**: [Why Restaurants Like In-N-Out Are Hiding Their Best Menu Items](../knowledge/owner/owner-short-form/promotions/why-restaurants-like-in-n-out-are-hiding-thei.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 179**: [Texas Roadhouse's Secret to Beating the Competition!](../knowledge/owner/owner-short-form/promotions/texas-roadhouses-secret-to-beating-the-compet.md) `[promotions, discounts, offers, customer-incentives]`
-- **Serial 206**: [Why Chili's $10.99 Deal Is CRUSHING Other Restaurants](../knowledge/owner/owner-short-form/promotions/chilis-1099-deal-crushing-other.md) `[promotions, discounting, offers]`
-- **Serial 212**: [Why This Restaurant Gives Away Free Meals Every Day?](../knowledge/owner/owner-short-form/promotions/restaurant-gives-away-free-meals.md) `[promotions, discounting, offers]`
-- **Serial 242**: [Giving Away FREE Food Is The KEY To Success In The Restaurant Business](../knowledge/owner/owner-short-form/promotions/giving-away-free-food-key.md) `[promotions, discounting, offers]`
-- **Serial 244**: [Pizza Shop Owner Makes Bank By Giving Away FREE Pizza](../knowledge/owner/owner-short-form/promotions/pizza-shop-owner-bank-by.md) `[promotions, discounting, offers]`
-- **Serial 247**: [How Free Tacos Made This Restaurant MORE Profitable?](../knowledge/owner/owner-short-form/promotions/free-tacos-made-restaurant-profitable.md) `[promotions, discounting, offers]`
-- **Serial 261**: [How Chick-fil-A Makes BILLIONS By Giving Away Free Food!](../knowledge/owner/owner-short-form/promotions/chick-fil-a-billions-by-giving-away.md) `[promotions, discounting, offers]`
-- **Serial 274**: [How This Restaurant DOUBLES Profit By Giving Away Free Food](../knowledge/owner/owner-short-form/promotions/restaurant-doubles-profit-by-giving.md) `[promotions, discounting, offers]`
-- **Serial 325**: [Why Giving Away 30% Of Sales Makes You More Money!](../knowledge/owner/owner-short-form/promotions/giving-away-30-sales-money.md) `[promotions, discounting, offers]`
-- **Serial 333**: [How 25 Free Pizzas Make $172,000!](../knowledge/owner/owner-short-form/promotions/25-free-pizzas-172000.md) `[promotions, discounting, offers]`
-- **Serial 334**: [Why Panera's $10 Unlimited Drinks Deal Is Genius](../knowledge/owner/owner-short-form/promotions/paneras-10-unlimited-drinks-deal.md) `[promotions, discounting, offers]`
-- **Serial 337**: [She Gave Away Food to 100 Businesses and THIS Happened](../knowledge/owner/owner-short-form/promotions/she-gave-away-food-100.md) `[promotions, discounting, customer-acquisition]`
-- **Serial 349**: [Why the Identity Discount Works Like Magic!](../knowledge/owner/owner-short-form/promotions/identity-discount-works-like-magic.md) `[promotions, discounting, offers]`
-- **Serial 366**: [Why Giving Away 30% Makes YOU More Money!](../knowledge/owner/owner-short-form/promotions/giving-away-30-money.md) `[promotions, discounting, offers]`
-- **Serial 367**: [How Free Pizza Rolls Made $120,000!](../knowledge/owner/owner-short-form/promotions/free-pizza-rolls-made-120000.md) `[promotions, discounting, offers]`
-- **Serial 377**: [How 25 Free Pizzas Made $172,000!](../knowledge/owner/owner-short-form/promotions/25-free-pizzas-made-172000.md) `[promotions, discounting, offers]`
-- **Serial 413**: [This Discount Trick Grew Her Sales](../knowledge/owner/owner-short-form/promotions/discount-grew-her-sales.md) `[promotions, discounting, offers]`
-- **Serial 441**: [Why Limited Cups Make Starbucks Rich](../knowledge/owner/owner-short-form/promotions/limited-cups-starbucks-rich.md) `[promotions, discounting, customer-acquisition]`
-- **Serial 443**: [The Discount Trap Nobody Talks About](../knowledge/owner/owner-short-form/promotions/discount-trap-talks-about.md) `[promotions, discounting, offers]`
-- **Serial 468**: [How 25 Free Pizzas Turned Into $172K](../knowledge/owner/owner-short-form/promotions/25-free-pizzas-turned-172k.md) `[promotions, discounting, offers]`
-- **Serial 470**: [Free Hack to Know What Dishes to Serve](../knowledge/owner/owner-short-form/promotions/free-hack-know-dishes-serve.md) `[promotions, discounting, offers]`
-- **Serial 473**: [Why Most Restaurants Get Valentine's Day WRONG](../knowledge/owner/owner-short-form/promotions/most-restaurants-get-valentines-day.md) `[promotions, discounting, offers]`
-- **Serial 488**: [Why These Restaurants Are Disappearing?](../knowledge/owner/owner-short-form/promotions/these-restaurants-disappearing.md) `[promotions, discounting, customer-acquisition]`
-- **Serial 508**: [Why Profitable Restaurants Push Gift Cards](../knowledge/owner/owner-short-form/promotions/profitable-restaurants-push-gift-cards.md) `[promotions, discounting, offers]`
-- **Serial 511**: [5 Cost Cutting Strategies for Restaurants [2026]](../knowledge/owner/owner-short-form/promotions/5-cost-cutting-strategies-restaurants.md) `[promotions, discounting, customer-acquisition]`
-- **Serial 582**: [Heres how I turn FREE pizzas into $172,000 in annual revenue](../knowledge/owner/owner-short-form/promotions/heres-i-turn-free-pizzas.md) `[promotions, discounting, offers]`
-- **Serial 616**: [Beat Your Restaurant Competitors in Minutes with This Free AI](../knowledge/owner/owner-short-form/promotions/beat-restaurant-competitors-minutes-free.md) `[promotions, discounting, offers]`
-- **Serial 639**: [3 Restaurant Freebie Ideas That Are Better Than Discounts (2026)](../knowledge/owner/owner-short-form/promotions/3-restaurant-freebie-ideas-better.md) `[promotions, discounting, offers]`
-- **Serial 643**: [Why Five Guys Pays People to Eat for Free? (Steal This Strategy)](../knowledge/owner/owner-short-form/promotions/five-guys-pays-people-eat.md) `[promotions, discounting, offers]`
-- **Serial 703**: [3 Psychology Tricks to Grow Sales Without Discounting](../knowledge/owner/owner-short-form/promotions/3-psychology-tricks-grow-sales.md) `[promotions, discounting, offers]`
-
-## Purchasing (3 entries)
-
-- **Serial 536**: [Sysco Bought Restaurant Depot… Here’s Why Restaurants Should Be Worried](../knowledge/owner/owner-short-form/purchasing/sysco-bought-restaurant-depot-heres.md) `[purchasing, supplier-pricing, inventory-sourcing]`
-- **Serial 584**: [Why does cheese get more expensive every summer?](../knowledge/owner/owner-short-form/purchasing/does-cheese-get-expensive-summer.md) `[purchasing, supplier-pricing, inventory-sourcing]`
-- **Serial 593**: [How Much Do Custom Cups for Restaurants Cost?](../knowledge/owner/owner-short-form/purchasing/much-do-custom-cups-restaurants.md) `[purchasing, supplier-pricing, inventory-sourcing]`
+- **Serial 536**: [Key Information](../knowledge/owner/owner-short-form/purchasing/sysco-bought-restaurant-depot-heres.md) `[purchasing, supplier-pricing, inventory-sourcing]`
+- **Serial 584**: [Key Information](../knowledge/owner/owner-short-form/purchasing/does-cheese-get-expensive-summer.md) `[purchasing, supplier-pricing, inventory-sourcing]`
+- **Serial 593**: [Key Information](../knowledge/owner/owner-short-form/purchasing/much-do-custom-cups-restaurants.md) `[purchasing, supplier-pricing, inventory-sourcing]`
+- **Serial 039 (Toast Video)**: [Meat Purveyor & Supplier Economics: Partnership Standards with Pat LaFrieda](../knowledge/toast/toast-full-form/purchasing/pat-lafrieda-meat-purveyor-customer-service-standards.md)
+- **Serial 249 (Toast Video)**: [How To Bottle and Sell Your Restaurant's Sauce](../knowledge/toast/toast-full-form/purchasing/bottle-sell-restaurants-sauce.md)
+- **Serial 259 (Toast Video)**: [Chef Brad Wise Doesn’t Want You to Be Intimidated at the Butcher Shop [Family Style S2 E5]](../knowledge/toast/toast-full-form/purchasing/chef-brad-wise-doesnt-want.md)
 
 ## Social (4 entries)
 
-### Long-Form In-Depth Intelligence
-
-- **Long-Form Serial 13**: [Numbers / Calculations](../knowledge/owner/owner-full-form/social/7-instagram-tools-for-restaurants.md) `[instagram, food-photography, geotagging, social-media-strategy, local-discovery, link-in-bio]`
-
-
-- **Serial 014 (Toast)**: [Empowering Restaurants, Feeding Communities with Toast.org](../knowledge/toast/toast-short-form/social/empowering-restaurants-feeding-communities-toastorg.md) `[restaurant-culture, hospitality-branding, community-engagement]`
-- **Serial 025 (Toast)**: [Are you team #icedcoffee or team #coldbrew … or still trying to figure out the difference?](../knowledge/toast/toast-short-form/social/are-you-team-team-still.md) `[restaurant-culture, hospitality-branding, community-engagement]`
-- **Serial 048 (Toast)**: [Toast Partners with Tyler Florence to Launch the New Toast Changemakers Program](../knowledge/toast/toast-short-form/social/toast-partners-tyler-florence-launch.md) `[restaurant-culture, hospitality-branding, community-engagement]`
-
-## Food Cost (2 entries)
-
-- **Serial 011 (Toast)**: [Small changes can mean big improvements for your margins #toasttab](../knowledge/toast/toast-short-form/food-cost/small-portion-changes-big-margin-improvements.md) `[portion-control, food-cost, margin-engineering, recipe-costing]`
-- **Serial 016 (Toast)**: [Friends don't let friends eat unwashed rice.](../knowledge/toast/toast-short-form/food-cost/friends-dont-let-friends-eat.md) `[food-cost, ingredient-cost, kitchen-efficiency, margins]`
-
-## Inventory (1 entries)
-
-- **Serial 066 (Toast)**: [Understanding PAR Levels for Restaurant Inventory Management](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md) `[inventory-management, par-levels, waste-reduction, ordering-systems]`
+- **Serial 013 (Owner Video)**: [Key Information](../knowledge/owner/owner-full-form/social/7-instagram-tools-for-restaurants.md) `[instagram, food-photography, geotagging, social-media-strategy, local-discovery, link-in-bio]`
+- **Serial 014 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/social/empowering-restaurants-feeding-communities-toastorg.md) `[restaurant-culture, hospitality-branding, community-engagement]`
+- **Serial 025 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/social/are-you-team-team-still.md) `[restaurant-culture, hospitality-branding, community-engagement]`
+- **Serial 048 (Toast Short)**: [Key Information](../knowledge/toast/toast-short-form/social/toast-partners-tyler-florence-launch.md) `[restaurant-culture, hospitality-branding, community-engagement]`

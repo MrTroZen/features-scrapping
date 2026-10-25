@@ -111,3 +111,17 @@ Audit trail of ingested content channels and processing runs for Qavyo Restauran
 - **Ingestion Status:** 100% complete
 - **Processed Batches:**
   - Batch 1 (Serials 001–129): 129 research entries across 12 categories under `knowledge/toast/toast-short-form/`
+
+## 4. Toast, Inc. YouTube Long-Form Video Collection
+
+- **Source Channel:** [@Toasttab](https://www.youtube.com/@Toasttab/videos)
+- **Tracking Registry:** [`sources/youtube-lists/toast-videos.csv`](../sources/youtube-lists/toast-videos.csv)
+- **Total Cataloged Videos:** 370
+- **Total Substantive Dossiers Ingested:** 314 across 14 categories in `knowledge/toast/toast-full-form/`
+- **Total Triaged / Skipped:** 56 per AGENTS.md Rule 8
+  - 19 Corporate PR / Charity / Volunteer campaigns
+  - 3 Commercial TV cutdowns (15s/30s ad cutdowns)
+  - 19 Short promotional snippets and marketing slogans (<= 45s)
+  - 15 Generic hardware assembly and cabling manuals
+- **Quality Check Status:** 100% Pass (314/314 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete

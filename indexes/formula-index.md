@@ -532,3 +532,18 @@ Formulas, mathematical methods, and calculations for restaurant economics, prici
 
 - **[Turn tables faster | Seamless Checkout](../knowledge/toast/toast-short-form/operations/turning-tables-faster-with-seamless-checkout.md)** (Serial 083)
   - Table Turn Dwell Time: Tableside mobile checkout shaves 7 to 10 minutes off average settlement dwell time (reducing payment cycle from 8-12 min down to <2 min).
+
+## Delivery Economics (Toast Long-Form)
+
+- **[Trapper's Sushi Commission Savings](../knowledge/toast/toast-full-form/delivery/trappers-sushi-25k-commission-savings-direct-ordering.md)** (Serial 007)
+  - Direct Channel Savings: $\text{Commission Savings} = \text{Gross Marketplace Sales} \times 0.25 - \text{Flat Direct Dispatch Fees}$.
+
+## Finance & Prime Cost (Toast Long-Form)
+
+- **[Snappy Patty's Profitability and Labor Control](../knowledge/toast/toast-full-form/finance/snappy-pattys-profitability-and-labor-control.md)** (Serial 001)
+  - Prime Cost Threshold: $\text{Prime Cost} = \text{COGS} + \text{Total Labor} \le 55\% \text{ to } 60\% \text{ of Gross Revenue}$.
+
+## Inventory & Stock Control (Toast Long-Form)
+
+- **[Understanding PAR Levels for Restaurant Inventory Management](../knowledge/toast/toast-short-form/inventory/understanding-par-levels-for-inventory-management.md)** (Serial 066)
+  - Dynamic PAR Level: $\text{PAR} = (\text{Average Daily Usage} \times \text{Lead Time Days}) + \text{Safety Buffer Stock}$.
